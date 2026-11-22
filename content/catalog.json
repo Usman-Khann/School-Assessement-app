@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": "202611221631",
- "generatedAt": "2026-11-22T16:31:48+00:00",
+ "version": "202611221636",
+ "generatedAt": "2026-11-22T16:36:17+00:00",
  "note": "Maths and Science: chapters, topics, page numbers and MCQs from eLearn Punjab (elearn.gov.pk, PITB/PCTB), reviewed and corrected. Urdu and English: official PECTAA textbooks (pectaa.edu.pk); MCQs written from each lesson. Page numbers are page positions in the book file. Not yet checked by a teacher.",
  "books": [
   {
@@ -17266,6 +17266,183 @@
      "title": "Citizenship",
      "pageStart": 121,
      "pageEnd": 128,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "pe-g6_urdu",
+   "key": "g6_urdu",
+   "grade": 6,
+   "subject": "Urdu",
+   "title": "اردو 6 (PECTAA)",
+   "language": "ur",
+   "publisher": "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+   "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+   "pdf": "books/g6_urdu.pdf",
+   "pdfBytes": 15117097,
+   "pages": 141,
+   "pack": "packs/g6_urdu.json",
+   "questionCount": 64,
+   "chapters": [
+    {
+     "id": "pe-g6_urdu-c1",
+     "number": 1,
+     "title": "حمد (نظم)",
+     "pageStart": 6,
+     "pageEnd": 11,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c2",
+     "number": 2,
+     "title": "نعت (نظم)",
+     "pageStart": 12,
+     "pageEnd": 16,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c3",
+     "number": 3,
+     "title": "اُسوۂ حسنہ اور رواداری",
+     "pageStart": 17,
+     "pageEnd": 24,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c4",
+     "number": 4,
+     "title": "محنت میں عظمت",
+     "pageStart": 25,
+     "pageEnd": 31,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c5",
+     "number": 5,
+     "title": "چڑیا کی نصیحت",
+     "pageStart": 32,
+     "pageEnd": 38,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c6",
+     "number": 6,
+     "title": "چاند میری زمیں پھول میرا وطن (نظم)",
+     "pageStart": 39,
+     "pageEnd": 43,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c7",
+     "number": 7,
+     "title": "علامہ محمد اقبالؒ اور نوجوان نسل",
+     "pageStart": 44,
+     "pageEnd": 50,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c8",
+     "number": 8,
+     "title": "ذرا فون کر لوں؟",
+     "pageStart": 51,
+     "pageEnd": 58,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c9",
+     "number": 9,
+     "title": "یومِ دفاعِ پاکستان",
+     "pageStart": 59,
+     "pageEnd": 65,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c10",
+     "number": 10,
+     "title": "اتفاق اور نااتفاقی (نظم)",
+     "pageStart": 66,
+     "pageEnd": 70,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c11",
+     "number": 11,
+     "title": "ہمارا ماحول اور آلودگی",
+     "pageStart": 71,
+     "pageEnd": 77,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c12",
+     "number": 12,
+     "title": "وطن کا بہادر سپوت",
+     "pageStart": 78,
+     "pageEnd": 83,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c13",
+     "number": 13,
+     "title": "بادل کا گیت (نظم)",
+     "pageStart": 84,
+     "pageEnd": 91,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c14",
+     "number": 14,
+     "title": "حفظانِ صحت",
+     "pageStart": 92,
+     "pageEnd": 99,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c15",
+     "number": 15,
+     "title": "اپنی حفاظت کریں!",
+     "pageStart": 100,
+     "pageEnd": 105,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c16",
+     "number": 16,
+     "title": "مادرِ ملت محترمہ فاطمہ جناحؒ",
+     "pageStart": 106,
+     "pageEnd": 111,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c17",
+     "number": 17,
+     "title": "مری کی سیر",
+     "pageStart": 112,
+     "pageEnd": 117,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c18",
+     "number": 18,
+     "title": "پرانی موٹر (نظم)",
+     "pageStart": 118,
+     "pageEnd": 123,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c19",
+     "number": 19,
+     "title": "زراعت اور صنعت",
+     "pageStart": 124,
+     "pageEnd": 130,
+     "topics": []
+    },
+    {
+     "id": "pe-g6_urdu-c20",
+     "number": 20,
+     "title": "اچھے انسان (نظم)",
+     "pageStart": 131,
+     "pageEnd": 141,
      "topics": []
     }
    ]
