@@ -1,8 +1,8 @@
 {
  "format": 1,
- "version": "202611220851",
- "generatedAt": "2026-11-22T08:51:46+00:00",
- "note": "Chapters, topics, page numbers and MCQs collected from eLearn Punjab (elearn.gov.pk), the official PITB/PCTB e-learning site. Page numbers are page positions in the book file. MCQs are the site's own topic quizzes; they have not been checked by a teacher.",
+ "version": "202611221535",
+ "generatedAt": "2026-11-22T15:35:58+00:00",
+ "note": "Maths and Science: chapters, topics, page numbers and MCQs from eLearn Punjab (elearn.gov.pk, PITB/PCTB), reviewed and corrected. Urdu and English: official PECTAA textbooks (pectaa.edu.pk); MCQs written from each lesson. Page numbers are page positions in the book file. Not yet checked by a teacher.",
  "books": [
   {
    "id": "el-b1",
@@ -16115,6 +16115,626 @@
        "page": 129
       }
      ]
+    }
+   ]
+  },
+  {
+   "id": "pe-g3_english",
+   "key": "g3_english",
+   "grade": 3,
+   "subject": "English",
+   "title": "English 3 (PECTAA, SNC 2020)",
+   "language": "en",
+   "publisher": "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+   "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+   "pdf": "books/g3_english.pdf",
+   "pdfBytes": 17846792,
+   "pages": 132,
+   "pack": "packs/g3_english.json",
+   "questionCount": 125,
+   "chapters": [
+    {
+     "id": "pe-g3_english-c1",
+     "number": 1,
+     "title": "All are Welcome",
+     "pageStart": 6,
+     "pageEnd": 16,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c2",
+     "number": 2,
+     "title": "Gifts of Nature",
+     "pageStart": 17,
+     "pageEnd": 26,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c3",
+     "number": 3,
+     "title": "The People I Love",
+     "pageStart": 27,
+     "pageEnd": 37,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c4",
+     "number": 4,
+     "title": "Kindness to Children",
+     "pageStart": 38,
+     "pageEnd": 51,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c5",
+     "number": 5,
+     "title": "Road Safety",
+     "pageStart": 52,
+     "pageEnd": 61,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c6",
+     "number": 6,
+     "title": "The Day of Silence",
+     "pageStart": 62,
+     "pageEnd": 72,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c7",
+     "number": 7,
+     "title": "I Like to Play",
+     "pageStart": 73,
+     "pageEnd": 83,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c8",
+     "number": 8,
+     "title": "Saving Resources",
+     "pageStart": 84,
+     "pageEnd": 97,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c9",
+     "number": 9,
+     "title": "My Culture — My Pride",
+     "pageStart": 98,
+     "pageEnd": 107,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c10",
+     "number": 10,
+     "title": "Our Family Picnic",
+     "pageStart": 108,
+     "pageEnd": 116,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_english-c11",
+     "number": 11,
+     "title": "Healthy Habits",
+     "pageStart": 117,
+     "pageEnd": 132,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "pe-g3_urdu",
+   "key": "g3_urdu",
+   "grade": 3,
+   "subject": "Urdu",
+   "title": "اردو 3 (PECTAA)",
+   "language": "ur",
+   "publisher": "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+   "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+   "pdf": "books/g3_urdu.pdf",
+   "pdfBytes": 20325204,
+   "pages": 164,
+   "pack": "packs/g3_urdu.json",
+   "questionCount": 184,
+   "chapters": [
+    {
+     "id": "pe-g3_urdu-c1",
+     "number": 1,
+     "title": "حمد (نظم)",
+     "pageStart": 8,
+     "pageEnd": 14,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c2",
+     "number": 2,
+     "title": "نعت (نظم)",
+     "pageStart": 15,
+     "pageEnd": 21,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c3",
+     "number": 3,
+     "title": "بے مثل ہے ذاتِ رسولِ کریم ﷺ کی",
+     "pageStart": 22,
+     "pageEnd": 27,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c4",
+     "number": 4,
+     "title": "اگر میں نہ ہوں تو!",
+     "pageStart": 28,
+     "pageEnd": 37,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c5",
+     "number": 5,
+     "title": "سب ہیں خاص",
+     "pageStart": 38,
+     "pageEnd": 44,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c6",
+     "number": 6,
+     "title": "چالاک لومڑی اور چِٹّو مرغا",
+     "pageStart": 45,
+     "pageEnd": 46,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c7",
+     "number": 7,
+     "title": "ہم کیوں بھول جاتے ہیں؟",
+     "pageStart": 47,
+     "pageEnd": 55,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c8",
+     "number": 8,
+     "title": "شام (نظم)",
+     "pageStart": 56,
+     "pageEnd": 62,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c9",
+     "number": 9,
+     "title": "اللہ تعالیٰ کا انعام",
+     "pageStart": 63,
+     "pageEnd": 72,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c10",
+     "number": 10,
+     "title": "جس کا خواب تھا دل کش",
+     "pageStart": 73,
+     "pageEnd": 79,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c11",
+     "number": 11,
+     "title": "چار انوکھے دوست",
+     "pageStart": 80,
+     "pageEnd": 87,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c12",
+     "number": 12,
+     "title": "ہم ایک ہیں",
+     "pageStart": 88,
+     "pageEnd": 89,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c13",
+     "number": 13,
+     "title": "پاک وطن ہے پاکستان (نظم)",
+     "pageStart": 90,
+     "pageEnd": 99,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c14",
+     "number": 14,
+     "title": "حضرت خدیجۃ الکبریٰ رضی اللہ تعالیٰ عنہا",
+     "pageStart": 100,
+     "pageEnd": 108,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c15",
+     "number": 15,
+     "title": "وہ کون تھا؟",
+     "pageStart": 109,
+     "pageEnd": 115,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c16",
+     "number": 16,
+     "title": "اور صلہ مل گیا",
+     "pageStart": 116,
+     "pageEnd": 122,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c17",
+     "number": 17,
+     "title": "ہم نے دیکھا ایک روبوٹ (نظم)",
+     "pageStart": 123,
+     "pageEnd": 128,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c18",
+     "number": 18,
+     "title": "ملکۂ کوہسار کی سیر",
+     "pageStart": 129,
+     "pageEnd": 138,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c19",
+     "number": 19,
+     "title": "دل دل پاکستان",
+     "pageStart": 139,
+     "pageEnd": 145,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c20",
+     "number": 20,
+     "title": "قائدِ اعظم رحمۃ اللہ علیہ (نظم)",
+     "pageStart": 146,
+     "pageEnd": 151,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c21",
+     "number": 21,
+     "title": "قدرتی آفات",
+     "pageStart": 152,
+     "pageEnd": 153,
+     "topics": []
+    },
+    {
+     "id": "pe-g3_urdu-c22",
+     "number": 22,
+     "title": "بچے کی دعا (نظم)",
+     "pageStart": 154,
+     "pageEnd": 164,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "pe-g4_english",
+   "key": "g4_english",
+   "grade": 4,
+   "subject": "English",
+   "title": "English 4 (PECTAA, SNC 2020)",
+   "language": "en",
+   "publisher": "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+   "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+   "pdf": "books/g4_english.pdf",
+   "pdfBytes": 21221654,
+   "pages": 144,
+   "pack": "packs/g4_english.json",
+   "questionCount": 144,
+   "chapters": [
+    {
+     "id": "pe-g4_english-c1",
+     "number": 1,
+     "title": "Great Caliphs of Islam",
+     "pageStart": 6,
+     "pageEnd": 17,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c2",
+     "number": 2,
+     "title": "Beauty of Nature",
+     "pageStart": 18,
+     "pageEnd": 26,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c3",
+     "number": 3,
+     "title": "The Journey of Chocolate",
+     "pageStart": 27,
+     "pageEnd": 38,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c4",
+     "number": 4,
+     "title": "The Pride of Pakistan",
+     "pageStart": 39,
+     "pageEnd": 49,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c5",
+     "number": 5,
+     "title": "Thank You, Lord",
+     "pageStart": 50,
+     "pageEnd": 59,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c6",
+     "number": 6,
+     "title": "Valuing Others",
+     "pageStart": 60,
+     "pageEnd": 71,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c7",
+     "number": 7,
+     "title": "Colours of Pakistan",
+     "pageStart": 72,
+     "pageEnd": 82,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c8",
+     "number": 8,
+     "title": "Good Study Habits",
+     "pageStart": 83,
+     "pageEnd": 91,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c9",
+     "number": 9,
+     "title": "Manners",
+     "pageStart": 92,
+     "pageEnd": 102,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c10",
+     "number": 10,
+     "title": "Be Aware, Be Safe",
+     "pageStart": 103,
+     "pageEnd": 111,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c11",
+     "number": 11,
+     "title": "The Fox and the Stork",
+     "pageStart": 112,
+     "pageEnd": 120,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c12",
+     "number": 12,
+     "title": "Time to Think!",
+     "pageStart": 121,
+     "pageEnd": 131,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_english-c13",
+     "number": 13,
+     "title": "Little Things",
+     "pageStart": 132,
+     "pageEnd": 144,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "pe-g4_urdu",
+   "key": "g4_urdu",
+   "grade": 4,
+   "subject": "Urdu",
+   "title": "اردو 4 (PECTAA)",
+   "language": "ur",
+   "publisher": "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+   "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+   "pdf": "books/g4_urdu.pdf",
+   "pdfBytes": 16131425,
+   "pages": 158,
+   "pack": "packs/g4_urdu.json",
+   "questionCount": 145,
+   "chapters": [
+    {
+     "id": "pe-g4_urdu-c1",
+     "number": 1,
+     "title": "حمد (نظم)",
+     "pageStart": 9,
+     "pageEnd": 14,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c2",
+     "number": 2,
+     "title": "نعت (نظم)",
+     "pageStart": 15,
+     "pageEnd": 19,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c3",
+     "number": 3,
+     "title": "مثالی معلم",
+     "pageStart": 20,
+     "pageEnd": 27,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c4",
+     "number": 4,
+     "title": "ہم بنیں گے اچھے شہری",
+     "pageStart": 28,
+     "pageEnd": 36,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c5",
+     "number": 5,
+     "title": "ننھا ہاتھی",
+     "pageStart": 37,
+     "pageEnd": 39,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c6",
+     "number": 6,
+     "title": "صحت و صفائی",
+     "pageStart": 40,
+     "pageEnd": 46,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c7",
+     "number": 7,
+     "title": "ہم پاکستانی بچے ہیں (نظم)",
+     "pageStart": 47,
+     "pageEnd": 53,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c8",
+     "number": 8,
+     "title": "گل دستہ",
+     "pageStart": 54,
+     "pageEnd": 56,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c9",
+     "number": 9,
+     "title": "آتے ہیں جو کام دوسروں کے",
+     "pageStart": 57,
+     "pageEnd": 63,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c10",
+     "number": 10,
+     "title": "ایک پہاڑ اور گلہری (نظم)",
+     "pageStart": 64,
+     "pageEnd": 71,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c11",
+     "number": 11,
+     "title": "نیا کمپیوٹر",
+     "pageStart": 72,
+     "pageEnd": 79,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c12",
+     "number": 12,
+     "title": "میں کیا بنوں گا (نظم)",
+     "pageStart": 80,
+     "pageEnd": 85,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c13",
+     "number": 13,
+     "title": "زیبا کے پڑوسی",
+     "pageStart": 86,
+     "pageEnd": 92,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c14",
+     "number": 14,
+     "title": "جب ہر چیز سونے کی بن گئی",
+     "pageStart": 93,
+     "pageEnd": 102,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c15",
+     "number": 15,
+     "title": "صبح کی آمد (نظم)",
+     "pageStart": 103,
+     "pageEnd": 108,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c16",
+     "number": 16,
+     "title": "حضرت سیدہ فاطمۃ الزہرا رضی اللہ تعالیٰ عنہا",
+     "pageStart": 109,
+     "pageEnd": 114,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c17",
+     "number": 17,
+     "title": "گرمی (نظم)",
+     "pageStart": 115,
+     "pageEnd": 120,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c18",
+     "number": 18,
+     "title": "باتیں دانائی کی",
+     "pageStart": 121,
+     "pageEnd": 129,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c19",
+     "number": 19,
+     "title": "رائے کا احترام",
+     "pageStart": 130,
+     "pageEnd": 136,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c20",
+     "number": 20,
+     "title": "دیانت داری",
+     "pageStart": 137,
+     "pageEnd": 138,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c21",
+     "number": 21,
+     "title": "یہ بات سمجھ میں آئی نہیں (نظم)",
+     "pageStart": 139,
+     "pageEnd": 144,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c22",
+     "number": 22,
+     "title": "شان دار فیصلے",
+     "pageStart": 145,
+     "pageEnd": 147,
+     "topics": []
+    },
+    {
+     "id": "pe-g4_urdu-c23",
+     "number": 23,
+     "title": "تاریخی عمارتیں",
+     "pageStart": 148,
+     "pageEnd": 158,
+     "topics": []
     }
    ]
   }
