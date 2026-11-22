@@ -1,0 +1,29 @@
+skip g10 Chemistry ch9: duplicate options: which statement is correct?
+skip g10 Chemistry ch9: duplicate options: Correct the statement
+skip g9 Mathematics ch5: duplicate options: Factors of 27 x³ + 64 y³ are ____________.
+skip g9 Mathematics ch9: duplicate options: Distance between points (0, 0) and (3, 3) is
+skip g9 Physics ch6: duplicate options: Formula for efficiency is
+skip g8 General Science ch2: answer 'Deoxyribo nucleic Acid' not matched to one option: DNA stands for?
+skip g6 Mathematics ch8: answer '' not matched to one option: This expression [x-y] is called____________.
+skip g6 Mathematics ch8: duplicate options: If a=9 b=1 c=4 then a+b+c=___________. 14
+skip g6 Mathematics ch8: duplicate options: If a=9 b=1 c=4 then a+b+c=___________. 14
+skip g6 Mathematics ch9: empty option: A number or variable can be transferred from one side to other by chan
+skip g9 General Mathematics ch1: duplicate options: Fraction form of 70% is:
+skip g9 General Mathematics ch1: duplicate options: Fraction form of 70% is:
+skip g9 General Mathematics ch3: answer '<math><mfenced><mfrac><mrow><mn>100</mn><mo>+</mo><mi>P</mi><mi>r</mi><mi>o</mi><mi>f</mi><mi>i</mi><mi>t</mi><mo>%</mo></mrow><mn>100</mn></mfrac></mfenced><mo>&#xD7;</mo><mi>C</mi><mi>P</mi' not matched to one option: SP =? Where SP>CP
+skip g9 General Mathematics ch3: answer '<math><mfrac><mrow><mn>100</mn><mo>&#xD7;</mo><mi>S</mi><mi>P</mi></mrow><mrow><mn>100</mn><mo>+</mo><mi>p</mi><mi>r</mi><mi>o</mi><mi>f</mi><mi>i</mi><mi>t</mi><mo>%</mo></mrow></mfrac></mat' not matched to one option: CP =?
+skip g9 General Mathematics ch3: answer '<math><mfenced><mfrac><mrow><mn>100</mn><mo>+</mo><mi>P</mi><mi>r</mi><mi>o</mi><mi>f</mi><mi>i</mi><mi>t</mi><mo>%</mo></mrow><mn>100</mn></mfrac></mfenced><mo>&#xD7;</mo><mi>C</mi><mi>P</mi' not matched to one option: SP =? Where SP>CP
+skip g9 General Mathematics ch3: answer '<math><mfrac><mrow><mn>100</mn><mo>&#xD7;</mo><mi>S</mi><mi>P</mi></mrow><mrow><mn>100</mn><mo>+</mo><mi>p</mi><mi>r</mi><mi>o</mi><mi>f</mi><mi>i</mi><mi>t</mi><mo>%</mo></mrow></mfrac></mat' not matched to one option: CP =?
+skip g9 General Mathematics ch9: duplicate options: f(x)= x/2, 4 ≤ x ≤ 12, x is a multiple of "2". The range of f(x) is
+skip g9 General Mathematics ch10: maths markup could not be converted: <math><menclose is called notation="top"><mi>X</mi></menclose><mo>=</m
+skip g9 General Mathematics ch10: maths markup could not be converted: <math><mi>H</mi><mo>=</mo><mfrac><mi>n</mi><mrow><mo>∑</mo><mo>(</mo><
+skip g9 General Mathematics ch10: maths markup could not be converted: <math><msub><menclose is called notation="top"><mi>X</mi></menclose><m
+skip g9 General Mathematics ch10: maths markup could not be converted: <math><menclose is called notation="top"><mi>X</mi></menclose><mo>=</m
+skip g9 General Mathematics ch10: maths markup could not be converted: <math><mi>H</mi><mo>=</mo><mfrac><mi>n</mi><mrow><mo>∑</mo><mo>(</mo><
+skip g9 General Mathematics ch10: maths markup could not be converted: <math><msub><menclose is called notation="top"><mi>X</mi></menclose><m
+skip g10 General Mathematics ch2: answer '<math><mfenced><mrow><mi>x</mi><mo>-</mo><mi>y</mi></mrow></mfenced><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#xA0;</mo><mo>+</mo><mi>x</mi><mi>y</mi><mo>&#xA0;</mo><mo>+</mo><mo>&' not matched to one option: Factorization of x ³ - y ³ is =
+skip g10 General Mathematics ch2: answer '<math><mfenced><mrow><mi>a</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>a</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn' not matched to one option: Factorization of a ⁴ - 1 is =
+skip g10 General Mathematics ch3: maths markup could not be converted: H.C.F OF 12pq, 8p²q is:
+skip g10 General Mathematics ch5: answer '(x - 2)(x+ 2)(x<sup>2<sup> + 4)' not matched to one option: Factorization of x⁴ - 16 is:
+skip g10 General Mathematics ch5: answer '(x - 2)(x+ 2)(x<sup>2<sup> + 4)' not matched to one option: Factorization of x⁴ - 16 is:
+skip book 3 (SNC) واقفیت عامہ   : unknown subject

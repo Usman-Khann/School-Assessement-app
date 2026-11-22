@@ -1,0 +1,1465 @@
+{
+ "52cba93b": {
+  "text": "Place value of 2 in 2,750 is",
+  "correctIndex": 2,
+  "note": "official text had 2.750 and answer '2 ten thousands'; 2 in 2,750 is 2 thousands"
+ },
+ "2586db33": {
+  "text": "1886 is ______ less than 3246",
+  "note": "official wording was reversed (3246 less than 1886)"
+ },
+ "fd529d8d": {
+  "correctIndex": 0,
+  "note": "4/5 = 12/15 > 7/15; official answer was <"
+ },
+ "aa4def94": {
+  "correctIndex": 1,
+  "note": "3/15 + 4/15 = 7/15; official answer was 7/30"
+ },
+ "f04642d3": {
+  "correctIndex": 1,
+  "note": "6, 18, 30, 42 goes up by 12, so next is 54; official answer was 56"
+ },
+ "ce1b0c0c": {
+  "text": "______ is an improper fraction",
+  "options": [
+   "5 / 4",
+   "1 / 2",
+   "3 / 5",
+   "4 / 7"
+  ],
+  "correctIndex": 0,
+  "note": "official option '3×5/9' was garbled; 5/4 is the improper fraction"
+ },
+ "9b2c6520": {
+  "drop": "7/4 - 2/6 = 17/12 is not among the options; question garbled"
+ },
+ "5e9b9bc0": {
+  "correctIndex": 3,
+  "note": "area covered by a closed figure is its area; official answer was perimeter"
+ },
+ "2b5abc29": {
+  "text": "There are _______ grams in one kilogram",
+  "note": "word 'grams' missing in official text"
+ },
+ "ed2bb057": {
+  "correctIndex": 0,
+  "note": "mask, hand washing and vaccination prevent contagious disease; official answer included 'sitting in the sun'"
+ },
+ "c991aec4": {
+  "correctIndex": 1,
+  "note": "steel spoon gets hot, so metal is the better conductor; official answer said wood"
+ },
+ "05c45167": {
+  "correctIndex": 2,
+  "note": "water is not a form of energy; official answer was heat"
+ },
+ "940076bc": {
+  "text": "Due to the annual revolution of the Earth and the tilt of its axis:",
+  "correctIndex": 1,
+  "note": "revolution + tilt cause seasons; official answer was shadows"
+ },
+ "3d250adc": {
+  "text": "The Earth completes its revolution around the Sun in 365 days. This period is called:",
+  "note": "rotation corrected to revolution"
+ },
+ "0d79e10f": {
+  "correctIndex": 3,
+  "note": "a cold pack reduces inflammation; official answer was medical tape"
+ },
+ "d3b786fa": {
+  "correctIndex": 0,
+  "note": "dividing by 10 removes one zero; official answer was 1000"
+ },
+ "41017872": {
+  "options": [
+   "3 / 5",
+   "11 / 15",
+   "3 / 8",
+   "2 / 15"
+  ],
+  "correctIndex": 1,
+  "note": "1/3 + 2/5 = 11/15; no official option was correct"
+ },
+ "e9a10ef6": {
+  "text": "In ________ the order of the fractions does not affect the result.",
+  "correctIndex": 3,
+  "note": "order does not matter in addition and multiplication; official answer was multiplication and division"
+ },
+ "aea05aa7": {
+  "text": "A triangle in which ______ of its sides are equal is called an isosceles triangle.",
+  "note": "blank missing in official text"
+ },
+ "1d173bbb": {
+  "correctIndex": 2,
+  "note": "sum = average × number of items; official answer used division"
+ },
+ "2f830156": {
+  "text": "What type of change is it when metal expands on heating?",
+  "note": "typo 'of eating' fixed"
+ },
+ "1b2c28d2": {
+  "correctIndex": 1,
+  "note": "making a paper boat is not a chemical change; official answer was burning of wood"
+ },
+ "0473769a": {
+  "correctIndex": 0,
+  "note": "sound travels fastest in solids (metal); official answer was air"
+ },
+ "18a46e67": {
+  "drop": "ambiguous wording and official answer wrong (sound is faster in water)"
+ },
+ "95a68863": {
+  "correctIndex": 0,
+  "note": "soil organisms make soil soft and airy; official answer said unfit for cultivation"
+ },
+ "890aba2d": {
+  "drop": "best soil for plants is loam, which is not an option"
+ },
+ "c9a786e2": {
+  "text": "We check whether a surface is horizontal by using a:",
+  "note": "wording fixed"
+ },
+ "97a3aa4b": {
+  "drop": "science question placed in the maths book"
+ },
+ "920db950": {
+  "drop": "science question placed in the maths book"
+ },
+ "7b57a70b": {
+  "drop": "ambiguous: they are different forms of the same value"
+ },
+ "88679d40": {
+  "text": "20 percent of 30 is",
+  "note": "official text said 2 percent (= 0.6); options fit 20 percent = 6"
+ },
+ "eef84f33": {
+  "drop": "no correct option (length × breadth × height is the volume of a cuboid)"
+ },
+ "d3813783": {
+  "correctIndex": 3,
+  "note": "length × breadth × height is the volume of a cuboid; official answer was cube"
+ },
+ "77583c60": {
+  "text": "If a cuboid has length 9 cm, breadth 4 cm and height 4 cm, its volume will be ____ cm³.",
+  "note": "wording fixed"
+ },
+ "7245ed0e": {
+  "text": "An ______ is made of different tissues."
+ },
+ "3c4e10b2": {
+  "text": "The food-making process in plants that produces glucose is known as"
+ },
+ "0ebce01c": {
+  "text": "Glucose + oxygen → energy: this equation shows the process of"
+ },
+ "939bb9df": {
+  "text": "About what percent of all animal species are found in tropical rainforests?"
+ },
+ "3fc8abd3": {
+  "drop": "ambiguous (atoms / particles)"
+ },
+ "e99314df": {
+  "text": "Two or more atoms can join together to form larger particles of matter called"
+ },
+ "320ef0c1": {
+  "drop": "garbled options"
+ },
+ "819d13ff": {
+  "drop": "garbled options (109%) and outdated count"
+ },
+ "721487ba": {
+  "text": "Around ______ elements are found naturally.",
+  "options": [
+   "72",
+   "92",
+   "95",
+   "100"
+  ],
+  "note": "stray % signs removed"
+ },
+ "de2bc2ee": {
+  "text": "Mercury is a liquid element and oxygen is an element in the ______ state."
+ },
+ "3d209fd1": {
+  "text": "Diamond is the ______ substance found in nature.",
+  "note": "official text called diamond a metal"
+ },
+ "955f9206": {
+  "text": "Scientists have divided the atmosphere into ______ layers."
+ },
+ "3af07c96": {
+  "text": "About 78% of the air is ______ gas."
+ },
+ "90dd8500": {
+  "drop": "garbled and conflicts with another question"
+ },
+ "62e63dea": {
+  "text": "Mountain climbers and sea divers carry ______ in cylinders for breathing."
+ },
+ "76c03f55": {
+  "text": "The amount of carbon dioxide in air is less than ______ percent."
+ },
+ "6144fc9a": {
+  "text": "The presence of ______ in air slows down the rusting of iron."
+ },
+ "7e6e4dc0": {
+  "drop": "garbled"
+ },
+ "a51c499e": {
+  "text": "Rare (noble) gases do not react with other"
+ },
+ "3a19052d": {
+  "text": "A very ______ amount of water vapour is also present in air."
+ },
+ "513c6d23": {
+  "text": "Water vapour in the air sometimes produces",
+  "correctIndex": 0,
+  "note": "water vapour forms fog; smog needs smoke"
+ },
+ "03f4f5f5": {
+  "text": "All green plants absorb ______ from the air to make food."
+ },
+ "954502f0": {
+  "text": "A solution in which water is the solvent is known as"
+ },
+ "db20bffc": {
+  "drop": "ambiguous"
+ },
+ "590ab17e": {
+  "text": "A gas has ______ shape."
+ },
+ "332a5ba4": {
+  "text": "Plants absorb ______ from the soil that are dissolved in water."
+ },
+ "55c7d7a2": {
+  "text": "Water is not just a solvent but a",
+  "options": [
+   "universal solvent",
+   "weak solvent",
+   "mixture",
+   "waste"
+  ],
+  "correctIndex": 0
+ },
+ "89b2dc7b": {
+  "drop": "needs the solubility table from the book"
+ },
+ "950d54ad": {
+  "drop": "needs the solubility table from the book"
+ },
+ "4ce0e66b": {
+  "drop": "needs the solubility table from the book"
+ },
+ "4eeef9f5": {
+  "text": "A wheel with a groove in its edge through which a cord is passed is called a"
+ },
+ "f6d3691b": {
+  "text": "In a wheel and axle, the wheel has a ______ diameter than the axle."
+ },
+ "5ec5edc0": {
+  "text": "A movable pulley does not change the direction of the"
+ },
+ "b0d9996b": {
+  "text": "A wind-up clock consists of ______ gears."
+ },
+ "5db52753": {
+  "text": "A gear system can be used to ______ force."
+ },
+ "5d98e7be": {
+  "drop": "garbled"
+ },
+ "d2a2a24f": {
+  "text": "Objects that give out their own light are known as",
+  "note": "official text said 'obtain light'"
+ },
+ "e2eaf7c0": {
+  "text": "Light can pass through ______ materials."
+ },
+ "d3fe9053": {
+  "text": "The cochlea is a ______-shaped organ."
+ },
+ "ffa0a63b": {
+  "text": "We raise and lower objects by using a"
+ },
+ "65cce8a1": {
+  "drop": "refers to a missing sentence ('this fact')"
+ },
+ "db3b0351": {
+  "text": "Dolphins and whales use ______ to send messages to each other."
+ },
+ "6fc03335": {
+  "text": "More energy produces a ______ sound."
+ },
+ "abbe5574": {
+  "text": "Energy must be ______ to an object to produce sound."
+ },
+ "69de5e56": {
+  "text": "Sound energy ______ as it travels from one place to another.",
+  "options": [
+   "is lost",
+   "is gained",
+   "increases",
+   "stays the same"
+  ],
+  "correctIndex": 0
+ },
+ "4642c8ba": {
+  "text": "The speed of sound in air is about ______ metres per second.",
+  "options": [
+   "350",
+   "1500",
+   "6000",
+   "7000"
+  ],
+  "correctIndex": 0,
+  "note": "stray % signs removed"
+ },
+ "ef6342a6": {
+  "text": "The speed of sound in water is about ______ metres per second.",
+  "options": [
+   "400",
+   "350",
+   "1500",
+   "7000"
+  ],
+  "correctIndex": 2,
+  "note": "stray % signs removed"
+ },
+ "c1088fe7": {
+  "text": "The speed of sound in steel is about ______ metres per second.",
+  "options": [
+   "3000",
+   "4000",
+   "5000",
+   "6000"
+  ],
+  "correctIndex": 3,
+  "note": "stray % signs removed"
+ },
+ "8b3b49a9": {
+  "drop": "unit missing"
+ },
+ "cc7d0909": {
+  "drop": "garbled"
+ },
+ "2457dfdb": {
+  "drop": "garbled"
+ },
+ "120c2099": {
+  "text": "Most asteroids complete one orbit around the Sun in about ______ years."
+ },
+ "35855d30": {
+  "text": "A large ball of ice and dust that orbits the Sun is a",
+  "note": "comets are ice and dust, not air"
+ },
+ "60c5dd9e": {
+  "drop": "garbled"
+ },
+ "ac96f609": {
+  "text": "A screwdriver is an example of a"
+ },
+ "ae033e55": {
+  "options": [
+   "subset",
+   "Empty set",
+   "Correspondence set",
+   "universal set"
+  ],
+  "correctIndex": 1,
+  "note": "'null set' was also an option and means the same as empty set"
+ },
+ "f35ad66f": {
+  "drop": "contradictory: overlapping sets always share elements"
+ },
+ "24c91fde": {
+  "options": [
+   "20/57",
+   "-5/57",
+   "22/57",
+   "4/27"
+  ],
+  "correctIndex": 0,
+  "note": "options were garbled by a spreadsheet; 8/19 + (-4/57) = 20/57"
+ },
+ "1c622694": {
+  "options": [
+   "7/-18",
+   "-4/9",
+   "2/-3",
+   "5/-12"
+  ],
+  "correctIndex": 0,
+  "note": "options were garbled by a spreadsheet"
+ },
+ "09b3631f": {
+  "text": "Taking the square root of a number is the same as raising it to the power"
+ },
+ "49944333": {
+  "drop": "ambiguous (an equilateral triangle is usually constructed from its side)"
+ },
+ "aa2e48d8": {
+  "text": "In an isosceles triangle, the angles opposite the congruent sides are also"
+ },
+ "716c2535": {
+  "drop": "depends on a figure in the book"
+ },
+ "42ea96a1": {
+  "drop": "unclear wording"
+ },
+ "1c16fafd": {
+  "drop": "options are causes of diarrhoea, not prevention"
+ },
+ "f63db67c": {
+  "text": "Which of these is NOT a symptom of diabetes?"
+ },
+ "c9cd271b": {
+  "drop": "ambiguous"
+ },
+ "de78e8bc": {
+  "drop": "ambiguous (floods and earthquakes also change populations)"
+ },
+ "fa45bf6e": {
+  "drop": "wrong: oceans cover about 71% of the Earth's surface, not 97%"
+ },
+ "c372bb45": {
+  "drop": "garbled"
+ },
+ "bb4750b6": {
+  "drop": "unclear statistic"
+ },
+ "c13385cc": {
+  "text": "______ is used to study the circulation of blood."
+ },
+ "0200dcaa": {
+  "text": "______ is the capacity of an atom to combine with other atoms."
+ },
+ "fa901872": {
+  "text": "Protons carry ______ electrical charge."
+ },
+ "c180de03": {
+  "text": "Electrons first occupy the ______ shell, nearest the nucleus."
+ },
+ "4ade7961": {
+  "text": "______ is used in cancer treatment."
+ },
+ "f37d1113": {
+  "text": "When an atom gains electrons it becomes ______ charged."
+ },
+ "2056edd3": {
+  "drop": "two options are correct (reversible and temporary)"
+ },
+ "bd0b239c": {
+  "drop": "ambiguous (boiling also forms bubbles)"
+ },
+ "c9ec738d": {
+  "drop": "opinion, not a fact"
+ },
+ "e55c23d0": {
+  "drop": "two options correct (nutrients, minerals)"
+ },
+ "6a6aeffe": {
+  "drop": "unclear"
+ },
+ "d75d49c1": {
+  "drop": "garbled"
+ },
+ "73aacb45": {
+  "drop": "ambiguous order"
+ },
+ "c90aa88a": {
+  "drop": "two options say the same thing"
+ },
+ "963e2063": {
+  "drop": "ambiguous (atoms / molecules)"
+ },
+ "6aa4c924": {
+  "drop": "woollen cloth is also a poor conductor"
+ },
+ "bfb3ded7": {
+  "drop": "garbled"
+ },
+ "18f76a07": {
+  "drop": "garbled"
+ },
+ "44625fef": {
+  "drop": "garbled"
+ },
+ "2525a090": {
+  "text": "The incident ray, the reflected ray and the normal lie in the same plane. This is a law of",
+  "correctIndex": 0,
+  "note": "this is a law of reflection; official answer was refraction"
+ },
+ "813a6d9b": {
+  "text": "If light enters glass at an angle of 42° or greater, the light will"
+ },
+ "3185e77c": {
+  "drop": "ambiguous (dispersion / spectrum)"
+ },
+ "dbfd56b9": {
+  "drop": "ambiguous (dispersion / spectrum)"
+ },
+ "b83beca0": {
+  "text": "Violet light bends ______ when white light passes through a prism.",
+  "correctIndex": 1,
+  "note": "violet bends the most; official answer was least"
+ },
+ "f2d987bf": {
+  "correctIndex": 0,
+  "note": "red bends the least; official answer was most"
+ },
+ "6ded0a74": {
+  "drop": "garbled"
+ },
+ "6f481b08": {
+  "text": "Sound travels fastest in",
+  "correctIndex": 2,
+  "note": "sound is fastest in solids; official answer was 'all of above'"
+ },
+ "49ff9a5e": {
+  "drop": "ambiguous"
+ },
+ "265d3d89": {
+  "correctIndex": 1,
+  "note": "conventional current flows opposite to electrons; official answer was conventional"
+ },
+ "7e3bff19": {
+  "drop": "garbled"
+ },
+ "4bc1cc87": {
+  "drop": "ambiguous"
+ },
+ "3c67a95d": {
+  "text": "Resistance opposes the flow of ______ in an electric circuit.",
+  "options": [
+   "current",
+   "voltage",
+   "light",
+   "heat"
+  ],
+  "correctIndex": 0,
+  "note": "official answer was light"
+ },
+ "330dba0d": {
+  "drop": "unclear"
+ },
+ "8c8bae5f": {
+  "drop": "doubtful"
+ },
+ "386ed0fb": {
+  "drop": "P(A) is the power set, not the notation for a set"
+ },
+ "19d41577": {
+  "correctIndex": 2,
+  "note": "{2, 9, 5, 2} has 3 distinct elements, so 2³ = 8 subsets; official answer was 16"
+ },
+ "dcb48705": {
+  "text": "If Z = {integers} and W = {whole numbers}, then Z ∪ W is the set of"
+ },
+ "59c20e61": {
+  "drop": "a terminating decimal is rational; no correct option"
+ },
+ "0a237b67": {
+  "drop": "two options correct (digits, Arabic numerals)"
+ },
+ "f0e2c99d": {
+  "drop": "tax slab from an old budget"
+ },
+ "380feae2": {
+  "text": "A literal in an algebraic expression is also known as a",
+  "correctIndex": 3,
+  "note": "a literal is a variable; official answer was coefficient"
+ },
+ "ea85ab38": {
+  "drop": "garbled"
+ },
+ "c769db0d": {
+  "drop": "unclear"
+ },
+ "de40c415": {
+  "drop": "wrong: an expression has no sides (an equation does)"
+ },
+ "69496214": {
+  "correctIndex": 2,
+  "note": "elimination is by substitution or by equating coefficients"
+ },
+ "48f40d0c": {
+  "drop": "refers to the book's own method count"
+ },
+ "17a6f80e": {
+  "drop": "garbled options"
+ },
+ "e2975722": {
+  "drop": "garbled options"
+ },
+ "4ab5468a": {
+  "drop": "unclear"
+ },
+ "3fac2ee3": {
+  "text": "A straight line joining two opposite corners of a square is called a"
+ },
+ "ab793101": {
+  "text": "The length of a diagonal of a square is ______ the length of its side."
+ },
+ "9b05abe2": {
+  "text": "Each interior angle of a regular hexagon is equal to"
+ },
+ "71d67195": {
+  "text": "Pythagoras theorem: (Hypotenuse)² = (Altitude)² + ______",
+  "options": [
+   "(Base)²",
+   "centre",
+   "vertex",
+   "radius"
+  ],
+  "correctIndex": 0
+ },
+ "aeac1a91": {
+  "drop": "unclear"
+ },
+ "e0371dad": {
+  "options": [
+   "Pythagoras",
+   "Archimedes",
+   "Euclid",
+   "Andrew Wiles"
+  ],
+  "correctIndex": 1
+ },
+ "59d35183": {
+  "drop": "official answer 'assumption'; such statements are axioms/postulates"
+ },
+ "b1381457": {
+  "drop": "depends on the book's own classification"
+ },
+ "8d37359f": {
+  "drop": "unclear"
+ },
+ "ab71b701": {
+  "drop": "garbled options"
+ },
+ "05703d15": {
+  "drop": "misleading"
+ },
+ "c09338cf": {
+  "drop": "doubtful figure"
+ },
+ "7b4dd300": {
+  "text": "What controls the glucose level in the blood?"
+ },
+ "3dbca332": {
+  "options": [
+   "Hydrogen dioxide",
+   "Carbon dioxide",
+   "CFC",
+   "Sulphur dioxide"
+  ],
+  "correctIndex": 1
+ },
+ "21880db4": {
+  "options": [
+   "Chlorofluorocarbons (CFCs)",
+   "Nitrogen",
+   "Oxygen",
+   "Nitrogen oxide"
+  ],
+  "correctIndex": 0
+ },
+ "924c4829": {
+  "drop": "ambiguous (smog / acid rain)"
+ },
+ "b6736348": {
+  "drop": "two options correct"
+ },
+ "0ffd4a2f": {
+  "drop": "unclear statistic"
+ },
+ "b7d74d4a": {
+  "drop": "depends on the book's classification"
+ },
+ "00657097": {
+  "drop": "unclear"
+ },
+ "05dbe1f8": {
+  "drop": "wrong physics: the pressure does not depend on the floor type"
+ },
+ "af10692e": {
+  "options": [
+   "All of these",
+   "Physical",
+   "Volume",
+   "Speed"
+  ],
+  "correctIndex": 1
+ },
+ "2197f64e": {
+  "text": "Using pressurised gas to produce ______ is called pneumatics."
+ },
+ "032618d8": {
+  "drop": "duplicate"
+ },
+ "93777f71": {
+  "drop": "garbled"
+ },
+ "bf55a4cc": {
+  "drop": "wrong: SI is the system of units, not an abbreviation of 'unit'"
+ },
+ "16a4956b": {
+  "text": "When measuring with a metre rule, the eye must be kept ______ above the reading point."
+ },
+ "184febcf": {
+  "drop": "ambiguous"
+ },
+ "9e1ff7ee": {
+  "drop": "ambiguous"
+ },
+ "3a77945a": {
+  "drop": "unclear"
+ },
+ "b003d5c7": {
+  "drop": "ambiguous (bridges and buildings)"
+ },
+ "1dcdef8d": {
+  "drop": "two options correct (gas, air)"
+ },
+ "41aa8722": {
+  "text": "Between 4 °C and 0 °C, water expands on"
+ },
+ "c3536600": {
+  "text": "In a short-sighted eye, the image of a distant object is formed in ______ of the retina."
+ },
+ "ae1c5e64": {
+  "drop": "unclear"
+ },
+ "40cd2760": {
+  "drop": "debatable"
+ },
+ "18b4289c": {
+  "drop": "depends on the book's classification"
+ },
+ "fbad4abf": {
+  "text": "______ was the first to use a telescope to study the sky.",
+  "note": "the telescope was invented by Lippershey; Galileo first used it for astronomy"
+ },
+ "0d494fd5": {
+  "text": "In space, water in the human body would boil because of very low ______, causing immediate death."
+ },
+ "21ae2106": {
+  "text": "[0 0; 0 0] is called a ______ matrix."
+ },
+ "b097da47": {
+  "text": "[1 0; 0 1] is a ______ matrix."
+ },
+ "4a53de66": {
+  "drop": "garbled"
+ },
+ "99ebc734": {
+  "drop": "incomplete question"
+ },
+ "bd76d129": {
+  "drop": "garbled"
+ },
+ "2ac908d5": {
+  "drop": "garbled"
+ },
+ "634c8da5": {
+  "drop": "depends on the book's list"
+ },
+ "28ce9d0b": {
+  "drop": "garbled duplicate"
+ },
+ "0d6e8775": {
+  "drop": "garbled"
+ },
+ "bccd7ad8": {
+  "drop": "historically inaccurate (logarithms are credited to John Napier)"
+ },
+ "f1c391ce": {
+  "drop": "garbled"
+ },
+ "34609259": {
+  "text": "log₁₀ e = ______ (e ≈ 2.718)"
+ },
+ "5c4d3881": {
+  "drop": "depends on the book's list"
+ },
+ "28e3c99c": {
+  "text": "logₐ a = ?"
+ },
+ "12051691": {
+  "drop": "garbled"
+ },
+ "857a4ccf": {
+  "drop": "garbled"
+ },
+ "b65855bf": {
+  "drop": "garbled"
+ },
+ "9aacc4b2": {
+  "drop": "options lost their exponents (H.C.F. is 13x⁵y³z)"
+ },
+ "88455a81": {
+  "drop": "garbled"
+ },
+ "51fa387f": {
+  "correctIndex": 0,
+  "note": "m² - 4m + 4 = (m - 2)², so the root is ±(m - 2); official answer was ±(m + 2)"
+ },
+ "6fe33de5": {
+  "options": [
+   "Linear",
+   "Quadratic",
+   "Radical",
+   "None of these"
+  ],
+  "correctIndex": 0
+ },
+ "2861bf0f": {
+  "drop": "two options correct (coordinate plane, cartesian plane)"
+ },
+ "e7fb17f3": {
+  "drop": "garbled duplicate"
+ },
+ "30af979a": {
+  "drop": "incomplete (collinear points must lie on one line)"
+ },
+ "a6a727a1": {
+  "drop": "incomplete (collinear points must lie on one line)"
+ },
+ "c2e95578": {
+  "drop": "duplicate with blank removed"
+ },
+ "4b62ac7f": {
+  "drop": "garbled"
+ },
+ "599fe43d": {
+  "drop": "ambiguous (joint variation is also a type)"
+ },
+ "d7130cb7": {
+  "options": [
+   "8 : 12 : 9",
+   "2 : 3 : 8",
+   "2 : 3 : 9",
+   "2 : 3 : 12"
+  ],
+  "correctIndex": 0,
+  "note": "options were turned into clock times by a spreadsheet"
+ },
+ "6f5d8828": {
+  "options": [
+   "14 : 5",
+   "15 : 5",
+   "16 : 5",
+   "17 : 5"
+  ],
+  "correctIndex": 2,
+  "note": "options were turned into clock times by a spreadsheet"
+ },
+ "46e7dbce": {
+  "text": "A relation in which the equality is true only for some values of the unknowns is called an",
+  "correctIndex": 1,
+  "note": "that is an equation; an identity is true for all values"
+ },
+ "9d26574c": {
+  "drop": "garbled"
+ },
+ "83f5ff59": {
+  "text": "John Venn, the British mathematician who introduced Venn diagrams, lived from"
+ },
+ "9c3fcff0": {
+  "options": [
+   "Dom R = {1, 2, 4}",
+   "Dom R = {1, 3, 5}",
+   "Dom R = {1, 1, 4, 5}",
+   "Dom R = {2, 3, 4, 5}"
+  ],
+  "correctIndex": 0
+ },
+ "b0b2cdfa": {
+  "drop": "ambiguous"
+ },
+ "6f6274aa": {
+  "drop": "no correct option (r = 82 / 2π ≈ 13.05)"
+ },
+ "7ae03e0f": {
+  "correctIndex": 1,
+  "note": "indirect measurement of heights and distances is done with trigonometry; official answer was geometry"
+ },
+ "2a35ece3": {
+  "text": "One and only one circle can be drawn through ______ non-collinear points."
+ },
+ "2bb7f1aa": {
+  "text": "From a point outside a circle, ______ tangents can be drawn to it."
+ },
+ "7aa4d289": {
+  "options": [
+   "3%",
+   "1%",
+   "33%",
+   "33⅓%"
+  ],
+  "correctIndex": 3
+ },
+ "8964bc78": {
+  "options": [
+   "15 : 17",
+   "15 : 19",
+   "19 : 15",
+   "17 : 15"
+  ],
+  "correctIndex": 1,
+  "note": "options were turned into dates by a spreadsheet"
+ },
+ "12edd540": {
+  "drop": "incomplete: a widow's share depends on whether there are children"
+ },
+ "7b61a3c4": {
+  "correctIndex": 1,
+  "note": "with a child the widow's share is 1/8 (1/4 only when there are no children)"
+ },
+ "31093fb0": {
+  "text": "If there are two or more daughters (and no son), their combined share is:"
+ },
+ "17f6413a": {
+  "drop": "garbled"
+ },
+ "ccdb72ba": {
+  "drop": "ambiguous (excise duty / sales tax)"
+ },
+ "82d0794a": {
+  "text": "In √3, 3 is called the:"
+ },
+ "f6dce6e2": {
+  "text": "In aⁿ, n is called the:"
+ },
+ "fb4c032d": {
+  "text": "In 4⁵, 4 is called the:"
+ },
+ "66e64a54": {
+  "text": "√(2 + √3) is not a surd, because 2 + √3 is:"
+ },
+ "f6a33556": {
+  "drop": "ambiguous term numbering"
+ },
+ "33d05d9f": {
+  "text": "The fourth term of aₙ = 1/(2n - 1)² is",
+  "options": [
+   "1/47",
+   "1/48",
+   "1/49",
+   "1/50"
+  ],
+  "correctIndex": 2
+ },
+ "39e751d9": {
+  "correctIndex": 0,
+  "note": "differences go 4, 5, 6, so a₅ = 17 + 7 = 24; official answer was 21"
+ },
+ "127216d9": {
+  "correctIndex": 2,
+  "note": "3, 7, 11 ... adds 4, so a₆ = 23; official answer was 19"
+ },
+ "652407eb": {
+  "correctIndex": 1,
+  "note": "the book gives the G.M. with ± (see -3 and -12 → ±6)"
+ },
+ "b371e60f": {
+  "correctIndex": 1,
+  "note": "every point on y = c has y-coordinate c; official answer was 0"
+ },
+ "49447492": {
+  "correctIndex": 0,
+  "note": "every point on x = a has x-coordinate a; official answer was 'undefined'"
+ },
+ "4e7b8aba": {
+  "options": [
+   "l × b",
+   "½ × (l + b)",
+   "⅓ × (l + b)",
+   "l²"
+  ],
+  "correctIndex": 0
+ },
+ "68b54592": {
+  "drop": "no single correct option (rhombus not listed)"
+ },
+ "67a2edcd": {
+  "text": "d = √((x₂ - x₁)² + (y₂ - y₁)²) is called the"
+ },
+ "a9053e84": {
+  "correctIndex": 0,
+  "note": "x - 3 = ±5 gives x = 8 or -2; official answer was {-8, -2}"
+ },
+ "49035470": {
+  "drop": "no correct option ((x-2)² = 4 gives x = 4 or 0)"
+ },
+ "0fdefb87": {
+  "correctIndex": 0,
+  "note": "product ÷ L.C.M. = H.C.F.; official answer was L.C.M. + H.C.F."
+ },
+ "6b17b92b": {
+  "correctIndex": 1,
+  "note": "both factorise with (2x + 1); official answer was 2x - 1"
+ },
+ "3d3f0def": {
+  "options": [
+   "mixed surd",
+   "surd",
+   "rational number",
+   "natural number"
+  ],
+  "correctIndex": 1
+ },
+ "ebaf950c": {
+  "drop": "options overlap"
+ },
+ "5a7f6428": {
+  "drop": "unclear"
+ },
+ "0eea1b8d": {
+  "text": "While taking a reading, a measuring cylinder must be kept"
+ },
+ "9c6d5915": {
+  "drop": "ambiguous (at rest relative to the bus, moving relative to the road)"
+ },
+ "486e27b1": {
+  "text": "On a map, horizontal lines represent which directions?",
+  "correctIndex": 0,
+  "note": "horizontal lines are east-west; official answer was north-south"
+ },
+ "9d0d8911": {
+  "correctIndex": 2,
+  "note": "the tension equals each pulling force, 10 N; official answer was zero"
+ },
+ "42e854c2": {
+  "text": "If the line of action of a force passes through the axis of rotation, the torque about that axis is"
+ },
+ "84baa2f5": {
+  "text": "The radius of the orbit of a geostationary satellite (measured from the centre of the Earth) is about"
+ },
+ "7adc4a1c": {
+  "text": "On the Moon, where g = 1.6 m/s², the weight of an object of mass 100 kg is"
+ },
+ "1b9c8c58": {
+  "options": [
+   "7 km/s",
+   "9 km/s",
+   "8 km/s",
+   "10 km/s"
+  ],
+  "correctIndex": 2,
+  "note": "unit was wrong (metres per second)"
+ },
+ "74cb6f41": {
+  "correctIndex": 1,
+  "note": "food stores chemical potential energy; official answer was kinetic"
+ },
+ "1a69202e": {
+  "drop": "unit missing"
+ },
+ "00c2b71b": {
+  "drop": "ambiguous"
+ },
+ "d0f77763": {
+  "correctIndex": 1,
+  "note": "ultrasound has a higher frequency, so a shorter wavelength than audible sound; official answer was 'equal'"
+ },
+ "f8cadea9": {
+  "drop": "unclear"
+ },
+ "6beb668f": {
+  "correctIndex": 0,
+  "note": "n = c / v = 3.0 × 10⁸ / 1.91 × 10⁸ ≈ 1.57; official answer was 0.64"
+ },
+ "57c9571c": {
+  "drop": "garbled options"
+ },
+ "5d6acb98": {
+  "text": "A current of 1 A flows through a bulb for 1 s and the bulb uses 1 J of energy. The potential difference across it is"
+ },
+ "6312faf0": {
+  "drop": "no correct option (t = Q / I = 30 / 0.03 = 1000 s)"
+ },
+ "737a9839": {
+  "correctIndex": 1,
+  "note": "ampere ÷ volt is not a watt; official answer was joule per second"
+ },
+ "8420d9f6": {
+  "drop": "wrong: power comes in through the live and neutral wires, not the earth wire"
+ },
+ "8fceba3b": {
+  "correctIndex": 2,
+  "note": "this is Fleming's left-hand rule; official answer was Ampere"
+ },
+ "4e54018e": {
+  "drop": "ambiguous (couple / torque)"
+ },
+ "6a4cd14e": {
+  "drop": "outdated statistic"
+ },
+ "8a44d9fc": {
+  "drop": "doubtful figure (the Sun's core is about 15 million K)"
+ },
+ "41c8aae2": {
+  "drop": "garbled"
+ },
+ "8eead5c4": {
+  "text": "Equal volumes of gases at the same temperature and pressure contain"
+ },
+ "b149fdac": {
+  "correctIndex": 1,
+  "note": "the smallest unit of an ionic compound is a formula unit; official answer was ion"
+ },
+ "706438a0": {
+  "drop": "garbled"
+ },
+ "1a171b5a": {
+  "drop": "unclear"
+ },
+ "41d0ecfb": {
+  "drop": "unclear units"
+ },
+ "a663bb80": {
+  "correctIndex": 2,
+  "note": "carbon has three isotopes (C-12, C-13, C-14); official answer was 2"
+ },
+ "371ca83f": {
+  "text": "The 2nd and 3rd periods of the periodic table are called",
+  "correctIndex": 0,
+  "note": "they are the short periods; official answer was 'normal period'"
+ },
+ "8b585c1d": {
+  "drop": "duplicate"
+ },
+ "b7cc0664": {
+  "drop": "duplicate"
+ },
+ "3257fac5": {
+  "drop": "duplicate"
+ },
+ "abcc7432": {
+  "drop": "duplicate"
+ },
+ "181bfbd2": {
+  "text": "The number of lone pairs in an ammonia (NH₃) molecule is"
+ },
+ "5213060e": {
+  "drop": "duplicate"
+ },
+ "8418b856": {
+  "drop": "duplicate"
+ },
+ "3f500a27": {
+  "text": "NaCl has which type of bond?"
+ },
+ "0e1adc15": {
+  "text": "When an atom gains an electron it gets a"
+ },
+ "eeeb88ab": {
+  "text": "When an atom loses an electron it gets a"
+ },
+ "51207ee2": {
+  "text": "Which state of matter has the lowest density?",
+  "correctIndex": 2,
+  "note": "gases have the lowest density; official answer was liquids"
+ },
+ "331f562c": {
+  "drop": "duplicate"
+ },
+ "ce9c94a9": {
+  "drop": "garbled"
+ },
+ "e78ee783": {
+  "correctIndex": 3,
+  "note": "5% w/w means 5 g of sugar in 100 g of solution, i.e. 95 g of water"
+ },
+ "cf213072": {
+  "drop": "garbled"
+ },
+ "27fd082f": {
+  "correctIndex": 3,
+  "note": "the solubility of NaCl barely changes with temperature; official answer was NaNO₃"
+ },
+ "4888a130": {
+  "drop": "unclear"
+ },
+ "c8d2db92": {
+  "options": [
+   "HCl + KOH → KCl + H₂O",
+   "4HCl + MnO₂ → MnCl₂ + 2H₂O + Cl₂",
+   "2HCl + CaCO₃ → CaCl₂ + H₂O + CO₂",
+   "2HCl + FeS → FeCl₂ + H₂S"
+  ],
+  "correctIndex": 1,
+  "note": "only the MnO₂ reaction changes oxidation numbers; official answer was the FeS reaction"
+ },
+ "389801b7": {
+  "correctIndex": 1,
+  "note": "hydrogen is produced at the cathode of Nelson's cell; official answer was O₃"
+ },
+ "aa982432": {
+  "correctIndex": 1,
+  "note": "alkali metals are soft because of weak metallic bonding"
+ },
+ "8a3f48f9": {
+  "text": "A common example of an alloy is",
+  "options": [
+   "Pure silver",
+   "Iron",
+   "Stainless steel",
+   "Copper"
+  ],
+  "correctIndex": 2,
+  "note": "pure silver and iron are not alloys; official answer was 'all of these'"
+ },
+ "8c26bd0f": {
+  "drop": "garbled"
+ },
+ "4ff99085": {
+  "drop": "refers to an experiment not shown"
+ },
+ "f721ec9b": {
+  "text": "Complete the balanced equation: N₂(g) + 3H₂(g) ⇌",
+  "options": [
+   "3NH₂(g)",
+   "2NH₃(g)",
+   "NH₃(g)",
+   "None of these"
+  ],
+  "correctIndex": 1
+ },
+ "023a44d9": {
+  "drop": "garbled"
+ },
+ "c2433303": {
+  "drop": "date trivia"
+ },
+ "697150bf": {
+  "drop": "doubtful date"
+ },
+ "2589784f": {
+  "drop": "garbled options"
+ },
+ "2d92c4b9": {
+  "drop": "unclear"
+ },
+ "3911c1f7": {
+  "drop": "spelling question"
+ },
+ "bc715448": {
+  "text": "______ are found in apples and citrus fruits."
+ },
+ "fcc850bf": {
+  "drop": "options identical"
+ },
+ "c0aba3f9": {
+  "drop": "refers to an experiment not shown"
+ },
+ "9a3e6ff6": {
+  "drop": "doubtful figure"
+ },
+ "b546cf3d": {
+  "drop": "wrong: antibiotics are not proteins"
+ },
+ "880a5d40": {
+  "text": "Amino acids which are not made by the human body are called",
+  "correctIndex": 0,
+  "note": "these are essential amino acids; official answer was non-essential"
+ },
+ "ee906078": {
+  "drop": "doubtful figure"
+ },
+ "73948788": {
+  "drop": "incomplete (temperature without the greenhouse effect)"
+ },
+ "ce45d3c0": {
+  "drop": "incomplete duplicate"
+ },
+ "dafbb202": {
+  "drop": "garbled"
+ },
+ "4775c788": {
+  "drop": "unclear"
+ },
+ "3f9d1c27": {
+  "correctIndex": 1,
+  "note": "attracted to water = hydrophilic; official answer was solvent"
+ },
+ "a7130ed2": {
+  "drop": "doubtful figure"
+ },
+ "1f6293c7": {
+  "correctIndex": 2,
+  "note": "rain in thunderstorms dissolves nitric acid formed from nitrogen oxides; official answer was HCl"
+ },
+ "e8c8702d": {
+  "drop": "garbled"
+ },
+ "d2944671": {
+  "drop": "unclear"
+ },
+ "64948d0c": {
+  "drop": "unclear"
+ },
+ "248cf62f": {
+  "drop": "garbled options"
+ },
+ "f63c3ee6": {
+  "drop": "figure differs between sources"
+ },
+ "59a2de8a": {
+  "drop": "garbled"
+ },
+ "90f84a48": {
+  "drop": "outdated population figure"
+ },
+ "7a5bc7d0": {
+  "drop": "two options correct (gastric juice, pepsin)"
+ },
+ "38271a2f": {
+  "text": "The third eyelid of a frog is called the"
+ },
+ "1ecbae2e": {
+  "drop": "doubtful figure"
+ },
+ "6d61a14c": {
+  "drop": "doubtful figure"
+ },
+ "2e25fe32": {
+  "drop": "garbled"
+ },
+ "71d63324": {
+  "drop": "garbled"
+ },
+ "30405285": {
+  "drop": "garbled"
+ },
+ "8fb49909": {
+  "text": "The optimum temperature for human enzymes is",
+  "options": [
+   "27 °C",
+   "37 °C",
+   "73 °C",
+   "77 °C"
+  ],
+  "correctIndex": 1,
+  "note": "% signs replaced with °C"
+ },
+ "15b51539": {
+  "drop": "garbled"
+ },
+ "99637e5c": {
+  "drop": "garbled"
+ },
+ "330db46c": {
+  "drop": "wrong: the lock-and-key model is Emil Fischer's; Koshland proposed induced fit"
+ },
+ "9489fe16": {
+  "drop": "garbled"
+ },
+ "90951fac": {
+  "drop": "garbled"
+ },
+ "3d011c97": {
+  "drop": "garbled"
+ },
+ "2b016567": {
+  "drop": "garbled"
+ },
+ "30439fae": {
+  "drop": "doubtful figure"
+ },
+ "c7e6e2f1": {
+  "drop": "unclear abbreviations"
+ },
+ "9accb753": {
+  "text": "Which tissue is the 'two-way street' for food in plants?"
+ },
+ "e39c64de": {
+  "text": "The rate of transpiration doubles for every ______ rise in temperature."
+ },
+ "bcf51d88": {
+  "text": "About what percent of the water that enters a plant is lost by transpiration?"
+ },
+ "1cbc4c6e": {
+  "drop": "all four disorders affect the lungs"
+ },
+ "6fe23244": {
+  "text": "______ is the largest part of the forebrain."
+ },
+ "7b1594ad": {
+  "text": "When the biceps contracts, the forearm is pulled upward. This is ______ of the elbow joint."
+ },
+ "38dee50b": {
+  "drop": "depends on the book's classification"
+ },
+ "56ad942d": {
+  "drop": "two options correct (infection, pneumonia)"
+ },
+ "9c84c0e0": {
+  "drop": "unclear"
+ },
+ "55d72a6a": {
+  "correctIndex": 0,
+  "note": "charcoal is the non-crystalline (amorphous) form; graphite is crystalline"
+ },
+ "a22729ab": {
+  "correctIndex": 2,
+  "note": "this process is nitrogen fixation; official answer was the nitrogen cycle"
+ },
+ "2cd3f3aa": {
+  "drop": "two options correct (respiration and burning); official answer was photosynthesis, which lowers CO₂"
+ },
+ "4be01bfe": {
+  "drop": "garbled"
+ },
+ "c8621079": {
+  "drop": "ambiguous"
+ },
+ "258eb788": {
+  "options": [
+   "Robert Brown",
+   "Sir Alexander Fleming",
+   "Edward Jenner",
+   "Robert Hooke"
+  ],
+  "correctIndex": 1
+ },
+ "c35cbfb3": {
+  "drop": "ambiguous options"
+ },
+ "bfddf56d": {
+  "drop": "doubtful figure"
+ },
+ "892fc4ec": {
+  "drop": "outdated statistic"
+ },
+ "15f82ae4": {
+  "drop": "doubtful census figure"
+ },
+ "f4d30a56": {
+  "drop": "outdated statistic"
+ },
+ "b00bbc97": {
+  "correctIndex": 1,
+  "note": "in P-type semiconductors most current is carried by holes; official answer was free electrons"
+ },
+ "0e75f45b": {
+  "text": "A signal is converted between analogue and digital form for telephone lines by a",
+  "correctIndex": 3,
+  "note": "official answer was monitor"
+ },
+ "5555e0fa": {
+  "drop": "garbled"
+ },
+ "37363613": {
+  "text": "10³ = 1000 ⇔ log 1000 = ?"
+ },
+ "1adb9151": {
+  "text": "a³ - b³ = ( ? )(a² + ab + b²)"
+ },
+ "812f0b3c": {
+  "correctIndex": 0,
+  "note": "x - 3 = ±5 gives x = 8 or -2; official answer was {-8, -2}"
+ }
+}
