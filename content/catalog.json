@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": "202611221610",
- "generatedAt": "2026-11-22T16:10:11+00:00",
+ "version": "202611221631",
+ "generatedAt": "2026-11-22T16:31:48+00:00",
  "note": "Maths and Science: chapters, topics, page numbers and MCQs from eLearn Punjab (elearn.gov.pk, PITB/PCTB), reviewed and corrected. Urdu and English: official PECTAA textbooks (pectaa.edu.pk); MCQs written from each lesson. Page numbers are page positions in the book file. Not yet checked by a teacher.",
  "books": [
   {
@@ -16951,6 +16951,207 @@
      "number": 14,
      "title": "Together We Live",
      "pageStart": 142,
+     "pageEnd": 156,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "pe-g5_urdu",
+   "key": "g5_urdu",
+   "grade": 5,
+   "subject": "Urdu",
+   "title": "اردو 5 (PECTAA)",
+   "language": "ur",
+   "publisher": "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+   "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+   "pdf": "books/g5_urdu.pdf",
+   "pdfBytes": 18623062,
+   "pages": 156,
+   "pack": "packs/g5_urdu.json",
+   "questionCount": 190,
+   "chapters": [
+    {
+     "id": "pe-g5_urdu-c1",
+     "number": 1,
+     "title": "حمد (نظم)",
+     "pageStart": 15,
+     "pageEnd": 19,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c2",
+     "number": 2,
+     "title": "نعت (نظم)",
+     "pageStart": 20,
+     "pageEnd": 25,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c3",
+     "number": 3,
+     "title": "رحمتِ عالم ﷺ",
+     "pageStart": 26,
+     "pageEnd": 32,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c4",
+     "number": 4,
+     "title": "اے وطن! تو سلامت رہے",
+     "pageStart": 33,
+     "pageEnd": 42,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c5",
+     "number": 5,
+     "title": "جو وعدہ کرو سو پورا کرو",
+     "pageStart": 43,
+     "pageEnd": 50,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c6",
+     "number": 6,
+     "title": "قومی تہوار (برائے مطالعہ)",
+     "pageStart": 51,
+     "pageEnd": 52,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c7",
+     "number": 7,
+     "title": "ہوا چلی (نظم)",
+     "pageStart": 53,
+     "pageEnd": 58,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c8",
+     "number": 8,
+     "title": "میری پہچان ہے تو",
+     "pageStart": 59,
+     "pageEnd": 66,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c9",
+     "number": 9,
+     "title": "ہمارے پیشے",
+     "pageStart": 67,
+     "pageEnd": 77,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c10",
+     "number": 10,
+     "title": "ایک گائے اور بکری (نظم)",
+     "pageStart": 78,
+     "pageEnd": 83,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c11",
+     "number": 11,
+     "title": "حضرت عثمان غنی رضی اللہ تعالیٰ عنہ",
+     "pageStart": 84,
+     "pageEnd": 91,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c12",
+     "number": 12,
+     "title": "دنیا آپ کی مٹھی میں",
+     "pageStart": 92,
+     "pageEnd": 98,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c13",
+     "number": 13,
+     "title": "ہم پھول اِک چمن کے (نظم)",
+     "pageStart": 99,
+     "pageEnd": 104,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c14",
+     "number": 14,
+     "title": "آؤ بچو! سنو کہانی (برائے مطالعہ)",
+     "pageStart": 105,
+     "pageEnd": 108,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c15",
+     "number": 15,
+     "title": "آئیں! مدد کریں",
+     "pageStart": 109,
+     "pageEnd": 114,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c16",
+     "number": 16,
+     "title": "رکھیں میرا خیال",
+     "pageStart": 115,
+     "pageEnd": 120,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c17",
+     "number": 17,
+     "title": "نیک ہو، نیکی پھیلاؤ (نظم)",
+     "pageStart": 121,
+     "pageEnd": 126,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c18",
+     "number": 18,
+     "title": "ایک قدیم شہر",
+     "pageStart": 127,
+     "pageEnd": 133,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c19",
+     "number": 19,
+     "title": "حسنِ سلوک",
+     "pageStart": 134,
+     "pageEnd": 142,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c20",
+     "number": 20,
+     "title": "کہا اقبال نے (نظم)",
+     "pageStart": 143,
+     "pageEnd": 147,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c21",
+     "number": 21,
+     "title": "بے مثل ہے نظام تیرا",
+     "pageStart": 148,
+     "pageEnd": 153,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c22",
+     "number": 22,
+     "title": "اقوالِ زریں (برائے مطالعہ)",
+     "pageStart": 154,
+     "pageEnd": 154,
+     "topics": []
+    },
+    {
+     "id": "pe-g5_urdu-c23",
+     "number": 23,
+     "title": "ٹوٹ بٹوٹ کے مرغے (نظم)",
+     "pageStart": 155,
      "pageEnd": 156,
      "topics": []
     }
