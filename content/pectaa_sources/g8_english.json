@@ -1,0 +1,920 @@
+{
+ "key": "g8_english",
+ "grade": 8,
+ "subject": "English",
+ "language": "en",
+ "title": "English 8 (PECTAA, SNC)",
+ "offset": 0,
+ "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+ "chapters": [
+  [
+   1,
+   "Tolerance of the Rasoolullah (PBUH)",
+   8
+  ],
+  [
+   2,
+   "A Great Virtue",
+   17
+  ],
+  [
+   3,
+   "The Twins (Poem)",
+   29
+  ],
+  [
+   4,
+   "Let's Make Our Roads Safer!",
+   38
+  ],
+  [
+   5,
+   "Hazrat Umar (RA)",
+   54
+  ],
+  [
+   6,
+   "Sports and Sportsmanship",
+   64
+  ],
+  [
+   7,
+   "The Earth Speaks",
+   75
+  ],
+  [
+   8,
+   "Settling the Quarrel",
+   83
+  ],
+  [
+   9,
+   "Mountaineering",
+   95
+  ],
+  [
+   10,
+   "Dignity of Labour",
+   103
+  ],
+  [
+   11,
+   "Give to Your Country",
+   112
+  ]
+ ],
+ "questions": [
+  [
+   1,
+   "What does 'tolerance' mean, as explained in the lesson?",
+   [
+    "Taking revenge quickly",
+    "Bearing pain or hardships with patience",
+    "Running away",
+    "Complaining loudly"
+   ],
+   1,
+   "Tolerance means to bear pain or hardships with patience, and to bear things you do not like."
+  ],
+  [
+   1,
+   "At the conquest of Makkah, how did the Holy Prophet (PBUH) treat Abu Sufyan?",
+   [
+    "Punished him",
+    "Forgave and honoured him",
+    "Exiled him",
+    "Ignored him"
+   ],
+   1,
+   "He forgave Abu Sufyan and declared amnesty for those who took refuge in his house."
+  ],
+  [
+   1,
+   "Who did Allah send to the Holy Prophet (PBUH) after the people of Taif stoned him?",
+   [
+    "The Angel of the Mountains",
+    "The Angel of Death",
+    "An army",
+    "A king"
+   ],
+   0,
+   "Allah sent the Angel of the Mountains, who offered to crush the people between two mountains."
+  ],
+  [
+   1,
+   "What did the Holy Prophet (PBUH) reply to the Angel of the Mountains?",
+   [
+    "Destroy them",
+    "No; I hope their children will worship Allah alone",
+    "Punish them later",
+    "Send rain"
+   ],
+   1,
+   "He said no, hoping that Allah would let them beget children who worship Allah alone."
+  ],
+  [
+   1,
+   "For how many years did Hazrat Anas bin Malik serve the Holy Prophet (PBUH)?",
+   [
+    "2 years",
+    "5 years",
+    "10 years",
+    "20 years"
+   ],
+   2,
+   "Hazrat Anas said, 'I served the Rasoolullah for 10 years.'"
+  ],
+  [
+   1,
+   "According to Hazrat Ayesha, the Holy Prophet (PBUH) never:",
+   [
+    "prayed",
+    "took revenge upon anyone",
+    "smiled",
+    "travelled"
+   ],
+   1,
+   "Hazrat Ayesha said the Rasoolullah never took revenge upon anyone."
+  ],
+  [
+   1,
+   "The word 'amnesty' means:",
+   [
+    "a general pardon",
+    "a war",
+    "a punishment",
+    "a tax"
+   ],
+   0,
+   "Amnesty is a general pardon, as declared at the conquest of Makkah."
+  ],
+  [
+   2,
+   "Where did the kind old man in 'A Great Virtue' live?",
+   [
+    "In a palace",
+    "In a small hut in a forest",
+    "In a village house",
+    "In a city flat"
+   ],
+   1,
+   "He lived all alone in a small hut in a forest."
+  ],
+  [
+   2,
+   "Who knocked first at the old man's door on the stormy night?",
+   [
+    "A farmer",
+    "A hunter",
+    "A woman",
+    "A boy"
+   ],
+   1,
+   "The first visitor was a hunter looking for shelter."
+  ],
+  [
+   2,
+   "Who was the second person to knock at the door?",
+   [
+    "The hunter",
+    "The farmer",
+    "The woman",
+    "The traveller"
+   ],
+   1,
+   "The second knock was a farmer asking for shelter."
+  ],
+  [
+   2,
+   "Who came last, shivering with cold?",
+   [
+    "A soldier",
+    "A woman with her two small children",
+    "A merchant",
+    "A doctor"
+   ],
+   1,
+   "A woman came with her two small children, shivering with cold."
+  ],
+  [
+   2,
+   "Who told the old man not to open the door again?",
+   [
+    "The hunter",
+    "The farmer",
+    "The woman",
+    "The children"
+   ],
+   1,
+   "The farmer objected; afterwards he felt guilty and apologised for being selfish."
+  ],
+  [
+   2,
+   "How did everyone spend the night in the hut?",
+   [
+    "Sleeping on beds",
+    "Standing and chatting together",
+    "Outside in the rain",
+    "They all left"
+   ],
+   1,
+   "The whole crowd spent the stormy night standing in the little hut, chatting."
+  ],
+  [
+   2,
+   "What great virtue did the old man show?",
+   [
+    "Kindness and sharing",
+    "Anger",
+    "Pride",
+    "Greed"
+   ],
+   0,
+   "The old man was kind and always ready to share with others."
+  ],
+  [
+   3,
+   "Who wrote the poem 'The Twins'?",
+   [
+    "Henry S. Leigh",
+    "William Wordsworth",
+    "Harriet Stowe",
+    "Robert Frost"
+   ],
+   0,
+   "'The Twins' is by Henry Sambrooke Leigh."
+  ],
+  [
+   3,
+   "Who mixed up the twins in the poem?",
+   [
+    "Their mother",
+    "The nurse",
+    "The teacher",
+    "Their brother"
+   ],
+   1,
+   "'As we were being washed by nurse, we got completely mixed.'"
+  ],
+  [
+   3,
+   "What was the name of the speaker's brother?",
+   [
+    "John",
+    "Henry",
+    "Jim",
+    "Tom"
+   ],
+   0,
+   "'My brother John was named me, and I was named him.'"
+  ],
+  [
+   3,
+   "The tone of the poem 'The Twins' is mainly:",
+   [
+    "humorous",
+    "tragic",
+    "angry",
+    "religious"
+   ],
+   0,
+   "The poem humorously describes the confusion caused by the twins' likeness."
+  ],
+  [
+   3,
+   "The poet asks everyone: 'What would you do, if you were me, to prove that you were ___?'",
+   [
+    "right",
+    "you",
+    "John",
+    "free"
+   ],
+   1,
+   "The poem ends: 'What would you do, if you were me, to prove that you were you?'"
+  ],
+  [
+   3,
+   "Intonation is the:",
+   [
+    "rise and fall of the voice in speaking",
+    "number of syllables",
+    "spelling of words",
+    "meaning of a word"
+   ],
+   0,
+   "Intonation is the rise and fall of the voice in speaking."
+  ],
+  [
+   3,
+   "Henry S. Leigh was born in:",
+   [
+    "Paris",
+    "London",
+    "New York",
+    "Dublin"
+   ],
+   1,
+   "Henry Sambrooke Leigh was born in London on 29 March 1837."
+  ],
+  [
+   4,
+   "Most people killed in road accidents, according to the lesson, are:",
+   [
+    "old people",
+    "young people below 30",
+    "children under 5",
+    "drivers of trucks"
+   ],
+   1,
+   "Most of the victims of road accidents are young people below 30 years of age."
+  ],
+  [
+   4,
+   "According to research, about what percentage of traffic accidents take place due to drivers' mistakes or negligence?",
+   [
+    "20%",
+    "50%",
+    "80%",
+    "100%"
+   ],
+   2,
+   "Almost 80% of traffic accidents take place due to the mistake or negligence of drivers."
+  ],
+  [
+   4,
+   "The most crucial factor causing road fatalities is:",
+   [
+    "over speeding and rash driving",
+    "bad weather only",
+    "wide roads",
+    "traffic lights"
+   ],
+   0,
+   "Over speeding is the most crucial factor causing fatalities or injuries."
+  ],
+  [
+   4,
+   "Violating a traffic law is:",
+   [
+    "a hobby",
+    "an offence",
+    "allowed at night",
+    "a sport"
+   ],
+   1,
+   "Any violation of a traffic law is an offence."
+  ],
+  [
+   4,
+   "By observing traffic laws we can avoid accidents, save lives and improve our:",
+   [
+    "country's image",
+    "speed",
+    "fuel use",
+    "road width"
+   ],
+   0,
+   "Observing traffic laws saves lives and improves our country's image."
+  ],
+  [
+   5,
+   "Who was the second Caliph of Islam?",
+   [
+    "Hazrat Abu Bakr",
+    "Hazrat Umar",
+    "Hazrat Usman",
+    "Hazrat Ali"
+   ],
+   1,
+   "Hazrat Umar (RA) was the second Caliph of Islam."
+  ],
+  [
+   5,
+   "Hazrat Umar (RA) belonged to which tribe?",
+   [
+    "Quraish",
+    "Bani Hashim only",
+    "Aus",
+    "Khazraj"
+   ],
+   0,
+   "He was born at Makkah Mukarramah into a noble tribe of the Quraish."
+  ],
+  [
+   5,
+   "For how long did Hazrat Umar (RA) remain Caliph?",
+   [
+    "Two years",
+    "Ten and a half years",
+    "Twelve years",
+    "Five years"
+   ],
+   1,
+   "He remained Caliph for ten and a half years."
+  ],
+  [
+   5,
+   "Which reform did Hazrat Umar (RA) introduce to investigate complaints against state offices?",
+   [
+    "Administrative courts",
+    "Banks",
+    "Schools",
+    "Newspapers"
+   ],
+   0,
+   "He introduced administrative courts to investigate complaints against the offices of the state."
+  ],
+  [
+   5,
+   "How did Hazrat Umar (RA) treat the worship places of non-Muslims?",
+   [
+    "Destroyed them",
+    "Gave them protection",
+    "Taxed them heavily",
+    "Closed them"
+   ],
+   1,
+   "The worship places and property of non-Muslims were given protection."
+  ],
+  [
+   5,
+   "Hazrat Umar (RA) gave great importance to:",
+   [
+    "justice",
+    "wealth",
+    "poetry",
+    "trade only"
+   ],
+   0,
+   "He gave great importance to justice and would not spare anyone in judgement."
+  ],
+  [
+   6,
+   "What does the proverb 'mens sana in corpore sano' mean?",
+   [
+    "Practice makes perfect",
+    "A healthy mind in a healthy body",
+    "Time is money",
+    "Unity is strength"
+   ],
+   1,
+   "The ancient Roman proverb means 'A healthy mind in a healthy body'."
+  ],
+  [
+   6,
+   "What is the national game of Pakistan?",
+   [
+    "Cricket",
+    "Hockey",
+    "Squash",
+    "Kabaddi"
+   ],
+   1,
+   "Hockey is the national game of Pakistan."
+  ],
+  [
+   6,
+   "Through sports, young people learn values such as:",
+   [
+    "honesty, teamwork and fair play",
+    "cheating",
+    "laziness",
+    "selfishness"
+   ],
+   0,
+   "Sports teach honesty, teamwork, fair play, respect and adherence to rules."
+  ],
+  [
+   6,
+   "Mental strength can be achieved through indoor games like:",
+   [
+    "chess",
+    "football",
+    "hockey",
+    "cricket"
+   ],
+   0,
+   "Indoor sports like chess build mental power; outdoor sports improve physical health."
+  ],
+  [
+   6,
+   "Between which years did Pakistan record extraordinary hockey conquests?",
+   [
+    "1956 and 1986",
+    "1990 and 2010",
+    "1947 and 1950",
+    "2000 and 2020"
+   ],
+   0,
+   "Pakistan recorded extraordinary hockey conquests between 1956 and 1986."
+  ],
+  [
+   6,
+   "Sportsmanship means a commitment to:",
+   [
+    "fair play, ethical behaviour and integrity",
+    "winning at any cost",
+    "arguing with referees",
+    "breaking rules"
+   ],
+   0,
+   "Sportsmanship is an understanding of and commitment to fair play, ethical behaviour and integrity."
+  ],
+  [
+   7,
+   "In the poem 'The Earth Speaks', who addresses the reader?",
+   [
+    "The sun",
+    "The turning Earth",
+    "A farmer",
+    "The moon"
+   ],
+   1,
+   "'The turning earth spoke in a somber voice.'"
+  ],
+  [
+   7,
+   "What gifts does the Earth give us in the poem?",
+   [
+    "Gold and silver",
+    "Four seasons",
+    "Rivers",
+    "Mountains"
+   ],
+   1,
+   "'Four seasons I give you,' the Earth said."
+  ],
+  [
+   7,
+   "According to the poem, spring is when the ___ bloom.",
+   [
+    "roses",
+    "lilacs",
+    "tulips",
+    "sunflowers"
+   ],
+   1,
+   "'I give you spring when the lilacs bloom.'"
+  ],
+  [
+   7,
+   "In autumn, according to the poem, the maple is:",
+   [
+    "green",
+    "red",
+    "yellow",
+    "bare"
+   ],
+   1,
+   "'I give you autumn when the maple is red.'"
+  ],
+  [
+   7,
+   "What task does the Earth give the readers?",
+   [
+    "Use each season wisely, kindly and well",
+    "Sleep through winter",
+    "Cut more trees",
+    "Travel the world"
+   ],
+   0,
+   "'Take my four gifts and use each one, use each wisely, kindly and well.'"
+  ],
+  [
+   7,
+   "A figure of speech that gives human qualities to non-human things is called:",
+   [
+    "simile",
+    "metaphor",
+    "personification",
+    "rhyme"
+   ],
+   2,
+   "Personification attributes human characteristics to non-human things, like the Earth speaking."
+  ],
+  [
+   7,
+   "'He is a fish out of water' is an example of:",
+   [
+    "simile",
+    "metaphor",
+    "personification",
+    "alliteration"
+   ],
+   1,
+   "A metaphor compares two things without using 'like' or 'as'."
+  ],
+  [
+   7,
+   "A simile compares two things using the words:",
+   [
+    "and / but",
+    "like / as",
+    "if / then",
+    "so / because"
+   ],
+   1,
+   "A simile compares two things using 'like' or 'as'."
+  ],
+  [
+   8,
+   "Who was Haji Usman?",
+   [
+    "A rich landlord",
+    "A wise old man who settled quarrels",
+    "A police officer",
+    "A teacher"
+   ],
+   1,
+   "Haji Usman was a wise old man respected for his piety, who often settled quarrels."
+  ],
+  [
+   8,
+   "Where was Haji Usman's village?",
+   [
+    "Near Lahore",
+    "Near Faisalabad",
+    "Near Multan",
+    "Near Karachi"
+   ],
+   1,
+   "He lived in a little village near Faisalabad."
+  ],
+  [
+   8,
+   "Who were the two men quarrelling?",
+   [
+    "Haroon and Salman",
+    "Hamza and Ali",
+    "Saad and Asif",
+    "Jason and Adam"
+   ],
+   0,
+   "The two men were Haroon and Salman, his neighbours."
+  ],
+  [
+   8,
+   "What was the cause of their quarrel?",
+   [
+    "Salman's tractor destroyed some of Haroon's crops",
+    "A stolen goat",
+    "A broken wall",
+    "Unpaid money"
+   ],
+   0,
+   "Salman had accidentally destroyed some of Haroon's crops by driving his tractor through his fields."
+  ],
+  [
+   8,
+   "What did Haji Usman do first to settle the quarrel?",
+   [
+    "Shouted at both",
+    "Listened to both men in turn",
+    "Called the police",
+    "Took Haroon's side"
+   ],
+   1,
+   "He knew he had to listen to them both in turn before deciding."
+  ],
+  [
+   8,
+   "In the poem about anger in Unit 8, which is a way to calm down?",
+   [
+    "Count to ten",
+    "Kick a tree",
+    "Shout at friends",
+    "Break things"
+   ],
+   0,
+   "'I can count to ten... I can breathe slow and deep' to calm myself down."
+  ],
+  [
+   9,
+   "Who first conquered Mount Everest in 1953?",
+   [
+    "Tenzing Norgay and Sir Edmund Hillary",
+    "Muhammad Ali Sadpara",
+    "Samina Baig",
+    "Nazir Sabir"
+   ],
+   0,
+   "Tenzing and Sir Edmund Hillary conquered Mount Everest in 1953."
+  ],
+  [
+   9,
+   "Why is mountaineering called a risky sport?",
+   [
+    "It involves the highest risk and danger",
+    "It is played indoors",
+    "It needs a ball",
+    "It is very easy"
+   ],
+   0,
+   "Mountain climbing is risky and dangerous, yet full of thrill and adventure."
+  ],
+  [
+   9,
+   "Which famous Pakistani climber lost his life attempting K2 in winter 2021?",
+   [
+    "Muhammad Ali Sadpara",
+    "Nazir Sabir",
+    "Ashraf Aman",
+    "Mirza Ali"
+   ],
+   0,
+   "Muhammad Ali Sadpara, who had climbed eight of the world's highest mountains, died on K2 in winter 2021."
+  ],
+  [
+   9,
+   "Why do climbers need artificial oxygen at great heights?",
+   [
+    "Oxygen becomes less, making breathing difficult",
+    "It keeps them warm",
+    "It is a rule",
+    "It helps them see"
+   ],
+   0,
+   "As one climbs up, oxygen becomes less, so artificial oxygen is essential."
+  ],
+  [
+   9,
+   "How has training in proper equipment affected mountaineering?",
+   [
+    "It has reduced the risks",
+    "It has increased the risks",
+    "It has no effect",
+    "It stopped the sport"
+   ],
+   0,
+   "Training with advanced tools and kits has reduced the risks, though lives are still lost."
+  ],
+  [
+   10,
+   "What does 'dignity of labour' mean?",
+   [
+    "Equal respect for all forms of work",
+    "Only office jobs are respectable",
+    "Manual work is shameful",
+    "Working only for money"
+   ],
+   0,
+   "Dignity of labour means equal respect for all work, including manual labour."
+  ],
+  [
+   10,
+   "According to the lesson, farmers are the ___ of every country.",
+   [
+    "enemies",
+    "backbone",
+    "guests",
+    "rulers"
+   ],
+   1,
+   "Farmers are the backbone of every country; they grow the food we eat."
+  ],
+  [
+   10,
+   "What would happen if farmers stopped cultivating crops?",
+   [
+    "Famine and starvation",
+    "More food",
+    "Cheaper prices",
+    "Nothing"
+   ],
+   0,
+   "If farmers stop cultivating crops there will be famine and starvation."
+  ],
+  [
+   10,
+   "Which crops does Ahmad's father grow?",
+   [
+    "Wheat, barley and rice",
+    "Cotton and sugarcane",
+    "Tea and coffee",
+    "Apples and grapes"
+   ],
+   0,
+   "Ahmad's father farms crops of wheat, barley and rice."
+  ],
+  [
+   10,
+   "Where did Ahmad's father study agriculture?",
+   [
+    "Faisalabad Agriculture University",
+    "Punjab University",
+    "Oxford",
+    "Government College Lahore"
+   ],
+   0,
+   "His father received an agricultural education from Faisalabad Agriculture University."
+  ],
+  [
+   10,
+   "What did Saad and his sister make in the kitchen?",
+   [
+    "A vegetable sandwich",
+    "Kheer",
+    "Pizza",
+    "Tea"
+   ],
+   0,
+   "Saad helped his little sister make a vegetable sandwich using a recipe."
+  ],
+  [
+   11,
+   "In Pakistan's flag, the white colour represents:",
+   [
+    "the Muslim majority",
+    "minorities",
+    "peace only",
+    "snow"
+   ],
+   1,
+   "The green colour represents the Muslim majority and the white represents minorities."
+  ],
+  [
+   11,
+   "When did Pakistan gain independence?",
+   [
+    "23 March 1940",
+    "14 August 1947",
+    "25 December 1947",
+    "6 September 1965"
+   ],
+   1,
+   "Pakistan gained independence on 14th August 1947."
+  ],
+  [
+   11,
+   "What is the largest lake of Pakistan, according to Alia's article?",
+   [
+    "Saif-ul-Malook",
+    "Manchar Lake",
+    "Keenjhar Lake",
+    "Attabad Lake"
+   ],
+   1,
+   "The article lists Manchar Lake as the largest lake."
+  ],
+  [
+   11,
+   "What is the longest river of Pakistan?",
+   [
+    "Jhelum",
+    "Chenab",
+    "The Indus River",
+    "Ravi"
+   ],
+   2,
+   "The Indus River is the longest river of Pakistan."
+  ],
+  [
+   11,
+   "What is the height of K-2 given in the article?",
+   [
+    "8,611 m",
+    "8,848 m",
+    "7,788 m",
+    "8,126 m"
+   ],
+   0,
+   "Highest Mountain: K-2, 8,611 m."
+  ],
+  [
+   11,
+   "Which dam of Pakistan is the world's largest earth-filled dam?",
+   [
+    "Mangla Dam",
+    "Tarbela Dam",
+    "Warsak Dam",
+    "Diamer Bhasha Dam"
+   ],
+   1,
+   "Tarbela Dam is the world's largest earth-filled dam."
+  ],
+  [
+   11,
+   "Which of these is NOT listed among the top places to visit in the article?",
+   [
+    "Hunza Valley",
+    "Kalash Valley",
+    "Margala Hills",
+    "Thar Desert"
+   ],
+   3,
+   "The list includes Swat, Hunza, Yarkhun and Kalash Valleys and Margala Hills."
+  ],
+  [
+   11,
+   "What is the official name of Pakistan?",
+   [
+    "Republic of Pakistan",
+    "Islamic Republic of Pakistan",
+    "Federal State of Pakistan",
+    "Kingdom of Pakistan"
+   ],
+   1,
+   "The official name is the Islamic Republic of Pakistan."
+  ]
+ ]
+}

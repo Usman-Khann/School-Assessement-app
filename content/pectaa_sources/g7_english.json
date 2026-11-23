@@ -1,0 +1,1045 @@
+{
+ "key": "g7_english",
+ "grade": 7,
+ "subject": "English",
+ "language": "en",
+ "title": "English 7 (PECTAA, SNC 2022)",
+ "offset": 0,
+ "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+ "chapters": [
+  [
+   1,
+   "The Last Sermon of Rasoolullah (PBUH)",
+   8
+  ],
+  [
+   2,
+   "Martyrs of Pakistan",
+   19
+  ],
+  [
+   3,
+   "A Nation's Strength (Poem)",
+   29
+  ],
+  [
+   4,
+   "Quaid-e-Azam",
+   39
+  ],
+  [
+   5,
+   "Smog",
+   48
+  ],
+  [
+   6,
+   "Pakistani Female Mountaineer",
+   57
+  ],
+  [
+   7,
+   "Eid-ul-Adha",
+   69
+  ],
+  [
+   8,
+   "The Wise Old Woman",
+   79
+  ],
+  [
+   9,
+   "Think Not All is Over (Poem)",
+   91
+  ],
+  [
+   10,
+   "The Young Boy's Adventure",
+   101
+  ],
+  [
+   11,
+   "Pakistani Culture",
+   110
+  ],
+  [
+   12,
+   "Role of the Media",
+   125
+  ]
+ ],
+ "questions": [
+  [
+   1,
+   "On which date did Hazrat Muhammad (PBUH) deliver his Last Sermon?",
+   [
+    "9th Dhul Hijjah",
+    "10th Muharram",
+    "1st Shawwal",
+    "27th Ramadan"
+   ],
+   0,
+   "He delivered the Last Sermon on the ninth of Dhul Hijjah, 10 years after Hijrat."
+  ],
+  [
+   1,
+   "Where was the Last Sermon delivered?",
+   [
+    "Masjid-e-Nabvi",
+    "Uranah valley of Mount Arafat",
+    "Taif",
+    "Mount Hira"
+   ],
+   1,
+   "It was delivered in the Uranah valley of Mount Arafat."
+  ],
+  [
+   1,
+   "In which year after Hijrat was the Last Sermon delivered?",
+   [
+    "2 A.H.",
+    "8 A.H.",
+    "10 A.H.",
+    "13 A.H."
+   ],
+   2,
+   "It was delivered 10 years after Hijrat."
+  ],
+  [
+   1,
+   "In the Last Sermon, what did the Holy Prophet (PBUH) declare sacred?",
+   [
+    "Only wealth",
+    "Life, property and honour of every Muslim",
+    "Only the Kaaba",
+    "Trade"
+   ],
+   1,
+   "He said your blood, property and honour are as sacred as this day, this month and this city."
+  ],
+  [
+   1,
+   "What did the Holy Prophet (PBUH) say about usury (riba)?",
+   [
+    "It is allowed",
+    "It is forbidden",
+    "It is for traders only",
+    "It is a duty"
+   ],
+   1,
+   "'Usury is forbidden' — he began by remitting the interest due to Abbas bin Abdul-Muttalib."
+  ],
+  [
+   1,
+   "Whose interest claims did the Prophet (PBUH) remit first?",
+   [
+    "Abu Sufyan",
+    "Abbas bin Abdul-Muttalib",
+    "Abu Lahab",
+    "Ibn Rabi'ah"
+   ],
+   1,
+   "He remitted entirely the interest Abbas bin Abdul-Muttalib had to receive."
+  ],
+  [
+   1,
+   "Regarding women, the Holy Prophet (PBUH) said:",
+   [
+    "Fear Allah concerning women",
+    "Women have no rights",
+    "Women must not work",
+    "Ignore women"
+   ],
+   0,
+   "'O people! Fear Allah concerning women' — he stressed their rights."
+  ],
+  [
+   1,
+   "The Last Sermon told Muslims to worship Allah, offer five prayers, fast in Ramadan and:",
+   [
+    "pay Zakat",
+    "build houses",
+    "travel",
+    "trade"
+   ],
+   0,
+   "He recommended five prayers, fasting in Ramadan and paying Zakat."
+  ],
+  [
+   2,
+   "Major Tufail Muhammad was given the task of retrieving which village?",
+   [
+    "Lakshmipur",
+    "Kunjah",
+    "Sulemanki",
+    "Hoshiarpur"
+   ],
+   0,
+   "He was assigned to retrieve the village Lakshmipur in East Pakistan from Indian occupation."
+  ],
+  [
+   2,
+   "When did Major Tufail Muhammad embrace martyrdom?",
+   [
+    "7th August 1958",
+    "6th September 1965",
+    "3rd December 1971",
+    "14th August 1947"
+   ],
+   0,
+   "He embraced martyrdom on 7th August 1958."
+  ],
+  [
+   2,
+   "Into how many groups did Major Tufail divide his men?",
+   [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   1,
+   "He divided his men into three groups."
+  ],
+  [
+   2,
+   "Rashid Minhas was the only officer of which force to receive the Nishan-e-Haider?",
+   [
+    "Pakistan Navy",
+    "Pakistan Air Force",
+    "Pakistan Army",
+    "Rangers"
+   ],
+   1,
+   "Rashid Minhas was the only PAF officer to receive the Nishan-e-Haider."
+  ],
+  [
+   2,
+   "When was Rashid Minhas born?",
+   [
+    "17th February 1951",
+    "22nd June 1914",
+    "28th April 1943",
+    "20th August 1971"
+   ],
+   0,
+   "He was born on 17th February 1951."
+  ],
+  [
+   2,
+   "Rashid Minhas is the youngest person to receive the:",
+   [
+    "Sword of Honour",
+    "Nishan-e-Haider",
+    "Hilal-e-Jurat",
+    "Sitara-e-Imtiaz"
+   ],
+   1,
+   "He was the youngest and shortest-serving officer to receive the Nishan-e-Haider."
+  ],
+  [
+   2,
+   "On which date did Rashid Minhas's training flight incident happen?",
+   [
+    "20th August 1971",
+    "6th September 1965",
+    "23rd March 1956",
+    "7th August 1958"
+   ],
+   0,
+   "On August 20, 1971, his instructor tried to seize control of the aircraft."
+  ],
+  [
+   2,
+   "Where did Rashid Minhas join as a flying cadet?",
+   [
+    "PAF Academy Risalpur",
+    "PMA Kakul",
+    "Naval Academy Karachi",
+    "Lahore"
+   ],
+   0,
+   "At 17 he joined the Pakistan Air Force Academy in Risalpur as a flying cadet."
+  ],
+  [
+   3,
+   "According to the poem 'A Nation's Strength', what does NOT make a nation strong?",
+   [
+    "Brave men",
+    "Gold",
+    "Honest people",
+    "Men who work"
+   ],
+   1,
+   "'It is not gold' — kingdoms built on gold go down in battle shock."
+  ],
+  [
+   3,
+   "In the poem, kingdoms built on gold have their shafts laid on:",
+   [
+    "abiding rock",
+    "sinking sand",
+    "green grass",
+    "strong steel"
+   ],
+   1,
+   "'Its shafts are laid on sinking sand, not on abiding rock.'"
+  ],
+  [
+   3,
+   "What does the poet say about the sword?",
+   [
+    "It builds lasting nations",
+    "Empires built on it passed away into red dust",
+    "It is the greatest strength",
+    "It brings peace"
+   ],
+   1,
+   "'Ask the red dust of empires passed away' — the sword did not keep empires alive."
+  ],
+  [
+   3,
+   "Who builds a nation's pillars deep, according to the poem?",
+   [
+    "Kings",
+    "Men who work while others sleep",
+    "Rich traders",
+    "Soldiers only"
+   ],
+   1,
+   "'Brave men who work while others sleep, who dare while others fly, they build a nation's pillars deep.'"
+  ],
+  [
+   3,
+   "The central idea of 'A Nation's Strength' is that a nation's true strength lies in:",
+   [
+    "its wealth",
+    "its weapons",
+    "its honest and brave people",
+    "its pride"
+   ],
+   2,
+   "Not gold, sword or pride, but men of truth and honour make a nation strong."
+  ],
+  [
+   3,
+   "The word 'throng' means:",
+   [
+    "a single person",
+    "a large, densely packed crowd",
+    "a weapon",
+    "a building"
+   ],
+   1,
+   "The glossary defines throng as a large, densely packed crowd of people."
+  ],
+  [
+   4,
+   "When and where was Quaid-e-Azam born?",
+   [
+    "25 December 1876, Karachi",
+    "14 August 1947, Lahore",
+    "9 November 1877, Sialkot",
+    "11 September 1948, Karachi"
+   ],
+   0,
+   "Muhammad Ali Jinnah was born on December 25, 1876 in Karachi."
+  ],
+  [
+   4,
+   "Why was Muhammad Ali Jinnah called Quaid-e-Azam?",
+   [
+    "For his wealth",
+    "For his far-sightedness and leadership qualities",
+    "For his poetry",
+    "For his sports"
+   ],
+   1,
+   "He was known as Quaid-e-Azam because of his far-sightedness and leadership qualities."
+  ],
+  [
+   4,
+   "In his early politics, Jinnah was a proponent of:",
+   [
+    "Hindu-Muslim unity",
+    "British rule",
+    "partition of Punjab only",
+    "war"
+   ],
+   0,
+   "In the early days of his politics he was a proponent of Hindu-Muslim unity."
+  ],
+  [
+   4,
+   "In which year did the Congress agree to a separate electorate after the Lucknow Pact?",
+   [
+    "1906",
+    "1916",
+    "1929",
+    "1940"
+   ],
+   1,
+   "The Congress agreed to a separate electorate for the first time in 1916, after the Lucknow Pact."
+  ],
+  [
+   4,
+   "Quaid-e-Azam's Fourteen Points were presented in reaction to:",
+   [
+    "the Lucknow Pact",
+    "the Nehru Report",
+    "the Lahore Resolution",
+    "the Round Table Conference"
+   ],
+   1,
+   "The famous Fourteen Points were introduced in reaction to the Nehru Report."
+  ],
+  [
+   4,
+   "Where were the Round Table Conferences held (1930-32)?",
+   [
+    "Delhi",
+    "London",
+    "Lahore",
+    "Bombay"
+   ],
+   1,
+   "The Round Table Conferences were held in London from 1930 to 1932."
+  ],
+  [
+   4,
+   "The idea that Hindus and Muslims are two separate nations is called the:",
+   [
+    "Two-Nation Theory",
+    "Fourteen Points",
+    "Nehru Report",
+    "Lucknow Pact"
+   ],
+   0,
+   "Quaid-e-Azam was well aware of the Two-Nation Theory: Hindus and Muslims are two nations."
+  ],
+  [
+   5,
+   "Smog is a mixture of:",
+   [
+    "smoke and fog",
+    "rain and dust",
+    "snow and ice",
+    "sand and wind"
+   ],
+   0,
+   "The word smog was coined from a mixture of smoke and fog."
+  ],
+  [
+   5,
+   "In which months does smog slow down everything in Punjab?",
+   [
+    "June and July",
+    "December and January",
+    "March and April",
+    "August and September"
+   ],
+   1,
+   "During December and January smog slows down everything."
+  ],
+  [
+   5,
+   "Which province of Pakistan is most affected by smog?",
+   [
+    "Sindh",
+    "Punjab",
+    "Balochistan",
+    "Khyber Pakhtunkhwa"
+   ],
+   1,
+   "Punjab is the most affected out of all provinces."
+  ],
+  [
+   5,
+   "Which city, once called the city of gardens, has been named one of the most polluted cities?",
+   [
+    "Karachi",
+    "Lahore",
+    "Multan",
+    "Quetta"
+   ],
+   1,
+   "Lahore, the provincial capital, has been called one of the most polluted cities in the world."
+  ],
+  [
+   5,
+   "Why has the problem of smog intensified in recent decades?",
+   [
+    "Industrialisation and thousands of vehicles",
+    "More trees",
+    "Less rainfall only",
+    "More schools"
+   ],
+   0,
+   "Rapid industrialisation and thousands of vehicles have intensified the problem."
+  ],
+  [
+   5,
+   "Which disease can smog cause?",
+   [
+    "Asthma",
+    "Chickenpox",
+    "Measles",
+    "Typhoid"
+   ],
+   0,
+   "Smog particles cause diseases including asthma, strokes, heart attacks and lung cancer."
+  ],
+  [
+   5,
+   "According to the lesson, poor air quality results in:",
+   [
+    "better mental health",
+    "poor mental health",
+    "no effect on health",
+    "stronger bones"
+   ],
+   1,
+   "The better the air quality, the better our mental health; poor air quality harms it."
+  ],
+  [
+   6,
+   "Samina Baig is the first Pakistani woman to reach the top of which peak (2nd highest in the world)?",
+   [
+    "Nanga Parbat",
+    "K2",
+    "Tirich Mir",
+    "Rakaposhi"
+   ],
+   1,
+   "She reached the top of the 8611-metre K2, the 2nd highest peak in the world."
+  ],
+  [
+   6,
+   "In which year did Samina Baig climb Mount Everest?",
+   [
+    "2010",
+    "2013",
+    "2016",
+    "2020"
+   ],
+   1,
+   "In 2013 Samina became the first Pakistani woman to climb Mount Everest."
+  ],
+  [
+   6,
+   "Who trained Samina Baig in mountaineering?",
+   [
+    "Her father",
+    "Her brother Mirza Ali",
+    "Her teacher",
+    "A foreign coach"
+   ],
+   1,
+   "She was trained in mountaineering by her brother Mirza Ali."
+  ],
+  [
+   6,
+   "How many summits on seven continents did Samina Baig scale?",
+   [
+    "Three",
+    "Five",
+    "Seven",
+    "Nine"
+   ],
+   2,
+   "She is the only Pakistani woman to scale the seven summits on seven continents, in eight months."
+  ],
+  [
+   6,
+   "Aconcagua, climbed by Samina Baig, is the highest peak in:",
+   [
+    "Africa",
+    "South America",
+    "Europe",
+    "Asia"
+   ],
+   1,
+   "Aconcagua in Argentina is the highest peak in South America."
+  ],
+  [
+   6,
+   "Mount Kilimanjaro is the highest peak in:",
+   [
+    "Africa",
+    "Antarctica",
+    "North America",
+    "Australia"
+   ],
+   0,
+   "Mount Kilimanjaro in Tanzania is the highest peak in Africa."
+  ],
+  [
+   6,
+   "Why did Mirza Ali let his sister reach the Everest summit alone?",
+   [
+    "He was tired",
+    "To present a message of empowerment to the women of Pakistan",
+    "He was ill",
+    "He was afraid"
+   ],
+   1,
+   "He stopped short to present a message of empowerment to all women of Pakistan."
+  ],
+  [
+   7,
+   "The word 'Adha' is an Arabic word meaning:",
+   [
+    "festival",
+    "sacrifice",
+    "prayer",
+    "feast"
+   ],
+   1,
+   "Adha is an Arabic word for sacrifice."
+  ],
+  [
+   7,
+   "What did Allah send instead of Hazrat Ismail (AS) to be sacrificed?",
+   [
+    "A camel",
+    "A ram",
+    "A cow",
+    "A goat"
+   ],
+   1,
+   "Allah sent the angel Jibrail with a ram to sacrifice instead of his son."
+  ],
+  [
+   7,
+   "Who tried to stop Hazrat Ibrahim (AS) from obeying Allah's command?",
+   [
+    "His neighbours",
+    "Satan",
+    "His wife",
+    "A king"
+   ],
+   1,
+   "Satan attempted to confuse and tempt Hazrat Ibrahim, but he drove him away."
+  ],
+  [
+   7,
+   "About how long after Eid-ul-Fitr does Eid-ul-Adha come?",
+   [
+    "Two weeks",
+    "About two months",
+    "Six months",
+    "One year"
+   ],
+   1,
+   "Eid-ul-Adha takes place about two months after Eid-ul-Fitr."
+  ],
+  [
+   7,
+   "How is the meat of the sacrificial animal divided?",
+   [
+    "All kept at home",
+    "Equally among family, friends and the needy",
+    "Sold in the market",
+    "Given only to friends"
+   ],
+   1,
+   "The meat is divided equally among family, friends and the needy."
+  ],
+  [
+   7,
+   "Which two children ask their parents questions about Eid-ul-Adha?",
+   [
+    "Zainab and Saliha",
+    "Sara and Ahsan",
+    "Shiza and Tania",
+    "Hafsa and Hina"
+   ],
+   0,
+   "Zainab and Saliha ask their parents different questions about the festival."
+  ],
+  [
+   8,
+   "In which country is 'The Wise Old Woman' set?",
+   [
+    "China",
+    "Japan",
+    "Pakistan",
+    "Egypt"
+   ],
+   1,
+   "The story is set in a small village in the western hills of Japan."
+  ],
+  [
+   8,
+   "What was the cruel lord's decree?",
+   [
+    "Everyone must pay tax",
+    "Anyone over seventy-one must be left in the mountains",
+    "Children cannot play",
+    "Farmers must leave"
+   ],
+   1,
+   "Anyone over seventy-one was to be banished and left in the mountains to die."
+  ],
+  [
+   8,
+   "Why did the old mother break off twigs on the way up the mountain?",
+   [
+    "To make a fire",
+    "To mark the way so her son would not get lost",
+    "To build a hut",
+    "To feed animals"
+   ],
+   1,
+   "She said she was marking the way so her son would not get lost returning."
+  ],
+  [
+   8,
+   "Where did the farmer hide his mother?",
+   [
+    "In the barn",
+    "In a secret room dug under the kitchen floor",
+    "In a cave",
+    "At a neighbour's house"
+   ],
+   1,
+   "He dug a deep hole in the kitchen floor and made a small room to hide her."
+  ],
+  [
+   8,
+   "Which lord threatened to conquer the village?",
+   [
+    "Lord Higa",
+    "Lord Taro",
+    "Lord Kenji",
+    "Lord Shan"
+   ],
+   0,
+   "Lord Higa of the town beyond the hills threatened to take the village."
+  ],
+  [
+   8,
+   "How did the old woman make a drum that sounds without being beaten?",
+   [
+    "Fill it with water",
+    "Put a bumblebee inside a paper drum",
+    "Hang it in the wind",
+    "Fill it with stones"
+   ],
+   1,
+   "Make a drum with paper sides and put a bumblebee inside; as it tries to escape it beats the sides."
+  ],
+  [
+   8,
+   "What did the young lord realise at the end?",
+   [
+    "Old people are useless",
+    "He had been very wrong; the old are wise",
+    "He should leave the village",
+    "He needs more soldiers"
+   ],
+   1,
+   "He said, 'I have been very wrong' and learned that the old woman was wiser than all his wise men."
+  ],
+  [
+   9,
+   "Who wrote the poem 'Think Not All is Over'?",
+   [
+    "Harriet Stowe",
+    "William Yeats",
+    "Robert Frost",
+    "Julia Carney"
+   ],
+   0,
+   "The poem is by Harriet Stowe."
+  ],
+  [
+   9,
+   "What returns after autumn, according to the poem?",
+   [
+    "Winter",
+    "Spring",
+    "Night",
+    "Rain"
+   ],
+   1,
+   "'Think not all is over, spring returneth; buds and leaves and blossoms thou shalt see.'"
+  ],
+  [
+   9,
+   "What sleeps in the frozen buds of every winter?",
+   [
+    "Birds",
+    "The blossoms of a future flower",
+    "Snow",
+    "Insects"
+   ],
+   1,
+   "'In the frozen buds of every winter sleep the blossoms of a future flower.'"
+  ],
+  [
+   9,
+   "'For a night alone endureth, God at last shall bring a ___ hour.'",
+   [
+    "dark",
+    "morning",
+    "winter",
+    "sad"
+   ],
+   1,
+   "Night does not last; God at last shall bring a morning hour."
+  ],
+  [
+   9,
+   "The main message of 'Think Not All is Over' is:",
+   [
+    "Never lose hope; bad times pass",
+    "Autumn is the best season",
+    "Birds leave forever",
+    "Winter never ends"
+   ],
+   0,
+   "The poem teaches hope: after hardship, good times return."
+  ],
+  [
+   9,
+   "The word 'wailing' means:",
+   [
+    "laughing loudly",
+    "crying with pain, grief or anger",
+    "singing sweetly",
+    "whispering"
+   ],
+   1,
+   "The glossary gives wailing as crying with pain, grief or anger."
+  ],
+  [
+   10,
+   "What was the name of the boy's father's business?",
+   [
+    "Glenn Plumbing Company",
+    "Herschel Motors",
+    "Cambridge Airlines",
+    "Columbus Farms"
+   ],
+   0,
+   "His father owned the Glenn Plumbing Company."
+  ],
+  [
+   10,
+   "What was the boy called by his family?",
+   [
+    "Bud",
+    "Lindy",
+    "Herschel",
+    "Jack"
+   ],
+   0,
+   "His father asked, 'You want to go up, Bud?'"
+  ],
+  [
+   10,
+   "How old was the boy when he first flew in a plane?",
+   [
+    "Five",
+    "Eight",
+    "Twelve",
+    "Sixteen"
+   ],
+   1,
+   "It was the summer he turned eight."
+  ],
+  [
+   10,
+   "What kind of plane did they fly in?",
+   [
+    "A jet",
+    "An old open-cockpit biplane",
+    "A helicopter",
+    "A glider"
+   ],
+   1,
+   "A man had an old open-cockpit biplane and was taking people up."
+  ],
+  [
+   10,
+   "Which famous pilot had crossed the Atlantic Ocean two years earlier?",
+   [
+    "Charles Lindbergh",
+    "Wright brothers",
+    "Amelia Earhart",
+    "Rashid Minhas"
+   ],
+   0,
+   "Everybody knew about Charles Lindbergh's Atlantic crossing flight two years earlier."
+  ],
+  [
+   10,
+   "How did the boy feel after the flight?",
+   [
+    "Scared and sick",
+    "Elated",
+    "Bored",
+    "Angry"
+   ],
+   1,
+   "When he got out of the plane he was elated."
+  ],
+  [
+   10,
+   "From the air, the buildings looked like:",
+   [
+    "mountains",
+    "a toy train set in a store",
+    "giant trees",
+    "clouds"
+   ],
+   1,
+   "Everything on the ground looked small, like a train set in a store."
+  ],
+  [
+   11,
+   "According to Allama Iqbal, culture encompasses all the:",
+   [
+    "only food and dress",
+    "mental, spiritual and physical activities of a nation",
+    "only festivals",
+    "only language"
+   ],
+   1,
+   "Iqbal said culture encompasses all the mental, spiritual and physical activities of a nation."
+  ],
+  [
+   11,
+   "Pakistani culture is mainly inspired by:",
+   [
+    "Islam",
+    "Western films",
+    "Ancient Rome",
+    "Sports"
+   ],
+   0,
+   "Pakistan is an ideological Islamic state, and its culture is inspired by Islam."
+  ],
+  [
+   11,
+   "About what percentage of Pakistanis speak Punjabi as a first language, according to the lesson?",
+   [
+    "14%",
+    "24%",
+    "44%",
+    "64%"
+   ],
+   2,
+   "Punjabi is spoken as a first language by 44% of Pakistanis."
+  ],
+  [
+   11,
+   "Phulkari is associated with the costumes of:",
+   [
+    "Sindh",
+    "Punjab",
+    "Balochistan",
+    "Gilgit-Baltistan"
+   ],
+   1,
+   "Punjab is known for the use of phulkari in its costumes."
+  ],
+  [
+   11,
+   "Which is a traditional Punjabi dish mentioned in the lesson?",
+   [
+    "Sarson ka saag and makai ki roti",
+    "Sajji",
+    "Chapli kabab",
+    "Kahwa"
+   ],
+   0,
+   "Dishes exclusive to Punjab include parathas, makai ki roti and sarson ka saag."
+  ],
+  [
+   11,
+   "Which sports are Punjabis especially fond of, according to the lesson?",
+   [
+    "Kabaddi and wrestling",
+    "Skiing",
+    "Polo only",
+    "Surfing"
+   ],
+   0,
+   "Punjabi people are fond of kabaddi and wrestling."
+  ],
+  [
+   12,
+   "Media is known as the ___ pillar of democracy.",
+   [
+    "first",
+    "second",
+    "third",
+    "fourth"
+   ],
+   3,
+   "Media is known as the fourth pillar of democracy."
+  ],
+  [
+   12,
+   "Media is considered the ___ of modern society.",
+   [
+    "enemy",
+    "mirror",
+    "teacher only",
+    "wall"
+   ],
+   1,
+   "Media is considered the mirror of modern society."
+  ],
+  [
+   12,
+   "Where do newspapers usually publish public opinion?",
+   [
+    "In letters to the editor",
+    "In the sports page",
+    "In cartoons only",
+    "In weather reports"
+   ],
+   0,
+   "Public opinion is reflected in letters to the editor, published on a separate page."
+  ],
+  [
+   12,
+   "Electronic media was born with the invention of the:",
+   [
+    "television",
+    "radio",
+    "internet",
+    "printing press"
+   ],
+   1,
+   "The birth of electronic media took place with the invention of the radio."
+  ],
+  [
+   12,
+   "Which of these is a social media network named in the lesson?",
+   [
+    "Facebook",
+    "Dawn newspaper",
+    "PTV",
+    "Radio Pakistan"
+   ],
+   0,
+   "Facebook, YouTube, Twitter and Instagram are named as social media networks."
+  ],
+  [
+   12,
+   "Print media provides great incentive to business through:",
+   [
+    "advertisements",
+    "sports news",
+    "poems",
+    "weather"
+   ],
+   0,
+   "Print media helps business through a large number of advertisements."
+  ]
+ ]
+}

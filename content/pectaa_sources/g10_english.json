@@ -1,0 +1,886 @@
+{
+ "key": "g10_english",
+ "grade": 10,
+ "subject": "English",
+ "language": "en",
+ "title": "English 10 (PECTAA)",
+ "offset": 0,
+ "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+ "chapters": [
+  [
+   1,
+   "Hazrat Muhammad's (PBUH) Social Reforms for the Rights of Women, Orphans and Slaves",
+   5
+  ],
+  [
+   2,
+   "My Beloved Pakistan",
+   20
+  ],
+  [
+   3,
+   "Digital Globalisation Transforming the English Language",
+   30
+  ],
+  [
+   4,
+   "The Earth: Act Now for Tomorrow",
+   42
+  ],
+  [
+   5,
+   "The Happy Prince",
+   52
+  ],
+  [
+   6,
+   "Drug Abuse",
+   67
+  ],
+  [
+   7,
+   "Pollution-Free Pakistan with Greenery All Around",
+   84
+  ],
+  [
+   8,
+   "The Road Not Taken (Poem)",
+   95
+  ],
+  [
+   9,
+   "The Three Questions",
+   107
+  ]
+ ],
+ "questions": [
+  [
+   1,
+   "Which three groups did the Holy Prophet's (PBUH) social reforms mainly uplift?",
+   [
+    "Women, orphans and slaves",
+    "Traders, poets and soldiers",
+    "Kings, chiefs and priests",
+    "Farmers, sailors and builders"
+   ],
+   0,
+   "His groundbreaking reforms uplifted women, orphans and slaves."
+  ],
+  [
+   1,
+   "In pre-Islamic Arabia, what cruel practice was done to some newborn girls?",
+   [
+    "They were buried alive",
+    "They were sent abroad",
+    "They were crowned",
+    "They were educated"
+   ],
+   0,
+   "Women were deprived of basic rights and some newborn girls were buried alive."
+  ],
+  [
+   1,
+   "According to Qur'an 49:13, the noblest person in Allah's sight is the one who is:",
+   [
+    "richest",
+    "best in piety and righteousness",
+    "strongest",
+    "from a high tribe"
+   ],
+   1,
+   "'The noblest of you in Allah's sight is the one best in piety, righteousness and reverence.'"
+  ],
+  [
+   1,
+   "Which right did Islam give women regarding property?",
+   [
+    "To own and inherit property",
+    "No property rights",
+    "Only to rent",
+    "Only through brothers"
+   ],
+   0,
+   "The Qur'an (An-Nisa 4:7) gave women a share of inheritance."
+  ],
+  [
+   1,
+   "What did the Holy Prophet (PBUH) say was necessary for a valid marriage?",
+   [
+    "The woman's consent",
+    "Large dowry",
+    "Tribal approval only",
+    "A written contract only"
+   ],
+   0,
+   "Women could not be forced into marriage; her consent was a necessary condition."
+  ],
+  [
+   1,
+   "'Seeking knowledge is obligatory upon every ___.'",
+   [
+    "man only",
+    "Muslim",
+    "scholar",
+    "king"
+   ],
+   1,
+   "He encouraged both men and women to seek knowledge: it is obligatory upon every Muslim."
+  ],
+  [
+   1,
+   "The word 'emancipation' means:",
+   [
+    "the act of being freed from restrictions, especially slavery",
+    "punishment",
+    "marriage",
+    "trade"
+   ],
+   0,
+   "Emancipation is the act of being freed from restrictions, especially from slavery."
+  ],
+  [
+   1,
+   "A 'patriarchal' society is one where:",
+   [
+    "men hold primary power and dominate",
+    "women rule",
+    "children decide",
+    "there is no government"
+   ],
+   0,
+   "A patriarchal social system is one where men hold primary power."
+  ],
+  [
+   2,
+   "In 'My Beloved Pakistan', the poet compares the flag to:",
+   [
+    "a beacon in the night",
+    "a bright flower",
+    "a river",
+    "a mountain"
+   ],
+   0,
+   "'Your flag of green and star so white, shines like a beacon in the night.'"
+  ],
+  [
+   2,
+   "Which part of Pakistan is described as having snowy peaks?",
+   [
+    "The mighty North",
+    "The South",
+    "The East",
+    "The coast"
+   ],
+   0,
+   "'From snowy peaks of mighty North, to deserts glowing in the South.'"
+  ],
+  [
+   2,
+   "What is described as glowing in the South?",
+   [
+    "Deserts",
+    "Rivers",
+    "Forests",
+    "Cities"
+   ],
+   0,
+   "The poem speaks of 'deserts glowing in the South'."
+  ],
+  [
+   2,
+   "What does the poet encourage young people to do for Pakistan?",
+   [
+    "Work, learn and stand united",
+    "Memorise poetry only",
+    "Plant trees only",
+    "Leave the country"
+   ],
+   0,
+   "'We'll work, we'll learn, we'll stand' — the poem inspires unity, learning and service."
+  ],
+  [
+   2,
+   "The main theme of 'My Beloved Pakistan' is:",
+   [
+    "patriotism and love for the country",
+    "hard work only",
+    "nature only",
+    "friendship"
+   ],
+   0,
+   "The poem celebrates the beauty and spirit of Pakistan and expresses deep love for the land."
+  ],
+  [
+   2,
+   "The word 'beacon' means:",
+   [
+    "a light serving as a signal",
+    "a type of tree",
+    "a river bank",
+    "a song"
+   ],
+   0,
+   "A beacon is a light or visible object serving as a signal."
+  ],
+  [
+   2,
+   "The word 'soar' means:",
+   [
+    "fly or rise high in the air",
+    "sink",
+    "sleep",
+    "cry"
+   ],
+   0,
+   "To soar is to fly or rise high in the air."
+  ],
+  [
+   3,
+   "Newly coined words like 'hashtag' and 'unfriend' are called:",
+   [
+    "neologisms",
+    "synonyms",
+    "antonyms",
+    "idioms"
+   ],
+   0,
+   "Neologisms are newly coined words, many born on the internet and social media."
+  ],
+  [
+   3,
+   "What does the abbreviation 'DM' stand for?",
+   [
+    "Direct message",
+    "Daily mail",
+    "Digital media",
+    "Data memory"
+   ],
+   0,
+   "'DM' means direct message."
+  ],
+  [
+   3,
+   "A 'lingua franca' is:",
+   [
+    "a bridge language between speakers of different native languages",
+    "a French dish",
+    "a dead language",
+    "a type of grammar"
+   ],
+   0,
+   "English is a global lingua franca: a bridge language between speakers of different tongues."
+  ],
+  [
+   3,
+   "Mixing English with one's native language in online spaces is called:",
+   [
+    "code-switching",
+    "translation",
+    "spelling",
+    "punctuation"
+   ],
+   0,
+   "Mixing languages in conversation is called code-switching."
+  ],
+  [
+   3,
+   "'Taglish' is a hybrid of English and:",
+   [
+    "Tagalog",
+    "Tamil",
+    "Turkish",
+    "Thai"
+   ],
+   0,
+   "Taglish = Tagalog + English."
+  ],
+  [
+   3,
+   "Why have abbreviations like 'LOL' become popular?",
+   [
+    "Need for speed and efficiency in communication",
+    "Grammar rules",
+    "Teachers' advice",
+    "Old traditions"
+   ],
+   0,
+   "These terms were born out of the need for speed and efficiency."
+  ],
+  [
+   3,
+   "Digital globalisation has led to a more ___ approach to grammar in texting and tweeting.",
+   [
+    "relaxed",
+    "strict",
+    "ancient",
+    "formal"
+   ],
+   0,
+   "Texting and tweeting have created a more relaxed approach to sentence structure and punctuation."
+  ],
+  [
+   4,
+   "'Climate action' refers to efforts to:",
+   [
+    "reduce greenhouse gas emissions and protect the environment",
+    "build more factories",
+    "cut more trees",
+    "burn more fuel"
+   ],
+   0,
+   "Climate action means efforts to reduce greenhouse gases, adapt and protect the environment."
+  ],
+  [
+   4,
+   "Burning fossil fuels for energy releases which gas?",
+   [
+    "Oxygen",
+    "Carbon dioxide (CO2)",
+    "Hydrogen",
+    "Helium"
+   ],
+   1,
+   "The burning of fossil fuels releases carbon dioxide."
+  ],
+  [
+   4,
+   "The rise in Earth's average temperature caused by greenhouse gases trapping heat is called:",
+   [
+    "global warming",
+    "acid rain",
+    "earthquake",
+    "eclipse"
+   ],
+   0,
+   "Greenhouse gases trap heat, raising the average temperature: global warming."
+  ],
+  [
+   4,
+   "Since when have human activities especially disrupted the balance of gases?",
+   [
+    "Since the Industrial Revolution",
+    "Since the Stone Age",
+    "Since 2020 only",
+    "Since the invention of radio"
+   ],
+   0,
+   "Especially since the Industrial Revolution, human activities have disrupted this balance."
+  ],
+  [
+   4,
+   "In which year was the Paris Agreement signed?",
+   [
+    "2005",
+    "2010",
+    "2015",
+    "2020"
+   ],
+   2,
+   "The most notable agreement, the Paris Agreement, was signed in 2015."
+  ],
+  [
+   4,
+   "Under the Paris Agreement, countries try to keep warming below:",
+   [
+    "1.5 C",
+    "5 C",
+    "10 C",
+    "0 C"
+   ],
+   0,
+   "They committed to limit warming well below 2 C, aiming for below 1.5 C."
+  ],
+  [
+   4,
+   "Who is disproportionately affected by climate change?",
+   [
+    "Poor and developing countries",
+    "Only rich countries",
+    "Only cold countries",
+    "No one"
+   ],
+   0,
+   "Climate change hits poor and developing countries hardest, though they contribute least."
+  ],
+  [
+   4,
+   "Melting glaciers lead to:",
+   [
+    "rising sea levels",
+    "more deserts only",
+    "cooler summers",
+    "fewer floods"
+   ],
+   0,
+   "Glaciers melting at alarming rates lead to rising sea levels."
+  ],
+  [
+   5,
+   "Who wrote 'The Happy Prince'?",
+   [
+    "Oscar Wilde",
+    "Leo Tolstoy",
+    "Charles Dickens",
+    "Robert Frost"
+   ],
+   0,
+   "'The Happy Prince' is by Oscar Wilde."
+  ],
+  [
+   5,
+   "What were the Happy Prince's eyes made of?",
+   [
+    "Rubies",
+    "Two bright sapphires",
+    "Diamonds",
+    "Pearls"
+   ],
+   1,
+   "For eyes he had two bright sapphires."
+  ],
+  [
+   5,
+   "What glowed on the Happy Prince's sword-hilt?",
+   [
+    "A large red ruby",
+    "An emerald",
+    "A sapphire",
+    "A pearl"
+   ],
+   0,
+   "A large red ruby glowed on his sword-hilt."
+  ],
+  [
+   5,
+   "Where had the Swallow's friends gone?",
+   [
+    "To Egypt",
+    "To India",
+    "To China",
+    "To Africa"
+   ],
+   0,
+   "His friends had gone away to Egypt six weeks before."
+  ],
+  [
+   5,
+   "Why did drops of water fall on the Swallow though there were no clouds?",
+   [
+    "The Happy Prince was weeping",
+    "It was raining",
+    "A fountain was nearby",
+    "Children were playing"
+   ],
+   0,
+   "The eyes of the Happy Prince were filled with tears."
+  ],
+  [
+   5,
+   "In which palace did the Prince live when he was alive, where sorrow was not allowed?",
+   [
+    "Palace of Sans-Souci",
+    "Buckingham Palace",
+    "Shalimar Palace",
+    "Royal Palace"
+   ],
+   0,
+   "He lived in the Palace of Sans-Souci, where sorrow was not allowed to enter."
+  ],
+  [
+   5,
+   "What did the Happy Prince give to the poor seamstress?",
+   [
+    "The ruby from his sword-hilt",
+    "A sapphire eye",
+    "Gold leaf",
+    "His crown"
+   ],
+   0,
+   "The Swallow gently picked out the great ruby and took it to the seamstress."
+  ],
+  [
+   5,
+   "Why was the little match-girl crying?",
+   [
+    "Her matches fell in the gutter and were spoiled",
+    "She was lost",
+    "She was hungry only",
+    "She lost her shoes"
+   ],
+   0,
+   "Her matches fell in the gutter and her father would beat her."
+  ],
+  [
+   5,
+   "What did not melt in the furnace?",
+   [
+    "The broken lead heart",
+    "The sapphires",
+    "The gold leaf",
+    "The ruby"
+   ],
+   0,
+   "The workmen said the broken lead heart would not melt in the furnace."
+  ],
+  [
+   5,
+   "Where were the lead heart and the dead Swallow thrown?",
+   [
+    "On a dust-heap",
+    "Into the river",
+    "In the palace",
+    "In the garden"
+   ],
+   0,
+   "The lead heart was thrown on the dust-heap where the dead Swallow was also lying."
+  ],
+  [
+   6,
+   "'Drug abuse' means:",
+   [
+    "the harmful or wrong use of drugs",
+    "taking medicine on a doctor's advice",
+    "selling medicine",
+    "studying drugs"
+   ],
+   0,
+   "Drug abuse is the harmful or wrong use of drugs that damages health, behaviour and life."
+  ],
+  [
+   6,
+   "Which of these is mentioned as a reason people start using drugs?",
+   [
+    "Peer pressure and curiosity",
+    "Good health",
+    "Regular exercise",
+    "Healthy food"
+   ],
+   0,
+   "People try drugs out of curiosity or due to peer pressure."
+  ],
+  [
+   6,
+   "Which organisation in Pakistan works to stop drug smuggling?",
+   [
+    "Anti-Narcotics Force (ANF)",
+    "WAPDA",
+    "PIA",
+    "NADRA"
+   ],
+   0,
+   "The Anti-Narcotics Force (ANF) works to stop the smuggling of illegal drugs."
+  ],
+  [
+   6,
+   "Which group is especially at risk of drug abuse, according to the lesson?",
+   [
+    "Young people, teenagers and students",
+    "Only old people",
+    "Only farmers",
+    "Only soldiers"
+   ],
+   0,
+   "Many drug users are young people; teenagers and students are especially at risk."
+  ],
+  [
+   6,
+   "How does drug abuse affect society?",
+   [
+    "It leads to crimes, accidents and violence",
+    "It reduces crime",
+    "It improves schools",
+    "It has no effect"
+   ],
+   0,
+   "Drug abuse leads to crimes, accidents and violence, creating fear and insecurity."
+  ],
+  [
+   6,
+   "Taking sleeping pills or painkillers without a doctor's advice is:",
+   [
+    "a form of drug abuse",
+    "always safe",
+    "a good habit",
+    "a sport"
+   ],
+   0,
+   "The lesson includes pills and painkillers taken without a doctor's advice as drug abuse."
+  ],
+  [
+   6,
+   "Which body parts can drugs damage, according to the lesson?",
+   [
+    "Brain, heart, lungs and liver",
+    "Only hair",
+    "Only nails",
+    "None"
+   ],
+   0,
+   "Drugs can damage the brain, heart, lungs, liver and other parts of the body."
+  ],
+  [
+   7,
+   "'Pollution' refers to:",
+   [
+    "the presence of harmful substances in our environment",
+    "planting trees",
+    "clean water",
+    "fresh air"
+   ],
+   0,
+   "Pollution is the presence of harmful substances that damage air, water and land."
+  ],
+  [
+   7,
+   "How do trees help reduce pollution?",
+   [
+    "They absorb carbon dioxide and release oxygen",
+    "They produce smoke",
+    "They use petrol",
+    "They make noise"
+   ],
+   0,
+   "Trees absorb carbon dioxide, release oxygen, trap dust and reduce heat."
+  ],
+  [
+   7,
+   "Which of these pollutes rivers, according to the lesson?",
+   [
+    "Plastics and chemicals dumped in rivers",
+    "Fish",
+    "Rain",
+    "Boats only"
+   ],
+   0,
+   "Plastics and chemicals dumped in rivers pollute the water."
+  ],
+  [
+   7,
+   "What has contributed to the rise in pollution in Pakistan?",
+   [
+    "Rapid urbanisation and industrial growth",
+    "More forests",
+    "Fewer vehicles",
+    "Clean energy"
+   ],
+   0,
+   "Rapid urbanisation and industrial growth have contributed to the rise in pollution."
+  ],
+  [
+   7,
+   "Many factories add to pollution because they do not follow proper:",
+   [
+    "waste management rules",
+    "holiday schedules",
+    "dress codes",
+    "sports rules"
+   ],
+   0,
+   "Many factories do not follow proper waste management rules."
+  ],
+  [
+   7,
+   "According to the lesson, parks and green belts in cities serve as:",
+   [
+    "peaceful places to relax and exercise",
+    "parking lots",
+    "factories",
+    "markets"
+   ],
+   0,
+   "They beautify the surroundings and serve as peaceful places to relax and exercise."
+  ],
+  [
+   8,
+   "Who wrote 'The Road Not Taken'?",
+   [
+    "Robert Frost",
+    "William Wordsworth",
+    "Rudyard Kipling",
+    "Oscar Wilde"
+   ],
+   0,
+   "'The Road Not Taken' is by Robert Frost."
+  ],
+  [
+   8,
+   "Where did the two roads diverge?",
+   [
+    "In a yellow wood",
+    "In a desert",
+    "In a city",
+    "By the sea"
+   ],
+   0,
+   "'Two roads diverged in a yellow wood.'"
+  ],
+  [
+   8,
+   "Why did the speaker choose the second road?",
+   [
+    "It was grassy and wanted wear",
+    "It was shorter",
+    "It was paved",
+    "Friends were there"
+   ],
+   0,
+   "He took the other, 'because it was grassy and wanted wear'."
+  ],
+  [
+   8,
+   "Which road did the speaker finally take?",
+   [
+    "The one less traveled by",
+    "The one most traveled",
+    "Both roads",
+    "Neither road"
+   ],
+   0,
+   "'I took the one less traveled by, and that has made all the difference.'"
+  ],
+  [
+   8,
+   "The central theme of the poem is:",
+   [
+    "choices and their consequences in life",
+    "travelling in forests",
+    "autumn colours",
+    "friendship"
+   ],
+   0,
+   "The poem explores how choices shape our futures in ways we may not understand at the time."
+  ],
+  [
+   8,
+   "'I doubted if I should ever come back' means the speaker:",
+   [
+    "felt he might never return to try the other road",
+    "was lost",
+    "was afraid of the forest",
+    "wanted to go home"
+   ],
+   0,
+   "Knowing 'how way leads on to way', he felt he might never come back to try the first road."
+  ],
+  [
+   8,
+   "The word 'diverged' means:",
+   [
+    "split or branched off",
+    "joined",
+    "ended",
+    "disappeared"
+   ],
+   0,
+   "Diverged means split or branched off."
+  ],
+  [
+   9,
+   "Who wrote 'The Three Questions'?",
+   [
+    "Leo Tolstoy",
+    "Oscar Wilde",
+    "Robert Frost",
+    "Anton Chekhov"
+   ],
+   0,
+   "'The Three Questions' is by Leo Tolstoy."
+  ],
+  [
+   9,
+   "What did the king promise to anyone who answered his questions?",
+   [
+    "A great reward",
+    "Half his kingdom",
+    "A palace",
+    "Marriage to his daughter"
+   ],
+   0,
+   "He proclaimed that he would give a great reward to anyone who taught him the answers."
+  ],
+  [
+   9,
+   "Why did the king give the reward to none of the learned men?",
+   [
+    "All their answers were different",
+    "They refused to answer",
+    "They were late",
+    "They asked for too much"
+   ],
+   0,
+   "All the answers being different, the king did not agree with any and gave the reward to none."
+  ],
+  [
+   9,
+   "Whom did the king finally consult?",
+   [
+    "A hermit renowned for his wisdom",
+    "A magician",
+    "His council",
+    "A doctor"
+   ],
+   0,
+   "He decided to consult a hermit widely renowned for his wisdom."
+  ],
+  [
+   9,
+   "Why did the king put on simple clothes to visit the hermit?",
+   [
+    "The hermit received none but common folk",
+    "It was cold",
+    "He was poor",
+    "He was hiding from enemies only"
+   ],
+   0,
+   "The hermit received none but common folk, so the king dressed simply."
+  ],
+  [
+   9,
+   "What was the hermit doing when the king arrived?",
+   [
+    "Digging the ground in front of his hut",
+    "Praying",
+    "Sleeping",
+    "Cooking"
+   ],
+   0,
+   "When the king approached, the hermit was digging the ground in front of his hut."
+  ],
+  [
+   9,
+   "According to the hermit, the most important time is:",
+   [
+    "now",
+    "tomorrow",
+    "the past",
+    "old age"
+   ],
+   0,
+   "Now is the most important time because it is the only time when we have any power."
+  ],
+  [
+   9,
+   "According to the hermit, the most necessary person is:",
+   [
+    "the one with whom you are",
+    "the king",
+    "a doctor",
+    "a priest"
+   ],
+   0,
+   "The most necessary person is the one with whom you are."
+  ],
+  [
+   9,
+   "According to the hermit, the most important affair is:",
+   [
+    "to do good to the person you are with",
+    "to win wars",
+    "to collect wealth",
+    "to study science"
+   ],
+   0,
+   "The most important affair is to do him good, for that alone man was sent into this life."
+  ]
+ ]
+}

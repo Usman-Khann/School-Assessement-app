@@ -1,0 +1,1033 @@
+{
+ "key": "g6_english",
+ "grade": 6,
+ "subject": "English",
+ "language": "en",
+ "title": "English 6 (PECTAA, SNC 2020)",
+ "offset": 0,
+ "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+ "chapters": [
+  [
+   1,
+   "Seerat-un-Nabi",
+   5
+  ],
+  [
+   2,
+   "Eid-ul-Fitr",
+   18
+  ],
+  [
+   3,
+   "The Lake Isle of Innisfree",
+   31
+  ],
+  [
+   4,
+   "Major Shabbir Sharif Shaheed",
+   40
+  ],
+  [
+   5,
+   "Harmony",
+   51
+  ],
+  [
+   6,
+   "First Aid Saves Life",
+   60
+  ],
+  [
+   7,
+   "Corruption",
+   72
+  ],
+  [
+   8,
+   "Overpopulation: a Dilemma",
+   83
+  ],
+  [
+   9,
+   "Education is my Right",
+   96
+  ],
+  [
+   10,
+   "Importance of Science and Technology",
+   105
+  ],
+  [
+   11,
+   "A Poem by a Soldier",
+   114
+  ],
+  [
+   12,
+   "Citizenship",
+   121
+  ]
+ ],
+ "questions": [
+  [
+   1,
+   "Where was Hazrat Muhammad (PBUH) born?",
+   [
+    "Madina Munawwarah",
+    "Makkah Mukarramah",
+    "Taif",
+    "Syria"
+   ],
+   1,
+   "He was born in Makkah Mukarramah in the tribe of Quraish."
+  ],
+  [
+   1,
+   "How old was Hazrat Muhammad (PBUH) when his mother passed away?",
+   [
+    "Two years",
+    "Six years",
+    "Eight years",
+    "Twelve years"
+   ],
+   1,
+   "His mother died when he was only six years old."
+  ],
+  [
+   1,
+   "Who took care of him after his mother's death?",
+   [
+    "His uncle Abu Talib",
+    "His grandfather Hazrat Abdul Muttalib",
+    "Hazrat Khadija",
+    "Maysarah"
+   ],
+   1,
+   "His grandfather Hazrat Abdul Muttalib took care of him."
+  ],
+  [
+   1,
+   "At what age did he come under the guardianship of his uncle Abu Talib?",
+   [
+    "Six",
+    "Eight",
+    "Ten",
+    "Twenty-five"
+   ],
+   1,
+   "When he reached the age of eight his grandfather passed away and Abu Talib became his guardian."
+  ],
+  [
+   1,
+   "Where did Hazrat Muhammad (PBUH) take Hazrat Khadija's caravan of goods?",
+   [
+    "Egypt",
+    "Syria",
+    "Yemen",
+    "Iraq"
+   ],
+   1,
+   "Hazrat Khadija entrusted him to take her caravan of goods to Syria."
+  ],
+  [
+   1,
+   "Who accompanied him on the trade journey and reported his honesty to Hazrat Khadija?",
+   [
+    "Abu Sufyan",
+    "Maysarah",
+    "Zaid bin Haritha",
+    "Abu Talib"
+   ],
+   1,
+   "Her old and trusted slave Maysarah accompanied him and reported his integrity."
+  ],
+  [
+   1,
+   "Even his enemies called him 'Al-Amin', which means:",
+   [
+    "the brave",
+    "the trustworthy one",
+    "the rich",
+    "the leader"
+   ],
+   1,
+   "He was called Al-Sadiq (the truthful) and Al-Amin (the trustworthy one)."
+  ],
+  [
+   1,
+   "To which emperor did Hazrat Muhammad (PBUH) write a letter inviting him to Islam?",
+   [
+    "Heraclius of Byzantium",
+    "Kisra of Persia",
+    "Najashi of Abyssinia",
+    "Muqawqis of Egypt"
+   ],
+   0,
+   "He wrote to Heraclius, the Emperor of Byzantium."
+  ],
+  [
+   1,
+   "Who did Heraclius question about the Holy Prophet (PBUH)?",
+   [
+    "Abu Jahl",
+    "Abu Sufyan",
+    "Abu Lahab",
+    "Abu Talib"
+   ],
+   1,
+   "Heraclius summoned Abu Sufyan, who admitted the Prophet's honesty and trustworthiness."
+  ],
+  [
+   1,
+   "In the case of the woman from Bani Makhzum, the Holy Prophet (PBUH) taught us about:",
+   [
+    "justice for all",
+    "trade",
+    "travel",
+    "poetry"
+   ],
+   0,
+   "He refused to excuse her crime due to her status, showing equal justice for all."
+  ],
+  [
+   2,
+   "Eid-ul-Fitr marks the end of which month?",
+   [
+    "Shawwal",
+    "Ramadan",
+    "Zil-Hajj",
+    "Muharram"
+   ],
+   1,
+   "Eid-ul-Fitr commemorates the end of Ramadan and the start of Shawwal."
+  ],
+  [
+   2,
+   "Shawwal is which month of the Islamic calendar?",
+   [
+    "1st",
+    "9th",
+    "10th",
+    "12th"
+   ],
+   2,
+   "The lesson calls Shawwal the 10th month in the Islamic calendar."
+  ],
+  [
+   2,
+   "The night before Eid-ul-Fitr is known as:",
+   [
+    "Shab-e-Barat",
+    "Chand Raat",
+    "Laylat-ul-Qadr",
+    "Shab-e-Meraj"
+   ],
+   1,
+   "After the Eid crescent is announced, the night is known as Chand Raat."
+  ],
+  [
+   2,
+   "What is 'fitrana'?",
+   [
+    "Eid gift for children",
+    "Obligatory payment to the poor before Eid prayer",
+    "A sweet dish",
+    "Eid greeting"
+   ],
+   1,
+   "Fitrana is an obligatory payment to the poor, given before Eid namaz."
+  ],
+  [
+   2,
+   "Money or gifts children receive from elders on Eid is called:",
+   [
+    "Fitrana",
+    "Eidi",
+    "Zakat",
+    "Sadqa"
+   ],
+   1,
+   "Kids get 'Eidi' from elders as new currency notes or gifts."
+  ],
+  [
+   2,
+   "What did Usman forget to bring for the kheer?",
+   [
+    "Sugar and nuts",
+    "Milk and rice",
+    "Vermicelli",
+    "Fruit"
+   ],
+   1,
+   "Mother said he forgot milk and rice, the main ingredients of kheer."
+  ],
+  [
+   3,
+   "Who wrote 'The Lake Isle of Innisfree'?",
+   [
+    "William Wordsworth",
+    "William Butler Yeats",
+    "John Keats",
+    "Robert Frost"
+   ],
+   1,
+   "The poem is by William Butler Yeats."
+  ],
+  [
+   3,
+   "What does the poet want to build at Innisfree?",
+   [
+    "A big house",
+    "A small cabin of clay and wattles",
+    "A palace",
+    "A school"
+   ],
+   1,
+   "'And a small cabin build there, of clay and wattles made.'"
+  ],
+  [
+   3,
+   "How many bean-rows will the poet have at Innisfree?",
+   [
+    "Five",
+    "Seven",
+    "Nine",
+    "Twelve"
+   ],
+   2,
+   "'Nine bean-rows will I have there, a hive for the honey-bee.'"
+  ],
+  [
+   3,
+   "What does the poet hear 'in the deep heart's core'?",
+   [
+    "Traffic noise",
+    "Lake water lapping on the shore",
+    "Birds singing",
+    "Children playing"
+   ],
+   1,
+   "He hears lake water lapping with low sounds by the shore, in the deep heart's core."
+  ],
+  [
+   3,
+   "Where is the poet standing when he thinks of Innisfree?",
+   [
+    "On the roadway or on the pavements grey",
+    "On a mountain",
+    "In a boat",
+    "In a garden"
+   ],
+   0,
+   "'While I stand on the roadway, or on the pavements grey.'"
+  ],
+  [
+   3,
+   "The poet wants to go to Innisfree because he longs for:",
+   [
+    "city life",
+    "a peaceful life close to nature",
+    "a job",
+    "a crowd"
+   ],
+   1,
+   "The poem contrasts the grey city with peaceful natural life at Innisfree."
+  ],
+  [
+   4,
+   "Major Shabbir Sharif was awarded the:",
+   [
+    "Sitara-e-Imtiaz only",
+    "Nishan-e-Haider",
+    "Hilal-e-Pakistan",
+    "Tamgha-e-Basalat"
+   ],
+   1,
+   "He was awarded the Nishan-e-Haider, the highest military award."
+  ],
+  [
+   4,
+   "When was Major Shabbir Sharif born?",
+   [
+    "April 28, 1943",
+    "August 14, 1947",
+    "December 3, 1971",
+    "March 23, 1940"
+   ],
+   0,
+   "He was born on April 28, 1943, in Kunjah, Gujrat."
+  ],
+  [
+   4,
+   "Major Shabbir Sharif was the nephew of which Nishan-e-Haider holder?",
+   [
+    "Major Raja Aziz Bhatti",
+    "Captain Sarwar",
+    "Rashid Minhas",
+    "Major Tufail"
+   ],
+   0,
+   "He was the nephew of Nishan-e-Haider holder Major Raja Aziz Bhatti."
+  ],
+  [
+   4,
+   "Which award did he receive on completing training at Pakistan Military Academy, Kakul?",
+   [
+    "Sword of Honour",
+    "Nishan-e-Haider",
+    "Hilal-e-Jurat",
+    "Gold Medal"
+   ],
+   0,
+   "He completed his training and was awarded the Sword of Honour."
+  ],
+  [
+   4,
+   "In which war did Major Shabbir Sharif embrace martyrdom?",
+   [
+    "1948 war",
+    "1965 war",
+    "1971 Indo-Pakistani War",
+    "Kargil war"
+   ],
+   2,
+   "He fought in the 1971 Indo-Pakistani War in the Sulemanki Sector."
+  ],
+  [
+   4,
+   "How old was Major Shabbir Sharif at the time of martyrdom?",
+   [
+    "22",
+    "28",
+    "35",
+    "40"
+   ],
+   1,
+   "At the time of martyrdom he was just 28 years old."
+  ],
+  [
+   4,
+   "Major Shabbir Sharif is the only soldier to receive both the Nishan-e-Haider and the:",
+   [
+    "Sitara-e-Jurat",
+    "Tamgha-e-Imtiaz",
+    "Hilal-e-Imtiaz",
+    "Pride of Performance"
+   ],
+   0,
+   "He is the only one to have received both Nishan-e-Haider and Sitara-e-Jurat."
+  ],
+  [
+   5,
+   "Who moved in next door to Haziq and Ahmad?",
+   [
+    "Their cousins",
+    "A new family",
+    "Their teacher",
+    "A shopkeeper"
+   ],
+   1,
+   "They saw a family moving next door and welcomed them with dessert."
+  ],
+  [
+   5,
+   "What did the mother first send to the new neighbours?",
+   [
+    "A bowl of dessert",
+    "Flowers",
+    "Fruit juice",
+    "A cake"
+   ],
+   0,
+   "Mother gave them a bowl of dessert to take to the new neighbours."
+  ],
+  [
+   5,
+   "What was the name of the boy who sat at the window?",
+   [
+    "Haziq",
+    "Jasim",
+    "Ahmad",
+    "Usman"
+   ],
+   1,
+   "His mother told them the boy's name was Jasim."
+  ],
+  [
+   5,
+   "Why could Jasim not walk?",
+   [
+    "He broke his leg",
+    "He had polio as a child",
+    "He was in an accident",
+    "He was born without legs"
+   ],
+   1,
+   "Jasim had polio at the age of two; his legs remained dysfunctional."
+  ],
+  [
+   5,
+   "Why was Jasim afraid of school?",
+   [
+    "He was bullied by naughty boys in his previous school",
+    "The school was far",
+    "He disliked teachers",
+    "He was lazy"
+   ],
+   0,
+   "He had a phobia of school because he had been bullied by naughty boys."
+  ],
+  [
+   5,
+   "At first, what did Haziq and Ahmad think of Jasim?",
+   [
+    "Kind and friendly",
+    "Proud and rude",
+    "Clever and funny",
+    "Sick and weak"
+   ],
+   1,
+   "Since he shut the window on seeing them, they thought him proud and rude."
+  ],
+  [
+   5,
+   "The lesson in Unit 5 teaches us to:",
+   [
+    "stay away from special people",
+    "treat special people with kindness and friendship",
+    "laugh at others",
+    "move to another city"
+   ],
+   1,
+   "It teaches harmony: we should understand and befriend people with disabilities."
+  ],
+  [
+   6,
+   "Why did Tina and her mother go shopping?",
+   [
+    "For Eid",
+    "For a big party that night",
+    "For school books",
+    "For a picnic"
+   ],
+   1,
+   "They had a big party that night and needed things to cook a grand dinner."
+  ],
+  [
+   6,
+   "What did Tina find on the way back from the market?",
+   [
+    "A lost child",
+    "A woman collapsed on the road",
+    "A car accident",
+    "A stray dog"
+   ],
+   1,
+   "They found a woman lying collapsed on the road."
+  ],
+  [
+   6,
+   "What does CPR stand for?",
+   [
+    "Cardiopulmonary resuscitation",
+    "Central patient room",
+    "Care for patient recovery",
+    "Cardiac pressure reading"
+   ],
+   0,
+   "Tina continued cardiopulmonary resuscitation (CPR) until the ambulance came."
+  ],
+  [
+   6,
+   "How many uninterrupted chest compressions did Tina give?",
+   [
+    "10",
+    "20",
+    "30",
+    "50"
+   ],
+   2,
+   "She provided 30 uninterrupted chest compressions."
+  ],
+  [
+   6,
+   "Why did Tina ask the crowd to move back?",
+   [
+    "So the lady could get fresh air",
+    "To take photos",
+    "To clear the road for cars",
+    "To find the lady's family"
+   ],
+   0,
+   "She asked the crowd to move back so the lady could get fresh air."
+  ],
+  [
+   6,
+   "What was Tina studying?",
+   [
+    "Engineering",
+    "Medicine",
+    "Law",
+    "Teaching"
+   ],
+   1,
+   "Tina is a medical student."
+  ],
+  [
+   6,
+   "According to the doctor, how many people know what to do in an emergency?",
+   [
+    "One in 5",
+    "One in 10",
+    "One in 20",
+    "One in 100"
+   ],
+   2,
+   "Only one in 20 people know what to do in an emergency."
+  ],
+  [
+   6,
+   "CPR helps by providing oxygen-rich blood flow to the:",
+   [
+    "stomach",
+    "brain and other organs",
+    "bones",
+    "skin"
+   ],
+   1,
+   "CPR keeps oxygen-rich blood flowing to the brain and other organs until treatment."
+  ],
+  [
+   7,
+   "What kind of person was Mr. Shan, the newly appointed minister?",
+   [
+    "Kind and honest",
+    "Rude and corrupt",
+    "Shy and quiet",
+    "Poor and humble"
+   ],
+   1,
+   "Mr. Shan was rude, offensive and a corrupt minister who never worked without bribery."
+  ],
+  [
+   7,
+   "Why did the poor farmer come to Mr. Shan?",
+   [
+    "To ask for a job",
+    "For approval of a water pump in his area",
+    "To pay tax",
+    "To sell crops"
+   ],
+   1,
+   "The farmer came for the approval of a water pump in his area."
+  ],
+  [
+   7,
+   "What did Mr. Shan do when the farmer could not pay a bribe?",
+   [
+    "Approved it anyway",
+    "Tore up his application and had him thrown out",
+    "Gave him money",
+    "Sent him to a doctor"
+   ],
+   1,
+   "He rudely tore up the application and ordered his guards to throw the farmer out."
+  ],
+  [
+   7,
+   "According to the Hadith quoted in the lesson, the curse of Allah is on:",
+   [
+    "only the briber",
+    "both the briber and the recipient",
+    "only the poor",
+    "only the rich"
+   ],
+   1,
+   "'May the curse of Allah be on the briber and the recipient.'"
+  ],
+  [
+   7,
+   "Why did nobody stand up against Mr. Shan?",
+   [
+    "He was very kind",
+    "He had a strong wealthy background",
+    "He was a soldier",
+    "He was a teacher"
+   ],
+   1,
+   "Due to his strong wealthy background, nobody stood up against him."
+  ],
+  [
+   8,
+   "Where were Danish and his grandfather lying on the hot summer night?",
+   [
+    "In the garden",
+    "On the roof of their home",
+    "By the river",
+    "In a car"
+   ],
+   1,
+   "Danish was lying with his grandfather on the roof of their home."
+  ],
+  [
+   8,
+   "According to Grandfather, why did they not need air conditioners in the past?",
+   [
+    "It never got hot",
+    "Many trees and green plots kept the temperature low",
+    "They lived in the mountains",
+    "They were poor"
+   ],
+   1,
+   "Many trees and green plots kept the temperature low."
+  ],
+  [
+   8,
+   "What does 'overpopulation' mean, as explained in the lesson?",
+   [
+    "Too few people in a country",
+    "So large a population that people suffer as a result",
+    "People moving to villages",
+    "A large family"
+   ],
+   1,
+   "Overpopulation is a situation where population is so large that people suffer as a result."
+  ],
+  [
+   8,
+   "Why did people migrate from villages to cities, according to the lesson?",
+   [
+    "To see buildings",
+    "To get more opportunities and meet basic needs",
+    "For holidays",
+    "To avoid schools"
+   ],
+   1,
+   "People migrated to cities to get more and meet their basic needs."
+  ],
+  [
+   8,
+   "The excessive use of coal, oil and fossil fuels is:",
+   [
+    "good for the planet",
+    "creating a negative impact on our planet",
+    "making the air cleaner",
+    "reducing population"
+   ],
+   1,
+   "Excessive use of fossil fuels is creating a negative impact on the planet."
+  ],
+  [
+   8,
+   "Why was the river near Grandfather's home no longer good for swimming?",
+   [
+    "It dried up",
+    "It was polluted by human waste",
+    "It froze",
+    "It became too deep"
+   ],
+   1,
+   "They loved to swim in it, but it was now polluted by human waste."
+  ],
+  [
+   9,
+   "Who was Mr. Akbar in the lesson?",
+   [
+    "A landlord",
+    "A newly appointed teacher in the town",
+    "A doctor",
+    "A scrap picker"
+   ],
+   1,
+   "Mr. Akbar was a newly appointed teacher in the town."
+  ],
+  [
+   9,
+   "Where did Mr. Akbar see Ameena reading?",
+   [
+    "In the classroom",
+    "Under the light pole",
+    "In the library",
+    "In the hospital"
+   ],
+   1,
+   "He saw little Ameena sitting under the light pole reading an old book."
+  ],
+  [
+   9,
+   "What was the hardest challenge Ameena faced in getting education?",
+   [
+    "Poverty",
+    "Illness",
+    "Distance",
+    "Bad eyesight"
+   ],
+   0,
+   "One of the hardest challenges she encountered was poverty."
+  ],
+  [
+   9,
+   "What did Ameena's father do for a living?",
+   [
+    "Farmer",
+    "Scrap picker",
+    "Teacher",
+    "Shopkeeper"
+   ],
+   1,
+   "Her father was a scrap picker and could not bear her school expenses."
+  ],
+  [
+   9,
+   "Where did Ameena get books to read?",
+   [
+    "From the school library",
+    "Old books from scrap",
+    "From the landlord",
+    "From the market"
+   ],
+   1,
+   "She used to find old books from the scrap her father brought home."
+  ],
+  [
+   9,
+   "What did Mr. Akbar promise the villagers?",
+   [
+    "Money for each child",
+    "Free teaching with books and stationery",
+    "A new hospital",
+    "Free meals only"
+   ],
+   1,
+   "He promised to teach without any fee, with books and stationery from school."
+  ],
+  [
+   9,
+   "How did Ameena help the landlord?",
+   [
+    "She called the police",
+    "She gave first aid for a snake bite",
+    "She gave him money",
+    "She cooked for him"
+   ],
+   1,
+   "She tied his leg near the wound, washed it with soap and water and covered it with a clean dressing."
+  ],
+  [
+   9,
+   "What did Ameena want to become?",
+   [
+    "A teacher",
+    "A doctor",
+    "A pilot",
+    "An engineer"
+   ],
+   1,
+   "She told the doctor she wanted to be a doctor."
+  ],
+  [
+   10,
+   "Modern communication devices have made the world a:",
+   [
+    "big jungle",
+    "global village",
+    "small town",
+    "desert"
+   ],
+   1,
+   "Computers, mobile phones and electronic media have made the world a global village."
+  ],
+  [
+   10,
+   "During the COVID-19 pandemic, what became a life saviour for many people?",
+   [
+    "Technology",
+    "Holidays",
+    "Sports",
+    "Agriculture"
+   ],
+   0,
+   "Technology became a life saviour; people worked and studied from home."
+  ],
+  [
+   10,
+   "How has technology helped in education, according to the lesson?",
+   [
+    "Smart classes, e-libraries and e-books",
+    "Closing schools",
+    "Removing teachers",
+    "Banning books"
+   ],
+   0,
+   "Students are facilitated with smart classes, multimedia, e-libraries and e-books."
+  ],
+  [
+   10,
+   "Which are medical devices mentioned in the lesson?",
+   [
+    "X-rays, scan machines and pacemakers",
+    "Microwaves",
+    "Mobile phones",
+    "Cars"
+   ],
+   0,
+   "X-rays, scan machines, operation devices and pacemakers help doctors and patients."
+  ],
+  [
+   10,
+   "On which planet have scientists 'marked their presence'?",
+   [
+    "Venus",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ],
+   1,
+   "The lesson says they have marked their presence on Mars."
+  ],
+  [
+   11,
+   "Which day is the poem in Unit 11 about?",
+   [
+    "23rd March",
+    "14th August",
+    "6th September",
+    "25th December"
+   ],
+   1,
+   "The poem begins: 'Who knew that the day of 14th of August will tell the world...'"
+  ],
+  [
+   11,
+   "Who wrote the poem about 14th August in Unit 11?",
+   [
+    "Allama Iqbal",
+    "Dr. Tafazzal",
+    "Faiz Ahmed Faiz",
+    "William Yeats"
+   ],
+   1,
+   "The poem is by Dr. Tafazzal."
+  ],
+  [
+   11,
+   "In the poem, Pakistan is called a home for a:",
+   [
+    "Musalman",
+    "traveller",
+    "king",
+    "soldier"
+   ],
+   0,
+   "'A lovely land with sacred lands, and a home for a Musalman.'"
+  ],
+  [
+   11,
+   "'A Quaid's effort, a poet's dream' refers to:",
+   [
+    "Quaid-e-Azam and Allama Iqbal",
+    "Liaquat Ali and Faiz",
+    "Sir Syed and Ghalib",
+    "Jinnah and Shakespeare"
+   ],
+   0,
+   "Pakistan was the effort of Quaid-e-Azam and the dream of the poet Allama Iqbal."
+  ],
+  [
+   11,
+   "Who is the founder of Pakistan?",
+   [
+    "Allama Iqbal",
+    "Quaid-e-Azam Muhammad Ali Jinnah",
+    "Liaquat Ali Khan",
+    "Sir Syed Ahmad Khan"
+   ],
+   1,
+   "Quaid-e-Azam Muhammad Ali Jinnah is the founder of Pakistan."
+  ],
+  [
+   11,
+   "Why did Ms. Sara ask Basit to do his assignment again?",
+   [
+    "He lost it",
+    "He could not complete it on time",
+    "It was too long",
+    "He copied it"
+   ],
+   1,
+   "Basit could not complete it; Zubair advised him to complete tasks on time."
+  ],
+  [
+   12,
+   "What did Shiza and Tania learn about in their lesson?",
+   [
+    "Good citizenship",
+    "Traffic police",
+    "Science",
+    "Cooking"
+   ],
+   0,
+   "That day they had a lesson about good citizenship."
+  ],
+  [
+   12,
+   "What did Shiza and Tania do to improve their area?",
+   [
+    "Cleaned the street and planted trees",
+    "Built a house",
+    "Painted cars",
+    "Opened a shop"
+   ],
+   0,
+   "They cleaned their street and garden and planted new trees."
+  ],
+  [
+   12,
+   "How long did it take the children to give their area a new look?",
+   [
+    "Two hours",
+    "Two days",
+    "A week",
+    "A month"
+   ],
+   0,
+   "Within two hours a new look of their area emerged."
+  ],
+  [
+   12,
+   "What did Shiza do when she saw strangers enter her neighbour's house?",
+   [
+    "Ran away",
+    "Called the helpline and warned her neighbours",
+    "Went to sleep",
+    "Shouted at them"
+   ],
+   1,
+   "She called the helpline and told the neighbours to lock their inner door."
+  ],
+  [
+   12,
+   "How did the strangers get into the house?",
+   [
+    "Through the window",
+    "One climbed the wall and opened the gate",
+    "With a key",
+    "Through the roof"
+   ],
+   1,
+   "One of them climbed the wall and opened the gate for his friends."
+  ],
+  [
+   12,
+   "A good citizen must:",
+   [
+    "keep surroundings clean and be vigilant",
+    "ignore neighbours",
+    "litter the streets",
+    "break rules"
+   ],
+   0,
+   "The teacher said a citizen must care for neighbours, keep surroundings clean and stay vigilant."
+  ]
+ ]
+}

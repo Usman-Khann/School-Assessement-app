@@ -11,7 +11,7 @@ import re
 import sys
 from datetime import datetime, timezone
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, "C:/dev/tools")
 from mathtext import convert  # noqa: E402
 
 SRC = sys.argv[1]
@@ -175,14 +175,55 @@ def main():
             "pack": pack, "questionCount": len(questions), "chapters": chapters,
         })
         print(f"g{b['grade']:<2} {subject:<20} ch {len(chapters):>2}  mcq {len(questions):>4}", flush=True)
+    # ---- PECTAA books (Urdu / English), built by hand from the official PDFs ----
+    import glob as _glob
+    for pf in sorted(_glob.glob(f"{SRC}/pectaa/*.json")):
+        pb = json.load(open(pf, encoding="utf-8"))
+        qs_raw = pb.get("questions") or []
+        pdf_path = f"{SRC}/pdf/{pb['key']}.pdf"
+        if not qs_raw or not os.path.exists(pdf_path):
+            continue
+        key = pb["key"]
+        bid = f"pe-{key}"
+        off = pb.get("offset", 0)
+        npages = len([f for f in os.listdir(f"{SRC}/pages_pectaa/{key}") if f.endswith(".jpg")])
+        chs = sorted(pb["chapters"], key=lambda c: c[2])
+        chapters = []
+        for i, (num, title, start) in enumerate(chs):
+            s0 = start + off
+            nxt = chs[i + 1][2] + off - 1 if i + 1 < len(chs) else npages
+            chapters.append({"id": f"{bid}-c{num}", "number": num, "title": title,
+                             "pageStart": s0, "pageEnd": nxt, "topics": []})
+        start_of = {c["number"]: c["pageStart"] for c in chapters}
+        questions = []
+        for q in qs_raw:
+            ch, text, opts, ci, expl = q
+            h = hashlib.sha1((text + "|" + "|".join(sorted(o.lower() for o in opts))).encode("utf-8")).hexdigest()[:16]
+            questions.append({"id": f"{bid}-pq-{h}", "chapterId": f"{bid}-c{ch}", "topicId": None,
+                              "type": "mcq", "text": text, "options": opts, "correctIndex": ci,
+                              "page": start_of.get(ch), "difficulty": 2, "source": "pectaa",
+                              "explanation": expl})
+        pack = f"packs/{key}.json"
+        json.dump({"bookId": bid, "questions": questions},
+                  open(f"{OUT}/{pack}", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+        books.append({
+            "id": bid, "key": key, "grade": pb["grade"], "subject": pb["subject"],
+            "title": pb["title"], "language": pb.get("language", "en"),
+            "publisher": "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+            "sourceUrl": pb.get("sourceUrl", "https://pectaa.edu.pk/curriculum-compliance/"),
+            "pdf": f"books/{key}.pdf", "pdfBytes": os.path.getsize(pdf_path), "pages": npages,
+            "pack": pack, "questionCount": len(questions), "chapters": chapters,
+        })
+        print(f"g{pb['grade']:<2} {pb['subject']:<20} ch {len(chapters):>2}  mcq {len(questions):>4}  (PECTAA)", flush=True)
+
     catalog = {
         "format": 1,
         "version": datetime.now(timezone.utc).strftime("%Y%m%d%H%M"),
         "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "note": ("Chapters, topics, page numbers and MCQs collected from eLearn Punjab "
-                 "(elearn.gov.pk), the official PITB/PCTB e-learning site. Page numbers are "
-                 "page positions in the book file. MCQs are the site's own topic quizzes; "
-                 "they have not been checked by a teacher."),
+        "note": ("Maths and Science: chapters, topics, page numbers and MCQs from eLearn Punjab "
+                 "(elearn.gov.pk, PITB/PCTB), reviewed and corrected. Urdu and English: official "
+                 "PECTAA textbooks (pectaa.edu.pk); MCQs written from each lesson. Page numbers "
+                 "are page positions in the book file. Not yet checked by a teacher."),
         "books": books,
     }
     json.dump(catalog, open(f"{OUT}/catalog.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

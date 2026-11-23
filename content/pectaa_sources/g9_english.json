@@ -1,0 +1,1076 @@
+{
+ "key": "g9_english",
+ "grade": 9,
+ "subject": "English",
+ "language": "en",
+ "title": "English 9 (PECTAA)",
+ "offset": 0,
+ "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+ "chapters": [
+  [
+   1,
+   "The Saviour of Mankind",
+   5
+  ],
+  [
+   2,
+   "Patriotism",
+   20
+  ],
+  [
+   3,
+   "Daffodils (Poem)",
+   35
+  ],
+  [
+   4,
+   "Hazrat Asma (RA)",
+   53
+  ],
+  [
+   5,
+   "Women Empowerment through Entrepreneurship",
+   62
+  ],
+  [
+   6,
+   "The Value of Time",
+   76
+  ],
+  [
+   7,
+   "If (Poem)",
+   90
+  ],
+  [
+   8,
+   "The Impact of Globalisation on Culture and Economy",
+   97
+  ],
+  [
+   9,
+   "Quality Education: A Key to Success",
+   110
+  ],
+  [
+   10,
+   "The Silent Predator and the Majestic Prey - Snow Leopard and Markhor",
+   124
+  ],
+  [
+   11,
+   "The Dear Departed (One-act Play)",
+   136
+  ]
+ ],
+ "questions": [
+  [
+   1,
+   "Where was the Holy Prophet (PBUH) born?",
+   [
+    "Madina",
+    "Makkah Mukarramah",
+    "Taif",
+    "Jerusalem"
+   ],
+   1,
+   "The Rasoolullah (PBUH) was born in Makkah Mukarramah."
+  ],
+  [
+   1,
+   "In pre-Islamic Arabia, the Arabs' eloquence and memory found expression in:",
+   [
+    "poetry",
+    "painting",
+    "architecture",
+    "sculpture"
+   ],
+   0,
+   "The Arabs had remarkable memory and eloquence, which found expression in poetry."
+  ],
+  [
+   1,
+   "At which place was a yearly fair held for poetical competitions?",
+   [
+    "Ukaz",
+    "Taif",
+    "Badr",
+    "Hira"
+   ],
+   0,
+   "Every year a fair was held for poetical competitions at Ukaz."
+  ],
+  [
+   1,
+   "At what age did the Holy Prophet (PBUH) begin spending most of his time in solitude and meditation?",
+   [
+    "Twenty-five",
+    "Thirty-eight",
+    "Forty",
+    "Fifty"
+   ],
+   1,
+   "When he was thirty-eight he spent most of his time in solitude and meditation."
+  ],
+  [
+   1,
+   "In which cave did the Holy Prophet (PBUH) meditate?",
+   [
+    "Cave of Thaur",
+    "Cave of Hira",
+    "Cave of Uhud",
+    "Cave of Safa"
+   ],
+   1,
+   "He used to retire to the cave of Hira with food and water to remember Allah."
+  ],
+  [
+   1,
+   "Which angel brought the first revelation?",
+   [
+    "Hazrat Mikail",
+    "Hazrat Jibril (Gabriel)",
+    "Hazrat Israfil",
+    "Hazrat Izrail"
+   ],
+   1,
+   "Hazrat Jibril came to him in the cave of Hira with Allah's message."
+  ],
+  [
+   1,
+   "The first revealed verses begin with the command:",
+   [
+    "Pray",
+    "Read in the name of thy Lord",
+    "Fast",
+    "Give charity"
+   ],
+   1,
+   "'Read in the name of thy Lord Who created...' (Quran 96:1-5)."
+  ],
+  [
+   1,
+   "For how many years did the revelation continue?",
+   [
+    "Ten",
+    "Thirteen",
+    "Twenty-three",
+    "Forty"
+   ],
+   2,
+   "The revelation continued for the next twenty-three years."
+  ],
+  [
+   1,
+   "The word 'solitude' means:",
+   [
+    "the state of being alone",
+    "a large crowd",
+    "a long journey",
+    "a festival"
+   ],
+   0,
+   "Solitude is the state of being alone, especially when you find it pleasant."
+  ],
+  [
+   2,
+   "What does 'patriotism' mean?",
+   [
+    "Love for the motherland or devotion to one's country",
+    "Love for wealth",
+    "Travelling abroad",
+    "Following fashion"
+   ],
+   0,
+   "Patriotism means love for the motherland or devotion to one's country."
+  ],
+  [
+   2,
+   "The word 'patriot' comes from the Latin word:",
+   [
+    "patriotikos",
+    "patriota",
+    "patriote",
+    "patria-man"
+   ],
+   1,
+   "It comes from the Latin word 'patriota', which means countryman."
+  ],
+  [
+   2,
+   "According to the text, the supreme values for a patriot are:",
+   [
+    "wealth and power",
+    "sovereignty, integrity and honour of the country",
+    "education only",
+    "sports and fame"
+   ],
+   1,
+   "For a patriot, the sovereignty, integrity and honour of the country are supreme values."
+  ],
+  [
+   2,
+   "Who led the Muslims of the subcontinent in their struggle for a separate homeland?",
+   [
+    "Quaid-e-Azam Muhammad Ali Jinnah",
+    "Liaquat Ali Khan",
+    "Sir Syed Ahmad Khan",
+    "Allama Iqbal"
+   ],
+   0,
+   "Quaid-e-Azam secured a separate homeland for the Muslims."
+  ],
+  [
+   2,
+   "In which wars did many brave soldiers lay down their lives for Pakistan, according to the text?",
+   [
+    "1965, 1971 and Kargil",
+    "World War I and II",
+    "1857 War",
+    "Gulf War"
+   ],
+   0,
+   "Many soldiers laid down their lives in the wars of 1965, 1971 and Kargil."
+  ],
+  [
+   2,
+   "'Patriotism is a commendable quality' is a statement of:",
+   [
+    "opinion",
+    "fact",
+    "question",
+    "command"
+   ],
+   0,
+   "It expresses a judgement, so it is an opinion; facts can be proved with evidence."
+  ],
+  [
+   2,
+   "The cause is why something happens; the effect is:",
+   [
+    "what happens as a result",
+    "the title",
+    "the writer",
+    "the setting"
+   ],
+   0,
+   "The cause is why something happens, and the effect is what happens as a result."
+  ],
+  [
+   3,
+   "Who wrote the poem 'Daffodils'?",
+   [
+    "William Wordsworth",
+    "John Keats",
+    "Rudyard Kipling",
+    "William Yeats"
+   ],
+   0,
+   "'Daffodils' is by William Wordsworth (1770-1850)."
+  ],
+  [
+   3,
+   "In the first line, the poet compares himself to a:",
+   [
+    "bird",
+    "cloud",
+    "star",
+    "wave"
+   ],
+   1,
+   "'I wandered lonely as a cloud' — a simile comparing himself to a cloud."
+  ],
+  [
+   3,
+   "Where did the poet see the daffodils?",
+   [
+    "In a garden pot",
+    "Beside the lake, beneath the trees",
+    "On a mountain top",
+    "In a market"
+   ],
+   1,
+   "'Beside the lake, beneath the trees, fluttering and dancing in the breeze.'"
+  ],
+  [
+   3,
+   "How many daffodils did the poet see at a glance?",
+   [
+    "A hundred",
+    "A thousand",
+    "Ten thousand",
+    "A million"
+   ],
+   2,
+   "'Ten thousand saw I at a glance, tossing their heads in sprightly dance.'"
+  ],
+  [
+   3,
+   "The daffodils are compared to stars that shine on the:",
+   [
+    "milky way",
+    "ocean",
+    "desert",
+    "city"
+   ],
+   0,
+   "'Continuous as the stars that shine and twinkle on the milky way.'"
+  ],
+  [
+   3,
+   "What colour were the daffodils?",
+   [
+    "White",
+    "Golden",
+    "Red",
+    "Blue"
+   ],
+   1,
+   "'A host of golden daffodils.'"
+  ],
+  [
+   3,
+   "When do the daffodils flash upon the poet's 'inward eye'?",
+   [
+    "When he lies in vacant or pensive mood",
+    "When he is dancing",
+    "When he is travelling",
+    "When he is asleep"
+   ],
+   0,
+   "'For oft, when on my couch I lie in vacant or in pensive mood, they flash upon that inward eye.'"
+  ],
+  [
+   3,
+   "'Fluttering and dancing in the breeze' gives the daffodils human qualities. This is called:",
+   [
+    "personification",
+    "metaphor",
+    "alliteration",
+    "rhyme"
+   ],
+   0,
+   "Giving human actions like dancing to flowers is personification."
+  ],
+  [
+   3,
+   "The 'inward eye' in the poem refers to:",
+   [
+    "memory or imagination",
+    "a doctor's tool",
+    "the sun",
+    "a window"
+   ],
+   0,
+   "The inward eye is the mind's memory, 'the bliss of solitude'."
+  ],
+  [
+   4,
+   "In which year did the Holy Prophet (PBUH) migrate from Makkah to Madinah?",
+   [
+    "610 A.D.",
+    "622 A.D.",
+    "630 A.D.",
+    "632 A.D."
+   ],
+   1,
+   "He migrated with Hazrat Abu Bakr Siddique to Madinah in 622 A.D."
+  ],
+  [
+   4,
+   "Hazrat Asma (RA) was the daughter of:",
+   [
+    "Hazrat Umar",
+    "Hazrat Abu Bakr Siddique",
+    "Hazrat Usman",
+    "Hazrat Ali"
+   ],
+   1,
+   "Hazrat Asma was the daughter of Hazrat Abu Bakr Siddique."
+  ],
+  [
+   4,
+   "Which title did the Holy Prophet (PBUH) give Hazrat Asma (RA)?",
+   [
+    "Siddiqa",
+    "Zat-un-Nitaqain",
+    "Umm-ul-Momineen",
+    "Saifullah"
+   ],
+   1,
+   "For tying the food with her own belt, she was given the title of (Zat-un-)Nitaqain."
+  ],
+  [
+   4,
+   "Why was Hazrat Asma (RA) given this title?",
+   [
+    "She tied the food on the camel with her own belt",
+    "She fought in a battle",
+    "She wrote poetry",
+    "She cooked for the army"
+   ],
+   0,
+   "She tied the food on the camel's back with her own belt as nothing else could be found."
+  ],
+  [
+   4,
+   "In which cave did the Holy Prophet (PBUH) and Hazrat Abu Bakr hide during the migration?",
+   [
+    "Cave of Hira",
+    "Cave of Thawr",
+    "Cave of Uhud",
+    "Cave of Safa"
+   ],
+   1,
+   "Hazrat Asma secretly carried food every night to the cave of Thawr."
+  ],
+  [
+   4,
+   "Who slapped Hazrat Asma (RA) when she would not tell where her father was?",
+   [
+    "Abu Lahab",
+    "Abu Jehl",
+    "Abu Sufyan",
+    "Utbah"
+   ],
+   1,
+   "Abu Jehl slapped her so hard that her ear-ring fell off, but she did not reveal the secret."
+  ],
+  [
+   4,
+   "What did Hazrat Asma (RA) reply when Abu Jehl asked 'Where is your father?'",
+   [
+    "He went to Madinah",
+    "How would I know?",
+    "He is in the cave",
+    "I will not tell"
+   ],
+   1,
+   "She wisely replied with a counter question, 'How would I know?'"
+  ],
+  [
+   4,
+   "Hazrat Asma's grandfather, Hazrat Abu Quhafa, was:",
+   [
+    "very old and blind",
+    "a young merchant",
+    "a soldier",
+    "a poet"
+   ],
+   0,
+   "Her grandfather Hazrat Abu Quhafa was very old and blind."
+  ],
+  [
+   5,
+   "Which prominent businesswoman of Makkah is given as an early example of a woman entrepreneur?",
+   [
+    "Hazrat Asma",
+    "Hazrat Khadija",
+    "Hazrat Ayesha",
+    "Hazrat Fatima"
+   ],
+   1,
+   "Hazrat Khadija was a prominent businesswoman known for wisdom, integrity and leadership."
+  ],
+  [
+   5,
+   "Entrepreneurship is the process of:",
+   [
+    "starting and running a business, taking financial risks for profit",
+    "working in a government office",
+    "studying abroad",
+    "only saving money"
+   ],
+   0,
+   "Entrepreneurship means starting and running a business, taking on financial risks and seeking profit."
+  ],
+  [
+   5,
+   "What do Microfinance Institutions offer to women in Pakistan?",
+   [
+    "Loans to start small businesses",
+    "Free houses",
+    "Scholarships abroad",
+    "Cars"
+   ],
+   0,
+   "Microfinance institutions offer loans to help women start small businesses."
+  ],
+  [
+   5,
+   "Which is a challenge for women entrepreneurs mentioned in the lesson?",
+   [
+    "Cultural expectations",
+    "Too many loans",
+    "Too much support",
+    "Free training"
+   ],
+   0,
+   "Traditional gender roles that prioritise household duties create barriers for women."
+  ],
+  [
+   5,
+   "What provides platforms for female entrepreneurs to network and showcase products?",
+   [
+    "Women's chambers of commerce",
+    "Sports clubs",
+    "Hospitals",
+    "Schools"
+   ],
+   0,
+   "Women's chambers of commerce provide platforms to network and showcase products."
+  ],
+  [
+   5,
+   "The story of Hazrat Khadija shows that:",
+   [
+    "gender should not be a barrier to success",
+    "women cannot do business",
+    "trade is only for men",
+    "wealth is everything"
+   ],
+   0,
+   "She became a symbol of empowerment, showing gender should not be a barrier to success."
+  ],
+  [
+   6,
+   "What was Taseer's one flaw?",
+   [
+    "Rudeness",
+    "Poor time management",
+    "Dishonesty",
+    "Laziness in sports"
+   ],
+   1,
+   "Despite his good qualities, he was terribly weak in managing his time."
+  ],
+  [
+   6,
+   "How did Taseer waste his time?",
+   [
+    "Video games, chatting and daydreaming",
+    "Studying too much",
+    "Helping at home",
+    "Exercising"
+   ],
+   0,
+   "He spent hours on video games, chatting with friends and daydreaming."
+  ],
+  [
+   6,
+   "Who decided to teach Taseer a lesson about time?",
+   [
+    "His teacher",
+    "His grandfather",
+    "His father",
+    "His friend"
+   ],
+   1,
+   "His grandfather, a wise old man, decided to impart a valuable lesson."
+  ],
+  [
+   6,
+   "What was in the basket the grandfather showed Taseer?",
+   [
+    "Fruits and vegetables",
+    "Big rocks, pebbles and sand",
+    "Books and pens",
+    "Toys"
+   ],
+   1,
+   "There was an empty jar and a basket with big rocks, pebbles and sand."
+  ],
+  [
+   6,
+   "Why could Taseer not fit the big rocks into the jar?",
+   [
+    "He put the sand and pebbles in first",
+    "The jar was broken",
+    "The rocks were too heavy",
+    "He gave up"
+   ],
+   0,
+   "He poured in sand and pebbles first, leaving no room for the big rocks."
+  ],
+  [
+   6,
+   "What did the grandfather put into the jar first?",
+   [
+    "Sand",
+    "Pebbles",
+    "Big rocks",
+    "Water"
+   ],
+   2,
+   "He placed the big rocks first, then pebbles, then sand filled the gaps."
+  ],
+  [
+   6,
+   "The big rocks in the jar stand for:",
+   [
+    "the most important tasks in life",
+    "video games",
+    "small worries",
+    "free time"
+   ],
+   0,
+   "The lesson: put important tasks first; smaller things fit around them."
+  ],
+  [
+   6,
+   "'Procrastinating' means:",
+   [
+    "delaying tasks that should be done",
+    "finishing early",
+    "planning well",
+    "helping others"
+   ],
+   0,
+   "Procrastination is putting off work, as Taseer did, until it piles up."
+  ],
+  [
+   7,
+   "Who wrote the poem 'If'?",
+   [
+    "William Wordsworth",
+    "Rudyard Kipling",
+    "Henry Leigh",
+    "Harriet Stowe"
+   ],
+   1,
+   "'If' is by Rudyard Kipling (1865-1936)."
+  ],
+  [
+   7,
+   "Which famous book was written by Rudyard Kipling?",
+   [
+    "The Jungle Book",
+    "Oliver Twist",
+    "Hamlet",
+    "Robinson Crusoe"
+   ],
+   0,
+   "Kipling is best known for works such as The Jungle Book, Kim and The Man Who Would Be King."
+  ],
+  [
+   7,
+   "Where was Rudyard Kipling born?",
+   [
+    "London",
+    "The British colonial subcontinent",
+    "America",
+    "Scotland"
+   ],
+   1,
+   "He was born in the British colonial subcontinent, which influenced much of his writing."
+  ],
+  [
+   7,
+   "According to the poem, Triumph and Disaster should be treated as:",
+   [
+    "friends",
+    "two impostors, just the same",
+    "enemies",
+    "gifts"
+   ],
+   1,
+   "'If you can meet with Triumph and Disaster and treat those two impostors just the same.'"
+  ],
+  [
+   7,
+   "'If you can keep your head when all about you are losing theirs' means:",
+   [
+    "stay calm when others panic",
+    "run away",
+    "lose your temper",
+    "sleep well"
+   ],
+   0,
+   "Keeping your head means staying calm and sensible when others panic."
+  ],
+  [
+   7,
+   "'If you can dream — and not make dreams your ___'",
+   [
+    "friend",
+    "master",
+    "enemy",
+    "home"
+   ],
+   1,
+   "'If you can dream — and not make dreams your master.'"
+  ],
+  [
+   7,
+   "The main theme of 'If' is:",
+   [
+    "qualities of a balanced and mature person",
+    "love of nature",
+    "patriotism in war",
+    "childhood games"
+   ],
+   0,
+   "The poem lists qualities like patience, honesty and self-control that make a person mature."
+  ],
+  [
+   7,
+   "In 'neither... nor', 'not only... but also', the words are called:",
+   [
+    "correlative conjunctions",
+    "prepositions",
+    "articles",
+    "pronouns"
+   ],
+   0,
+   "Pairs like neither/nor and not only/but also are correlative conjunctions."
+  ],
+  [
+   7,
+   "In 'He could not attend the meeting because he was sick', 'because' is a:",
+   [
+    "subordinating conjunction",
+    "preposition",
+    "adverb",
+    "noun"
+   ],
+   0,
+   "'Because' joins a dependent clause to an independent clause: a subordinating conjunction."
+  ],
+  [
+   8,
+   "Which products does Pakistan export, according to the lesson?",
+   [
+    "Textiles, rice and sports goods",
+    "Cars and aeroplanes",
+    "Oil and gas",
+    "Computers only"
+   ],
+   0,
+   "We export textiles, rice and sports goods to countries all over the world."
+  ],
+  [
+   8,
+   "Which initiative is mentioned as bringing foreign direct investment to Pakistan?",
+   [
+    "CPEC",
+    "NATO",
+    "SAARC",
+    "WHO"
+   ],
+   0,
+   "Foreign direct investment, especially through CPEC, brings capital and technology."
+  ],
+  [
+   8,
+   "What has accelerated globalisation?",
+   [
+    "Advances in technology, transportation and communication",
+    "Closing borders",
+    "Fewer roads",
+    "Less trade"
+   ],
+   0,
+   "Advances in technology, transport and communication have accelerated globalisation."
+  ],
+  [
+   8,
+   "How has digital globalisation helped students?",
+   [
+    "They can learn about different cultures through websites and videos",
+    "It stopped them reading",
+    "It closed schools",
+    "It removed languages"
+   ],
+   0,
+   "Students can learn about cultures, traditions and histories through websites, videos and articles."
+  ],
+  [
+   8,
+   "Social media interaction between cultures promotes:",
+   [
+    "empathy and understanding",
+    "hatred",
+    "isolation",
+    "war"
+   ],
+   0,
+   "Seeing how others live and celebrate helps promote empathy."
+  ],
+  [
+   8,
+   "Jobs created by multinational companies in Pakistan often offer:",
+   [
+    "better pay and working conditions",
+    "no pay",
+    "worse conditions",
+    "only part-time work"
+   ],
+   0,
+   "These jobs often offer better pay and working conditions than local companies."
+  ],
+  [
+   9,
+   "According to the lesson, education fosters economic growth, reduces poverty and promotes:",
+   [
+    "gender equality",
+    "unemployment",
+    "pollution",
+    "illiteracy"
+   ],
+   0,
+   "Education fosters growth, reduces poverty, promotes gender equality and helps protect the environment."
+  ],
+  [
+   9,
+   "Which subjects help students develop critical thinking and problem-solving?",
+   [
+    "Mathematics, science and technology",
+    "Only drawing",
+    "Only games",
+    "Only history"
+   ],
+   0,
+   "Mathematics, science and technology develop critical thinking and problem-solving abilities."
+  ],
+  [
+   9,
+   "'Human capital' refers to:",
+   [
+    "the knowledge, skills and health people accumulate",
+    "money in banks",
+    "buildings and roads",
+    "factories"
+   ],
+   0,
+   "Human capital is the knowledge, skills and health individuals accumulate over their lives."
+  ],
+  [
+   9,
+   "Quality education can reduce:",
+   [
+    "unemployment and underemployment",
+    "innovation",
+    "productivity",
+    "literacy"
+   ],
+   0,
+   "By preparing students for industries, quality education reduces unemployment and underemployment."
+  ],
+  [
+   9,
+   "Quality education acts as a 'leveller', meaning it:",
+   [
+    "provides equal opportunities for all",
+    "makes everyone rich",
+    "removes exams",
+    "stops competition"
+   ],
+   0,
+   "It provides equal opportunities for all, regardless of socio-economic background."
+  ],
+  [
+   9,
+   "Which skills does quality education emphasise for employability?",
+   [
+    "Literacy, numeracy, digital literacy and vocational skills",
+    "Only memorising",
+    "Only sports",
+    "Only drawing"
+   ],
+   0,
+   "These skills enhance employability and economic independence."
+  ],
+  [
+   10,
+   "The snow leopard is often called the:",
+   [
+    "King of the Jungle",
+    "Ghost of the Mountains",
+    "Lion of the Desert",
+    "Prince of Rivers"
+   ],
+   1,
+   "The snow leopard is often referred to as the 'Ghost of the Mountains'."
+  ],
+  [
+   10,
+   "Up to what altitude does the snow leopard roam?",
+   [
+    "1,500 metres",
+    "3,000 metres",
+    "5,500 metres",
+    "8,000 metres"
+   ],
+   2,
+   "It roams at altitudes as high as 5,500 metres."
+  ],
+  [
+   10,
+   "How do the snow leopard's long tails help it?",
+   [
+    "To balance on narrow ledges",
+    "To swim",
+    "To dig",
+    "To climb trees"
+   ],
+   0,
+   "Their long tails help them balance on narrow ledges."
+  ],
+  [
+   10,
+   "The markhor's horns are shaped like a:",
+   [
+    "corkscrew",
+    "circle",
+    "straight stick",
+    "fan"
+   ],
+   0,
+   "The markhor has impressive corkscrew-shaped horns."
+  ],
+  [
+   10,
+   "The name 'markhor' means ___ in Persian.",
+   [
+    "mountain goat",
+    "snake-eater",
+    "king of hills",
+    "wild sheep"
+   ],
+   1,
+   "'Markhor' means 'snake-eater' in Persian, referring to horns like coiled snakes."
+  ],
+  [
+   10,
+   "What does the markhor eat?",
+   [
+    "Meat",
+    "Grasses, shrubs and leaves",
+    "Fish",
+    "Insects"
+   ],
+   1,
+   "The markhor is a herbivore feeding on grasses, shrubs and leaves."
+  ],
+  [
+   10,
+   "The snow leopard and the markhor are a classic example of:",
+   [
+    "predator and prey",
+    "two friends",
+    "parasites",
+    "pets"
+   ],
+   0,
+   "Snow leopards rely on markhors for food — a classic predator-prey relationship."
+  ],
+  [
+   10,
+   "If the snow leopard disappeared, according to the lesson:",
+   [
+    "it would create a ripple effect harming the ecosystem",
+    "nothing would change",
+    "markhors would disappear at once",
+    "mountains would melt"
+   ],
+   0,
+   "As a top predator it keeps the balance; its loss would cause a ripple effect."
+  ],
+  [
+   11,
+   "Who wrote the one-act play 'The Dear Departed'?",
+   [
+    "William Stanley Houghton",
+    "Rudyard Kipling",
+    "William Shakespeare",
+    "Henry Leigh"
+   ],
+   0,
+   "'The Dear Departed' is by William Stanley Houghton (1881-1913)."
+  ],
+  [
+   11,
+   "Who is Mr. Abel Merryweather in the play?",
+   [
+    "Father of Amelia Slater and Elizabeth Jordan",
+    "Husband of Elizabeth",
+    "A neighbour",
+    "A doctor"
+   ],
+   0,
+   "Abel Merryweather is the father of Amelia Slater and Elizabeth Jordan, and grandfather of Victoria."
+  ],
+  [
+   11,
+   "Victoria Slater is the daughter of:",
+   [
+    "Elizabeth and Ben Jordan",
+    "Amelia and Henry Slater",
+    "Abel Merryweather",
+    "Ben and Amelia"
+   ],
+   1,
+   "Victoria is the daughter of Amelia and Henry Slater."
+  ],
+  [
+   11,
+   "Where is the whole play set?",
+   [
+    "In a hospital",
+    "In the living room of the Slater family's house",
+    "In a church",
+    "In a garden"
+   ],
+   1,
+   "The play's sole location is the living room of the Slaters' house."
+  ],
+  [
+   11,
+   "Which items do the Slaters secretly take from grandfather's room?",
+   [
+    "His bureau and clock",
+    "His car and horse",
+    "His books and pens",
+    "His money and jewels only"
+   ],
+   0,
+   "Mrs. Slater and Henry carry down grandfather's bureau and take his clock."
+  ],
+  [
+   11,
+   "Mrs. Slater tells Victoria not to tell her aunt about the:",
+   [
+    "clock and bureau",
+    "new dress",
+    "dinner",
+    "letter"
+   ],
+   0,
+   "'Victoria, don't breathe a word to your aunt about the clock and the bureau.'"
+  ],
+  [
+   11,
+   "A one-act play typically has:",
+   [
+    "a single act, focused plot and limited characters",
+    "five acts",
+    "no dialogue",
+    "many settings"
+   ],
+   0,
+   "A one-act play unfolds in one act with a straightforward plot, few characters and one setting."
+  ],
+  [
+   11,
+   "The play 'The Dear Departed' mainly criticises:",
+   [
+    "greed and selfishness in families",
+    "love of nature",
+    "patriotism",
+    "sports"
+   ],
+   0,
+   "The daughters' rush to divide their father's belongings exposes greed and selfishness."
+  ]
+ ]
+}

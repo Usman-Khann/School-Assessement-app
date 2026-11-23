@@ -1,0 +1,1568 @@
+{
+ "key": "g3_english",
+ "grade": 3,
+ "subject": "English",
+ "language": "en",
+ "title": "English 3 (PECTAA, SNC 2020)",
+ "offset": 0,
+ "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+ "chapters": [
+  [
+   1,
+   "All are Welcome",
+   6
+  ],
+  [
+   2,
+   "Gifts of Nature",
+   17
+  ],
+  [
+   3,
+   "The People I Love",
+   27
+  ],
+  [
+   4,
+   "Kindness to Children",
+   38
+  ],
+  [
+   5,
+   "Road Safety",
+   52
+  ],
+  [
+   6,
+   "The Day of Silence",
+   62
+  ],
+  [
+   7,
+   "I Like to Play",
+   73
+  ],
+  [
+   8,
+   "Saving Resources",
+   84
+  ],
+  [
+   9,
+   "My Culture — My Pride",
+   98
+  ],
+  [
+   10,
+   "Our Family Picnic",
+   108
+  ],
+  [
+   11,
+   "Healthy Habits",
+   117
+  ]
+ ],
+ "questions": [
+  [
+   1,
+   "Which word has the soft sound of 'c' (like 's')?",
+   [
+    "cat",
+    "city",
+    "cap",
+    "can"
+   ],
+   1,
+   "In 'city' the letter c sounds like s. In cat, cap and can it sounds like k."
+  ],
+  [
+   1,
+   "Which word has the soft sound of 'g' (like 'j')?",
+   [
+    "gold",
+    "gram",
+    "giant",
+    "grass"
+   ],
+   2,
+   "In 'giant' the letter g sounds like j."
+  ],
+  [
+   1,
+   "Which word begins with the consonant cluster 'sh'?",
+   [
+    "stop",
+    "ship",
+    "dust",
+    "study"
+   ],
+   1,
+   "'Ship' begins with sh. Two letters joined to make one sound make a consonant cluster."
+  ],
+  [
+   1,
+   "Which word ends with the consonant cluster 'st'?",
+   [
+    "stamp",
+    "dust",
+    "stick",
+    "shirt"
+   ],
+   1,
+   "'Dust' ends with st; stamp and stick begin with it."
+  ],
+  [
+   1,
+   "Which of these is a proper noun?",
+   [
+    "country",
+    "Pakistan",
+    "ice-cream",
+    "sister"
+   ],
+   1,
+   "A proper noun is the name of a particular person, place or thing and begins with a capital letter."
+  ],
+  [
+   1,
+   "Which of these is a common noun?",
+   [
+    "Maryam",
+    "Iqbal",
+    "classroom",
+    "Pakistan"
+   ],
+   2,
+   "A common noun names any person, place or thing and does not begin with a capital letter."
+  ],
+  [
+   1,
+   "What is the opposite of 'clean'?",
+   [
+    "tidy",
+    "dirty",
+    "kind",
+    "happy"
+   ],
+   1,
+   "Opposites have totally different meanings: clean — dirty."
+  ],
+  [
+   1,
+   "What is the opposite of 'healthy'?",
+   [
+    "unhealthy",
+    "unkind",
+    "polite",
+    "good"
+   ],
+   0,
+   "Adding 'un' to healthy gives its opposite, unhealthy."
+  ],
+  [
+   1,
+   "How many syllables are there in 'activity' (ac-ti-vi-ty)?",
+   [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   2,
+   "ac-ti-vi-ty has four parts, so four syllables."
+  ],
+  [
+   1,
+   "Which punctuation mark ends a sentence with a pause?",
+   [
+    "Comma",
+    "Full stop",
+    "Exclamation mark",
+    "Inverted commas"
+   ],
+   1,
+   "A full stop (.) ends a sentence."
+  ],
+  [
+   1,
+   "Which word comes first in alphabetical (ABC) order?",
+   [
+    "poster",
+    "learn",
+    "activity",
+    "poem"
+   ],
+   2,
+   "'Activity' starts with a, which comes first in the alphabet."
+  ],
+  [
+   1,
+   "In the speech 'First Day in Class III', what is the most important class rule?",
+   [
+    "Keep our classroom clean",
+    "Run in the classroom",
+    "Talk loudly",
+    "Eat during the lesson"
+   ],
+   0,
+   "The speech says the most important rule is to keep our classroom clean."
+  ],
+  [
+   2,
+   "Which of these letters is a vowel?",
+   [
+    "b",
+    "e",
+    "t",
+    "m"
+   ],
+   1,
+   "The vowels are a, e, i, o and u. All other letters are consonants."
+  ],
+  [
+   2,
+   "Which word has a long vowel sound?",
+   [
+    "hit",
+    "bed",
+    "boat",
+    "box"
+   ],
+   2,
+   "In 'boat' the vowel says its own name (oa). Hit, bed and box have short vowel sounds."
+  ],
+  [
+   2,
+   "Which word has a short vowel sound?",
+   [
+    "heat",
+    "kite",
+    "cat",
+    "seat"
+   ],
+   2,
+   "A vowel in the middle of a short word like 'cat' is usually short."
+  ],
+  [
+   2,
+   "In the poem 'Golden Sun', the sun is called the life of all ______.",
+   [
+    "clouds",
+    "things",
+    "stars",
+    "rivers"
+   ],
+   1,
+   "The poem says: 'You are the life of all things' — life on earth depends on the sun."
+  ],
+  [
+   2,
+   "Which word is a conjunction (joining word)?",
+   [
+    "because",
+    "pencil",
+    "happy",
+    "run"
+   ],
+   0,
+   "A conjunction joins words or sentences, like and, but, or, because."
+  ],
+  [
+   2,
+   "Fill in the blank: 'Do you want to buy a shirt ___ a pair of shoes?'",
+   [
+    "but",
+    "or",
+    "because",
+    "so"
+   ],
+   1,
+   "'Or' is used to give a choice between two things."
+  ],
+  [
+   2,
+   "Which pair of words are anagrams?",
+   [
+    "break — baker",
+    "cat — dog",
+    "sun — moon",
+    "big — small"
+   ],
+   0,
+   "An anagram is made by rearranging the letters of another word: break → baker."
+  ],
+  [
+   2,
+   "In 'The pencil is on the table', what is the subject?",
+   [
+    "is",
+    "on",
+    "pencil",
+    "table"
+   ],
+   2,
+   "The subject is what the sentence is about: the pencil. 'Is' is the verb."
+  ],
+  [
+   2,
+   "How do we write 68 in words?",
+   [
+    "six-eight",
+    "sixty-eight",
+    "eighty-six",
+    "sixteen-eight"
+   ],
+   1,
+   "68 is sixty-eight."
+  ],
+  [
+   2,
+   "'Intonation' means:",
+   [
+    "the rise and fall of the voice while speaking",
+    "writing in capital letters",
+    "a kind of punctuation",
+    "a long vowel"
+   ],
+   0,
+   "Intonation is the rise and fall of our voice; yes/no questions end with a rising voice."
+  ],
+  [
+   3,
+   "In 'My Happy Home', what is the name of the girl telling about her family?",
+   [
+    "Maryam",
+    "Bano",
+    "Ruby",
+    "Shehla"
+   ],
+   1,
+   "The text begins: 'My name is Bano. I live in a small house.'"
+  ],
+  [
+   3,
+   "What pet does Bano have?",
+   [
+    "a parrot",
+    "a white kitten",
+    "a puppy",
+    "a rabbit"
+   ],
+   1,
+   "Bano has a white kitten as a pet."
+  ],
+  [
+   3,
+   "According to the family rules, we should not accept eatables or gifts from:",
+   [
+    "parents",
+    "grandparents",
+    "strangers",
+    "teachers"
+   ],
+   2,
+   "Strangers are people we don't know; we must not accept gifts or eatables from them."
+  ],
+  [
+   3,
+   "Which word is used with 'he, she and it'?",
+   [
+    "have",
+    "has",
+    "are",
+    "were"
+   ],
+   1,
+   "'Has' is used with he, she and it; 'have' is used with I, we, you and they."
+  ],
+  [
+   3,
+   "What is the short form (contraction) of 'I have'?",
+   [
+    "I'm",
+    "I've",
+    "I'd",
+    "I'll"
+   ],
+   1,
+   "I have → I've."
+  ],
+  [
+   3,
+   "What is the contraction of 'has not'?",
+   [
+    "hasn't",
+    "haven't",
+    "isn't",
+    "doesn't"
+   ],
+   0,
+   "has not → hasn't."
+  ],
+  [
+   3,
+   "Which of these is a feminine noun?",
+   [
+    "nephew",
+    "uncle",
+    "niece",
+    "prince"
+   ],
+   2,
+   "'Niece' is feminine; nephew is its masculine."
+  ],
+  [
+   3,
+   "Which of these is a neuter noun (neither male nor female)?",
+   [
+    "mother",
+    "ship",
+    "son",
+    "mare"
+   ],
+   1,
+   "A ship is not male or female, so it is neuter gender."
+  ],
+  [
+   3,
+   "What is the feminine of 'horse'?",
+   [
+    "mare",
+    "goose",
+    "hen",
+    "cow"
+   ],
+   0,
+   "The female of a horse is a mare."
+  ],
+  [
+   3,
+   "Which mark shows mood and emotion, as in 'Pakistan has won the match!'?",
+   [
+    "full stop",
+    "comma",
+    "exclamation mark",
+    "question mark"
+   ],
+   2,
+   "An exclamation mark (!) shows strong feelings."
+  ],
+  [
+   3,
+   "How many syllables are in 'vacation' (va-ca-tion)?",
+   [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   2,
+   "va-ca-tion has three syllables."
+  ],
+  [
+   4,
+   "Which companion said he had never seen anyone kinder to children than the Rasool ﷺ?",
+   [
+    "Hazrat Anas (RA)",
+    "Hazrat Umar (RA)",
+    "Hazrat Ali (RA)",
+    "Hazrat Bilal (RA)"
+   ],
+   0,
+   "Hazrat Anas (RA) said: 'I have never seen anyone act more kindly towards children than Allah's Rasool.'"
+  ],
+  [
+   4,
+   "Who were the grandchildren of the Rasool ﷺ mentioned in the unit?",
+   [
+    "Hazrat Imam Hassan and Hazrat Imam Hussain",
+    "Hazrat Abu Bakr and Hazrat Umar",
+    "Hazrat Usman and Hazrat Ali",
+    "Hazrat Anas and Hazrat Bilal"
+   ],
+   0,
+   "The unit tells how the Rasool ﷺ picked up Hazrat Imam Hassan and Hazrat Imam Hussain when they fell."
+  ],
+  [
+   4,
+   "To whom did the Rasool ﷺ give the first fruit of the season?",
+   [
+    "the eldest person",
+    "the youngest child present",
+    "his companions",
+    "the traders"
+   ],
+   1,
+   "When the first fruit of the season was brought, he gave it to the youngest child present."
+  ],
+  [
+   4,
+   "In battles, the Rasool ﷺ ordered his followers:",
+   [
+    "not to kill women and children",
+    "to take children as prisoners",
+    "to leave children alone in the desert",
+    "to stop all trade"
+   ],
+   0,
+   "Even in battle he commanded that women and children must not be killed."
+  ],
+  [
+   4,
+   "A 'Naat' is a poem that:",
+   [
+    "praises the Holy Prophet ﷺ",
+    "tells a funny story",
+    "describes the seasons",
+    "is sung at birthdays"
+   ],
+   0,
+   "A Naat is a poem that specially praises Hazrat Muhammad ﷺ."
+  ],
+  [
+   4,
+   "Two letters joined to give one sound, like 'ch' in chair, are called a:",
+   [
+    "trigraph",
+    "digraph",
+    "syllable",
+    "vowel"
+   ],
+   1,
+   "A digraph is one sound made by two letters; a trigraph is made by three letters (tch in watch)."
+  ],
+  [
+   4,
+   "Which word ends with the trigraph 'tch'?",
+   [
+    "chair",
+    "catch",
+    "inch",
+    "school"
+   ],
+   1,
+   "'Catch' ends with t-c-h, three letters that make one sound."
+  ],
+  [
+   4,
+   "Which word is an adjective in 'My father bought a new house'?",
+   [
+    "father",
+    "bought",
+    "new",
+    "house"
+   ],
+   2,
+   "An adjective describes a noun: 'new' describes the house."
+  ],
+  [
+   4,
+   "Which word is a possessive adjective?",
+   [
+    "our",
+    "house",
+    "is",
+    "new"
+   ],
+   0,
+   "'Our' shows who owns something, as in 'Our house is new'."
+  ],
+  [
+   4,
+   "Which sentence is in the present continuous tense?",
+   [
+    "He walks.",
+    "He is walking.",
+    "He walked.",
+    "He will walk."
+   ],
+   1,
+   "The present continuous (is/am/are + -ing) shows an action going on now."
+  ],
+  [
+   4,
+   "Fill in the conjunction: 'He was holding an umbrella ___ it was raining.'",
+   [
+    "but",
+    "or",
+    "because",
+    "so that"
+   ],
+   2,
+   "He held the umbrella for a reason — because it was raining."
+  ],
+  [
+   4,
+   "The three basic elements of a story are:",
+   [
+    "beginning, middle and end",
+    "title, picture and colour",
+    "nouns, verbs and adjectives",
+    "full stop, comma and question mark"
+   ],
+   0,
+   "Every story has a beginning, a middle and an end, along with characters, place and time."
+  ],
+  [
+   5,
+   "Where should we cross the road?",
+   [
+    "at a bend",
+    "at the zebra crossing",
+    "between parked cars",
+    "at a turning"
+   ],
+   1,
+   "The black and white lines of the zebra crossing are the safe place to cross."
+  ],
+  [
+   5,
+   "Before crossing the road, after standing at the side we first look to the:",
+   [
+    "right",
+    "sky",
+    "back",
+    "front only"
+   ],
+   0,
+   "Step 1: stand at the side and look to your right; step 2: look left; step 3: look right again and cross."
+  ],
+  [
+   5,
+   "What does the red traffic light tell us?",
+   [
+    "Go",
+    "Get ready",
+    "Stop",
+    "Turn left"
+   ],
+   2,
+   "The poem 'Traffic Lights' says: red light — stop, yellow — start (get ready), green — go."
+  ],
+  [
+   5,
+   "What does the green traffic light tell us?",
+   [
+    "Stop",
+    "Go",
+    "Wait",
+    "Park"
+   ],
+   1,
+   "Green means go."
+  ],
+  [
+   5,
+   "When should we get down from a school van?",
+   [
+    "while it is moving",
+    "when it stops",
+    "at a bend",
+    "when the driver is talking"
+   ],
+   1,
+   "Keep sitting till the bus or van stops; never get down from a moving vehicle."
+  ],
+  [
+   5,
+   "Where should we walk on a busy road?",
+   [
+    "on the footpath",
+    "in the middle of the road",
+    "on the zebra crossing all the time",
+    "behind buses"
+   ],
+   0,
+   "Walk on the footpath to stay safe."
+  ],
+  [
+   5,
+   "What is the contraction of 'does not'?",
+   [
+    "don't",
+    "doesn't",
+    "didn't",
+    "isn't"
+   ],
+   1,
+   "does not → doesn't."
+  ],
+  [
+   5,
+   "Choose the correct sentence.",
+   [
+    "He don't play football.",
+    "He doesn't play football.",
+    "He doesn't plays football.",
+    "He not play football."
+   ],
+   1,
+   "With he/she/it we use doesn't + the present form of the verb (play)."
+  ],
+  [
+   5,
+   "Which of these is an uncountable noun?",
+   [
+    "glass",
+    "water",
+    "book",
+    "cyclist"
+   ],
+   1,
+   "We can count glasses, but we cannot count water."
+  ],
+  [
+   5,
+   "Which of these is a countable noun?",
+   [
+    "milk",
+    "sand",
+    "bicycle",
+    "air"
+   ],
+   2,
+   "Bicycles can be counted: one bicycle, two bicycles."
+  ],
+  [
+   5,
+   "'Can' shows ability. Which sentence shows inability?",
+   [
+    "A fish can swim.",
+    "A bird can fly.",
+    "A cow cannot fly.",
+    "I can sing."
+   ],
+   2,
+   "'Cannot' (can't) is used for things we are not able to do."
+  ],
+  [
+   5,
+   "Which word means 'a machine with wheels and an engine'?",
+   [
+    "vehicle",
+    "safety",
+    "cross",
+    "carelessly"
+   ],
+   0,
+   "Cars, buses and trucks are vehicles."
+  ],
+  [
+   6,
+   "In 'The Day of Silence', what problem did Rizwan have since birth?",
+   [
+    "He could not see",
+    "He could not hear",
+    "He could not walk",
+    "He could not read"
+   ],
+   1,
+   "Rizwan could not hear since birth, so he learnt sign language."
+  ],
+  [
+   6,
+   "How did Rizwan communicate with others?",
+   [
+    "by writing letters",
+    "through sign language",
+    "by drawing pictures",
+    "by shouting"
+   ],
+   1,
+   "A doctor advised his parents to help him learn sign language."
+  ],
+  [
+   6,
+   "Why was Rizwan unhappy?",
+   [
+    "He had no friends",
+    "People treated him like a little child",
+    "He failed his test",
+    "He lost his toys"
+   ],
+   1,
+   "His parents and the villagers treated him as a little child, which made him feel unhappy."
+  ],
+  [
+   6,
+   "Who had the idea of 'The Day of Silence'?",
+   [
+    "Rizwan's teacher",
+    "his friend Mumtaz",
+    "the doctor",
+    "Rizwan's mother"
+   ],
+   1,
+   "His friend Mumtaz asked his father to arrange a festival for people who could not hear."
+  ],
+  [
+   6,
+   "On 'The Day of Silence', everyone in the town wore:",
+   [
+    "earplugs",
+    "caps",
+    "glasses",
+    "masks"
+   ],
+   0,
+   "Everyone put earplugs in their ears for the whole day."
+  ],
+  [
+   6,
+   "What lesson does the story teach?",
+   [
+    "Everyone has a special talent and should be given an equal chance",
+    "Games are a waste of time",
+    "Only strong people can win",
+    "We should not go to festivals"
+   ],
+   0,
+   "The story ends: everyone has some special talent and should be given an equal chance."
+  ],
+  [
+   6,
+   "What is the plural of 'box'?",
+   [
+    "boxs",
+    "boxes",
+    "boxies",
+    "box"
+   ],
+   1,
+   "Nouns ending in x, s, sh or ch add 'es': box → boxes."
+  ],
+  [
+   6,
+   "What is the plural of 'visitor'?",
+   [
+    "visitores",
+    "visitors",
+    "visitories",
+    "visitor's"
+   ],
+   1,
+   "Most nouns just add 's': visitor → visitors."
+  ],
+  [
+   6,
+   "Fill in the article: 'I saw ___ elephant yesterday.'",
+   [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   1,
+   "'An' is used before words beginning with a vowel sound (e, a, i, o, u)."
+  ],
+  [
+   6,
+   "Fill in the article: 'Ahmad is ___ best boy of my class.'",
+   [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   2,
+   "'The' is used for a particular one, including with 'best'."
+  ],
+  [
+   6,
+   "Which needs 'an' because of a silent 'h'?",
+   [
+    "hat",
+    "hour",
+    "horse",
+    "house"
+   ],
+   1,
+   "We say 'an hour' because the h in hour is silent."
+  ],
+  [
+   6,
+   "Which word has a silent 'b'?",
+   [
+    "bat",
+    "lamb",
+    "boy",
+    "bag"
+   ],
+   1,
+   "In 'lamb' the b is not spoken."
+  ],
+  [
+   7,
+   "Which of these is an outdoor game?",
+   [
+    "ludo",
+    "carrom",
+    "hockey",
+    "chess"
+   ],
+   2,
+   "Games played in the playground like cricket, hockey and kabaddi are outdoor games."
+  ],
+  [
+   7,
+   "Which of these is an indoor game?",
+   [
+    "cricket",
+    "kabaddi",
+    "ludo",
+    "hockey"
+   ],
+   2,
+   "Ludo is played indoors with family members."
+  ],
+  [
+   7,
+   "According to the text, sports help children to:",
+   [
+    "become leaders and learn the value of time",
+    "waste time",
+    "stay away from friends",
+    "stop studying"
+   ],
+   0,
+   "The text says sports help children become leaders and teach them the value of time."
+  ],
+  [
+   7,
+   "Which activity gives energy and strength to the body, as the text says?",
+   [
+    "skipping rope",
+    "sleeping late",
+    "watching TV",
+    "eating sweets"
+   ],
+   0,
+   "Skipping rope is popular and gives energy and strength to the body."
+  ],
+  [
+   7,
+   "Which word begins with the consonant cluster 'cr'?",
+   [
+    "spider",
+    "crown",
+    "space",
+    "special"
+   ],
+   1,
+   "Crown begins with cr; spider, space and special begin with sp."
+  ],
+  [
+   7,
+   "Which word begins with the consonant cluster 'sp'?",
+   [
+    "crow",
+    "cry",
+    "sparrow",
+    "crumb"
+   ],
+   2,
+   "Sparrow begins with sp."
+  ],
+  [
+   7,
+   "Which is the correct spelling?",
+   [
+    "enviroment",
+    "environment",
+    "envirnment",
+    "enviromment"
+   ],
+   1,
+   "The correct spelling is environment."
+  ],
+  [
+   7,
+   "Which of these is an action (doing) verb?",
+   [
+    "happy",
+    "jump",
+    "table",
+    "blue"
+   ],
+   1,
+   "Action verbs show what we can do: jump, run, write."
+  ],
+  [
+   7,
+   "Homophones sound the same but have different meanings. Choose the pair of homophones.",
+   [
+    "here — hear",
+    "big — small",
+    "sun — moon",
+    "run — ran"
+   ],
+   0,
+   "Here and hear sound the same but are spelt differently and mean different things."
+  ],
+  [
+   7,
+   "Fill in: 'I can ___ the birds singing.'",
+   [
+    "here",
+    "hear",
+    "hare",
+    "hair"
+   ],
+   1,
+   "'Hear' means to listen with the ears; 'here' means this place."
+  ],
+  [
+   7,
+   "'Sibling' means:",
+   [
+    "a brother or a sister",
+    "a teacher",
+    "a neighbour",
+    "a friend's parent"
+   ],
+   0,
+   "Your siblings are your brothers and sisters."
+  ],
+  [
+   8,
+   "Which of these is a natural resource?",
+   [
+    "water",
+    "plastic bag",
+    "toy car",
+    "television"
+   ],
+   0,
+   "Air, water, land, sunlight, minerals, plants and animals are gifts of nature (natural resources)."
+  ],
+  [
+   8,
+   "Why will there be a shortage of water in future, according to the text?",
+   [
+    "if we keep wasting it",
+    "because of too much rain",
+    "because rivers are new",
+    "because plants drink it"
+   ],
+   0,
+   "The text warns that if we continue wasting water there will be an acute shortage."
+  ],
+  [
+   8,
+   "How can we save water while brushing our teeth?",
+   [
+    "Turn off the tap",
+    "Keep the tap running",
+    "Take a long shower",
+    "Wash the car with a hose"
+   ],
+   0,
+   "Turn off the tap while brushing teeth and washing hands."
+  ],
+  [
+   8,
+   "Which is a good way to save electricity?",
+   [
+    "Turn off unnecessary lights",
+    "Leave fans on in empty rooms",
+    "Keep the TV on all night",
+    "Use more air conditioners"
+   ],
+   0,
+   "Switch off extra lights and fans and use natural light."
+  ],
+  [
+   8,
+   "Paper is made of:",
+   [
+    "wood",
+    "plastic",
+    "glass",
+    "iron"
+   ],
+   0,
+   "Paper is made of wood, so using less paper means fewer trees are cut down."
+  ],
+  [
+   8,
+   "Which form of energy from the sun can help us save electricity?",
+   [
+    "solar energy",
+    "wind energy",
+    "coal",
+    "gas"
+   ],
+   0,
+   "Solar energy is another service that can help us save electricity."
+  ],
+  [
+   8,
+   "Choose the possessive pronoun: 'The bag belongs to Hina. It is ___.'",
+   [
+    "her",
+    "hers",
+    "she",
+    "herself"
+   ],
+   1,
+   "'Hers' is a possessive pronoun that shows the bag is Hina's."
+  ],
+  [
+   8,
+   "'My parents and I live in this house. The house is ___.'",
+   [
+    "our",
+    "ours",
+    "we",
+    "us"
+   ],
+   1,
+   "'Ours' shows that the house belongs to us."
+  ],
+  [
+   8,
+   "In 'Arif played a match. He enjoyed it.', which word is a pronoun used for Arif?",
+   [
+    "played",
+    "He",
+    "match",
+    "enjoyed"
+   ],
+   1,
+   "A pronoun is used in place of a noun: 'He' stands for Arif."
+  ],
+  [
+   8,
+   "Choose the correct verb: 'He ___ books.'",
+   [
+    "have",
+    "has",
+    "do",
+    "are"
+   ],
+   1,
+   "With he/she/it we use 'has'."
+  ],
+  [
+   8,
+   "Which word shows where the cat is: 'A cat is under the table'?",
+   [
+    "cat",
+    "is",
+    "under",
+    "table"
+   ],
+   2,
+   "'Under' is a preposition: it shows the position of the cat."
+  ],
+  [
+   8,
+   "'To make unclean' is the meaning of:",
+   [
+    "pollute",
+    "conserve",
+    "abundance",
+    "resource"
+   ],
+   0,
+   "To pollute means to make air, water or land dirty."
+  ],
+  [
+   9,
+   "'Culture' means:",
+   [
+    "the way people live, think and behave in a society",
+    "a kind of food",
+    "a game",
+    "a festival only"
+   ],
+   0,
+   "The unit defines culture as the way people live, think and behave in a society."
+  ],
+  [
+   9,
+   "According to the text, Pakistanis are known as:",
+   [
+    "hospitable people who take care of guests",
+    "people who never celebrate",
+    "people who don't visit relatives",
+    "people who live alone"
+   ],
+   0,
+   "Pakistanis are hospitable people; we always take care of our guests."
+  ],
+  [
+   9,
+   "Which is a religious festival?",
+   [
+    "Eid-ul-Fitr",
+    "Pakistan Day",
+    "Flower Show",
+    "Jashn-e-Baharan"
+   ],
+   0,
+   "Eid-ul-Fitr and Eid-ul-Adha are religious festivals."
+  ],
+  [
+   9,
+   "Pakistan Day (23rd March) commemorates:",
+   [
+    "the Lahore Resolution",
+    "Independence in 1947",
+    "the birthday of the Quaid",
+    "the spring season"
+   ],
+   0,
+   "Pakistan Day is celebrated to commemorate the Lahore Resolution."
+  ],
+  [
+   9,
+   "Which polite expression do we use to thank someone?",
+   [
+    "Excuse me",
+    "Thank you",
+    "May I...",
+    "I'm sorry"
+   ],
+   1,
+   "'Thank you' shows gratitude; 'You're welcome' is the reply."
+  ],
+  [
+   9,
+   "Which sentence is in the simple past tense?",
+   [
+    "They teach English.",
+    "They taught English.",
+    "They will teach English.",
+    "They are teaching English."
+   ],
+   1,
+   "'Taught' is the past form of teach."
+  ],
+  [
+   9,
+   "Which sentence is in the simple future tense?",
+   [
+    "My mother cooks food.",
+    "My mother cooked food.",
+    "My mother will cook food.",
+    "My mother is cook."
+   ],
+   2,
+   "We use will/shall with the first form of the verb for the future."
+  ],
+  [
+   9,
+   "'We went to our village last Sunday' is in the:",
+   [
+    "present tense",
+    "past tense",
+    "future tense",
+    "continuous tense"
+   ],
+   1,
+   "'Went' and 'last Sunday' show the past."
+  ],
+  [
+   9,
+   "Fill in: 'Yesterday, they ___ playing cricket in the park.'",
+   [
+    "is",
+    "are",
+    "was",
+    "were"
+   ],
+   3,
+   "With 'they' in the past we use 'were'."
+  ],
+  [
+   9,
+   "Which word has a short 'e' sound?",
+   [
+    "bee",
+    "pet",
+    "see",
+    "tree"
+   ],
+   1,
+   "'Pet' has a short e sound; bee, see and tree have a long e."
+  ],
+  [
+   10,
+   "In the poem 'Our Family Picnic', what spoiled the picnic?",
+   [
+    "rain, wind, mosquitoes and bees",
+    "too much food",
+    "a lost car",
+    "a long queue"
+   ],
+   0,
+   "It got rainy and dark, things blew away, mosquitoes bit them and bees attacked them."
+  ],
+  [
+   10,
+   "Which word begins with the blend 'str'?",
+   [
+    "quiet",
+    "street",
+    "quick",
+    "school"
+   ],
+   1,
+   "'Street' begins with the blend str; 'quiet' and 'quick' begin with qu."
+  ],
+  [
+   10,
+   "Which word begins with 'qu'?",
+   [
+    "stream",
+    "quick",
+    "string",
+    "straw"
+   ],
+   1,
+   "'Quick' begins with qu."
+  ],
+  [
+   10,
+   "A compass rose on a map is used to show:",
+   [
+    "directions",
+    "the weather",
+    "the time",
+    "prices"
+   ],
+   0,
+   "A compass rose tells directions such as North, South, East and West."
+  ],
+  [
+   10,
+   "Choose the correct sentence for asking permission.",
+   [
+    "May I come in?",
+    "Can't I come in?",
+    "I come in.",
+    "Come in may I?"
+   ],
+   0,
+   "'May' is used for seeking permission."
+  ],
+  [
+   10,
+   "Which word is a preposition?",
+   [
+    "over",
+    "picnic",
+    "rainy",
+    "family"
+   ],
+   0,
+   "Prepositions like with, in, over, from, about show the relation of a noun to other words."
+  ],
+  [
+   10,
+   "Which shows possession with an apostrophe correctly?",
+   [
+    "Majids car",
+    "Majid's car",
+    "Majids' car",
+    "Majid,s car"
+   ],
+   1,
+   "We add 's to show that something belongs to someone: Majid's car."
+  ],
+  [
+   10,
+   "What is the contraction of 'I will'?",
+   [
+    "I'm",
+    "I'll",
+    "I've",
+    "I'd"
+   ],
+   1,
+   "I will → I'll."
+  ],
+  [
+   10,
+   "What is the contraction of 'who is'?",
+   [
+    "who's",
+    "whose",
+    "who'd",
+    "who've"
+   ],
+   0,
+   "who is → who's."
+  ],
+  [
+   10,
+   "Choose the correct word: '___ you swim?' (asking about ability)",
+   [
+    "May",
+    "Can",
+    "Will",
+    "Shall"
+   ],
+   1,
+   "'Can' asks about ability."
+  ],
+  [
+   10,
+   "'It ___ rain tomorrow.' (a possibility)",
+   [
+    "can",
+    "may",
+    "must",
+    "does"
+   ],
+   1,
+   "'May' is used for something that is possible in the future."
+  ],
+  [
+   11,
+   "In the story, on whom did the wizard first use his new spell for perfect teeth?",
+   [
+    "a cat",
+    "one of his toads",
+    "a rabbit",
+    "a parrot"
+   ],
+   1,
+   "The wizard decided to use the spell on one of his toads."
+  ],
+  [
+   11,
+   "What did the toad love to eat after getting perfect teeth?",
+   [
+    "vegetables",
+    "candies and sweets",
+    "fruit",
+    "bugs"
+   ],
+   1,
+   "The toad said he preferred eating candies, and he ate many sweets."
+  ],
+  [
+   11,
+   "What happened to the toad's teeth in the end?",
+   [
+    "They became stronger",
+    "They decayed and fell out",
+    "They turned golden",
+    "Nothing happened"
+   ],
+   1,
+   "A tooth started decaying, the decay spread, and his teeth fell out."
+  ],
+  [
+   11,
+   "What lesson does the story of the toad teach?",
+   [
+    "Look after your teeth and don't eat too many sweets",
+    "Eat as many sweets as you like",
+    "Never visit a dentist",
+    "Brush once a month"
+   ],
+   0,
+   "The wizard told the toad: look after your teeth, don't eat so many sweets."
+  ],
+  [
+   11,
+   "Which letter is silent in 'knife'?",
+   [
+    "k",
+    "n",
+    "f",
+    "e"
+   ],
+   0,
+   "In knife the k is silent."
+  ],
+  [
+   11,
+   "Which letter is silent in 'write'?",
+   [
+    "w",
+    "r",
+    "t",
+    "e"
+   ],
+   0,
+   "In write the w is silent."
+  ],
+  [
+   11,
+   "How many syllables are there in 'banana' (ba-na-na)?",
+   [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   2,
+   "ba-na-na has three syllables."
+  ],
+  [
+   11,
+   "In which word is 'ed' pronounced /id/?",
+   [
+    "asked",
+    "called",
+    "wanted",
+    "missed"
+   ],
+   2,
+   "After t or d, -ed sounds like /id/: wanted, needed."
+  ],
+  [
+   11,
+   "Which question word asks about a place?",
+   [
+    "When",
+    "Where",
+    "Who",
+    "Why"
+   ],
+   1,
+   "'Where' asks about a place."
+  ],
+  [
+   11,
+   "Which question word asks about a person?",
+   [
+    "What",
+    "Which",
+    "Who",
+    "When"
+   ],
+   2,
+   "'Who' asks about a person."
+  ],
+  [
+   11,
+   "A dictionary lists words and their meanings in:",
+   [
+    "alphabetical order",
+    "order of length",
+    "random order",
+    "order of colour"
+   ],
+   0,
+   "A dictionary is always in alphabetical order."
+  ],
+  [
+   11,
+   "Fill in: 'Wash your hands ___ eating food.'",
+   [
+    "before",
+    "under",
+    "over",
+    "between"
+   ],
+   0,
+   "We wash our hands before eating to keep germs away."
+  ]
+ ]
+}

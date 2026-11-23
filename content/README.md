@@ -28,8 +28,13 @@ e-learning site of the Punjab Government (PITB), which shows the
 * eLearn offers Mathematics and Science for classes 3-10 (General Knowledge in
   Urdu for class 3, with no quiz or book file), and Physics, Chemistry,
   Biology, General Mathematics and General Science for classes 9-10.
-  **eLearn has no Urdu or English subject books.** Those will be added from
-  PDFs downloaded from https://pectaa.edu.pk.
+  eLearn has no Urdu or English subject books.
+* **Urdu and English for classes 3-10** (16 books) are the official PECTAA
+  textbooks, downloaded from https://pectaa.edu.pk/curriculum-compliance/
+  (Google Drive links on that page). Chapters were read from each book's
+  contents and lesson pages. Their MCQs were **written by Claude from the
+  lesson text** (comprehension, vocabulary, grammar boxes shown in the book);
+  each has an explanation quoting or pointing to the book.
 * eLearn's editions may be older than the newest printed books for some
   classes. A teacher can import a newer PDF in the app; old versions are kept.
 * Page numbers in the catalog are positions inside the PDF file (page 1 = the
@@ -47,6 +52,7 @@ and **every remaining question was read and checked**:
   missing figure, or unreadable.
 * Maths written in LaTeX/MathML was converted to plain text (x², √2, ½ …).
 
-Result: **2,364 MCQs across 23 books**. Every change is listed in
+Result: **2,364 MCQs across 23 eLearn books**, plus **1,898 MCQs across the
+16 PECTAA Urdu/English books** (about 4,260 MCQs in 39 books). Every change is listed in
 `review/review_fixes.json` with its reason, so a teacher can check it. The
 questions are still marked "not verified by a teacher" in the app.

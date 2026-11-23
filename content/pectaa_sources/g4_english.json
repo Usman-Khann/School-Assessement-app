@@ -1,0 +1,1806 @@
+{
+ "key": "g4_english",
+ "grade": 4,
+ "subject": "English",
+ "language": "en",
+ "title": "English 4 (PECTAA, SNC 2020)",
+ "offset": 0,
+ "sourceUrl": "https://pectaa.edu.pk/curriculum-compliance/",
+ "chapters": [
+  [
+   1,
+   "Great Caliphs of Islam",
+   6
+  ],
+  [
+   2,
+   "Beauty of Nature",
+   18
+  ],
+  [
+   3,
+   "The Journey of Chocolate",
+   27
+  ],
+  [
+   4,
+   "The Pride of Pakistan",
+   39
+  ],
+  [
+   5,
+   "Thank You, Lord",
+   50
+  ],
+  [
+   6,
+   "Valuing Others",
+   60
+  ],
+  [
+   7,
+   "Colours of Pakistan",
+   72
+  ],
+  [
+   8,
+   "Good Study Habits",
+   83
+  ],
+  [
+   9,
+   "Manners",
+   92
+  ],
+  [
+   10,
+   "Be Aware, Be Safe",
+   103
+  ],
+  [
+   11,
+   "The Fox and the Stork",
+   112
+  ],
+  [
+   12,
+   "Time to Think!",
+   121
+  ],
+  [
+   13,
+   "Little Things",
+   132
+  ]
+ ],
+ "questions": [
+  [
+   1,
+   "How many Rashidun (rightly-guided) caliphs ruled the first caliphate?",
+   [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   2,
+   "The Rashidun Caliphate was ruled by four caliphs: Hazrat Abu Bakr, Hazrat Umar, Hazrat Usman and Hazrat Ali."
+  ],
+  [
+   1,
+   "For how many years did the Rashidun Caliphate last?",
+   [
+    "10 years",
+    "30 years",
+    "50 years",
+    "100 years"
+   ],
+   1,
+   "The lesson says the Rashidun Caliphate lasted for 30 years."
+  ],
+  [
+   1,
+   "What was the real name of Hazrat Abu Bakr Siddique?",
+   [
+    "Abdullah",
+    "Usman",
+    "Umar",
+    "Talib"
+   ],
+   0,
+   "His name was Abdullah; Abu Bakr was his kuniyyat and Siddique was his title."
+  ],
+  [
+   1,
+   "Who was the first among men to accept Islam?",
+   [
+    "Hazrat Umar",
+    "Hazrat Abu Bakr",
+    "Hazrat Usman",
+    "Hazrat Ali"
+   ],
+   1,
+   "Hazrat Abu Bakr was the first among men to accept Islam."
+  ],
+  [
+   1,
+   "Who was elected as the first caliph of Islam?",
+   [
+    "Hazrat Ali",
+    "Hazrat Usman",
+    "Hazrat Umar",
+    "Hazrat Abu Bakr"
+   ],
+   3,
+   "After the death of Rasoolullah (PBUH), Hazrat Abu Bakr was elected as the first caliph."
+  ],
+  [
+   1,
+   "Which title was given to Hazrat Umar?",
+   [
+    "Ghani",
+    "Farooq",
+    "Siddique",
+    "Zun Noorain"
+   ],
+   1,
+   "Hazrat Umar was given the title 'Farooq', the one who distinguishes between right and wrong."
+  ],
+  [
+   1,
+   "For about how long did Hazrat Umar serve as caliph?",
+   [
+    "Two years",
+    "Five years",
+    "Ten and a half years",
+    "Twelve years"
+   ],
+   2,
+   "Hazrat Umar served Islam and the Muslims as caliph for ten and a half years."
+  ],
+  [
+   1,
+   "Why was Hazrat Usman known as 'Ghani'?",
+   [
+    "He was a brave soldier",
+    "He was very generous",
+    "He was a great poet",
+    "He was the youngest caliph"
+   ],
+   1,
+   "He was a rich trader who spent generously in the way of Allah, so he was called Ghani."
+  ],
+  [
+   1,
+   "What does 'Zun Noorain' mean?",
+   [
+    "The lion of Allah",
+    "The truthful",
+    "Holder of two lights",
+    "The one who distinguishes"
+   ],
+   2,
+   "Hazrat Usman married two daughters of the Holy Prophet (PBUH), so he was called Zun Noorain, holder of two lights."
+  ],
+  [
+   1,
+   "Who was the first among children to accept Islam?",
+   [
+    "Hazrat Hassan",
+    "Hazrat Ali",
+    "Hazrat Hussain",
+    "Hazrat Usman"
+   ],
+   1,
+   "Hazrat Ali was the first among children to accept Islam, at about ten years of age."
+  ],
+  [
+   1,
+   "Hazrat Ali is also known as:",
+   [
+    "Asadullah, the Lion of Allah",
+    "Farooq",
+    "Ghani",
+    "Siddique"
+   ],
+   0,
+   "Because he was very courageous, Hazrat Ali is known as 'the Lion of Allah'."
+  ],
+  [
+   1,
+   "Which caliph was the third caliph of Islam?",
+   [
+    "Hazrat Abu Bakr",
+    "Hazrat Umar",
+    "Hazrat Usman",
+    "Hazrat Ali"
+   ],
+   2,
+   "After the martyrdom of Hazrat Umar, Hazrat Usman became the third caliph."
+  ],
+  [
+   1,
+   "How many vowel letters are there in the English alphabet?",
+   [
+    "Three",
+    "Four",
+    "Five",
+    "Six"
+   ],
+   2,
+   "The lesson says there are five vowels: a, e, i, o and u."
+  ],
+  [
+   1,
+   "A group of two letters that makes a single sound is called a:",
+   [
+    "trigraph",
+    "digraph",
+    "vowel",
+    "syllable"
+   ],
+   1,
+   "A digraph is a group of two letters that makes one sound, e.g. 'ch' in chick."
+  ],
+  [
+   1,
+   "Which of these is an uncountable noun?",
+   [
+    "ball",
+    "girl",
+    "water",
+    "doll"
+   ],
+   2,
+   "Uncountable nouns have no plural form, e.g. water, weather, furniture."
+  ],
+  [
+   1,
+   "In the word 'lamb', which letter is silent?",
+   [
+    "l",
+    "a",
+    "m",
+    "b"
+   ],
+   3,
+   "In 'lamb' the letter b is written but not pronounced."
+  ],
+  [
+   2,
+   "Who wrote the poem 'Caterpillar' in Unit 2?",
+   [
+    "Mary Oliver",
+    "Christina Rossetti",
+    "Sylvia Plath",
+    "William Wordsworth"
+   ],
+   1,
+   "The poem 'Caterpillar' in this unit is by Christina Rossetti."
+  ],
+  [
+   2,
+   "In the poem, how is the caterpillar described?",
+   [
+    "Green and smooth",
+    "Brown and furry",
+    "Black and shiny",
+    "Yellow and thin"
+   ],
+   1,
+   "The poem begins: 'Brown and furry, Caterpillar in a hurry'."
+  ],
+  [
+   2,
+   "Where is the caterpillar walking to in the poem?",
+   [
+    "To the pond",
+    "To the shady leaf or stalk",
+    "To the garden wall",
+    "To its nest"
+   ],
+   1,
+   "The poet asks the caterpillar to take its walk to the shady leaf or stalk."
+  ],
+  [
+   2,
+   "What will the caterpillar become?",
+   [
+    "A moth",
+    "A ladybird",
+    "A butterfly",
+    "A honeybee"
+   ],
+   2,
+   "A caterpillar is a stage in the life cycle of a butterfly."
+  ],
+  [
+   2,
+   "The word 'hover' means:",
+   [
+    "to run fast",
+    "to stay in the air in one place",
+    "to dig a hole",
+    "to sleep"
+   ],
+   1,
+   "In the vocabulary list, hover means to stay in the air in one place."
+  ],
+  [
+   2,
+   "A 'stalk' is:",
+   [
+    "the main stem of a plant",
+    "a kind of bird",
+    "a small frog",
+    "a type of leaf"
+   ],
+   0,
+   "The vocabulary list gives stalk as the main stem of a plant."
+  ],
+  [
+   2,
+   "In which word is the letter 'w' silent?",
+   [
+    "water",
+    "wrap",
+    "sweet",
+    "window"
+   ],
+   1,
+   "In 'wrap' the w is not pronounced."
+  ],
+  [
+   2,
+   "A word that refers to a group of people or things is called a:",
+   [
+    "proper noun",
+    "collective noun",
+    "verb",
+    "adjective"
+   ],
+   1,
+   "A collective noun refers to a group, e.g. a team of players, a herd of deer."
+  ],
+  [
+   2,
+   "Choose the correct collective noun: a ___ of flowers.",
+   [
+    "herd",
+    "bouquet",
+    "flock",
+    "crowd"
+   ],
+   1,
+   "We say a bouquet of flowers."
+  ],
+  [
+   2,
+   "Choose the correct article: She is ___ honest girl.",
+   [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   1,
+   "The 'h' in honest is silent, so the word starts with a vowel sound and takes 'an'."
+  ],
+  [
+   2,
+   "In 'Shazia eats Australian apples', the word 'Australian' is an adjective of:",
+   [
+    "colour",
+    "size",
+    "origin",
+    "number"
+   ],
+   2,
+   "An adjective of origin tells where something comes from, e.g. Chinese, Turkish, Australian."
+  ],
+  [
+   2,
+   "In Mahnoor's story, how did she make people care about plants and insects?",
+   [
+    "She called the police",
+    "She made colourful charts",
+    "She closed the park",
+    "She planted a tree"
+   ],
+   1,
+   "Her mother suggested a colourful chart; Mahnoor and her friends made charts and put them up."
+  ],
+  [
+   3,
+   "In its raw form, chocolate comes from:",
+   [
+    "sugar cane",
+    "cocoa trees",
+    "coffee plants",
+    "milk"
+   ],
+   1,
+   "The lesson says chocolate comes from cocoa trees in its raw form."
+  ],
+  [
+   3,
+   "Where do the flowers of a cocoa tree grow?",
+   [
+    "On its branches",
+    "On its roots",
+    "On its trunk",
+    "On its leaves"
+   ],
+   2,
+   "Surprisingly, cocoa flowers grow on the trunk of the tree, not on its branches."
+  ],
+  [
+   3,
+   "How many beans does each cocoa pod contain?",
+   [
+    "2 to 4",
+    "5 to 10",
+    "20 to 40",
+    "100 to 200"
+   ],
+   2,
+   "Each pod contains 20 to 40 beans."
+  ],
+  [
+   3,
+   "How long does a cocoa pod take to ripen?",
+   [
+    "About one week",
+    "About one month",
+    "About six months",
+    "About two years"
+   ],
+   2,
+   "It takes the pod about six months to ripen."
+  ],
+  [
+   3,
+   "Who brought chocolate to Spain in the 1500s?",
+   [
+    "Chinese traders",
+    "Spanish explorers",
+    "Arab sailors",
+    "English kings"
+   ],
+   1,
+   "Chocolate came from Central and South America to Spain through Spanish explorers."
+  ],
+  [
+   3,
+   "In ancient times, chocolate was a symbol of:",
+   [
+    "wealth",
+    "sadness",
+    "war",
+    "sport"
+   ],
+   0,
+   "Only the rich could afford it, so chocolate was a symbol of wealth."
+  ],
+  [
+   3,
+   "The edible pieces left after removing the shells of roasted beans are called:",
+   [
+    "pods",
+    "nibs",
+    "peels",
+    "husks"
+   ],
+   1,
+   "After the shells are removed, the remaining edible pieces are called nibs."
+  ],
+  [
+   3,
+   "What is added to the nib paste besides sugar?",
+   [
+    "Salt and pepper",
+    "Dried milk and flavours",
+    "Water and oil",
+    "Rice and flour"
+   ],
+   1,
+   "The nibs are mixed with sugar; dried milk and some flavours are then added."
+  ],
+  [
+   3,
+   "What should we always do after eating chocolate?",
+   [
+    "Sleep",
+    "Drink tea",
+    "Brush our teeth",
+    "Eat more sweets"
+   ],
+   2,
+   "The lesson reminds us to always brush our teeth after eating chocolate."
+  ],
+  [
+   3,
+   "A combination of two vowel sounds in a single syllable is called a:",
+   [
+    "digraph",
+    "diphthong",
+    "trigraph",
+    "silent letter"
+   ],
+   1,
+   "A diphthong begins with one vowel sound and moves to another, e.g. coil, pain, now."
+  ],
+  [
+   3,
+   "A pie chart is used to:",
+   [
+    "compare parts of a whole",
+    "write a story",
+    "spell words",
+    "show a map"
+   ],
+   0,
+   "The lesson says a pie chart compares parts of a whole, while a bar graph compares different groups."
+  ],
+  [
+   3,
+   "Words like 'first', 'then', 'next' and 'finally' are called:",
+   [
+    "joining words",
+    "naming words",
+    "describing words",
+    "rhyming words"
+   ],
+   0,
+   "Joining (transition) words connect one sentence or paragraph to the next."
+  ],
+  [
+   4,
+   "Where did the class go on their historical trip?",
+   [
+    "Lahore Fort",
+    "Pakistan Army Museum, Lahore",
+    "Minar-e-Pakistan",
+    "Badshahi Mosque"
+   ],
+   1,
+   "The children took the school bus for a trip to the Pakistan Army Museum, Lahore."
+  ],
+  [
+   4,
+   "Why did Tashif collect pictures about the Pakistan Army?",
+   [
+    "His uncle was an army officer",
+    "His teacher asked him",
+    "He wanted to sell them",
+    "He found them at school"
+   ],
+   0,
+   "It was his hobby, as his uncle was an army officer."
+  ],
+  [
+   4,
+   "How many Nishan-e-Haider heroes did the children want to meet in the museum?",
+   [
+    "Five",
+    "Eight",
+    "Eleven",
+    "Twenty"
+   ],
+   2,
+   "They waited to meet the eleven heroes from the armed forces who laid down their lives."
+  ],
+  [
+   4,
+   "What does 'Nishan-e-Haider' mean?",
+   [
+    "Star of the Nation",
+    "Mark of the Lion",
+    "Crown of Bravery",
+    "Flag of Honour"
+   ],
+   1,
+   "The teacher told them Nishan-e-Haider means 'Mark of the Lion'."
+  ],
+  [
+   4,
+   "The Nishan-e-Haider is Pakistan's:",
+   [
+    "highest military award",
+    "sports trophy",
+    "school prize",
+    "civil service medal"
+   ],
+   0,
+   "It is the highest military award, given for an extraordinary act of bravery in which the soldier gives his life."
+  ],
+  [
+   4,
+   "What did the children see on entering the museum building?",
+   [
+    "Four captured Indian tanks",
+    "A cricket stadium",
+    "A zoo",
+    "An old library"
+   ],
+   0,
+   "Inside the museum they saw four captured Indian tanks with a brief history."
+  ],
+  [
+   4,
+   "The 'Rebirth of the Nation' gallery showed the Quaid-e-Azam addressing the assembly on:",
+   [
+    "14 August 1947",
+    "11 August 1947",
+    "23 March 1940",
+    "25 December 1947"
+   ],
+   1,
+   "It had a life-size portrait of the Quaid addressing the assembly of Pakistan on August 11, 1947."
+  ],
+  [
+   4,
+   "For about how long did the children explore the museum?",
+   [
+    "Half an hour",
+    "One hour",
+    "More than three hours",
+    "Two days"
+   ],
+   2,
+   "The narrator explored the museum with classmates for more than three hours."
+  ],
+  [
+   4,
+   "Which word contains a diphthong?",
+   [
+    "cat",
+    "play",
+    "sit",
+    "bed"
+   ],
+   1,
+   "In 'play' the sound changes from one vowel to another in one syllable, so it is a diphthong."
+  ],
+  [
+   4,
+   "Why are soldiers called our national heroes?",
+   [
+    "They sacrifice their lives to guard the country",
+    "They play cricket",
+    "They build roads",
+    "They teach in schools"
+   ],
+   0,
+   "The lesson describes heroes who laid down their lives to guard the sacred land of Pakistan."
+  ],
+  [
+   4,
+   "Which noun has the same form in singular and plural?",
+   [
+    "soldier",
+    "sheep",
+    "hero",
+    "tank"
+   ],
+   1,
+   "Some nouns do not change in the plural, e.g. 'The sheep are grazing in the field.'"
+  ],
+  [
+   4,
+   "Words with opposite meanings are called:",
+   [
+    "synonyms",
+    "antonyms",
+    "homophones",
+    "nouns"
+   ],
+   1,
+   "Antonyms are words with opposite meanings; synonyms have similar meanings."
+  ],
+  [
+   5,
+   "Who wrote the poem 'Thank You, Lord'?",
+   [
+    "Christina Rossetti",
+    "Mary Fairchild",
+    "William Blake",
+    "Allama Iqbal"
+   ],
+   1,
+   "The poem 'Thank You, Lord' is by Mary Fairchild."
+  ],
+  [
+   5,
+   "How does the poet start each day?",
+   [
+    "By playing outside",
+    "By taking a moment to bow and pray",
+    "By reading a book",
+    "By eating breakfast"
+   ],
+   1,
+   "'Lord, in the morning I start each day, by taking a moment to bow and pray.'"
+  ],
+  [
+   5,
+   "What does the poet start her prayer with?",
+   [
+    "Complaints",
+    "Thanks and praise",
+    "A song",
+    "A question"
+   ],
+   1,
+   "'I start with thanks, and then give praise for all your kind and loving ways.'"
+  ],
+  [
+   5,
+   "What will the poet do when sunshine turns to rain?",
+   [
+    "Hide in fear",
+    "Not doubt God",
+    "Stop praying",
+    "Run away"
+   ],
+   1,
+   "She says she won't doubt or hide in fear, because God is with her."
+  ],
+  [
+   5,
+   "Until when will the poet keep God close in sight?",
+   [
+    "Until lunch time",
+    "Until she crawls into bed at night",
+    "Until next week",
+    "Until she goes to school"
+   ],
+   1,
+   "'And I will keep you close in sight until I crawl in bed tonight.'"
+  ],
+  [
+   5,
+   "A group of two or three consonants in a word, each keeping its sound, is called a:",
+   [
+    "consonant cluster",
+    "diphthong",
+    "vowel",
+    "silent letter"
+   ],
+   0,
+   "In a consonant cluster each consonant keeps its own sound, e.g. 'str' in street."
+  ],
+  [
+   5,
+   "In 'Getting Started', why is cutting trees wrong?",
+   [
+    "Trees give us oxygen",
+    "Trees are noisy",
+    "Trees are too tall",
+    "Trees need water"
+   ],
+   0,
+   "The tree in the picture says, 'Please, don't kill me! I give you oxygen.'"
+  ],
+  [
+   5,
+   "Which place did Mahira and Aqsa visit in the dialogue?",
+   [
+    "Badshahi Mosque",
+    "Faisal Masjid",
+    "Lahore Museum",
+    "Shalimar Garden"
+   ],
+   1,
+   "Mahira asks Aqsa whether she enjoyed the visit to the Faisal Masjid."
+  ],
+  [
+   5,
+   "Words that sound the same but have different meanings and spellings are called:",
+   [
+    "antonyms",
+    "homophones",
+    "synonyms",
+    "clusters"
+   ],
+   1,
+   "Homophones sound alike but differ in meaning and spelling, e.g. sea/see."
+  ],
+  [
+   5,
+   "What is the feminine of 'king'?",
+   [
+    "prince",
+    "queen",
+    "lady",
+    "sister"
+   ],
+   1,
+   "King is masculine; its feminine gender noun is queen."
+  ],
+  [
+   6,
+   "Where did Rehan find his friend Sa'ad sitting alone?",
+   [
+    "In the classroom",
+    "On a bench in a park",
+    "At the cricket ground",
+    "At home"
+   ],
+   1,
+   "One evening Rehan found Sa'ad sitting alone on a bench in a park."
+  ],
+  [
+   6,
+   "Why was Sa'ad upset?",
+   [
+    "He lost a match",
+    "He had been rude to a classmate",
+    "He failed a test",
+    "He was ill"
+   ],
+   1,
+   "Sa'ad was ashamed of being rude to a classmate who limped while walking."
+  ],
+  [
+   6,
+   "What was the name of the boy Sa'ad was rude to?",
+   [
+    "Rehan",
+    "Faraz",
+    "Hamza",
+    "Ali"
+   ],
+   1,
+   "Sa'ad made fun of Faraz, who limped while walking."
+  ],
+  [
+   6,
+   "Faraz had been selected in the team as a:",
+   [
+    "captain",
+    "bowler",
+    "wicket keeper",
+    "batsman"
+   ],
+   2,
+   "Sa'ad, the captain, was shocked that Faraz had been selected as wicket keeper."
+  ],
+  [
+   6,
+   "What happened to Faraz because of Sa'ad's rude behaviour?",
+   [
+    "He became captain",
+    "He left school",
+    "He moved city",
+    "He won a prize"
+   ],
+   1,
+   "Faraz was so depressed by the rude behaviour that he left school."
+  ],
+  [
+   6,
+   "What did Rehan advise Sa'ad to do?",
+   [
+    "Forget about it",
+    "Go to Faraz's house and say sorry",
+    "Tell the teacher",
+    "Leave the team"
+   ],
+   1,
+   "Rehan said it was not too late and told Sa'ad to go and apologise."
+  ],
+  [
+   6,
+   "How did Faraz respond to Sa'ad's apology?",
+   [
+    "He refused to talk",
+    "He forgave and hugged him",
+    "He told his parents",
+    "He laughed at him"
+   ],
+   1,
+   "Faraz was a good boy; he forgave Sa'ad and hugged him at once."
+  ],
+  [
+   6,
+   "What is the main lesson of 'Valuing Others'?",
+   [
+    "Win every match",
+    "Treat differently-abled people with kindness and respect",
+    "Always be the captain",
+    "Never play cricket"
+   ],
+   1,
+   "The story teaches that we must value others and never be rude to differently-abled people."
+  ],
+  [
+   6,
+   "Before a vowel sound, 'the' is pronounced as:",
+   [
+    "thuh",
+    "thee",
+    "tay",
+    "dee"
+   ],
+   1,
+   "'The' is pronounced 'thee' before a vowel sound (the apple) and 'thuh' before a consonant sound."
+  ],
+  [
+   6,
+   "Which phrase is a polite way to seek permission?",
+   [
+    "Give me your helmet.",
+    "May I borrow your helmet?",
+    "Your helmet is mine.",
+    "I took your helmet."
+   ],
+   1,
+   "'May I borrow ...?' politely asks permission before using someone else's things."
+  ],
+  [
+   7,
+   "Which languages are spoken in Punjab according to the lesson?",
+   [
+    "Pashto and Hindko",
+    "Punjabi and Seraiki",
+    "Shina and Balti",
+    "Sindhi and Balochi"
+   ],
+   1,
+   "The lesson says that in Punjab people speak Punjabi and Seraiki."
+  ],
+  [
+   7,
+   "Shina, Balti and Burushaski are regional languages of:",
+   [
+    "Sindh",
+    "Punjab",
+    "Gilgit-Baltistan",
+    "Balochistan"
+   ],
+   2,
+   "In Gilgit-Baltistan, Shina, Balti and Burushaski are regional languages."
+  ],
+  [
+   7,
+   "The Sindhi cap and ajrak are part of the traditional dress of:",
+   [
+    "Punjab",
+    "Sindh",
+    "Kashmir",
+    "Balochistan"
+   ],
+   1,
+   "The Sindhi cap and ajrak are part of men's dress in Sindh."
+  ],
+  [
+   7,
+   "Which festival in Balochistan attracts people from all across the country?",
+   [
+    "Sibi Festival",
+    "Jashan-e-Larkana",
+    "Pirchinasi",
+    "Sindh Festival"
+   ],
+   0,
+   "In Balochistan, the Sibi Festival attracts people from all across the country."
+  ],
+  [
+   7,
+   "Hospitality, hard work and bravery are distinctive features of:",
+   [
+    "Pakhtunwali",
+    "Sindhi culture",
+    "Punjabi culture",
+    "Balti culture"
+   ],
+   0,
+   "Hospitality, hard work and bravery are features of Pakhtunwali, the Pakhtun way of life."
+  ],
+  [
+   7,
+   "Which is a prominent traditional dress of Kashmiri men and women?",
+   [
+    "Ajrak",
+    "Phiran",
+    "Pakol",
+    "Kulaah"
+   ],
+   1,
+   "Phiran is a prominent traditional dress of Kashmiri men and women."
+  ],
+  [
+   7,
+   "Which festival is celebrated every year in Kashmir?",
+   [
+    "Sibi Festival",
+    "Pirchinasi",
+    "Jashan-e-Larkana",
+    "Basant"
+   ],
+   1,
+   "The lesson says Pirchinasi is celebrated every year in Kashmir."
+  ],
+  [
+   7,
+   "Sindhi culture is dominated by great:",
+   [
+    "kings and queens",
+    "Sufis, mystics and martyrs",
+    "traders",
+    "sportsmen"
+   ],
+   1,
+   "Sindhi culture is dominated by great Sufis, mystics and martyrs."
+  ],
+  [
+   7,
+   "Poetry and storytelling are very popular among the:",
+   [
+    "Baloch",
+    "Balti",
+    "Kashmiris",
+    "Punjabis only"
+   ],
+   0,
+   "The lesson says poetry and storytelling are very popular among the Baloch."
+  ],
+  [
+   7,
+   "Pakhtun men often wear a turban or a:",
+   [
+    "phiran",
+    "pakol hat",
+    "ajrak",
+    "Sindhi cap"
+   ],
+   1,
+   "Pakhtun men usually wear shalwar kameez, a waistcoat and a turban or a pakol hat."
+  ],
+  [
+   7,
+   "In 'He is playing', the verb 'is' is used as a:",
+   [
+    "main verb",
+    "helping verb",
+    "noun",
+    "adjective"
+   ],
+   1,
+   "When be, do or have are used with a main verb, they are helping verbs."
+  ],
+  [
+   7,
+   "In 'You are late', the verb 'are' is used as a:",
+   [
+    "main verb",
+    "helping verb",
+    "pronoun",
+    "adverb"
+   ],
+   0,
+   "When be, do or have are used alone without another verb, they are main verbs."
+  ],
+  [
+   8,
+   "Who asked the children to make a poster about good study habits?",
+   [
+    "Their mother",
+    "Miss Hina",
+    "The principal",
+    "Their cousin Asif"
+   ],
+   1,
+   "Miss Hina told them to make a poster about good study habits."
+  ],
+  [
+   8,
+   "Where was the poster displayed?",
+   [
+    "At home",
+    "In the classroom",
+    "In the library",
+    "At the park"
+   ],
+   1,
+   "When the poster was completed, it was displayed in the classroom."
+  ],
+  [
+   8,
+   "Which of these is a good study habit from the poster?",
+   [
+    "Watch television for many hours",
+    "Make a timetable for studying",
+    "Skip revision",
+    "Study only before exams"
+   ],
+   1,
+   "The poster lists: set your goals, make a timetable, make notes and revise classwork."
+  ],
+  [
+   8,
+   "What result did the narrator get after adopting good study habits?",
+   [
+    "Failed the exam",
+    "First position in the class",
+    "Third position",
+    "No change"
+   ],
+   1,
+   "In the final term the narrator got first position in the class."
+  ],
+  [
+   8,
+   "To whom did the narrator write the invitation letter?",
+   [
+    "Miss Hina",
+    "Cousin Asif",
+    "Brother",
+    "Principal"
+   ],
+   1,
+   "The invitation begins 'Dear Asif' and is signed 'Your cousin'."
+  ],
+  [
+   8,
+   "When was the party arranged?",
+   [
+    "Sunday morning",
+    "Friday evening",
+    "Monday afternoon",
+    "Saturday night"
+   ],
+   1,
+   "The invitation says the party was on Friday evening at the narrator's house."
+  ],
+  [
+   8,
+   "In the dialogue, what had the son forgotten?",
+   [
+    "His bag",
+    "That he had a test tomorrow",
+    "His friend's birthday",
+    "His homework copy"
+   ],
+   1,
+   "He had been playing for two hours and forgot he had a test the next day."
+  ],
+  [
+   8,
+   "What does Baba advise his son?",
+   [
+    "There is a time for play and a time for study",
+    "Never play again",
+    "Study all night",
+    "Skip the test"
+   ],
+   0,
+   "Baba says there is a time for play and a time for study, and things should be done on time."
+  ],
+  [
+   8,
+   "Which pronoun shows possession?",
+   [
+    "he",
+    "they",
+    "his",
+    "we"
+   ],
+   2,
+   "'His' shows possession (his book); he, they and we are subject pronouns."
+  ],
+  [
+   9,
+   "Who wrote the poem 'Whole Duty of Children'?",
+   [
+    "William Wordsworth",
+    "John Keats",
+    "Robert Louis Stevenson",
+    "Christina Rossetti"
+   ],
+   2,
+   "'Whole Duty of Children' is by Robert Louis Stevenson."
+  ],
+  [
+   9,
+   "According to the poem, a child should always say:",
+   [
+    "what is funny",
+    "what is true",
+    "nothing at all",
+    "what others say"
+   ],
+   1,
+   "'A child should always say what's true.'"
+  ],
+  [
+   9,
+   "When should a child speak, according to the poem?",
+   [
+    "All the time",
+    "When he is spoken to",
+    "Only at night",
+    "Never"
+   ],
+   1,
+   "'And speak when he is spoken to.'"
+  ],
+  [
+   9,
+   "Where should a child behave mannerly, according to the poem?",
+   [
+    "At the table",
+    "In the playground",
+    "On the bus",
+    "In the market"
+   ],
+   0,
+   "'And behave mannerly at table, at least as far as he is able.'"
+  ],
+  [
+   9,
+   "The poem 'Whole Duty of Children' is mainly about:",
+   [
+    "sports",
+    "good manners",
+    "animals",
+    "seasons"
+   ],
+   1,
+   "The poem talks about good manners a child should follow."
+  ],
+  [
+   9,
+   "Why did Mama ask Sidra to take a bath before breakfast?",
+   [
+    "To take care of personal hygiene",
+    "Because she was late for school",
+    "Because guests were coming",
+    "To go to the park"
+   ],
+   0,
+   "Mama says, 'We should always take care of our personal hygiene.'"
+  ],
+  [
+   9,
+   "In the word 'helped', the -ed ending sounds like:",
+   [
+    "t",
+    "d",
+    "id",
+    "ed is silent"
+   ],
+   0,
+   "After p, k, sh, ch, s and f, the -ed ending sounds like 't' (helped, thanked)."
+  ],
+  [
+   9,
+   "In the word 'wanted', the -ed ending sounds like:",
+   [
+    "t",
+    "d",
+    "id",
+    "no sound"
+   ],
+   2,
+   "After t or d, the -ed ending is pronounced 'id' (wanted, needed)."
+  ],
+  [
+   9,
+   "A table of contents helps us to:",
+   [
+    "find chapters in a book",
+    "draw pictures",
+    "learn spellings",
+    "write letters"
+   ],
+   0,
+   "The table of contents helps us to find the chapters in a book."
+  ],
+  [
+   9,
+   "We should wash our hands with soap:",
+   [
+    "only once a week",
+    "before and after a meal",
+    "only after playing",
+    "never"
+   ],
+   1,
+   "The lesson reminds us to wash hands before and after a meal."
+  ],
+  [
+   9,
+   "Choose the correct word: We ___ speak rudely to our elders.",
+   [
+    "should",
+    "should not",
+    "must always",
+    "can"
+   ],
+   1,
+   "We should not speak rudely to our elders; 'should not' shows something we must avoid."
+  ],
+  [
+   9,
+   "Choose the correct word: You ___ go to school on time.",
+   [
+    "should",
+    "should not",
+    "never",
+    "cannot"
+   ],
+   0,
+   "'Should' is used for advice or duty: you should go to school on time."
+  ],
+  [
+   10,
+   "What did Sara bring home in 'Be Aware, Be Safe'?",
+   [
+    "A book",
+    "A doll",
+    "A ball",
+    "A chocolate"
+   ],
+   1,
+   "Mother asks Sara, 'Who gave you this doll?'"
+  ],
+  [
+   10,
+   "Who gave Sara the doll?",
+   [
+    "Her teacher",
+    "Her Baba",
+    "A man in the street",
+    "Her friend"
+   ],
+   2,
+   "Sara says there was a man in the street who gave it."
+  ],
+  [
+   10,
+   "What did Mother say about accepting gifts from strangers?",
+   [
+    "It is good manners",
+    "It is not good",
+    "It is fine if they smile",
+    "Only take sweets"
+   ],
+   1,
+   "Mother says it is not good to accept gifts from strangers because it might be dangerous."
+  ],
+  [
+   10,
+   "If a stranger offers you a ride, a toy or candy, you should:",
+   [
+    "accept it politely",
+    "say 'No!' and leave quickly",
+    "follow the stranger",
+    "keep it secret"
+   ],
+   1,
+   "Mother says to say 'No!', walk away quickly and tell her or Baba."
+  ],
+  [
+   10,
+   "What did Sara and Ahsan promise their mother?",
+   [
+    "To share all their activities with her",
+    "To never go to school",
+    "To buy a doll",
+    "To talk to strangers"
+   ],
+   0,
+   "Sara promises, 'I will share all my activities with you.'"
+  ],
+  [
+   10,
+   "Why should we not be friendly with strangers?",
+   [
+    "It might be dangerous",
+    "They are rich",
+    "They are busy",
+    "They are teachers"
+   ],
+   0,
+   "Mother explains that it might be dangerous for children."
+  ],
+  [
+   10,
+   "Sara's brother in the lesson is named:",
+   [
+    "Ahsan",
+    "Faraz",
+    "Rehan",
+    "Tashif"
+   ],
+   0,
+   "Sara and her brother Ahsan entered their home."
+  ],
+  [
+   10,
+   "Past tense of regular verbs is formed by adding:",
+   [
+    "-ing",
+    "-d or -ed",
+    "-s",
+    "-ly"
+   ],
+   1,
+   "Regular verbs form their past tense by adding -d or -ed, e.g. play-played."
+  ],
+  [
+   10,
+   "Adverbs of time tell us:",
+   [
+    "how something happens",
+    "when something happens",
+    "where something happens",
+    "who does it"
+   ],
+   1,
+   "Adverbs of time (today, yesterday, soon) tell us when an action happens."
+  ],
+  [
+   10,
+   "Which sentence is in the future tense?",
+   [
+    "I play cricket.",
+    "I played cricket.",
+    "I will play cricket.",
+    "I am playing cricket."
+   ],
+   2,
+   "The future tense shows actions that will happen, using 'will'."
+  ],
+  [
+   11,
+   "How did the fox serve soup to the stork?",
+   [
+    "In a tall jar",
+    "In flat plates",
+    "In a cup",
+    "In a bowl with a lid"
+   ],
+   1,
+   "The cunning fox served the soup in flat plates."
+  ],
+  [
+   11,
+   "Why could the stork not eat from the flat dish?",
+   [
+    "He was not hungry",
+    "His beak was too long",
+    "The soup was cold",
+    "He was ill"
+   ],
+   1,
+   "The stork's beak was so long that he could not sip from the flat dish."
+  ],
+  [
+   11,
+   "How did the stork serve the meal to the fox?",
+   [
+    "In flat plates",
+    "In a jar with a narrow neck",
+    "On a leaf",
+    "In a basket"
+   ],
+   1,
+   "The stork served the meal in a jar with a narrow neck."
+  ],
+  [
+   11,
+   "What did the stork tell the fox at the end?",
+   [
+    "Never eat soup",
+    "Do not ridicule or degrade anyone; Allah has made us all equal",
+    "Leave the jungle",
+    "Cook better food"
+   ],
+   1,
+   "The stork said calmly, 'Do not ridicule or degrade anyone... Allah has made us all equal.'"
+  ],
+  [
+   11,
+   "How did the story end?",
+   [
+    "The fox ran away",
+    "The fox said sorry and they became friends",
+    "The stork moved away",
+    "They fought"
+   ],
+   1,
+   "The fox was ashamed, said sorry, and they became friends."
+  ],
+  [
+   11,
+   "What kind of animal was the fox in the story?",
+   [
+    "Kind and honest",
+    "Cunning and liked teasing others",
+    "Shy and quiet",
+    "Lazy and sleepy"
+   ],
+   1,
+   "The fox always teased others and played a trick on the stork."
+  ],
+  [
+   11,
+   "In which type of sentence does our voice rise at the end?",
+   [
+    "Wh-questions",
+    "Yes-no questions",
+    "Commands",
+    "Exclamations"
+   ],
+   1,
+   "In yes-no questions such as 'Do you obey traffic signs?' the voice rises at the end."
+  ],
+  [
+   11,
+   "In a wh-question like 'What is your name?' the voice usually:",
+   [
+    "rises",
+    "falls",
+    "stays flat",
+    "stops"
+   ],
+   1,
+   "In wh-questions the voice falls on the final stressed syllable."
+  ],
+  [
+   11,
+   "The contraction of 'do not' is:",
+   [
+    "don't",
+    "dont'",
+    "do'nt",
+    "doesn't"
+   ],
+   0,
+   "An apostrophe replaces the missing letter: do not becomes don't."
+  ],
+  [
+   11,
+   "The contraction of 'I am' is:",
+   [
+    "Im",
+    "I'm",
+    "Ia'm",
+    "I'am"
+   ],
+   1,
+   "I am becomes I'm; the apostrophe stands for the missing 'a'."
+  ],
+  [
+   12,
+   "What did Ahsan's teacher give him?",
+   [
+    "A storybook",
+    "A brochure on traffic rules",
+    "A map",
+    "A letter"
+   ],
+   1,
+   "Ahsan's teacher gave him a brochure on traffic rules and road safety."
+  ],
+  [
+   12,
+   "What problem did Ahsan see in front of his school?",
+   [
+    "A broken bridge",
+    "A traffic jam every day",
+    "A flood",
+    "A fire"
+   ],
+   1,
+   "Ahsan said there is always a traffic jam in front of his school."
+  ],
+  [
+   12,
+   "Why did people not follow traffic rules near Ahsan's school?",
+   [
+    "There was no traffic police on that road",
+    "The road was closed",
+    "It was raining",
+    "There were no cars"
+   ],
+   0,
+   "Ahsan never saw traffic police there, so nobody followed the rules."
+  ],
+  [
+   12,
+   "To whom did Ahsan write the letter?",
+   [
+    "His teacher",
+    "The head of traffic police",
+    "The school principal",
+    "The mayor"
+   ],
+   1,
+   "With his father's help, Ahsan wrote to the Inspector General, Traffic Police Headquarters, Islamabad."
+  ],
+  [
+   12,
+   "Where should we cross the road?",
+   [
+    "Between parked cars",
+    "At the zebra crossing",
+    "Anywhere quickly",
+    "At a turning"
+   ],
+   1,
+   "The brochure says: cross only at the zebra crossing."
+  ],
+  [
+   12,
+   "What should we do before crossing the road?",
+   [
+    "Run fast",
+    "Look to the left and right",
+    "Close our eyes",
+    "Talk on the phone"
+   ],
+   1,
+   "The brochure says look to your left and right before crossing the road."
+  ],
+  [
+   12,
+   "While riding a motorbike or bicycle, we should wear a:",
+   [
+    "cap",
+    "helmet",
+    "scarf",
+    "hat"
+   ],
+   1,
+   "One of the brochure's rules is 'Wear a helmet'."
+  ],
+  [
+   12,
+   "In a car, we should always:",
+   [
+    "stand up",
+    "fasten our seatbelt",
+    "open the door",
+    "sit on the window"
+   ],
+   1,
+   "The brochure says: fasten your seatbelt and sit quietly in the back seat."
+  ],
+  [
+   12,
+   "Ahsan's father said helping the police by reporting traffic issues is our:",
+   [
+    "hobby",
+    "moral duty as good citizens",
+    "job",
+    "game"
+   ],
+   1,
+   "His father said, 'As a good citizen, it is our moral duty to help the police.'"
+  ],
+  [
+   12,
+   "Which sentence is in the past continuous tense?",
+   [
+    "She plays.",
+    "She was playing.",
+    "She will play.",
+    "She played."
+   ],
+   1,
+   "Past continuous = was/were + verb-ing, for actions in progress in the past."
+  ],
+  [
+   13,
+   "Who wrote the poem 'Little Things'?",
+   [
+    "Julia A. Carney",
+    "Mary Fairchild",
+    "Christina Rossetti",
+    "Robert Louis Stevenson"
+   ],
+   0,
+   "'Little Things' is by Julia A. Carney."
+  ],
+  [
+   13,
+   "According to the poem, little drops of water make the:",
+   [
+    "mighty ocean",
+    "pleasant land",
+    "tall mountain",
+    "green forest"
+   ],
+   0,
+   "'Little drops of water, little grains of sand, make the mighty ocean and the pleasant land.'"
+  ],
+  [
+   13,
+   "Little grains of sand make the:",
+   [
+    "mighty ocean",
+    "pleasant land",
+    "river",
+    "sky"
+   ],
+   1,
+   "The grains of sand make the pleasant land."
+  ],
+  [
+   13,
+   "What makes our earth an Eden, according to the poem?",
+   [
+    "Big buildings",
+    "Little deeds of kindness and little words of love",
+    "Lots of money",
+    "Tall trees"
+   ],
+   1,
+   "'Little deeds of kindness, little words of love, make our earth an Eden.'"
+  ],
+  [
+   13,
+   "The main idea of 'Little Things' is that:",
+   [
+    "little things are useless",
+    "little things are important",
+    "only big things matter",
+    "we should not be kind"
+   ],
+   1,
+   "The poem teaches that little things are not useless; everything has its importance."
+  ],
+  [
+   13,
+   "Little errors, according to the poem, lead the soul:",
+   [
+    "to heaven",
+    "away from the path of virtue",
+    "to the ocean",
+    "to school"
+   ],
+   1,
+   "'So the little errors lead the soul away from the path of virtue.'"
+  ],
+  [
+   13,
+   "Using body parts and gestures to communicate feelings is called:",
+   [
+    "verbal communication",
+    "non-verbal communication",
+    "intonation",
+    "rhythm"
+   ],
+   1,
+   "Non-verbal communication uses body parts and gestures to show feelings and emotions."
+  ],
+  [
+   13,
+   "The rise and fall of the voice while speaking is called:",
+   [
+    "stress",
+    "rhythm",
+    "intonation",
+    "rhyme"
+   ],
+   2,
+   "Intonation is the rise and fall of the voice while speaking."
+  ],
+  [
+   13,
+   "Which pair of words rhymes in the poem?",
+   [
+    "sand / land",
+    "water / ocean",
+    "love / kindness",
+    "little / mighty"
+   ],
+   0,
+   "'Sand' and 'land' rhyme in the first stanza."
+  ]
+ ]
+}

@@ -23,7 +23,7 @@ downloadable content in `content/`.
 ### Sources checked
 | Source | Result |
 |---|---|
-| pectaa.edu.pk | Every page behind a reCAPTCHA bot check. Not automatable (and must not be bypassed). |
+| pectaa.edu.pk | reCAPTCHA on first visit (the teacher ticked it once in the built-in browser; never bypassed). The Curriculum Compliance page links each Urdu/English book to Google Drive; downloaded via `drive.usercontent.google.com/download?id=..&confirm=t`. |
 | pctb.punjab.gov.pk | "Website under maintenance" on 22 Nov 2026. |
 | elearn.gov.pk (PITB) | Works. Per book: chapters, topics, a flipbook of the PCTB textbook (page images), topic quizzes with the answer in the HTML. |
 
@@ -63,6 +63,17 @@ chapters:[{id, number, title, pageStart, pageEnd, topics:[{id, title, page}]}]}]
 Pack: `{bookId, questions:[{id "<bookId>-elq-<hash16>", chapterId, topicId, type, text, options,
 correctIndex, page, difficulty, source "elearn", reviewNote?, explanation?}]}`.
 Page numbers are positions in the PDF file, not printed page numbers.
+
+### Round 3: PECTAA Urdu + English, classes 3-10
+- 16 books (`pe-<key>`, e.g. `pe-g7_urdu`). PDFs had no text layer: pages rendered with pypdfium2
+  (`tools/content_builder/pectaa_pages.py`, 1100 px JPEG -> img2pdf A4 width).
+- English: Windows OCR (`ocr.ps1`) to read units; Urdu: lesson pages read from images.
+- Per book `C:\dev\content\pectaa\<key>.json` = `{key, grade, subject, language, title, offset,
+  chapters:[[n, title, pdfPage]], questions:[[chapter, text, [4 options], correctIndex, explanation]]}`;
+  `add_pq.py` validates and appends; `build_catalog.py` turns them into catalog entries and packs
+  (chapter pageEnd = next start - 1; question ids `pe-<key>-pq-<hash16>`).
+- 1,898 MCQs: English 125/144/99/80/81/71/84/69, Urdu 184/145/190/137/127/127/127/125 (classes 3..10).
+- APK v2.1.0 bundles all 39 books' question packs.
 
 ## 2. App changes in round 2
 | Area | What |
@@ -122,8 +133,9 @@ flutter build apk --release --split-per-abi                 # app-arm64-v8a-rele
 signed with the debug key: create a real keystore before publishing.
 
 ## 7. Known issues / limits
-- **No Urdu or English books yet.** The teacher will put PECTAA PDFs in `C:\dev\books_inbox`; then
-  chapters/topics need to be read from the PDFs and MCQs written (see next steps).
+- Urdu/English (PECTAA) MCQs were written by Claude from the lesson text, not from an official quiz bank;
+  their chapters have no topics, and questions open the reader at the chapter start.
+- The emulator test was not done (SDK emulator download was paused); test on a real phone.
 - eLearn editions may be older than the newest printed PCTB books (notably classes 6-10).
 - MCQs are marked "not verified by a teacher"; only 65 have written explanations.
 - Topic page = first page where eLearn links the topic; a few links in class 6 Science point slightly past
@@ -137,9 +149,8 @@ signed with the debug key: create a real keystore before publishing.
 ## 8. Next steps for Opus, in order
 1. Install `release/` APK on a phone: Textbooks -> download a book -> read; Assess -> wrong answer ->
    "Read this in the textbook"; Exam paper print/share; Settings -> Check for new content.
-2. Urdu and English books from `C:\dev\books_inbox`: extract each PDF's table of contents (pypdf text or
-   reading page images), create catalog entries (`language: "ur"` for Urdu), write and review MCQs per
-   chapter, add PDFs to `content/books/`, rebuild, push.
+2. Teacher review of the PECTAA Urdu/English MCQs (source files `C:\dev\content\pectaa\<key>.json`,
+   copies of the tools in `tools/content_builder/`).
 3. Add explanations for the remaining MCQs (server-side AI per `docs/SYNC_DESIGN.md`, teacher-reviewed).
 4. Real release keystore; app icon and name; Play Store listing if wanted.
 5. Cloud backup (Supabase) per `docs/SYNC_DESIGN.md`.
