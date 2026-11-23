@@ -197,12 +197,12 @@ def main():
         start_of = {c["number"]: c["pageStart"] for c in chapters}
         questions = []
         for q in qs_raw:
-            ch, text, opts, ci, expl = q
+            ch, text, opts, ci, expl = q[:5]
             h = hashlib.sha1((text + "|" + "|".join(sorted(o.lower() for o in opts))).encode("utf-8")).hexdigest()[:16]
             questions.append({"id": f"{bid}-pq-{h}", "chapterId": f"{bid}-c{ch}", "topicId": None,
                               "type": "mcq", "text": text, "options": opts, "correctIndex": ci,
                               "page": start_of.get(ch), "difficulty": 2, "source": "pectaa",
-                              "explanation": expl})
+                              "explanation": expl, "kind": (q[5] if len(q) > 5 else "lesson")})
         pack = f"packs/{key}.json"
         json.dump({"bookId": bid, "questions": questions},
                   open(f"{OUT}/{pack}", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))

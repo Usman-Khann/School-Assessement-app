@@ -125,90 +125,6 @@
    "A proper noun is the name of a particular person, place or thing and begins with a capital letter."
   ],
   [
-   1,
-   "Which of these is a common noun?",
-   [
-    "Maryam",
-    "Iqbal",
-    "classroom",
-    "Pakistan"
-   ],
-   2,
-   "A common noun names any person, place or thing and does not begin with a capital letter."
-  ],
-  [
-   1,
-   "What is the opposite of 'clean'?",
-   [
-    "tidy",
-    "dirty",
-    "kind",
-    "happy"
-   ],
-   1,
-   "Opposites have totally different meanings: clean — dirty."
-  ],
-  [
-   1,
-   "What is the opposite of 'healthy'?",
-   [
-    "unhealthy",
-    "unkind",
-    "polite",
-    "good"
-   ],
-   0,
-   "Adding 'un' to healthy gives its opposite, unhealthy."
-  ],
-  [
-   1,
-   "How many syllables are there in 'activity' (ac-ti-vi-ty)?",
-   [
-    "2",
-    "3",
-    "4",
-    "5"
-   ],
-   2,
-   "ac-ti-vi-ty has four parts, so four syllables."
-  ],
-  [
-   1,
-   "Which punctuation mark ends a sentence with a pause?",
-   [
-    "Comma",
-    "Full stop",
-    "Exclamation mark",
-    "Inverted commas"
-   ],
-   1,
-   "A full stop (.) ends a sentence."
-  ],
-  [
-   1,
-   "Which word comes first in alphabetical (ABC) order?",
-   [
-    "poster",
-    "learn",
-    "activity",
-    "poem"
-   ],
-   2,
-   "'Activity' starts with a, which comes first in the alphabet."
-  ],
-  [
-   1,
-   "In the speech 'First Day in Class III', what is the most important class rule?",
-   [
-    "Keep our classroom clean",
-    "Run in the classroom",
-    "Talk loudly",
-    "Eat during the lesson"
-   ],
-   0,
-   "The speech says the most important rule is to keep our classroom clean."
-  ],
-  [
    2,
    "Which of these letters is a vowel?",
    [
@@ -267,66 +183,6 @@
    ],
    0,
    "A conjunction joins words or sentences, like and, but, or, because."
-  ],
-  [
-   2,
-   "Fill in the blank: 'Do you want to buy a shirt ___ a pair of shoes?'",
-   [
-    "but",
-    "or",
-    "because",
-    "so"
-   ],
-   1,
-   "'Or' is used to give a choice between two things."
-  ],
-  [
-   2,
-   "Which pair of words are anagrams?",
-   [
-    "break — baker",
-    "cat — dog",
-    "sun — moon",
-    "big — small"
-   ],
-   0,
-   "An anagram is made by rearranging the letters of another word: break → baker."
-  ],
-  [
-   2,
-   "In 'The pencil is on the table', what is the subject?",
-   [
-    "is",
-    "on",
-    "pencil",
-    "table"
-   ],
-   2,
-   "The subject is what the sentence is about: the pencil. 'Is' is the verb."
-  ],
-  [
-   2,
-   "How do we write 68 in words?",
-   [
-    "six-eight",
-    "sixty-eight",
-    "eighty-six",
-    "sixteen-eight"
-   ],
-   1,
-   "68 is sixty-eight."
-  ],
-  [
-   2,
-   "'Intonation' means:",
-   [
-    "the rise and fall of the voice while speaking",
-    "writing in capital letters",
-    "a kind of punctuation",
-    "a long vowel"
-   ],
-   0,
-   "Intonation is the rise and fall of our voice; yes/no questions end with a rising voice."
   ],
   [
    3,
@@ -389,78 +245,6 @@
    "I have → I've."
   ],
   [
-   3,
-   "What is the contraction of 'has not'?",
-   [
-    "hasn't",
-    "haven't",
-    "isn't",
-    "doesn't"
-   ],
-   0,
-   "has not → hasn't."
-  ],
-  [
-   3,
-   "Which of these is a feminine noun?",
-   [
-    "nephew",
-    "uncle",
-    "niece",
-    "prince"
-   ],
-   2,
-   "'Niece' is feminine; nephew is its masculine."
-  ],
-  [
-   3,
-   "Which of these is a neuter noun (neither male nor female)?",
-   [
-    "mother",
-    "ship",
-    "son",
-    "mare"
-   ],
-   1,
-   "A ship is not male or female, so it is neuter gender."
-  ],
-  [
-   3,
-   "What is the feminine of 'horse'?",
-   [
-    "mare",
-    "goose",
-    "hen",
-    "cow"
-   ],
-   0,
-   "The female of a horse is a mare."
-  ],
-  [
-   3,
-   "Which mark shows mood and emotion, as in 'Pakistan has won the match!'?",
-   [
-    "full stop",
-    "comma",
-    "exclamation mark",
-    "question mark"
-   ],
-   2,
-   "An exclamation mark (!) shows strong feelings."
-  ],
-  [
-   3,
-   "How many syllables are in 'vacation' (va-ca-tion)?",
-   [
-    "1",
-    "2",
-    "3",
-    "4"
-   ],
-   2,
-   "va-ca-tion has three syllables."
-  ],
-  [
    4,
    "Which companion said he had never seen anyone kinder to children than the Rasool ﷺ?",
    [
@@ -519,90 +303,6 @@
    ],
    0,
    "A Naat is a poem that specially praises Hazrat Muhammad ﷺ."
-  ],
-  [
-   4,
-   "Two letters joined to give one sound, like 'ch' in chair, are called a:",
-   [
-    "trigraph",
-    "digraph",
-    "syllable",
-    "vowel"
-   ],
-   1,
-   "A digraph is one sound made by two letters; a trigraph is made by three letters (tch in watch)."
-  ],
-  [
-   4,
-   "Which word ends with the trigraph 'tch'?",
-   [
-    "chair",
-    "catch",
-    "inch",
-    "school"
-   ],
-   1,
-   "'Catch' ends with t-c-h, three letters that make one sound."
-  ],
-  [
-   4,
-   "Which word is an adjective in 'My father bought a new house'?",
-   [
-    "father",
-    "bought",
-    "new",
-    "house"
-   ],
-   2,
-   "An adjective describes a noun: 'new' describes the house."
-  ],
-  [
-   4,
-   "Which word is a possessive adjective?",
-   [
-    "our",
-    "house",
-    "is",
-    "new"
-   ],
-   0,
-   "'Our' shows who owns something, as in 'Our house is new'."
-  ],
-  [
-   4,
-   "Which sentence is in the present continuous tense?",
-   [
-    "He walks.",
-    "He is walking.",
-    "He walked.",
-    "He will walk."
-   ],
-   1,
-   "The present continuous (is/am/are + -ing) shows an action going on now."
-  ],
-  [
-   4,
-   "Fill in the conjunction: 'He was holding an umbrella ___ it was raining.'",
-   [
-    "but",
-    "or",
-    "because",
-    "so that"
-   ],
-   2,
-   "He held the umbrella for a reason — because it was raining."
-  ],
-  [
-   4,
-   "The three basic elements of a story are:",
-   [
-    "beginning, middle and end",
-    "title, picture and colour",
-    "nouns, verbs and adjectives",
-    "full stop, comma and question mark"
-   ],
-   0,
-   "Every story has a beginning, a middle and an end, along with characters, place and time."
   ],
   [
    5,
@@ -665,90 +365,6 @@
    "Keep sitting till the bus or van stops; never get down from a moving vehicle."
   ],
   [
-   5,
-   "Where should we walk on a busy road?",
-   [
-    "on the footpath",
-    "in the middle of the road",
-    "on the zebra crossing all the time",
-    "behind buses"
-   ],
-   0,
-   "Walk on the footpath to stay safe."
-  ],
-  [
-   5,
-   "What is the contraction of 'does not'?",
-   [
-    "don't",
-    "doesn't",
-    "didn't",
-    "isn't"
-   ],
-   1,
-   "does not → doesn't."
-  ],
-  [
-   5,
-   "Choose the correct sentence.",
-   [
-    "He don't play football.",
-    "He doesn't play football.",
-    "He doesn't plays football.",
-    "He not play football."
-   ],
-   1,
-   "With he/she/it we use doesn't + the present form of the verb (play)."
-  ],
-  [
-   5,
-   "Which of these is an uncountable noun?",
-   [
-    "glass",
-    "water",
-    "book",
-    "cyclist"
-   ],
-   1,
-   "We can count glasses, but we cannot count water."
-  ],
-  [
-   5,
-   "Which of these is a countable noun?",
-   [
-    "milk",
-    "sand",
-    "bicycle",
-    "air"
-   ],
-   2,
-   "Bicycles can be counted: one bicycle, two bicycles."
-  ],
-  [
-   5,
-   "'Can' shows ability. Which sentence shows inability?",
-   [
-    "A fish can swim.",
-    "A bird can fly.",
-    "A cow cannot fly.",
-    "I can sing."
-   ],
-   2,
-   "'Cannot' (can't) is used for things we are not able to do."
-  ],
-  [
-   5,
-   "Which word means 'a machine with wheels and an engine'?",
-   [
-    "vehicle",
-    "safety",
-    "cross",
-    "carelessly"
-   ],
-   0,
-   "Cars, buses and trucks are vehicles."
-  ],
-  [
    6,
    "In 'The Day of Silence', what problem did Rizwan have since birth?",
    [
@@ -807,90 +423,6 @@
    ],
    0,
    "Everyone put earplugs in their ears for the whole day."
-  ],
-  [
-   6,
-   "What lesson does the story teach?",
-   [
-    "Everyone has a special talent and should be given an equal chance",
-    "Games are a waste of time",
-    "Only strong people can win",
-    "We should not go to festivals"
-   ],
-   0,
-   "The story ends: everyone has some special talent and should be given an equal chance."
-  ],
-  [
-   6,
-   "What is the plural of 'box'?",
-   [
-    "boxs",
-    "boxes",
-    "boxies",
-    "box"
-   ],
-   1,
-   "Nouns ending in x, s, sh or ch add 'es': box → boxes."
-  ],
-  [
-   6,
-   "What is the plural of 'visitor'?",
-   [
-    "visitores",
-    "visitors",
-    "visitories",
-    "visitor's"
-   ],
-   1,
-   "Most nouns just add 's': visitor → visitors."
-  ],
-  [
-   6,
-   "Fill in the article: 'I saw ___ elephant yesterday.'",
-   [
-    "a",
-    "an",
-    "the",
-    "no article"
-   ],
-   1,
-   "'An' is used before words beginning with a vowel sound (e, a, i, o, u)."
-  ],
-  [
-   6,
-   "Fill in the article: 'Ahmad is ___ best boy of my class.'",
-   [
-    "a",
-    "an",
-    "the",
-    "no article"
-   ],
-   2,
-   "'The' is used for a particular one, including with 'best'."
-  ],
-  [
-   6,
-   "Which needs 'an' because of a silent 'h'?",
-   [
-    "hat",
-    "hour",
-    "horse",
-    "house"
-   ],
-   1,
-   "We say 'an hour' because the h in hour is silent."
-  ],
-  [
-   6,
-   "Which word has a silent 'b'?",
-   [
-    "bat",
-    "lamb",
-    "boy",
-    "bag"
-   ],
-   1,
-   "In 'lamb' the b is not spoken."
   ],
   [
    7,
@@ -953,78 +485,6 @@
    "Crown begins with cr; spider, space and special begin with sp."
   ],
   [
-   7,
-   "Which word begins with the consonant cluster 'sp'?",
-   [
-    "crow",
-    "cry",
-    "sparrow",
-    "crumb"
-   ],
-   2,
-   "Sparrow begins with sp."
-  ],
-  [
-   7,
-   "Which is the correct spelling?",
-   [
-    "enviroment",
-    "environment",
-    "envirnment",
-    "enviromment"
-   ],
-   1,
-   "The correct spelling is environment."
-  ],
-  [
-   7,
-   "Which of these is an action (doing) verb?",
-   [
-    "happy",
-    "jump",
-    "table",
-    "blue"
-   ],
-   1,
-   "Action verbs show what we can do: jump, run, write."
-  ],
-  [
-   7,
-   "Homophones sound the same but have different meanings. Choose the pair of homophones.",
-   [
-    "here — hear",
-    "big — small",
-    "sun — moon",
-    "run — ran"
-   ],
-   0,
-   "Here and hear sound the same but are spelt differently and mean different things."
-  ],
-  [
-   7,
-   "Fill in: 'I can ___ the birds singing.'",
-   [
-    "here",
-    "hear",
-    "hare",
-    "hair"
-   ],
-   1,
-   "'Hear' means to listen with the ears; 'here' means this place."
-  ],
-  [
-   7,
-   "'Sibling' means:",
-   [
-    "a brother or a sister",
-    "a teacher",
-    "a neighbour",
-    "a friend's parent"
-   ],
-   0,
-   "Your siblings are your brothers and sisters."
-  ],
-  [
    8,
    "Which of these is a natural resource?",
    [
@@ -1083,90 +543,6 @@
    ],
    0,
    "Paper is made of wood, so using less paper means fewer trees are cut down."
-  ],
-  [
-   8,
-   "Which form of energy from the sun can help us save electricity?",
-   [
-    "solar energy",
-    "wind energy",
-    "coal",
-    "gas"
-   ],
-   0,
-   "Solar energy is another service that can help us save electricity."
-  ],
-  [
-   8,
-   "Choose the possessive pronoun: 'The bag belongs to Hina. It is ___.'",
-   [
-    "her",
-    "hers",
-    "she",
-    "herself"
-   ],
-   1,
-   "'Hers' is a possessive pronoun that shows the bag is Hina's."
-  ],
-  [
-   8,
-   "'My parents and I live in this house. The house is ___.'",
-   [
-    "our",
-    "ours",
-    "we",
-    "us"
-   ],
-   1,
-   "'Ours' shows that the house belongs to us."
-  ],
-  [
-   8,
-   "In 'Arif played a match. He enjoyed it.', which word is a pronoun used for Arif?",
-   [
-    "played",
-    "He",
-    "match",
-    "enjoyed"
-   ],
-   1,
-   "A pronoun is used in place of a noun: 'He' stands for Arif."
-  ],
-  [
-   8,
-   "Choose the correct verb: 'He ___ books.'",
-   [
-    "have",
-    "has",
-    "do",
-    "are"
-   ],
-   1,
-   "With he/she/it we use 'has'."
-  ],
-  [
-   8,
-   "Which word shows where the cat is: 'A cat is under the table'?",
-   [
-    "cat",
-    "is",
-    "under",
-    "table"
-   ],
-   2,
-   "'Under' is a preposition: it shows the position of the cat."
-  ],
-  [
-   8,
-   "'To make unclean' is the meaning of:",
-   [
-    "pollute",
-    "conserve",
-    "abundance",
-    "resource"
-   ],
-   0,
-   "To pollute means to make air, water or land dirty."
   ],
   [
    9,
@@ -1229,66 +605,6 @@
    "'Thank you' shows gratitude; 'You're welcome' is the reply."
   ],
   [
-   9,
-   "Which sentence is in the simple past tense?",
-   [
-    "They teach English.",
-    "They taught English.",
-    "They will teach English.",
-    "They are teaching English."
-   ],
-   1,
-   "'Taught' is the past form of teach."
-  ],
-  [
-   9,
-   "Which sentence is in the simple future tense?",
-   [
-    "My mother cooks food.",
-    "My mother cooked food.",
-    "My mother will cook food.",
-    "My mother is cook."
-   ],
-   2,
-   "We use will/shall with the first form of the verb for the future."
-  ],
-  [
-   9,
-   "'We went to our village last Sunday' is in the:",
-   [
-    "present tense",
-    "past tense",
-    "future tense",
-    "continuous tense"
-   ],
-   1,
-   "'Went' and 'last Sunday' show the past."
-  ],
-  [
-   9,
-   "Fill in: 'Yesterday, they ___ playing cricket in the park.'",
-   [
-    "is",
-    "are",
-    "was",
-    "were"
-   ],
-   3,
-   "With 'they' in the past we use 'were'."
-  ],
-  [
-   9,
-   "Which word has a short 'e' sound?",
-   [
-    "bee",
-    "pet",
-    "see",
-    "tree"
-   ],
-   1,
-   "'Pet' has a short e sound; bee, see and tree have a long e."
-  ],
-  [
    10,
    "In the poem 'Our Family Picnic', what spoiled the picnic?",
    [
@@ -1347,78 +663,6 @@
    ],
    0,
    "'May' is used for seeking permission."
-  ],
-  [
-   10,
-   "Which word is a preposition?",
-   [
-    "over",
-    "picnic",
-    "rainy",
-    "family"
-   ],
-   0,
-   "Prepositions like with, in, over, from, about show the relation of a noun to other words."
-  ],
-  [
-   10,
-   "Which shows possession with an apostrophe correctly?",
-   [
-    "Majids car",
-    "Majid's car",
-    "Majids' car",
-    "Majid,s car"
-   ],
-   1,
-   "We add 's to show that something belongs to someone: Majid's car."
-  ],
-  [
-   10,
-   "What is the contraction of 'I will'?",
-   [
-    "I'm",
-    "I'll",
-    "I've",
-    "I'd"
-   ],
-   1,
-   "I will → I'll."
-  ],
-  [
-   10,
-   "What is the contraction of 'who is'?",
-   [
-    "who's",
-    "whose",
-    "who'd",
-    "who've"
-   ],
-   0,
-   "who is → who's."
-  ],
-  [
-   10,
-   "Choose the correct word: '___ you swim?' (asking about ability)",
-   [
-    "May",
-    "Can",
-    "Will",
-    "Shall"
-   ],
-   1,
-   "'Can' asks about ability."
-  ],
-  [
-   10,
-   "'It ___ rain tomorrow.' (a possibility)",
-   [
-    "can",
-    "may",
-    "must",
-    "does"
-   ],
-   1,
-   "'May' is used for something that is possible in the future."
   ],
   [
    11,
@@ -1481,88 +725,4281 @@
    "In knife the k is silent."
   ],
   [
-   11,
-   "Which letter is silent in 'write'?",
+   1,
+   "Which word is a proper noun?",
    [
-    "w",
-    "r",
-    "t",
-    "e"
-   ],
-   0,
-   "In write the w is silent."
-  ],
-  [
-   11,
-   "How many syllables are there in 'banana' (ba-na-na)?",
-   [
-    "1",
-    "2",
-    "3",
-    "4"
-   ],
-   2,
-   "ba-na-na has three syllables."
-  ],
-  [
-   11,
-   "In which word is 'ed' pronounced /id/?",
-   [
-    "asked",
-    "called",
-    "wanted",
-    "missed"
-   ],
-   2,
-   "After t or d, -ed sounds like /id/: wanted, needed."
-  ],
-  [
-   11,
-   "Which question word asks about a place?",
-   [
-    "When",
-    "Where",
-    "Who",
-    "Why"
+    "city",
+    "Lahore",
+    "river",
+    "school"
    ],
    1,
-   "'Where' asks about a place."
+   "A proper noun is the name of a particular person, place or thing and starts with a capital letter.",
+   "g"
   ],
   [
-   11,
-   "Which question word asks about a person?",
+   1,
+   "Which word is a common noun?",
    [
-    "What",
-    "Which",
-    "Who",
-    "When"
+    "Ali",
+    "Karachi",
+    "boy",
+    "Monday"
    ],
    2,
-   "'Who' asks about a person."
+   "A common noun names any person, place or thing, not a particular one.",
+   "g"
   ],
   [
-   11,
-   "A dictionary lists words and their meanings in:",
+   1,
+   "Choose the proper noun in: 'Sara goes to school.'",
+   [
+    "goes",
+    "to",
+    "Sara",
+    "school"
+   ],
+   2,
+   "Sara is the name of a particular person, so it is a proper noun.",
+   "g"
+  ],
+  [
+   1,
+   "Choose the common noun in: 'Ahmed has a red ball.'",
+   [
+    "ball",
+    "Ahmed",
+    "has",
+    "red"
+   ],
+   0,
+   "'Ball' names any ball, so it is a common noun.",
+   "g"
+  ],
+  [
+   1,
+   "A proper noun always begins with a:",
+   [
+    "small letter",
+    "comma",
+    "capital letter",
+    "full stop"
+   ],
+   2,
+   "Names of particular people and places always start with a capital letter.",
+   "g"
+  ],
+  [
+   1,
+   "Which word comes first in alphabetical order?",
+   [
+    "banana",
+    "cat",
+    "dog",
+    "apple"
+   ],
+   3,
+   "Alphabetical order follows a, b, c, d...",
+   "g"
+  ],
+  [
+   1,
+   "Which word comes first in alphabetical order: bus, bed, bat, bag?",
+   [
+    "bag",
+    "bat",
+    "bed",
+    "bus"
+   ],
+   0,
+   "When the first letters are the same, look at the second and third letters: bag comes before bat.",
+   "g"
+  ],
+  [
+   1,
+   "Which word comes last in alphabetical order?",
+   [
+    "lion",
+    "monkey",
+    "zebra",
+    "goat"
+   ],
+   2,
+   "Z is the last letter of the alphabet.",
+   "g"
+  ],
+  [
+   1,
+   "Arrange in alphabetical order: sun, moon, star. Which comes second?",
+   [
+    "star",
+    "sun",
+    "moon",
+    "none of these"
+   ],
+   0,
+   "Alphabetical order: moon, star, sun.",
+   "g"
+  ],
+  [
+   1,
+   "Which word begins with a consonant cluster?",
+   [
+    "egg",
+    "ink",
+    "apple",
+    "green"
+   ],
+   3,
+   "In 'green' the consonants g and r come together: a consonant cluster.",
+   "g"
+  ],
+  [
+   1,
+   "Which word begins with the cluster 'st'?",
+   [
+    "sat",
+    "test",
+    "rest",
+    "star"
+   ],
+   3,
+   "'Star' begins with s and t together.",
+   "g"
+  ],
+  [
+   1,
+   "Which word begins with the cluster 'bl'?",
+   [
+    "ball",
+    "bell",
+    "bulb",
+    "blue"
+   ],
+   3,
+   "'Blue' begins with b and l together.",
+   "g"
+  ],
+  [
+   1,
+   "Which of these letters is a consonant?",
+   [
+    "a",
+    "k",
+    "o",
+    "u"
+   ],
+   1,
+   "All letters other than a, e, i, o, u are consonants.",
+   "g"
+  ],
+  [
+   1,
+   "How many syllables are in 'teacher'?",
+   [
+    "one",
+    "three",
+    "four",
+    "two"
+   ],
+   3,
+   "tea-cher has two syllables.",
+   "g"
+  ],
+  [
+   1,
+   "How many syllables are in 'cat'?",
+   [
+    "two",
+    "one",
+    "three",
+    "four"
+   ],
+   1,
+   "'Cat' is said in one beat: one syllable.",
+   "g"
+  ],
+  [
+   1,
+   "How many syllables are in 'banana'?",
+   [
+    "three",
+    "one",
+    "two",
+    "four"
+   ],
+   0,
+   "ba-na-na has three syllables.",
+   "g"
+  ],
+  [
+   1,
+   "Which is the correct spelling?",
+   [
+    "friend",
+    "freind",
+    "frend",
+    "friand"
+   ],
+   0,
+   "The correct spelling is f-r-i-e-n-d.",
+   "g"
+  ],
+  [
+   1,
+   "Which mark separates the items in a list: 'I have a pen ___ a book and a bag'?",
+   [
+    "full stop (.)",
+    "question mark (?)",
+    "comma (,)",
+    "exclamation mark (!)"
+   ],
+   2,
+   "We use a comma to separate items in a list.",
+   "g"
+  ],
+  [
+   1,
+   "Which sentence uses commas correctly?",
+   [
+    "I like red, blue and green.",
+    "I like, red blue and green.",
+    "I, like red blue, and green.",
+    "I like red blue, and, green."
+   ],
+   0,
+   "Commas separate the items in a list.",
+   "g"
+  ],
+  [
+   1,
+   "Which mark ends a telling sentence?",
+   [
+    "question mark (?)",
+    "full stop (.)",
+    "comma (,)",
+    "apostrophe (')"
+   ],
+   1,
+   "A telling sentence ends with a full stop.",
+   "g"
+  ],
+  [
+   1,
+   "Which mark ends an asking sentence?",
+   [
+    "full stop (.)",
+    "comma (,)",
+    "hyphen (-)",
+    "question mark (?)"
+   ],
+   3,
+   "A question ends with a question mark.",
+   "g"
+  ],
+  [
+   1,
+   "Choose the correct question word: '___ is your name?'",
+   [
+    "Who",
+    "What",
+    "Where",
+    "When"
+   ],
+   1,
+   "We ask 'What is your name?'",
+   "g"
+  ],
+  [
+   1,
+   "Choose the polite greeting to a teacher in the morning:",
+   [
+    "Good morning, Sir.",
+    "Go away.",
+    "Give me that.",
+    "Sit down."
+   ],
+   0,
+   "We greet elders politely, e.g. 'Good morning, Sir.'",
+   "g"
+  ],
+  [
+   1,
+   "Choose the correct reply to 'How are you?'",
+   [
+    "My name is Ali.",
+    "I am going home.",
+    "It is a book.",
+    "I am fine, thank you."
+   ],
+   3,
+   "'How are you?' asks about health; we reply 'I am fine, thank you.'",
+   "g"
+  ],
+  [
+   1,
+   "Which word is NOT a noun?",
+   [
+    "pen",
+    "run",
+    "girl",
+    "Quetta"
+   ],
+   1,
+   "'Run' is an action word (verb), not a noun.",
+   "g"
+  ],
+  [
+   1,
+   "Which word is a proper noun for a day?",
+   [
+    "day",
+    "Friday",
+    "week",
+    "morning"
+   ],
+   1,
+   "Names of days start with a capital letter and are proper nouns.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has a long 'i' sound?",
+   [
+    "kit",
+    "sit",
+    "kite",
+    "pin"
+   ],
+   2,
+   "The silent e makes the i long in 'kite'.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has a short 'o' sound?",
+   [
+    "dog",
+    "rope",
+    "home",
+    "nose"
+   ],
+   0,
+   "In 'dog' the o is short.",
+   "g"
+  ],
+  [
+   2,
+   "Adding 'e' to 'tap' makes:",
+   [
+    "tapp",
+    "tapo",
+    "tape",
+    "tepa"
+   ],
+   2,
+   "Silent e changes the short a to a long a: tap → tape.",
+   "g"
+  ],
+  [
+   2,
+   "Adding 'e' to 'kit' makes:",
+   [
+    "kitt",
+    "kite",
+    "kiet",
+    "kites"
+   ],
+   1,
+   "Silent e makes the i long: kit → kite.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has a long 'u' sound?",
+   [
+    "cub",
+    "cup",
+    "cube",
+    "bus"
+   ],
+   2,
+   "The silent e makes u long in 'cube'.",
+   "g"
+  ],
+  [
+   2,
+   "A word that takes the place of a noun is called a:",
+   [
+    "pronoun",
+    "verb",
+    "adjective",
+    "conjunction"
+   ],
+   0,
+   "A pronoun replaces a noun, e.g. he, she, it.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the pronoun for 'Ali': '___ is my brother.'",
+   [
+    "She",
+    "He",
+    "It",
+    "They"
+   ],
+   1,
+   "We use 'he' for a boy or man.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the pronoun for 'Ayesha': '___ is reading.'",
+   [
+    "She",
+    "He",
+    "It",
+    "We"
+   ],
+   0,
+   "We use 'she' for a girl or woman.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the pronoun for 'the tree': '___ is tall.'",
+   [
+    "It",
+    "He",
+    "She",
+    "They"
+   ],
+   0,
+   "We use 'it' for things and animals.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the pronoun for 'Ali and Sara': '___ are friends.'",
+   [
+    "They",
+    "He",
+    "She",
+    "It"
+   ],
+   0,
+   "We use 'they' for more than one person.",
+   "g"
+  ],
+  [
+   2,
+   "Which word is a pronoun?",
+   [
+    "we",
+    "tree",
+    "jump",
+    "happy"
+   ],
+   0,
+   "'We' is a pronoun.",
+   "g"
+  ],
+  [
+   2,
+   "Words like 'and', 'but', 'or' that join words or sentences are called:",
+   [
+    "nouns",
+    "verbs",
+    "conjunctions",
+    "articles"
+   ],
+   2,
+   "Conjunctions join words or sentences.",
+   "g"
+  ],
+  [
+   2,
+   "Join with a conjunction: 'I like tea ___ milk.'",
+   [
+    "but",
+    "or",
+    "because",
+    "and"
+   ],
+   3,
+   "'And' adds two things together.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the conjunction: 'He is poor ___ honest.'",
+   [
+    "but",
+    "and",
+    "so",
+    "or"
+   ],
+   0,
+   "'But' shows a contrast.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the conjunction: 'Do you want tea ___ juice?'",
+   [
+    "and",
+    "but",
+    "so",
+    "or"
+   ],
+   3,
+   "'Or' shows a choice.",
+   "g"
+  ],
+  [
+   2,
+   "Which word is a conjunction?",
+   [
+    "and",
+    "run",
+    "blue",
+    "they"
+   ],
+   0,
+   "'And' is a joining word.",
+   "g"
+  ],
+  [
+   2,
+   "How many syllables are in 'flower'?",
+   [
+    "two",
+    "one",
+    "three",
+    "four"
+   ],
+   0,
+   "flow-er has two syllables.",
+   "g"
+  ],
+  [
+   2,
+   "How many syllables are in 'river'?",
+   [
+    "two",
+    "one",
+    "three",
+    "four"
+   ],
+   0,
+   "riv-er has two syllables.",
+   "g"
+  ],
+  [
+   2,
+   "Which word names a thing in nature?",
+   [
+    "chair",
+    "pen",
+    "river",
+    "car"
+   ],
+   2,
+   "Rivers are part of nature; chairs and cars are made by people.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has the same vowel sound as 'rain'?",
+   [
+    "cat",
+    "ran",
+    "man",
+    "cake"
+   ],
+   3,
+   "Both 'rain' and 'cake' have the long a sound.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has the same vowel sound as 'see'?",
+   [
+    "tree",
+    "bed",
+    "ten",
+    "sit"
+   ],
+   0,
+   "Both have the long e sound.",
+   "g"
+  ],
+  [
+   2,
+   "In 'She and I went home', the conjunction is:",
+   [
+    "She",
+    "and",
+    "went",
+    "home"
+   ],
+   1,
+   "'And' joins 'She' and 'I'.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the pronoun for 'my mother and I': '___ cook together.'",
+   [
+    "They",
+    "He",
+    "It",
+    "We"
+   ],
+   3,
+   "'My mother and I' = we.",
+   "g"
+  ],
+  [
+   2,
+   "Which one is a vowel letter?",
+   [
+    "u",
+    "y",
+    "w",
+    "r"
+   ],
+   0,
+   "The five vowel letters are a, e, i, o, u.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has a short 'e' sound?",
+   [
+    "tree",
+    "bee",
+    "pen",
+    "key"
+   ],
+   2,
+   "In 'pen' the e is short.",
+   "g"
+  ],
+  [
+   3,
+   "'Has' is used with:",
+   [
+    "I, we, you",
+    "they",
+    "we",
+    "he, she, it"
+   ],
+   3,
+   "We say: he has, she has, it has; I/we/you/they have.",
+   "g"
+  ],
+  [
+   3,
+   "'Have' is used with:",
+   [
+    "he",
+    "I, we, you, they",
+    "she",
+    "it"
+   ],
+   1,
+   "We say: I have, we have, you have, they have.",
+   "g"
+  ],
+  [
+   3,
+   "Choose the correct word: 'She ___ a doll.'",
+   [
+    "have",
+    "having",
+    "has",
+    "haves"
+   ],
+   2,
+   "'She' takes 'has'.",
+   "g"
+  ],
+  [
+   3,
+   "Choose the correct word: 'They ___ a big house.'",
+   [
+    "has",
+    "haves",
+    "have",
+    "is"
+   ],
+   2,
+   "'They' takes 'have'.",
+   "g"
+  ],
+  [
+   3,
+   "The contraction of 'I have' is:",
+   [
+    "Iv'e",
+    "I've",
+    "I'hav",
+    "Ihave'"
+   ],
+   1,
+   "An apostrophe replaces the missing letters: I have → I've.",
+   "g"
+  ],
+  [
+   3,
+   "The contraction of 'he has' is:",
+   [
+    "hes'",
+    "he'has",
+    "he's",
+    "h'es"
+   ],
+   2,
+   "He has → he's.",
+   "g"
+  ],
+  [
+   3,
+   "The contraction of 'they have' is:",
+   [
+    "they've",
+    "theyv'e",
+    "they'hv",
+    "the've"
+   ],
+   0,
+   "They have → they've.",
+   "g"
+  ],
+  [
+   3,
+   "The contraction of 'is not' is:",
+   [
+    "is'nt",
+    "isnt'",
+    "i'snt",
+    "isn't"
+   ],
+   3,
+   "Is not → isn't.",
+   "g"
+  ],
+  [
+   3,
+   "The contraction of 'do not' is:",
+   [
+    "dont'",
+    "do'nt",
+    "don't",
+    "d'ont"
+   ],
+   2,
+   "Do not → don't.",
+   "g"
+  ],
+  [
+   3,
+   "In a contraction, the apostrophe takes the place of:",
+   [
+    "a full stop",
+    "missing letters",
+    "a capital letter",
+    "a comma"
+   ],
+   1,
+   "The apostrophe shows where letters are left out.",
+   "g"
+  ],
+  [
+   3,
+   "Which noun is masculine?",
+   [
+    "mother",
+    "aunt",
+    "father",
+    "queen"
+   ],
+   2,
+   "Father is a male: masculine gender.",
+   "g"
+  ],
+  [
+   3,
+   "Which noun is feminine?",
+   [
+    "sister",
+    "brother",
+    "uncle",
+    "king"
+   ],
+   0,
+   "Sister is a female: feminine gender.",
+   "g"
+  ],
+  [
+   3,
+   "Which noun is neuter gender?",
+   [
+    "boy",
+    "girl",
+    "uncle",
+    "table"
+   ],
+   3,
+   "Things that are neither male nor female are neuter.",
+   "g"
+  ],
+  [
+   3,
+   "The feminine of 'uncle' is:",
+   [
+    "niece",
+    "mother",
+    "aunt",
+    "sister"
+   ],
+   2,
+   "Uncle → aunt.",
+   "g"
+  ],
+  [
+   3,
+   "The masculine of 'daughter' is:",
+   [
+    "father",
+    "brother",
+    "nephew",
+    "son"
+   ],
+   3,
+   "Daughter → son.",
+   "g"
+  ],
+  [
+   3,
+   "The feminine of 'grandfather' is:",
+   [
+    "mother",
+    "aunt",
+    "sister",
+    "grandmother"
+   ],
+   3,
+   "Grandfather → grandmother.",
+   "g"
+  ],
+  [
+   3,
+   "The masculine of 'hen' is:",
+   [
+    "duck",
+    "cock",
+    "lion",
+    "horse"
+   ],
+   1,
+   "Hen → cock.",
+   "g"
+  ],
+  [
+   3,
+   "The feminine of 'king' is:",
+   [
+    "princess",
+    "lady",
+    "queen",
+    "aunt"
+   ],
+   2,
+   "King → queen.",
+   "g"
+  ],
+  [
+   3,
+   "Which noun can be either male or female (common gender)?",
+   [
+    "father",
+    "teacher",
+    "queen",
+    "brother"
+   ],
+   1,
+   "'Teacher' can be a man or a woman.",
+   "g"
+  ],
+  [
+   3,
+   "Choose the correct pronoun for 'my grandmother': '___ tells us stories.'",
+   [
+    "She",
+    "He",
+    "It",
+    "They"
+   ],
+   0,
+   "Grandmother is female: she.",
+   "g"
+  ],
+  [
+   3,
+   "Which instruction is correctly written?",
+   [
+    "Opens your books.",
+    "Opening your books.",
+    "Opened your books.",
+    "Open your books."
+   ],
+   3,
+   "Instructions begin with the base form of the verb.",
+   "g"
+  ],
+  [
+   3,
+   "Choose the right direction word: 'Turn ___ at the mosque.'",
+   [
+    "leaf",
+    "lift",
+    "lot",
+    "left"
+   ],
+   3,
+   "We give directions with words like left, right, straight.",
+   "g"
+  ],
+  [
+   3,
+   "How many syllables are in 'family'?",
+   [
+    "three",
+    "two",
+    "four",
+    "one"
+   ],
+   0,
+   "fam-i-ly has three syllables.",
+   "g"
+  ],
+  [
+   3,
+   "How many syllables are in 'mother'?",
+   [
+    "one",
+    "three",
+    "four",
+    "two"
+   ],
+   3,
+   "moth-er has two syllables.",
+   "g"
+  ],
+  [
+   3,
+   "A paragraph is:",
+   [
+    "one word",
+    "a list of names",
+    "a single letter",
+    "a group of sentences about one idea"
+   ],
+   3,
+   "A paragraph has sentences about one main idea.",
+   "g"
+  ],
+  [
+   3,
+   "Which sentence is the best topic sentence for a paragraph about your family?",
+   [
+    "I love my family very much.",
+    "The sky is blue.",
+    "I like cricket.",
+    "Cats drink milk."
+   ],
+   0,
+   "The topic sentence tells what the paragraph is about.",
+   "g"
+  ],
+  [
+   3,
+   "Choose the correct sentence:",
+   [
+    "We have two cousins.",
+    "We has two cousins.",
+    "We having two cousins.",
+    "We haves two cousins."
+   ],
+   0,
+   "'We' takes 'have'.",
+   "g"
+  ],
+  [
+   3,
+   "The contraction 'we've' stands for:",
+   [
+    "we are",
+    "we have",
+    "we will",
+    "we had"
+   ],
+   1,
+   "We've = we have.",
+   "g"
+  ],
+  [
+   4,
+   "A word that describes a noun is called a:",
+   [
+    "adjective",
+    "verb",
+    "pronoun",
+    "conjunction"
+   ],
+   0,
+   "An adjective describes a noun or pronoun.",
+   "g"
+  ],
+  [
+   4,
+   "Find the adjective: 'The tall boy runs.'",
+   [
+    "boy",
+    "runs",
+    "The",
+    "tall"
+   ],
+   3,
+   "'Tall' describes the boy.",
+   "g"
+  ],
+  [
+   4,
+   "Find the adjective: 'She has a red bag.'",
+   [
+    "red",
+    "She",
+    "has",
+    "bag"
+   ],
+   0,
+   "'Red' describes the bag.",
+   "g"
+  ],
+  [
+   4,
+   "Find the adjective: 'It is a happy day.'",
+   [
+    "It",
+    "is",
+    "day",
+    "happy"
+   ],
+   3,
+   "'Happy' describes the day.",
+   "g"
+  ],
+  [
+   4,
+   "Which word is an adjective?",
+   [
+    "kindness",
+    "kindly",
+    "kind",
+    "kindnesses"
+   ],
+   2,
+   "'Kind' describes a person, so it is an adjective.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the adjective to complete: 'The elephant is very ___.'",
+   [
+    "big",
+    "run",
+    "they",
+    "and"
+   ],
+   0,
+   "'Big' describes the elephant.",
+   "g"
+  ],
+  [
+   4,
+   "Words like 'my', 'your', 'his', 'her' before a noun are called:",
+   [
+    "conjunctions",
+    "possessive adjectives",
+    "verbs",
+    "articles"
+   ],
+   1,
+   "They show who something belongs to.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the possessive adjective: 'This is ___ pen.' (it belongs to me)",
+   [
+    "I",
+    "me",
+    "my",
+    "myself"
+   ],
+   2,
+   "We say 'my pen'.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the possessive adjective: 'Sara lost ___ book.'",
+   [
+    "his",
+    "their",
+    "its",
+    "her"
+   ],
+   3,
+   "Sara is a girl, so 'her book'.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the possessive adjective: 'The boys took ___ bats.'",
+   [
+    "his",
+    "her",
+    "their",
+    "its"
+   ],
+   2,
+   "For more than one person: their.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the possessive adjective: 'The cat licked ___ paw.'",
+   [
+    "its",
+    "it's",
+    "her",
+    "their"
+   ],
+   0,
+   "For animals and things we use 'its' (no apostrophe).",
+   "g"
+  ],
+  [
+   4,
+   "Two letters that make one sound, like 'ch' in 'chair', are called a:",
+   [
+    "digraph",
+    "vowel",
+    "syllable",
+    "full stop"
+   ],
+   0,
+   "A digraph is two letters making one sound.",
+   "g"
+  ],
+  [
+   4,
+   "Which word has the 'ch' sound?",
+   [
+    "cat",
+    "ship",
+    "thin",
+    "cheese"
+   ],
+   3,
+   "'Cheese' begins with the ch sound.",
+   "g"
+  ],
+  [
+   4,
+   "Which word has the 'sh' digraph?",
+   [
+    "chip",
+    "cap",
+    "sip",
+    "ship"
+   ],
+   3,
+   "'Ship' starts with sh.",
+   "g"
+  ],
+  [
+   4,
+   "Which word has the 'th' digraph?",
+   [
+    "thumb",
+    "tub",
+    "chum",
+    "hum"
+   ],
+   0,
+   "'Thumb' starts with th.",
+   "g"
+  ],
+  [
+   4,
+   "Which word ends with 'ch'?",
+   [
+    "lung",
+    "luck",
+    "lunch",
+    "lump"
+   ],
+   2,
+   "'Lunch' ends with ch.",
+   "g"
+  ],
+  [
+   4,
+   "Join with the correct conjunction: 'I was hungry ___ I ate an apple.'",
+   [
+    "but",
+    "so",
+    "or",
+    "because"
+   ],
+   1,
+   "'So' shows result.",
+   "g"
+  ],
+  [
+   4,
+   "Join with the correct conjunction: 'She was late ___ the bus broke down.'",
+   [
+    "so",
+    "or",
+    "because",
+    "and"
+   ],
+   2,
+   "'Because' gives a reason.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the conjunction: 'He ran fast ___ he missed the bus.'",
+   [
+    "and",
+    "so",
+    "but",
+    "or"
+   ],
+   2,
+   "'But' shows the unexpected result.",
+   "g"
+  ],
+  [
+   4,
+   "Which sentence uses 'and' correctly?",
+   [
+    "I and have a cat dog.",
+    "And I have a cat dog.",
+    "I have a cat and a dog.",
+    "I have and a cat a dog."
+   ],
+   2,
+   "'And' joins two nouns.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the adjective of colour:",
+   [
+    "green",
+    "tall",
+    "soft",
+    "happy"
+   ],
+   0,
+   "'Green' is a colour adjective.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the adjective of size:",
+   [
+    "sweet",
+    "small",
+    "blue",
+    "loud"
+   ],
+   1,
+   "'Small' tells the size.",
+   "g"
+  ],
+  [
+   4,
+   "Which word is NOT an adjective?",
+   [
+    "cold",
+    "jump",
+    "clean",
+    "beautiful"
+   ],
+   1,
+   "'Jump' is an action word.",
+   "g"
+  ],
+  [
+   4,
+   "How many syllables are in 'children'?",
+   [
+    "one",
+    "two",
+    "three",
+    "four"
+   ],
+   1,
+   "chil-dren has two syllables.",
+   "g"
+  ],
+  [
+   4,
+   "A story must have:",
+   [
+    "only a title",
+    "only names",
+    "only pictures",
+    "a beginning, a middle and an end"
+   ],
+   3,
+   "Every story has a beginning, middle and end.",
+   "g"
+  ],
+  [
+   4,
+   "In a story, the people or animals are called:",
+   [
+    "titles",
+    "characters",
+    "chapters",
+    "commas"
+   ],
+   1,
+   "Characters are the people or animals in a story.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the opposite of 'kind':",
+   [
+    "nice",
+    "good",
+    "cruel",
+    "gentle"
+   ],
+   2,
+   "Kind ↔ cruel.",
+   "g"
+  ],
+  [
+   1,
+   "Which of these is written correctly?",
+   [
+    "Pakistan",
+    "pakistan",
+    "PAkistan",
+    "pakIstan"
+   ],
+   0,
+   "The name of a country is a proper noun and starts with a capital letter.",
+   "g"
+  ],
+  [
+   1,
+   "Which is the correct spelling?",
+   [
+    "school",
+    "scool",
+    "skool",
+    "schol"
+   ],
+   0,
+   "The correct spelling is s-c-h-o-o-l.",
+   "g"
+  ],
+  [
+   1,
+   "Which sentence is correct?",
+   [
+    "Hina lives in Multan.",
+    "hina lives in multan.",
+    "Hina lives in multan.",
+    "hina lives in Multan."
+   ],
+   0,
+   "Names of people and cities need capital letters.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has a long vowel sound?",
+   [
+    "cat",
+    "cup",
+    "cot",
+    "cake"
+   ],
+   3,
+   "In 'cake' the a says its own name: a long vowel.",
+   "g"
+  ],
+  [
+   2,
+   "Which word has a short vowel sound?",
+   [
+    "kite",
+    "bone",
+    "hat",
+    "cute"
+   ],
+   2,
+   "In 'hat' the a is short.",
+   "g"
+  ],
+  [
+   2,
+   "Which is the correct spelling?",
+   [
+    "flower",
+    "flowr",
+    "flawer",
+    "floure"
+   ],
+   0,
+   "The correct spelling is f-l-o-w-e-r.",
+   "g"
+  ],
+  [
+   2,
+   "Which is the correct spelling?",
+   [
+    "mountain",
+    "mountin",
+    "montain",
+    "mountian"
+   ],
+   0,
+   "The correct spelling is m-o-u-n-t-a-i-n.",
+   "g"
+  ],
+  [
+   2,
+   "Choose the correctly written sentence:",
+   [
+    "the sun is bright.",
+    "The sun is bright.",
+    "The sun is bright",
+    "the Sun is bright"
+   ],
+   1,
+   "A sentence starts with a capital letter and ends with a full stop.",
+   "g"
+  ],
+  [
+   3,
+   "Which is the correct spelling?",
+   [
+    "grandmother",
+    "granmother",
+    "grandmuther",
+    "grandmothr"
+   ],
+   0,
+   "The correct spelling is g-r-a-n-d-m-o-t-h-e-r.",
+   "g"
+  ],
+  [
+   3,
+   "Choose the correct sentence:",
+   [
+    "It has a long tail.",
+    "It have a long tail.",
+    "It haves a long tail.",
+    "It having a long tail."
+   ],
+   0,
+   "'It' takes 'has'.",
+   "g"
+  ],
+  [
+   4,
+   "Which is the correct spelling?",
+   [
+    "beautiful",
+    "beautifull",
+    "butiful",
+    "beatiful"
+   ],
+   0,
+   "The correct spelling is b-e-a-u-t-i-f-u-l.",
+   "g"
+  ],
+  [
+   4,
+   "Which is the correct spelling?",
+   [
+    "kindness",
+    "kindnes",
+    "kinedness",
+    "kindnis"
+   ],
+   0,
+   "The correct spelling is k-i-n-d-n-e-s-s.",
+   "g"
+  ],
+  [
+   4,
+   "Choose the correct sentence:",
+   [
+    "They love their pets.",
+    "They love there pets.",
+    "They love they're pets.",
+    "They love them pets."
+   ],
+   0,
+   "'Their' shows belonging.",
+   "g"
+  ],
+  [
+   5,
+   "Which noun is countable?",
+   [
+    "water",
+    "milk",
+    "sugar",
+    "apple"
+   ],
+   3,
+   "We can count apples: one apple, two apples.",
+   "g"
+  ],
+  [
+   5,
+   "Which noun is uncountable?",
+   [
+    "chair",
+    "book",
+    "pencil",
+    "rice"
+   ],
+   3,
+   "We cannot count rice grain by grain in normal use; it has no plural form.",
+   "g"
+  ],
+  [
+   5,
+   "Which noun is uncountable?",
+   [
+    "cup",
+    "egg",
+    "bottle",
+    "milk"
+   ],
+   3,
+   "Milk is a liquid and cannot be counted.",
+   "g"
+  ],
+  [
+   5,
+   "Which noun is countable?",
+   [
+    "air",
+    "traffic",
+    "petrol",
+    "car"
+   ],
+   3,
+   "We can count cars.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct phrase:",
+   [
+    "a water",
+    "two waters",
+    "an water",
+    "some water"
+   ],
+   3,
+   "Uncountable nouns take 'some', not 'a'.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct phrase:",
+   [
+    "three car",
+    "a cars",
+    "some car",
+    "three cars"
+   ],
+   3,
+   "Countable nouns have plural forms: three cars.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct word: 'There is ___ milk in the glass.'",
+   [
+    "a",
+    "an",
+    "many",
+    "some"
+   ],
+   3,
+   "Uncountable nouns take 'some'.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct word: 'There are ___ buses on the road.'",
+   [
+    "much",
+    "many",
+    "a",
+    "an"
+   ],
+   1,
+   "'Many' is used with countable plural nouns.",
+   "g"
+  ],
+  [
+   5,
+   "'Can' shows:",
+   [
+    "past time",
+    "ability",
+    "a place",
+    "a colour"
+   ],
+   1,
+   "We use 'can' to say someone is able to do something.",
+   "g"
+  ],
+  [
+   5,
+   "'Cannot' shows:",
+   [
+    "ability",
+    "a question",
+    "a number",
+    "inability"
+   ],
+   3,
+   "'Cannot' means not able to do something.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct sentence:",
+   [
+    "A fish can swim.",
+    "A fish cans swim.",
+    "A fish can swims.",
+    "A fish can swimming."
+   ],
+   0,
+   "After 'can' we use the base form of the verb.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct sentence:",
+   [
+    "A baby cannot drive a car.",
+    "A baby cannot drives a car.",
+    "A baby cannots drive a car.",
+    "A baby not can drive a car."
+   ],
+   0,
+   "'Cannot' + base verb.",
+   "g"
+  ],
+  [
+   5,
+   "The short form of 'cannot' is:",
+   [
+    "cann't",
+    "can't",
+    "cant'",
+    "ca'nt"
+   ],
+   1,
+   "Cannot → can't.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct word: 'Birds ___ fly.'",
+   [
+    "cannot",
+    "can't",
+    "can",
+    "cans"
+   ],
+   2,
+   "Birds are able to fly.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct word: 'A cow ___ fly.'",
+   [
+    "cannot",
+    "can",
+    "cans",
+    "could flies"
+   ],
+   0,
+   "A cow is not able to fly.",
+   "g"
+  ],
+  [
+   5,
+   "'Does' is used with:",
+   [
+    "I, we, they",
+    "he, she, it",
+    "you",
+    "we"
+   ],
+   1,
+   "We say: he does, she does; I/we/you/they do.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct word: '___ she cross the road carefully?'",
+   [
+    "Do",
+    "Is",
+    "Are",
+    "Does"
+   ],
+   3,
+   "With 'she' we use 'does'.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct word: '___ you wait for the green light?'",
+   [
+    "Does",
+    "Do",
+    "Is",
+    "Has"
+   ],
+   1,
+   "With 'you' we use 'do'.",
+   "g"
+  ],
+  [
+   5,
+   "The contraction of 'does not' is:",
+   [
+    "does'nt",
+    "doesn't",
+    "doesnt'",
+    "do'esnt"
+   ],
+   1,
+   "Does not → doesn't.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct sentence:",
+   [
+    "He doesn't run on the road.",
+    "He don't run on the road.",
+    "He doesn't runs on the road.",
+    "He not does run on the road."
+   ],
+   0,
+   "He + doesn't + base verb.",
+   "g"
+  ],
+  [
+   5,
+   "The traffic light that tells us to stop is:",
+   [
+    "green",
+    "yellow",
+    "red",
+    "blue"
+   ],
+   2,
+   "Red means stop.",
+   "g"
+  ],
+  [
+   5,
+   "The traffic light that tells us to go is:",
+   [
+    "red",
+    "green",
+    "yellow",
+    "black"
+   ],
+   1,
+   "Green means go.",
+   "g"
+  ],
+  [
+   5,
+   "We should cross the road at the:",
+   [
+    "zebra crossing",
+    "middle of the road",
+    "corner of a bus",
+    "bridge railing"
+   ],
+   0,
+   "The zebra crossing is the safe place to cross.",
+   "g"
+  ],
+  [
+   5,
+   "How many syllables are in 'traffic'?",
+   [
+    "two",
+    "one",
+    "three",
+    "four"
+   ],
+   0,
+   "traf-fic has two syllables.",
+   "g"
+  ],
+  [
+   5,
+   "How many syllables are in 'crossing'?",
+   [
+    "two",
+    "one",
+    "three",
+    "four"
+   ],
+   0,
+   "cross-ing has two syllables.",
+   "g"
+  ],
+  [
+   5,
+   "Join the syllables: 'sig' + 'nal' =",
+   [
+    "signal",
+    "sigal",
+    "signl",
+    "singal"
+   ],
+   0,
+   "sig + nal = signal.",
+   "g"
+  ],
+  [
+   5,
+   "Which is the correct spelling?",
+   [
+    "careful",
+    "carefull",
+    "carful",
+    "kareful"
+   ],
+   0,
+   "The correct spelling is c-a-r-e-f-u-l.",
+   "g"
+  ],
+  [
+   5,
+   "Which is the correct spelling?",
+   [
+    "helmet",
+    "helmit",
+    "helmat",
+    "hellmet"
+   ],
+   0,
+   "The correct spelling is h-e-l-m-e-t.",
+   "g"
+  ],
+  [
+   5,
+   "Choose the correct contraction for 'I cannot':",
+   [
+    "I cant",
+    "I'cant",
+    "I can't",
+    "Ican't"
+   ],
+   2,
+   "I cannot → I can't.",
+   "g"
+  ],
+  [
+   5,
+   "Which word is countable?",
+   [
+    "bread",
+    "juice",
+    "sand",
+    "bicycle"
+   ],
+   3,
+   "We can count bicycles.",
+   "g"
+  ],
+  [
+   6,
+   "A noun that names one person, place or thing is:",
+   [
+    "plural",
+    "proper",
+    "singular",
+    "collective"
+   ],
+   2,
+   "Singular means one.",
+   "g"
+  ],
+  [
+   6,
+   "A noun that names more than one is:",
+   [
+    "plural",
+    "singular",
+    "common",
+    "neuter"
+   ],
+   0,
+   "Plural means more than one.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'book' is:",
+   [
+    "bookes",
+    "bookies",
+    "book",
+    "books"
+   ],
+   3,
+   "Most nouns add 's'.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'box' is:",
+   [
+    "boxs",
+    "boxies",
+    "boxes",
+    "boxen"
+   ],
+   2,
+   "Nouns ending in x add 'es'.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'bus' is:",
+   [
+    "buses",
+    "buss",
+    "busies",
+    "bus"
+   ],
+   0,
+   "Nouns ending in s add 'es'.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'brush' is:",
+   [
+    "brushes",
+    "brushs",
+    "brushies",
+    "brush"
+   ],
+   0,
+   "Nouns ending in sh add 'es'.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'watch' is:",
+   [
+    "watchs",
+    "watchies",
+    "watches",
+    "watch"
+   ],
+   2,
+   "Nouns ending in ch add 'es'.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'baby' is:",
+   [
+    "babies",
+    "babys",
+    "babyes",
+    "babis"
+   ],
+   0,
+   "Consonant + y → change y to i and add 'es'.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'lady' is:",
+   [
+    "ladys",
+    "ladies",
+    "ladyes",
+    "ladis"
+   ],
+   1,
+   "Lady → ladies.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'toy' is:",
+   [
+    "toies",
+    "toyes",
+    "toyies",
+    "toys"
+   ],
+   3,
+   "Vowel + y → just add 's'.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'man' is:",
+   [
+    "mans",
+    "mens",
+    "men",
+    "manes"
+   ],
+   2,
+   "Some plurals are irregular: man → men.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'child' is:",
+   [
+    "children",
+    "childs",
+    "childes",
+    "childrens"
+   ],
+   0,
+   "Child → children.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'tooth' is:",
+   [
+    "tooths",
+    "toothes",
+    "teeths",
+    "teeth"
+   ],
+   3,
+   "Tooth → teeth.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'foot' is:",
+   [
+    "foots",
+    "footes",
+    "feet",
+    "feets"
+   ],
+   2,
+   "Foot → feet.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'mouse' is:",
+   [
+    "mouses",
+    "mices",
+    "mousies",
+    "mice"
+   ],
+   3,
+   "Mouse → mice.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'leaf' is:",
+   [
+    "leaves",
+    "leafs",
+    "leafes",
+    "leavs"
+   ],
+   0,
+   "Leaf → leaves.",
+   "g"
+  ],
+  [
+   6,
+   "The singular of 'potatoes' is:",
+   [
+    "potato",
+    "potatoe",
+    "potatos",
+    "potat"
+   ],
+   0,
+   "Potatoes → potato.",
+   "g"
+  ],
+  [
+   6,
+   "'A', 'an' and 'the' are called:",
+   [
+    "articles",
+    "pronouns",
+    "verbs",
+    "adjectives of colour"
+   ],
+   0,
+   "These three words are articles.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct article: '___ apple'",
+   [
+    "a",
+    "the both a and an",
+    "an",
+    "no article"
+   ],
+   2,
+   "'Apple' starts with a vowel sound: an apple.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct article: '___ cat'",
+   [
+    "an",
+    "am",
+    "and",
+    "a"
+   ],
+   3,
+   "'Cat' starts with a consonant sound: a cat.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct article: '___ umbrella'",
+   [
+    "a",
+    "am",
+    "as",
+    "an"
+   ],
+   3,
+   "'Umbrella' starts with a vowel sound.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct article: '___ egg'",
+   [
+    "an",
+    "a",
+    "on",
+    "in"
+   ],
+   0,
+   "'Egg' starts with a vowel sound.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct article: '___ ball'",
+   [
+    "an",
+    "am",
+    "at",
+    "a"
+   ],
+   3,
+   "'Ball' starts with a consonant.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct article: '___ sun rises in the east.'",
+   [
+    "A",
+    "The",
+    "An",
+    "No article"
+   ],
+   1,
+   "There is only one sun, so we use 'the'.",
+   "g"
+  ],
+  [
+   6,
+   "We use 'a' or 'an' with:",
+   [
+    "plural nouns",
+    "uncountable nouns only",
+    "singular nouns",
+    "verbs"
+   ],
+   2,
+   "'A' and 'an' mean one.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct sentence:",
+   [
+    "I saw an owl.",
+    "I saw a owl.",
+    "I saw an dog.",
+    "I saw a eagles."
+   ],
+   0,
+   "'Owl' begins with a vowel sound: an owl.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct sentence:",
+   [
+    "She has two dresses.",
+    "She has two dress.",
+    "She has two dresss.",
+    "She has two dressies."
+   ],
+   0,
+   "Dress → dresses.",
+   "g"
+  ],
+  [
+   6,
+   "Choose the correct sentence:",
+   [
+    "There are three benches.",
+    "There are three benchs.",
+    "There are three bench.",
+    "There is three benches."
+   ],
+   0,
+   "Bench → benches.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'city' is:",
+   [
+    "citys",
+    "cityes",
+    "citis",
+    "cities"
+   ],
+   3,
+   "City → cities.",
+   "g"
+  ],
+  [
+   6,
+   "The plural of 'day' is:",
+   [
+    "daies",
+    "dayes",
+    "days",
+    "dais"
+   ],
+   2,
+   "Vowel + y → days.",
+   "g"
+  ],
+  [
+   7,
+   "Words that show action are called:",
+   [
+    "nouns",
+    "adjectives",
+    "verbs (action words)",
+    "articles"
+   ],
+   2,
+   "Action words tell what someone does.",
+   "g"
+  ],
+  [
+   7,
+   "Which word is an action verb?",
+   [
+    "ball",
+    "kick",
+    "green",
+    "happy"
+   ],
+   1,
+   "'Kick' is something you do.",
+   "g"
+  ],
+  [
+   7,
+   "Find the action verb: 'The boys play cricket.'",
+   [
+    "boys",
+    "cricket",
+    "play",
+    "The"
+   ],
+   2,
+   "'Play' is the action.",
+   "g"
+  ],
+  [
+   7,
+   "Find the action verb: 'Ali jumps high.'",
+   [
+    "Ali",
+    "high",
+    "none of these",
+    "jumps"
+   ],
+   3,
+   "'Jumps' is the action.",
+   "g"
+  ],
+  [
+   7,
+   "Which word is NOT an action verb?",
+   [
+    "run",
+    "throw",
+    "bat",
+    "catch"
+   ],
+   2,
+   "'Bat' here is a thing (noun).",
+   "g"
+  ],
+  [
+   7,
+   "Choose the action verb: 'She ___ the ball to me.'",
+   [
+    "ball",
+    "tall",
+    "throws",
+    "blue"
+   ],
+   2,
+   "'Throws' is the action.",
+   "g"
+  ],
+  [
+   7,
+   "Words that sound the same but have different meanings and spellings are:",
+   [
+    "antonyms",
+    "plurals",
+    "homophones",
+    "articles"
+   ],
+   2,
+   "Homophones sound alike, e.g. sea and see.",
+   "g"
+  ],
+  [
+   7,
+   "Which pair are homophones?",
+   [
+    "sea – see",
+    "big – small",
+    "run – ran",
+    "cat – cats"
+   ],
+   0,
+   "Sea and see sound the same.",
+   "g"
+  ],
+  [
+   7,
+   "Which pair are homophones?",
+   [
+    "write – right",
+    "hot – cold",
+    "go – went",
+    "pen – pens"
+   ],
+   0,
+   "Write and right sound the same.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct homophone: 'I can ___ the stars.'",
+   [
+    "sea",
+    "see",
+    "seed",
+    "sees"
+   ],
+   1,
+   "'See' means to look.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct homophone: 'The boat is on the ___.'",
+   [
+    "see",
+    "seas",
+    "seen",
+    "sea"
+   ],
+   3,
+   "'Sea' is a large body of water.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct homophone: 'I have ___ eyes.'",
+   [
+    "to",
+    "two",
+    "too",
+    "toe"
+   ],
+   1,
+   "'Two' is the number 2.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct homophone: 'I go ___ school.'",
+   [
+    "two",
+    "too",
+    "toe",
+    "to"
+   ],
+   3,
+   "'To' shows direction.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct homophone: 'The ___ of the story was happy.'",
+   [
+    "tail",
+    "tale",
+    "tall",
+    "tile"
+   ],
+   0,
+   "'Tale' means a story.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct homophone: 'The dog wagged its ___.'",
+   [
+    "tale",
+    "tail",
+    "tell",
+    "toll"
+   ],
+   1,
+   "'Tail' is the end part of an animal's body.",
+   "g"
+  ],
+  [
+   7,
+   "Which word begins with the cluster 'sp'?",
+   [
+    "sap",
+    "sip",
+    "sparrow",
+    "soap"
+   ],
+   2,
+   "'Sparrow' begins with s and p together.",
+   "g"
+  ],
+  [
+   7,
+   "Which word begins with 'sp'?",
+   [
+    "seat",
+    "seed",
+    "speech",
+    "soup"
+   ],
+   2,
+   "Speech begins with sp.",
+   "g"
+  ],
+  [
+   7,
+   "Which is the correct spelling?",
+   [
+    "playground",
+    "playgrund",
+    "plaground",
+    "playgraund"
+   ],
+   0,
+   "The correct spelling is p-l-a-y-g-r-o-u-n-d.",
+   "g"
+  ],
+  [
+   7,
+   "Which is the correct spelling?",
+   [
+    "football",
+    "futball",
+    "footbal",
+    "foottball"
+   ],
+   0,
+   "The correct spelling is f-o-o-t-b-a-l-l.",
+   "g"
+  ],
+  [
+   7,
+   "Break into syllables: 'cricket'",
+   [
+    "cr-icket",
+    "crick-et",
+    "cri-ck-et",
+    "c-ricket"
+   ],
+   1,
+   "crick-et has two syllables.",
+   "g"
+  ],
+  [
+   7,
+   "How many syllables are in 'basketball'?",
+   [
+    "two",
+    "four",
+    "three",
+    "one"
+   ],
+   2,
+   "bas-ket-ball has three syllables.",
+   "g"
+  ],
+  [
+   7,
+   "A paragraph begins with a:",
+   [
+    "topic sentence",
+    "full stop",
+    "title only",
+    "question mark"
+   ],
+   0,
+   "The first sentence tells the main idea.",
+   "g"
+  ],
+  [
+   7,
+   "When we write notes, we write:",
+   [
+    "every word",
+    "only the title",
+    "nothing",
+    "short main points"
+   ],
+   3,
+   "Notes are short main points.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the sentence that gives an opinion:",
+   [
+    "Football has two teams.",
+    "The ball is round.",
+    "I think football is fun.",
+    "The match starts at 4."
+   ],
+   2,
+   "'I think...' shows an opinion.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the past form of 'play':",
+   [
+    "plays",
+    "playing",
+    "plaied",
+    "played"
+   ],
+   3,
+   "Regular verbs add -ed for the past.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct verb: 'They ___ in the park every day.'",
+   [
+    "play",
+    "plays",
+    "playing",
+    "played every day"
+   ],
+   0,
+   "'They' takes 'play' in the present.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct verb: 'He ___ every morning.'",
+   [
+    "run",
+    "running",
+    "runs",
+    "runned"
+   ],
+   2,
+   "He/she/it takes -s in the present.",
+   "g"
+  ],
+  [
+   7,
+   "Which pair are homophones?",
+   [
+    "flower – flour",
+    "flower – floor",
+    "flour – four",
+    "floor – four"
+   ],
+   0,
+   "Flower and flour sound the same.",
+   "g"
+  ],
+  [
+   7,
+   "Choose the correct homophone: 'Mother bakes bread with ___.'",
+   [
+    "flower",
+    "floor",
+    "flour",
+    "four"
+   ],
+   2,
+   "'Flour' is used to make bread.",
+   "g"
+  ],
+  [
+   7,
+   "Which word is an action verb?",
+   [
+    "pool",
+    "swim",
+    "blue",
+    "wet"
+   ],
+   1,
+   "'Swim' is an action.",
+   "g"
+  ],
+  [
+   8,
+   "The present forms of the verb 'be' are:",
+   [
+    "was, were",
+    "do, does",
+    "has, have",
+    "am, is, are"
+   ],
+   3,
+   "Am, is and are are present forms of 'be'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct verb: 'I ___ a student.'",
+   [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   0,
+   "'I' takes 'am'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct verb: 'She ___ my sister.'",
+   [
+    "am",
+    "are",
+    "is",
+    "be"
+   ],
+   2,
+   "'She' takes 'is'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct verb: 'We ___ in class 3.'",
+   [
+    "is",
+    "am",
+    "was been",
+    "are"
+   ],
+   3,
+   "'We' takes 'are'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct verb: 'They ___ at home yesterday.'",
+   [
+    "were",
+    "was",
+    "is",
+    "am"
+   ],
+   0,
+   "Past of 'are' is 'were'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct verb: 'He ___ ill last week.'",
+   [
+    "was",
+    "were",
+    "are",
+    "am"
+   ],
+   0,
+   "Past of 'is' is 'was'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct form of 'do': 'We ___ our homework daily.'",
+   [
+    "do",
+    "does",
+    "did done",
+    "doing"
+   ],
+   0,
+   "'We' takes 'do'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct form of 'do': 'Ahmad ___ his work carefully.'",
+   [
+    "do",
+    "doing",
+    "does",
+    "don't"
+   ],
+   2,
+   "'He' (Ahmad) takes 'does'.",
+   "g"
+  ],
+  [
+   8,
+   "The past form of 'do' is:",
+   [
+    "done",
+    "did",
+    "does",
+    "doed"
+   ],
+   1,
+   "Do → did.",
+   "g"
+  ],
+  [
+   8,
+   "The past form of 'have' is:",
+   [
+    "had",
+    "has",
+    "haved",
+    "having"
+   ],
+   0,
+   "Have → had.",
+   "g"
+  ],
+  [
+   8,
+   "A pronoun that shows who owns something, like 'mine', is a:",
+   [
+    "action verb",
+    "possessive pronoun",
+    "article",
+    "conjunction"
+   ],
+   1,
+   "Possessive pronouns show ownership.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the possessive pronoun: 'This book is ___.' (belongs to me)",
+   [
+    "my",
+    "me",
+    "mine",
+    "I"
+   ],
+   2,
+   "'Mine' stands alone without a noun.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the possessive pronoun: 'That bag is ___.' (belongs to her)",
+   [
+    "her",
+    "she",
+    "she's",
+    "hers"
+   ],
+   3,
+   "'Hers' stands alone.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the possessive pronoun: 'The house is ___.' (belongs to us)",
+   [
+    "ours",
+    "our",
+    "us",
+    "we"
+   ],
+   0,
+   "'Ours' stands alone.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the possessive pronoun: 'Is this pen ___?' (belongs to you)",
+   [
+    "yours",
+    "your",
+    "you",
+    "you're"
+   ],
+   0,
+   "'Yours' stands alone.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the possessive pronoun: 'The toys are ___.' (belong to them)",
+   [
+    "theirs",
+    "their",
+    "them",
+    "they"
+   ],
+   0,
+   "'Theirs' stands alone.",
+   "g"
+  ],
+  [
+   8,
+   "Which word is a possessive pronoun?",
+   [
+    "he",
+    "him",
+    "himself is",
+    "his"
+   ],
+   3,
+   "'His' can stand alone: The pen is his.",
+   "g"
+  ],
+  [
+   8,
+   "Find the pronoun: 'Arif saves water because he cares.'",
+   [
+    "Arif",
+    "he",
+    "water",
+    "cares"
+   ],
+   1,
+   "'He' replaces Arif.",
+   "g"
+  ],
+  [
+   8,
+   "Find the pronoun: 'Turn off the tap when you brush.'",
+   [
+    "tap",
+    "turn",
+    "brush",
+    "you"
+   ],
+   3,
+   "'You' is a pronoun.",
+   "g"
+  ],
+  [
+   8,
+   "Which is the correct spelling?",
+   [
+    "electricity",
+    "electrisity",
+    "electrcity",
+    "elektricity"
+   ],
+   0,
+   "The correct spelling is e-l-e-c-t-r-i-c-i-t-y.",
+   "g"
+  ],
+  [
+   8,
+   "Which is the correct spelling?",
+   [
+    "resources",
+    "resorces",
+    "resourses",
+    "risources"
+   ],
+   0,
+   "The correct spelling is r-e-s-o-u-r-c-e-s.",
+   "g"
+  ],
+  [
+   8,
+   "Which is the correct spelling?",
+   [
+    "water",
+    "watter",
+    "woter",
+    "watar"
+   ],
+   0,
+   "The correct spelling is w-a-t-e-r.",
+   "g"
+  ],
+  [
+   8,
+   "How many syllables are in 'electricity'?",
+   [
+    "five",
+    "three",
+    "four",
+    "six"
+   ],
+   0,
+   "e-lec-tri-ci-ty has five syllables.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct sentence:",
+   [
+    "We should save water.",
+    "We should saves water.",
+    "We should saving water.",
+    "We should saved water."
+   ],
+   0,
+   "After 'should' we use the base form.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct sentence:",
+   [
+    "They are careful with paper.",
+    "They is careful with paper.",
+    "They am careful with paper.",
+    "They be careful with paper."
+   ],
+   0,
+   "'They' takes 'are'.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct sentence:",
+   [
+    "I am switching off the fan.",
+    "I is switching off the fan.",
+    "I are switching off the fan.",
+    "I be switching off the fan."
+   ],
+   0,
+   "'I' takes 'am'.",
+   "g"
+  ],
+  [
+   8,
+   "'Did' is used for:",
+   [
+    "future time",
+    "present time",
+    "past time",
+    "no time"
+   ],
+   2,
+   "Did is the past form of do.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct question: '___ you turn off the lights?'",
+   [
+    "Does",
+    "Is",
+    "Has",
+    "Did"
+   ],
+   3,
+   "'Did' asks about the past.",
+   "g"
+  ],
+  [
+   8,
+   "Which sentence describes a picture well?",
+   [
+    "Tap boy turning off.",
+    "A boy is turning off the tap.",
+    "Off tap the boy.",
+    "Boy the tap turn."
+   ],
+   1,
+   "A good sentence has a subject and a verb in order.",
+   "g"
+  ],
+  [
+   8,
+   "Choose the correct word: 'She ___ two pencils.'",
+   [
+    "have",
+    "haves",
+    "has",
+    "is have"
+   ],
+   2,
+   "'She' takes 'has'.",
+   "g"
+  ],
+  [
+   9,
+   "Tenses show us:",
+   [
+    "colour of a thing",
+    "number of things",
+    "place of a thing",
+    "time of an action"
+   ],
+   3,
+   "The tense of a verb tells when an action happens.",
+   "g"
+  ],
+  [
+   9,
+   "'I play cricket every day.' This sentence is in the:",
+   [
+    "past tense",
+    "present tense",
+    "future tense",
+    "no tense"
+   ],
+   1,
+   "'Play' shows a present habit.",
+   "g"
+  ],
+  [
+   9,
+   "'I played cricket yesterday.' This sentence is in the:",
+   [
+    "present tense",
+    "future tense",
+    "past tense",
+    "no tense"
+   ],
+   2,
+   "'Played' shows a past action.",
+   "g"
+  ],
+  [
+   9,
+   "'I will play cricket tomorrow.' This sentence is in the:",
+   [
+    "present tense",
+    "past tense",
+    "future tense",
+    "no tense"
+   ],
+   2,
+   "'Will play' shows the future.",
+   "g"
+  ],
+  [
+   9,
+   "The past tense of 'go' is:",
+   [
+    "goed",
+    "gone",
+    "going",
+    "went"
+   ],
+   3,
+   "Go → went (irregular).",
+   "g"
+  ],
+  [
+   9,
+   "The past tense of 'eat' is:",
+   [
+    "eated",
+    "eaten",
+    "eats",
+    "ate"
+   ],
+   3,
+   "Eat → ate.",
+   "g"
+  ],
+  [
+   9,
+   "The past tense of 'see' is:",
+   [
+    "seed",
+    "seen",
+    "saw",
+    "sees"
+   ],
+   2,
+   "See → saw.",
+   "g"
+  ],
+  [
+   9,
+   "The past tense of 'visit' is:",
+   [
+    "visited",
+    "visitted",
+    "visit",
+    "visits"
+   ],
+   0,
+   "Regular verbs add -ed.",
+   "g"
+  ],
+  [
+   9,
+   "The future form of 'celebrate' is:",
+   [
+    "will celebrate",
+    "celebrated",
+    "celebrates",
+    "celebrating"
+   ],
+   0,
+   "Future: will + base verb.",
+   "g"
+  ],
+  [
+   9,
+   "Choose the correct verb: 'Eid ___ next week.'",
+   [
+    "came",
+    "will come",
+    "comes yesterday",
+    "coming"
+   ],
+   1,
+   "'Next week' is future time.",
+   "g"
+  ],
+  [
+   9,
+   "Choose the correct verb: 'We ___ the mela last year.'",
+   [
+    "visit",
+    "will visit",
+    "visits",
+    "visited"
+   ],
+   3,
+   "'Last year' is past time.",
+   "g"
+  ],
+  [
+   9,
+   "Fill in the blank: 'The children ___ happy now.'",
+   [
+    "is",
+    "was",
+    "are",
+    "am"
+   ],
+   2,
+   "'Children' is plural and 'now' is present: are.",
+   "g"
+  ],
+  [
+   9,
+   "Fill in the blank: 'I ___ at the wedding last night.'",
+   [
+    "were",
+    "am",
+    "are",
+    "was"
+   ],
+   3,
+   "Past of 'am' is 'was'.",
+   "g"
+  ],
+  [
+   9,
+   "Fill in the blank: 'They ___ in Lahore last summer.'",
+   [
+    "was",
+    "are",
+    "is",
+    "were"
+   ],
+   3,
+   "Past of 'are' is 'were'.",
+   "g"
+  ],
+  [
+   9,
+   "Fill in the blank: 'My dress ___ beautiful.'",
+   [
+    "are",
+    "am",
+    "were",
+    "is"
+   ],
+   3,
+   "Singular noun, present: is.",
+   "g"
+  ],
+  [
+   9,
+   "Make a question: 'She is a doctor.' →",
+   [
+    "She is a doctor?",
+    "Is she a doctor?",
+    "Does she a doctor?",
+    "Is a doctor she?"
+   ],
+   1,
+   "Questions with 'be' put the verb first.",
+   "g"
+  ],
+  [
+   9,
+   "Make a question: 'They are ready.' →",
+   [
+    "They are ready?",
+    "Do they ready?",
+    "Ready are they?",
+    "Are they ready?"
+   ],
+   3,
+   "Put 'are' before the subject.",
+   "g"
+  ],
+  [
+   9,
+   "Make a question: 'He was at home.' →",
+   [
+    "Was he at home?",
+    "He was at home?",
+    "Did he at home?",
+    "Is he at home was?"
+   ],
+   0,
+   "Put 'was' before the subject.",
+   "g"
+  ],
+  [
+   9,
+   "Which word has a short 'a' sound?",
+   [
+    "hate",
+    "cake",
+    "rain",
+    "hat"
+   ],
+   3,
+   "In 'hat' the a is short.",
+   "g"
+  ],
+  [
+   9,
+   "Which word has a short 'i' sound?",
+   [
+    "pine",
+    "kite",
+    "pin",
+    "bike"
+   ],
+   2,
+   "In 'pin' the i is short.",
+   "g"
+  ],
+  [
+   9,
+   "Which word has a short 'u' sound?",
+   [
+    "cube",
+    "tune",
+    "use",
+    "sun"
+   ],
+   3,
+   "In 'sun' the u is short.",
+   "g"
+  ],
+  [
+   9,
+   "Expository writing:",
+   [
+    "tells a fairy tale",
+    "is only pictures",
+    "is a poem",
+    "explains and informs"
+   ],
+   3,
+   "Expository writing gives facts and explanations.",
+   "g"
+  ],
+  [
+   9,
+   "Which sentence is expository (gives information)?",
+   [
+    "Once upon a time a king lived.",
+    "Basant is a spring festival.",
+    "Oh, how lovely!",
+    "Close the door."
+   ],
+   1,
+   "It gives a fact.",
+   "g"
+  ],
+  [
+   9,
+   "Which is the correct spelling?",
+   [
+    "culture",
+    "cultur",
+    "kulture",
+    "culchure"
+   ],
+   0,
+   "The correct spelling is c-u-l-t-u-r-e.",
+   "g"
+  ],
+  [
+   9,
+   "Which is the correct spelling?",
+   [
+    "festival",
+    "festivel",
+    "festivle",
+    "festivall"
+   ],
+   0,
+   "The correct spelling is f-e-s-t-i-v-a-l.",
+   "g"
+  ],
+  [
+   9,
+   "Which word is a verb?",
+   [
+    "festival",
+    "colourful",
+    "Pakistan",
+    "celebrate"
+   ],
+   3,
+   "'Celebrate' is an action.",
+   "g"
+  ],
+  [
+   9,
+   "The past tense of 'wear' is:",
+   [
+    "weared",
+    "worn",
+    "wore",
+    "wears"
+   ],
+   2,
+   "Wear → wore.",
+   "g"
+  ],
+  [
+   9,
+   "Choose the future tense: 'We ___ wear new clothes on Eid.'",
+   [
+    "did",
+    "was",
+    "will",
+    "were"
+   ],
+   2,
+   "Will + verb for future.",
+   "g"
+  ],
+  [
+   9,
+   "Choose the correct sentence:",
+   [
+    "I am proud of my culture.",
+    "I is proud of my culture.",
+    "I are proud of my culture.",
+    "I be proud of my culture."
+   ],
+   0,
+   "'I' takes 'am'.",
+   "g"
+  ],
+  [
+   9,
+   "The past tense of 'make' is:",
+   [
+    "maked",
+    "made",
+    "makes",
+    "making"
+   ],
+   1,
+   "Make → made.",
+   "g"
+  ],
+  [
+   10,
+   "To show that something belongs to someone, we add:",
+   [
+    "only s",
+    "a comma",
+    "a full stop",
+    "apostrophe + s ('s)"
+   ],
+   3,
+   "Ali's bag = the bag of Ali.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the correct form: 'the bag of Sara'",
+   [
+    "Saras bag",
+    "Sara's bag",
+    "Sara bag's",
+    "Saras' bag"
+   ],
+   1,
+   "We write Sara's bag.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the correct form: 'the car of my father'",
+   [
+    "my fathers car",
+    "my father car's",
+    "my father's car",
+    "my fathers' car"
+   ],
+   2,
+   "Father's shows possession.",
+   "g"
+  ],
+  [
+   10,
+   "In 'Ali's kite', the apostrophe shows:",
+   [
+    "there are many Alis",
+    "the kite belongs to Ali",
+    "a missing word",
+    "a question"
+   ],
+   1,
+   "'s shows possession.",
+   "g"
+  ],
+  [
+   10,
+   "Words like in, on, under, out of are called:",
+   [
+    "verbs",
+    "nouns",
+    "adjectives",
+    "prepositions"
+   ],
+   3,
+   "Prepositions show the relationship of a noun to other words.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the preposition: 'The cat is ___ the table.' (below it)",
+   [
+    "under",
+    "on",
+    "in",
+    "out of"
+   ],
+   0,
+   "'Under' means below.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the preposition: 'The food is ___ the basket.'",
+   [
+    "on",
+    "under",
+    "out",
+    "in"
+   ],
+   3,
+   "Inside something: in.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the preposition: 'He took the ball ___ the box.'",
+   [
+    "out of",
+    "into",
+    "under",
+    "on"
+   ],
+   0,
+   "'Out of' shows moving from inside to outside.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the preposition: 'The book is ___ the table.' (on top)",
+   [
+    "under",
+    "on",
+    "in",
+    "out of"
+   ],
+   1,
+   "On top of: on.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the preposition: 'We sat ___ the tree.' (below)",
+   [
+    "in",
+    "under",
+    "of",
+    "at the top"
+   ],
+   1,
+   "We sit under a tree.",
+   "g"
+  ],
+  [
+   10,
+   "Which word is a preposition?",
+   [
+    "basket",
+    "happy",
+    "eat",
+    "between"
+   ],
+   3,
+   "'Between' is a preposition.",
+   "g"
+  ],
+  [
+   10,
+   "Two consonants blended so both sounds are heard, like 'gr' in 'grass', is a:",
+   [
+    "consonant blend",
+    "vowel",
+    "digraph only",
+    "syllable"
+   ],
+   0,
+   "In a blend we hear both sounds.",
+   "g"
+  ],
+  [
+   10,
+   "Which word has a consonant blend?",
+   [
+    "cat",
+    "sun",
+    "mat",
+    "grass"
+   ],
+   3,
+   "g + r in 'grass'.",
+   "g"
+  ],
+  [
+   10,
+   "Which word begins with the blend 'tr'?",
+   [
+    "tea",
+    "tie",
+    "toe",
+    "tree"
+   ],
+   3,
+   "'Tree' begins with t + r.",
+   "g"
+  ],
+  [
+   10,
+   "Which word begins with the blend 'fl'?",
+   [
+    "fan",
+    "flag",
+    "fig",
+    "fun"
+   ],
+   1,
+   "'Flag' begins with f + l.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the correct word: 'I ___ climb the tree.' (ability)",
+   [
+    "cannot",
+    "cans",
+    "could not ever",
+    "can"
+   ],
+   3,
+   "'Can' shows ability.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the correct word: 'A fish ___ walk.'",
+   [
+    "can",
+    "cans",
+    "is can",
+    "cannot"
+   ],
+   3,
+   "A fish is not able to walk.",
+   "g"
+  ],
+  [
+   10,
+   "The contraction of 'we are' is:",
+   [
+    "were",
+    "we're",
+    "we'are",
+    "wer'e"
+   ],
+   1,
+   "We are → we're.",
+   "g"
+  ],
+  [
+   10,
+   "The contraction of 'let us' is:",
+   [
+    "let's",
+    "lets",
+    "let'us",
+    "le'ts"
+   ],
+   0,
+   "Let us → let's.",
+   "g"
+  ],
+  [
+   10,
+   "The contraction of 'it is' is:",
+   [
+    "its",
+    "it'is",
+    "i'ts",
+    "it's"
+   ],
+   3,
+   "It is → it's.",
+   "g"
+  ],
+  [
+   10,
+   "A dictionary lists words in:",
    [
     "alphabetical order",
-    "order of length",
+    "order of size",
     "random order",
     "order of colour"
    ],
    0,
-   "A dictionary is always in alphabetical order."
+   "Words in a dictionary are in a-z order.",
+   "g"
+  ],
+  [
+   10,
+   "In a dictionary, which comes first?",
+   [
+    "basket",
+    "bread",
+    "bus",
+    "blanket"
+   ],
+   0,
+   "ba- comes before bl-, br- and bu-.",
+   "g"
+  ],
+  [
+   10,
+   "How many syllables are in 'picnic'?",
+   [
+    "two",
+    "one",
+    "three",
+    "four"
+   ],
+   0,
+   "pic-nic has two syllables.",
+   "g"
+  ],
+  [
+   10,
+   "How many syllables are in 'sandwich'?",
+   [
+    "three",
+    "two",
+    "one",
+    "four"
+   ],
+   1,
+   "sand-wich has two syllables.",
+   "g"
+  ],
+  [
+   10,
+   "Which is the correct spelling?",
+   [
+    "picnic",
+    "picnik",
+    "pikneek",
+    "picknic"
+   ],
+   0,
+   "The correct spelling is p-i-c-n-i-c.",
+   "g"
+  ],
+  [
+   10,
+   "Which is the correct spelling?",
+   [
+    "basket",
+    "baskit",
+    "baskett",
+    "basket's"
+   ],
+   0,
+   "The correct spelling is b-a-s-k-e-t.",
+   "g"
+  ],
+  [
+   10,
+   "A compass rose on a map shows:",
+   [
+    "colours",
+    "directions",
+    "time",
+    "weather"
+   ],
+   1,
+   "The compass rose shows north, south, east and west.",
+   "g"
+  ],
+  [
+   10,
+   "The opposite direction of north is:",
+   [
+    "east",
+    "west",
+    "up",
+    "south"
+   ],
+   3,
+   "North ↔ south.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the correct sentence:",
+   [
+    "We went to the park with our family.",
+    "We went to the park with ours family.",
+    "We went to the park with us family.",
+    "We goes to the park with our family."
+   ],
+   0,
+   "'Our family' and 'went' are correct.",
+   "g"
+  ],
+  [
+   10,
+   "Choose the correct possessive: 'The toys of the children'",
+   [
+    "the childrens toys",
+    "the childrens' toys",
+    "the children toys",
+    "the children's toys"
+   ],
+   3,
+   "Children's = belonging to the children.",
+   "g"
   ],
   [
    11,
-   "Fill in: 'Wash your hands ___ eating food.'",
+   "Every syllable has at least one:",
    [
-    "before",
-    "under",
-    "over",
-    "between"
+    "capital letter",
+    "full stop",
+    "comma",
+    "vowel sound"
+   ],
+   3,
+   "Each syllable must have a vowel sound.",
+   "g"
+  ],
+  [
+   11,
+   "How many syllables are in 'healthy'?",
+   [
+    "one",
+    "two",
+    "three",
+    "four"
+   ],
+   1,
+   "health-y has two syllables.",
+   "g"
+  ],
+  [
+   11,
+   "How many syllables are in 'vegetable'?",
+   [
+    "four",
+    "two",
+    "three",
+    "five"
    ],
    0,
-   "We wash our hands before eating to keep germs away."
+   "veg-e-ta-ble has four syllables.",
+   "g"
+  ],
+  [
+   11,
+   "How many syllables are in 'exercise'?",
+   [
+    "three",
+    "two",
+    "four",
+    "one"
+   ],
+   0,
+   "ex-er-cise has three syllables.",
+   "g"
+  ],
+  [
+   11,
+   "A dictionary is a book that has a list of words in:",
+   [
+    "story order",
+    "number order",
+    "picture order",
+    "alphabetical order"
+   ],
+   3,
+   "Dictionary words are arranged alphabetically.",
+   "g"
+  ],
+  [
+   11,
+   "Put in alphabetical order and choose the first: milk, egg, fruit, bread",
+   [
+    "bread",
+    "egg",
+    "fruit",
+    "milk"
+   ],
+   0,
+   "b comes before e, f, m.",
+   "g"
+  ],
+  [
+   11,
+   "Put in alphabetical order and choose the last: sleep, run, walk, play",
+   [
+    "walk",
+    "sleep",
+    "run",
+    "play"
+   ],
+   0,
+   "w comes last.",
+   "g"
+  ],
+  [
+   11,
+   "Which word comes first: soap, salt, sugar, sleep?",
+   [
+    "salt",
+    "soap",
+    "sugar",
+    "sleep"
+   ],
+   0,
+   "sa- comes before sl-, so- and su-.",
+   "g"
+  ],
+  [
+   11,
+   "In 'wanted', the -ed sounds like:",
+   [
+    "t",
+    "d",
+    "id",
+    "ed is silent"
+   ],
+   2,
+   "After t or d, -ed sounds like 'id'.",
+   "g"
+  ],
+  [
+   11,
+   "In 'asked', the -ed sounds like:",
+   [
+    "id",
+    "t",
+    "d",
+    "it is silent"
+   ],
+   1,
+   "After k, s, p, sh, ch sounds, -ed sounds like 't'.",
+   "g"
+  ],
+  [
+   11,
+   "In 'called', the -ed sounds like:",
+   [
+    "t",
+    "d",
+    "id",
+    "it is silent"
+   ],
+   1,
+   "After most voiced sounds, -ed sounds like 'd'.",
+   "g"
+  ],
+  [
+   11,
+   "In 'needed', the -ed sounds like:",
+   [
+    "t",
+    "d",
+    "ed is silent",
+    "id"
+   ],
+   3,
+   "After d, -ed sounds like 'id'.",
+   "g"
+  ],
+  [
+   11,
+   "In 'missed', the -ed sounds like:",
+   [
+    "t",
+    "d",
+    "id",
+    "it is silent"
+   ],
+   0,
+   "After s, -ed sounds like 't'.",
+   "g"
+  ],
+  [
+   11,
+   "The past tense of 'wash' is:",
+   [
+    "washt",
+    "washes",
+    "washing",
+    "washed"
+   ],
+   3,
+   "Wash → washed.",
+   "g"
+  ],
+  [
+   11,
+   "The past tense of 'brush' is:",
+   [
+    "brusht",
+    "brushes",
+    "brushed",
+    "brushing"
+   ],
+   2,
+   "Brush → brushed.",
+   "g"
+  ],
+  [
+   11,
+   "Which sentence is a command?",
+   [
+    "I wash my hands.",
+    "Wash your hands.",
+    "Do you wash your hands?",
+    "He washed his hands."
+   ],
+   1,
+   "A command tells someone to do something.",
+   "g"
+  ],
+  [
+   11,
+   "Which sentence is a command?",
+   [
+    "She eats fruit.",
+    "Eat fresh fruit.",
+    "Fruit is fresh.",
+    "Is the fruit fresh?"
+   ],
+   1,
+   "Commands start with a verb.",
+   "g"
+  ],
+  [
+   11,
+   "Choose the correct command:",
+   [
+    "Drink clean water.",
+    "Drinks clean water.",
+    "Drinking clean water.",
+    "Drank clean water."
+   ],
+   0,
+   "Commands use the base verb.",
+   "g"
+  ],
+  [
+   11,
+   "Which is the correct spelling?",
+   [
+    "healthy",
+    "helthy",
+    "healty",
+    "healthey"
+   ],
+   0,
+   "The correct spelling is h-e-a-l-t-h-y.",
+   "g"
+  ],
+  [
+   11,
+   "Which is the correct spelling?",
+   [
+    "exercise",
+    "exersise",
+    "excercise",
+    "exercize"
+   ],
+   0,
+   "The correct spelling is e-x-e-r-c-i-s-e.",
+   "g"
+  ],
+  [
+   11,
+   "Which is a healthy habit?",
+   [
+    "eating too many sweets",
+    "sleeping very late",
+    "not washing hands",
+    "brushing teeth twice a day"
+   ],
+   3,
+   "Brushing teeth twice a day keeps teeth healthy.",
+   "g"
+  ],
+  [
+   11,
+   "Which noun is uncountable?",
+   [
+    "apple",
+    "banana",
+    "egg",
+    "water"
+   ],
+   3,
+   "Water cannot be counted.",
+   "g"
+  ],
+  [
+   11,
+   "Which noun is countable?",
+   [
+    "milk",
+    "juice",
+    "rice",
+    "orange"
+   ],
+   3,
+   "We can count oranges.",
+   "g"
+  ],
+  [
+   11,
+   "The opposite of 'healthy' is:",
+   [
+    "unhealthy",
+    "happy",
+    "clean",
+    "strong"
+   ],
+   0,
+   "Healthy ↔ unhealthy.",
+   "g"
+  ],
+  [
+   11,
+   "The opposite of 'clean' is:",
+   [
+    "dirty",
+    "neat",
+    "tidy",
+    "fresh"
+   ],
+   0,
+   "Clean ↔ dirty.",
+   "g"
+  ],
+  [
+   11,
+   "A poem's words at the ends of lines that sound alike are called:",
+   [
+    "plurals",
+    "verbs",
+    "articles",
+    "rhyming words"
+   ],
+   3,
+   "e.g. day – play.",
+   "g"
+  ],
+  [
+   11,
+   "Which pair of words rhyme?",
+   [
+    "bed – bad",
+    "bed – red",
+    "sun – sat",
+    "cup – cap"
+   ],
+   1,
+   "Bed and red rhyme.",
+   "g"
+  ],
+  [
+   11,
+   "Which pair of words rhyme?",
+   [
+    "eat – ate",
+    "eat – meat",
+    "eat – egg",
+    "eat – each"
+   ],
+   1,
+   "Eat and meat rhyme.",
+   "g"
+  ],
+  [
+   11,
+   "Choose the correct sentence:",
+   [
+    "He washes his face every morning.",
+    "He wash his face every morning.",
+    "He washing his face every morning.",
+    "He washs his face every morning."
+   ],
+   0,
+   "He + washes.",
+   "g"
+  ],
+  [
+   11,
+   "Choose the correct sentence:",
+   [
+    "You should sleep early.",
+    "You should sleeps early.",
+    "You should sleeping early.",
+    "You should slept early."
+   ],
+   0,
+   "Should + base verb.",
+   "g"
   ]
  ]
 }
