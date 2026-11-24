@@ -1,0 +1,1442 @@
+[
+[
+1,
+"If U = {1,…,6}, A = {1, 2, 3}, then A′ =",
+[
+"{1, 2, 3}",
+"{}",
+"{1,…,6}",
+"{4, 5, 6}"
+],
+3,
+"Complement."
+],
+[
+1,
+"(A ∪ B)′ =",
+[
+"A′ ∪ B′",
+"A ∩ B",
+"A ∪ B",
+"A′ ∩ B′"
+],
+3,
+"De Morgan's law."
+],
+[
+1,
+"(A ∩ B)′ =",
+[
+"A′ ∩ B′",
+"A ∪ B",
+"A ∩ B",
+"A′ ∪ B′"
+],
+3,
+"De Morgan's law."
+],
+[
+1,
+"A ∪ B = B ∪ A is the ___ property.",
+[
+"Associative",
+"Commutative",
+"Distributive",
+"Identity"
+],
+1,
+"Order."
+],
+[
+1,
+"A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) is the ___ property.",
+[
+"Distributive",
+"Commutative",
+"Associative",
+"De Morgan's"
+],
+0,
+"Distributive."
+],
+[
+1,
+"A − B is the set of elements in A but:",
+[
+"In B",
+"In both",
+"Not in B",
+"In U only"
+],
+2,
+"Difference."
+],
+[
+1,
+"If A ⊆ B, then A ∪ B =",
+[
+"A",
+"∅",
+"B",
+"U"
+],
+2,
+"B contains A."
+],
+[
+1,
+"If A ⊆ B, then A ∩ B =",
+[
+"B",
+"∅",
+"A",
+"U"
+],
+2,
+"A is inside B."
+],
+[
+1,
+"The number of elements in the power set of a set with 3 elements is:",
+[
+"3",
+"6",
+"9",
+"8"
+],
+3,
+"2³."
+],
+[
+1,
+"Sets A and B are disjoint if A ∩ B =",
+[
+"∅",
+"A",
+"B",
+"U"
+],
+0,
+"No common elements."
+],
+[
+2,
+"Which is an irrational number?",
+[
+"√7",
+"√9",
+"0.25",
+"4/5"
+],
+0,
+"Non-terminating, non-repeating."
+],
+[
+2,
+"Real numbers consist of:",
+[
+"Only integers",
+"Only fractions",
+"Rational and irrational numbers",
+"Only natural numbers"
+],
+2,
+"Real numbers."
+],
+[
+2,
+"√2 + √2 =",
+[
+"√4",
+"2√2",
+"4",
+"2"
+],
+1,
+"Like surds."
+],
+[
+2,
+"√3 × √3 =",
+[
+"√6",
+"3",
+"9",
+"6"
+],
+1,
+"√9 = 3."
+],
+[
+2,
+"√50 in simplest form is:",
+[
+"25√2",
+"2√5",
+"10√5",
+"5√2"
+],
+3,
+"√(25 × 2)."
+],
+[
+2,
+"π is approximately:",
+[
+"3.1614",
+"3.1416",
+"3.4116",
+"2.1416"
+],
+1,
+"Value of π."
+],
+[
+2,
+"Every integer is a:",
+[
+"Irrational number",
+"Rational number",
+"Natural number",
+"Prime number"
+],
+1,
+"n = n/1."
+],
+[
+2,
+"0.1010010001… is:",
+[
+"Rational",
+"Terminating",
+"Irrational",
+"Recurring"
+],
+2,
+"Non-repeating pattern."
+],
+[
+2,
+"√(16) + √(9) =",
+[
+"5",
+"25",
+"√25",
+"7"
+],
+3,
+"4 + 3."
+],
+[
+2,
+"Which lies between 1 and 2?",
+[
+"√5",
+"√1",
+"√3",
+"√9"
+],
+2,
+"√3 ≈ 1.73."
+],
+[
+3,
+"The binary number system has base:",
+[
+"10",
+"2",
+"8",
+"16"
+],
+1,
+"Binary."
+],
+[
+3,
+"The decimal number system has base:",
+[
+"2",
+"8",
+"5",
+"10"
+],
+3,
+"Decimal."
+],
+[
+3,
+"(101)₂ in decimal is:",
+[
+"3",
+"5",
+"6",
+"101"
+],
+1,
+"4 + 0 + 1."
+],
+[
+3,
+"(1010)₂ in decimal is:",
+[
+"12",
+"8",
+"1010",
+"10"
+],
+3,
+"8 + 2."
+],
+[
+3,
+"7 in binary is:",
+[
+"111",
+"101",
+"110",
+"1001"
+],
+0,
+"4 + 2 + 1."
+],
+[
+3,
+"The digits used in base 5 are:",
+[
+"1, 2, 3, 4, 5",
+"0, 1, 2, 3, 4",
+"0 to 9",
+"0 and 1"
+],
+1,
+"Base 5."
+],
+[
+3,
+"(11)₂ + (1)₂ =",
+[
+"(12)₂",
+"(111)₂",
+"(10)₂",
+"(100)₂"
+],
+3,
+"3 + 1 = 4."
+],
+[
+3,
+"The octal system has base:",
+[
+"6",
+"10",
+"16",
+"8"
+],
+3,
+"Octal."
+],
+[
+3,
+"(23)₅ in decimal is:",
+[
+"13",
+"23",
+"10",
+"15"
+],
+0,
+"2×5 + 3."
+],
+[
+3,
+"Computers mainly use the ___ system.",
+[
+"Binary",
+"Decimal",
+"Octal",
+"Roman"
+],
+0,
+"0 and 1."
+],
+[
+4,
+"Compound interest is calculated on:",
+[
+"Principal only",
+"Principal plus accumulated interest",
+"Interest only",
+"Discount"
+],
+1,
+"Compound."
+],
+[
+4,
+"Rs. 1,000 at 10% compound interest for 1 year amounts to:",
+[
+"Rs. 1,010",
+"Rs. 1,210",
+"Rs. 1,100",
+"Rs. 1,000"
+],
+2,
+"Same as SI for 1 year."
+],
+[
+4,
+"Rs. 1,000 at 10% compound interest for 2 years amounts to:",
+[
+"Rs. 1,200",
+"Rs. 1,100",
+"Rs. 1,020",
+"Rs. 1,210"
+],
+3,
+"1000 × 1.1²."
+],
+[
+4,
+"Ushr is paid on:",
+[
+"Savings",
+"Salaries",
+"Agricultural produce",
+"Gold only"
+],
+2,
+"Ushr."
+],
+[
+4,
+"Insurance is a protection against:",
+[
+"Financial loss",
+"Profit",
+"Interest",
+"Tax"
+],
+0,
+"Insurance."
+],
+[
+4,
+"Rs. 5,000 at 8% SI for 2 years earns:",
+[
+"Rs. 400",
+"Rs. 5,800",
+"Rs. 1,600",
+"Rs. 800"
+],
+3,
+"5000 × 8 × 2 / 100."
+],
+[
+4,
+"A loan taken from a bank must be returned with:",
+[
+"Discount",
+"Interest (markup)",
+"Profit only",
+"Nothing extra"
+],
+1,
+"Loan."
+],
+[
+4,
+"Depreciation means:",
+[
+"Increase in value",
+"Profit",
+"Interest",
+"Decrease in value with time"
+],
+3,
+"Depreciation."
+],
+[
+4,
+"A machine worth Rs. 10,000 depreciates 10% in one year. Its value becomes:",
+[
+"Rs. 11,000",
+"Rs. 9,000",
+"Rs. 1,000",
+"Rs. 9,900"
+],
+1,
+"10000 − 1000."
+],
+[
+4,
+"Zakat is paid at the rate of:",
+[
+"10%",
+"2.5%",
+"5%",
+"20%"
+],
+1,
+"Zakat."
+],
+[
+5,
+"The degree of the polynomial 2x⁴ − x + 3 is:",
+[
+"4",
+"1",
+"3",
+"2"
+],
+0,
+"Highest power."
+],
+[
+5,
+"(x + 5)(x − 2) =",
+[
+"x² − 3x − 10",
+"x² + 3x + 10",
+"x² − 10",
+"x² + 3x − 10"
+],
+3,
+"Multiply."
+],
+[
+5,
+"(2x + 1)² =",
+[
+"4x² + 1",
+"2x² + 4x + 1",
+"4x² + 2x + 1",
+"4x² + 4x + 1"
+],
+3,
+"Identity."
+],
+[
+5,
+"(x³ + 2x) ÷ x =",
+[
+"x² + 2x",
+"x³ + 2",
+"x² + 2",
+"x + 2"
+],
+2,
+"Divide each term."
+],
+[
+5,
+"The value of x² + 2x + 1 at x = 2 is:",
+[
+"9",
+"7",
+"5",
+"8"
+],
+0,
+"4 + 4 + 1."
+],
+[
+5,
+"A polynomial with degree 2 is called:",
+[
+"Quadratic",
+"Linear",
+"Cubic",
+"Constant"
+],
+0,
+"Quadratic."
+],
+[
+5,
+"A polynomial with degree 3 is called:",
+[
+"Quadratic",
+"Linear",
+"Quartic",
+"Cubic"
+],
+3,
+"Cubic."
+],
+[
+5,
+"(a + b)(a² − ab + b²) =",
+[
+"a³ − b³",
+"(a + b)³",
+"a³ + b³",
+"a² + b²"
+],
+2,
+"Sum of cubes."
+],
+[
+5,
+"If x + y = 5 and xy = 6, then x² + y² =",
+[
+"25",
+"19",
+"13",
+"31"
+],
+2,
+"25 − 12."
+],
+[
+5,
+"The leading coefficient of 3x³ + 2x² − x is:",
+[
+"3",
+"2",
+"−1",
+"1"
+],
+0,
+"Coefficient of highest power."
+],
+[
+6,
+"Factorise: x² + 8x + 15",
+[
+"(x + 3)(x + 5)",
+"(x + 1)(x + 15)",
+"(x − 3)(x − 5)",
+"(x + 8)(x + 1)"
+],
+0,
+"3 × 5 = 15."
+],
+[
+6,
+"Factorise: x² − 1",
+[
+"(x − 1)²",
+"(x + 1)(x − 1)",
+"(x + 1)²",
+"x(x − 1)"
+],
+1,
+"Difference of squares."
+],
+[
+6,
+"Factorise: 6x² + 3x",
+[
+"3(2x² + x)",
+"3x(2x + 1)",
+"x(6x + 3)",
+"6x(x + 3)"
+],
+1,
+"Highest common factor 3x."
+],
+[
+6,
+"Solve simultaneously: x + y = 10, x − y = 4.",
+[
+"x = 3, y = 7",
+"x = 6, y = 4",
+"x = 7, y = 3",
+"x = 5, y = 5"
+],
+2,
+"Add: 2x = 14."
+],
+[
+6,
+"Solve: 2x + y = 7, x + y = 4.",
+[
+"x = 1, y = 3",
+"x = 3, y = 1",
+"x = 2, y = 3",
+"x = 4, y = 0"
+],
+1,
+"Subtract: x = 3."
+],
+[
+6,
+"Factorise: a² + 2ab + b²",
+[
+"(a + b)²",
+"(a − b)²",
+"(a + b)(a − b)",
+"a(a + 2b)"
+],
+0,
+"Perfect square."
+],
+[
+6,
+"Factorise: x² − 5x + 6",
+[
+"(x + 2)(x + 3)",
+"(x − 1)(x − 6)",
+"(x − 2)(x − 3)",
+"(x + 1)(x − 6)"
+],
+2,
+"−2 × −3 = 6."
+],
+[
+6,
+"Simultaneous linear equations in two variables usually have:",
+[
+"No solution always",
+"Infinite always",
+"One solution (x, y)",
+"Two solutions"
+],
+2,
+"Intersection of two lines."
+],
+[
+6,
+"Factorise: 4a² − 9b²",
+[
+"(4a − 9b)²",
+"(2a + 3b)(2a − 3b)",
+"(2a − 3b)²",
+"(4a + 9b)(a − b)"
+],
+1,
+"Difference of squares."
+],
+[
+6,
+"Solve: x + 2y = 8, x = 2.",
+[
+"y = 4",
+"y = 2",
+"y = 3",
+"y = 6"
+],
+2,
+"2 + 2y = 8."
+],
+[
+7,
+"An angle bisector divides an angle into:",
+[
+"Two right angles",
+"Two equal angles",
+"Three parts",
+"Unequal parts"
+],
+1,
+"Bisector."
+],
+[
+7,
+"The sum of interior angles of a pentagon is:",
+[
+"360°",
+"720°",
+"540°",
+"180°"
+],
+2,
+"(5 − 2) × 180."
+],
+[
+7,
+"Each exterior angle of a regular hexagon is:",
+[
+"120°",
+"90°",
+"45°",
+"60°"
+],
+3,
+"360 ÷ 6."
+],
+[
+7,
+"A triangle with two equal sides is:",
+[
+"Scalene",
+"Equilateral",
+"Right",
+"Isosceles"
+],
+3,
+"Isosceles."
+],
+[
+7,
+"Alternate interior angles formed by a transversal on parallel lines are:",
+[
+"Equal",
+"Supplementary",
+"Complementary",
+"Unequal"
+],
+0,
+"Property."
+],
+[
+7,
+"The sum of interior angles of a hexagon is:",
+[
+"540°",
+"720°",
+"360°",
+"900°"
+],
+1,
+"(6 − 2) × 180."
+],
+[
+7,
+"A polygon with all sides and angles equal is called:",
+[
+"Regular polygon",
+"Irregular polygon",
+"Triangle",
+"Trapezium"
+],
+0,
+"Regular."
+],
+[
+7,
+"The number of diagonals of a quadrilateral is:",
+[
+"4",
+"1",
+"2",
+"3"
+],
+2,
+"Two diagonals."
+],
+[
+7,
+"Each interior angle of a regular pentagon is:",
+[
+"108°",
+"120°",
+"90°",
+"72°"
+],
+0,
+"540 ÷ 5."
+],
+[
+7,
+"A point where two sides of a polygon meet is called a:",
+[
+"Vertex",
+"Edge",
+"Diagonal",
+"Face"
+],
+0,
+"Vertex."
+],
+[
+8,
+"To construct a quadrilateral we need ___ independent measurements.",
+[
+"Three",
+"Four",
+"Six",
+"Five"
+],
+3,
+"Five."
+],
+[
+8,
+"To construct a parallelogram we need its two adjacent sides and the:",
+[
+"Included angle",
+"Perimeter",
+"Area",
+"Diagonal only"
+],
+0,
+"SAS for parallelogram."
+],
+[
+8,
+"A rectangle can be constructed if we know its:",
+[
+"Length and breadth",
+"Area only",
+"Perimeter only",
+"Diagonal only"
+],
+0,
+"Two sides."
+],
+[
+8,
+"A square can be constructed if we know its:",
+[
+"Side",
+"Area and perimeter both",
+"Angle only",
+"Nothing"
+],
+0,
+"One side is enough."
+],
+[
+8,
+"In a rhombus, all sides are:",
+[
+"Unequal",
+"Parallel only",
+"Perpendicular",
+"Equal"
+],
+3,
+"Rhombus."
+],
+[
+8,
+"A trapezium has ___ pair(s) of parallel sides.",
+[
+"Two",
+"No",
+"Three",
+"One"
+],
+3,
+"Trapezium."
+],
+[
+8,
+"A kite has ___ pairs of equal adjacent sides.",
+[
+"One",
+"Two",
+"Three",
+"No"
+],
+1,
+"Kite."
+],
+[
+8,
+"The diagonals of a rhombus bisect each other at:",
+[
+"90°",
+"60°",
+"45°",
+"180°"
+],
+0,
+"Perpendicular."
+],
+[
+8,
+"A parallelogram with one right angle is a:",
+[
+"Rhombus",
+"Kite",
+"Trapezium",
+"Rectangle"
+],
+3,
+"Rectangle."
+],
+[
+8,
+"The opposite sides of a rectangle are:",
+[
+"Equal and parallel",
+"Unequal",
+"Perpendicular",
+"Curved"
+],
+0,
+"Rectangle."
+],
+[
+9,
+"Area of a trapezium with parallel sides 6 cm and 10 cm and height 4 cm is:",
+[
+"64 cm²",
+"40 cm²",
+"32 cm²",
+"24 cm²"
+],
+2,
+"½ × 16 × 4."
+],
+[
+9,
+"Area of a parallelogram with base 12 cm and height 5 cm is:",
+[
+"60 cm²",
+"30 cm²",
+"17 cm²",
+"120 cm²"
+],
+0,
+"12 × 5."
+],
+[
+9,
+"Volume of a cuboid 10 × 4 × 3 cm is:",
+[
+"17 cm³",
+"60 cm³",
+"120 cm³",
+"40 cm³"
+],
+2,
+"10 × 4 × 3."
+],
+[
+9,
+"Surface area of a cuboid =",
+[
+"lbh",
+"l + b + h",
+"6l²",
+"2(lb + bh + hl)"
+],
+3,
+"Six faces."
+],
+[
+9,
+"Area of a rhombus with diagonals 8 cm and 6 cm is:",
+[
+"48 cm²",
+"14 cm²",
+"12 cm²",
+"24 cm²"
+],
+3,
+"½ × 8 × 6."
+],
+[
+9,
+"Volume of a cylinder =",
+[
+"πr²h",
+"2πrh",
+"πrh",
+"2πr²"
+],
+0,
+"Formula."
+],
+[
+9,
+"Curved surface area of a cylinder =",
+[
+"πr²h",
+"2πr²",
+"πrh",
+"2πrh"
+],
+3,
+"Formula."
+],
+[
+9,
+"Hero's formula is used to find the area of a:",
+[
+"Circle",
+"Rectangle",
+"Triangle",
+"Cylinder"
+],
+2,
+"√(s(s − a)(s − b)(s − c))."
+],
+[
+9,
+"Area of a triangle with sides 3, 4, 5 is:",
+[
+"12 cm²",
+"6 cm²",
+"7.5 cm²",
+"10 cm²"
+],
+1,
+"½ × 3 × 4."
+],
+[
+9,
+"1 m² equals:",
+[
+"100 cm²",
+"1,000 cm²",
+"100,000 cm²",
+"10,000 cm²"
+],
+3,
+"100 × 100."
+],
+[
+10,
+"A statement accepted without proof is called an:",
+[
+"Axiom",
+"Theorem",
+"Corollary",
+"Hypothesis"
+],
+0,
+"Axiom."
+],
+[
+10,
+"A statement that is proved logically is called a:",
+[
+"Axiom",
+"Postulate",
+"Definition",
+"Theorem"
+],
+3,
+"Theorem."
+],
+[
+10,
+"A result that follows directly from a theorem is a:",
+[
+"Axiom",
+"Corollary",
+"Hypothesis",
+"Converse"
+],
+1,
+"Corollary."
+],
+[
+10,
+"In a theorem, the given information is called the:",
+[
+"Conclusion",
+"Proof",
+"Hypothesis",
+"Corollary"
+],
+2,
+"Given."
+],
+[
+10,
+"What is to be proved in a theorem is called the:",
+[
+"Hypothesis",
+"Axiom",
+"Conclusion",
+"Figure"
+],
+2,
+"To prove."
+],
+[
+10,
+"The converse of a theorem is obtained by interchanging its:",
+[
+"Figure and proof",
+"Axioms",
+"Hypothesis and conclusion",
+"Definitions"
+],
+2,
+"Converse."
+],
+[
+10,
+"Through two distinct points, the number of lines that can pass is:",
+[
+"Two",
+"One",
+"Infinite",
+"None"
+],
+1,
+"Axiom."
+],
+[
+10,
+"Demonstrative geometry proves results by:",
+[
+"Measurement only",
+"Logical reasoning",
+"Guessing",
+"Drawing only"
+],
+1,
+"Deductive proof."
+],
+[
+10,
+"If two lines intersect, vertically opposite angles are:",
+[
+"Supplementary",
+"Complementary",
+"Right angles",
+"Equal"
+],
+3,
+"Theorem."
+],
+[
+10,
+"The angles opposite to equal sides of an isosceles triangle are:",
+[
+"Supplementary",
+"Equal",
+"Unequal",
+"90°"
+],
+1,
+"Theorem."
+],
+[
+11,
+"In a right triangle, sin θ =",
+[
+"Base / Hypotenuse",
+"Perpendicular / Hypotenuse",
+"Perpendicular / Base",
+"Hypotenuse / Base"
+],
+1,
+"Definition."
+],
+[
+11,
+"In a right triangle, cos θ =",
+[
+"Base / Hypotenuse",
+"Perpendicular / Hypotenuse",
+"Perpendicular / Base",
+"Hypotenuse / Perpendicular"
+],
+0,
+"Definition."
+],
+[
+11,
+"In a right triangle, tan θ =",
+[
+"Base / Perpendicular",
+"Base / Hypotenuse",
+"Perpendicular / Base",
+"Hypotenuse / Base"
+],
+2,
+"Definition."
+],
+[
+11,
+"sin 30° =",
+[
+"√3/2",
+"1",
+"0",
+"1/2"
+],
+3,
+"Standard value."
+],
+[
+11,
+"cos 0° =",
+[
+"0",
+"1/2",
+"√3/2",
+"1"
+],
+3,
+"Standard value."
+],
+[
+11,
+"tan 45° =",
+[
+"1",
+"0",
+"√3",
+"1/√3"
+],
+0,
+"Standard value."
+],
+[
+11,
+"sin 60° =",
+[
+"1/2",
+"1",
+"√3/2",
+"√2/2"
+],
+2,
+"Standard value."
+],
+[
+11,
+"If sin θ = 3/5, then cos θ (θ acute) =",
+[
+"3/4",
+"4/5",
+"5/3",
+"5/4"
+],
+1,
+"3-4-5 triangle."
+],
+[
+11,
+"sin² θ + cos² θ =",
+[
+"1",
+"0",
+"2",
+"tan θ"
+],
+0,
+"Identity."
+],
+[
+11,
+"Trigonometry deals with the relationship between sides and ___ of triangles.",
+[
+"Areas",
+"Perimeters",
+"Volumes",
+"Angles"
+],
+3,
+"Trigonometry."
+],
+[
+12,
+"The mean of 2, 4, 6, 8, 10 is:",
+[
+"5",
+"30",
+"8",
+"6"
+],
+3,
+"30 ÷ 5."
+],
+[
+12,
+"The median of 3, 8, 5, 9, 1 is:",
+[
+"5",
+"8",
+"9",
+"3"
+],
+0,
+"Sort: 1, 3, 5, 8, 9."
+],
+[
+12,
+"In a frequency distribution, the class with the highest frequency is the:",
+[
+"Modal class",
+"Median class",
+"Mean class",
+"Range"
+],
+0,
+"Modal class."
+],
+[
+12,
+"The mid-point of class 30–40 is:",
+[
+"30",
+"40",
+"35",
+"70"
+],
+2,
+"(30 + 40)/2."
+],
+[
+12,
+"The sum of frequencies equals the:",
+[
+"Total number of observations",
+"Mean",
+"Range",
+"Mode"
+],
+0,
+"Σf = n."
+],
+[
+12,
+"A cumulative frequency table shows:",
+[
+"Running totals of frequencies",
+"Only mean",
+"Only mode",
+"Angles"
+],
+0,
+"Cumulative frequency."
+],
+[
+12,
+"A frequency polygon is drawn by joining:",
+[
+"Corners of bars",
+"Random points",
+"Mid-points of the tops of histogram bars",
+"Class limits"
+],
+2,
+"Frequency polygon."
+],
+[
+12,
+"The mean of 4 numbers is 10. Their sum is:",
+[
+"14",
+"40",
+"2.5",
+"10"
+],
+1,
+"4 × 10."
+],
+[
+12,
+"If each value in a data set is increased by 2, the mean:",
+[
+"Stays same",
+"Doubles",
+"Increases by 2",
+"Decreases by 2"
+],
+2,
+"Shift property."
+],
+[
+12,
+"Weighted mean is used when values have different:",
+[
+"Colours",
+"Importance (weights)",
+"Names",
+"Units only"
+],
+1,
+"Weighted mean."
+]
+]

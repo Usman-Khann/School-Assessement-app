@@ -1,0 +1,365 @@
+#g6_science
+1|The basic structural and functional unit of life is the:|Cell|Tissue|Organ|Organ system|Cell.
+1|The cell wall is found in:|Plant cells|Animal cells only|Both plant and animal cells equally|Viruses|Plant cell wall is made of cellulose.
+1|The green pigment in plants is:|Chlorophyll|Haemoglobin|Melanin|Carotene|Chlorophyll.
+1|Chloroplasts are found in:|Plant cells|Animal cells|Bacteria only|Red blood cells|Site of photosynthesis.
+1|The control centre of the cell is the:|Nucleus|Cell wall|Vacuole|Cytoplasm|Nucleus.
+1|The jelly-like substance inside the cell is:|Cytoplasm|Nucleus|Cell wall|Chlorophyll|Cytoplasm.
+1|The powerhouse of the cell is the:|Mitochondrion|Nucleus|Vacuole|Chloroplast|Releases energy.
+1|Plant cells have a large central:|Vacuole|Nucleus|Mitochondrion|Cell membrane only|Vacuole.
+1|A group of similar cells performing a function is a:|Tissue|Organ|System|Organism|Tissue.
+1|The instrument used to observe cells is the:|Microscope|Telescope|Periscope|Stethoscope|Microscope.
+2|How many sense organs do humans have?|Five|Four|Six|Three|Eye, ear, nose, tongue, skin.
+2|The organ of sight is the:|Eye|Ear|Nose|Skin|Eye.
+2|The organ of hearing is the:|Ear|Eye|Tongue|Nose|Ear.
+2|The organ of smell is the:|Nose|Ear|Tongue|Eye|Nose.
+2|The organ of taste is the:|Tongue|Nose|Skin|Ear|Tongue.
+2|The largest sense organ of the body is the:|Skin|Eye|Ear|Tongue|Skin.
+2|The coloured part of the eye is the:|Iris|Pupil|Retina|Lens|Iris.
+2|The image in the eye is formed on the:|Retina|Cornea|Iris|Pupil|Retina.
+2|Taste buds are found on the:|Tongue|Nose|Ear|Skin|Tongue.
+2|The eardrum vibrates when ___ waves strike it.|Sound|Light|Heat|Radio|Hearing.
+3|Plants make food by the process of:|Photosynthesis|Respiration|Transpiration|Digestion|Photosynthesis.
+3|Photosynthesis requires carbon dioxide, water and:|Sunlight|Oxygen|Glucose|Nitrogen|Light energy.
+3|The gas released during photosynthesis is:|Oxygen|Carbon dioxide|Nitrogen|Hydrogen|O₂.
+3|The food made in photosynthesis is:|Glucose|Protein|Fat|Vitamin|Sugar.
+3|Respiration releases:|Energy|Chlorophyll|Sunlight|Soil|Energy from food.
+3|In respiration, glucose is broken down using:|Oxygen|Nitrogen|Carbon dioxide only|Water only|Aerobic respiration.
+3|The tiny pores on leaves are called:|Stomata|Roots|Veins|Xylem|Stomata.
+3|Loss of water vapour from leaves is called:|Transpiration|Photosynthesis|Respiration|Germination|Transpiration.
+3|Starch in a leaf is tested with:|Iodine solution|Water|Salt|Vinegar|Turns blue-black.
+3|Respiration produces carbon dioxide, water and:|Energy|Oxygen|Glucose|Chlorophyll|Products.
+4|The interaction of living things with each other and their surroundings is studied in:|Ecology|Geology|Astronomy|Physics|Ecology.
+4|A food web is made of many interconnected:|Food chains|Cells|Atoms|Organs|Food web.
+4|Lions and tigers are:|Carnivores|Herbivores|Producers|Decomposers|Meat eaters.
+4|Bacteria and fungi in an ecosystem act as:|Decomposers|Producers|Herbivores|Carnivores|Decomposers.
+4|A relationship where both organisms benefit is called:|Mutualism|Parasitism|Predation|Competition|Mutualism.
+4|A relationship where one organism benefits and the other is harmed is:|Parasitism|Mutualism|Commensalism|Predation only|Parasitism.
+4|Non-living components of an ecosystem include:|Water, air and sunlight|Plants|Animals|Bacteria|Abiotic factors.
+4|A group of the same species living in an area is a:|Population|Community|Ecosystem|Biosphere|Population.
+4|Energy flows in a food chain from:|Producers to consumers|Consumers to producers|Decomposers to producers|Sun to soil only|Direction of energy.
+4|The first link in a food chain is always a:|Producer|Carnivore|Herbivore|Decomposer|Green plant.
+5|The smallest particle of an element that can take part in a chemical reaction is an:|Atom|Molecule|Compound|Mixture|Atom.
+5|Two or more atoms chemically combined form a:|Molecule|Mixture|Element|Ion only|Molecule.
+5|A substance made of only one kind of atom is an:|Element|Compound|Mixture|Solution|Element.
+5|Water (H₂O) is a:|Compound|Element|Mixture|Metal|Compound.
+5|Air is a:|Mixture|Compound|Element|Metal|Mixture of gases.
+5|The symbol of oxygen is:|O|Ox|Og|Om|O.
+5|The symbol of sodium is:|Na|S|So|Sd|Natrium.
+5|The symbol of iron is:|Fe|I|Ir|In|Ferrum.
+5|Components of a mixture can be separated by:|Physical methods|Chemical reactions only|Burning|Never|Physical separation.
+5|Sand and water can be separated by:|Filtration|Evaporation|Magnetism|Distillation only|Filtration.
+5|Iron filings can be separated from sand using a:|Magnet|Filter|Sieve only|Funnel|Magnetic separation.
+6|The most abundant gas in air is:|Nitrogen|Oxygen|Carbon dioxide|Argon|About 78%.
+6|The percentage of oxygen in air is about:|21%|78%|1%|50%|Oxygen.
+6|The gas necessary for burning is:|Oxygen|Nitrogen|Carbon dioxide|Helium|Supports combustion.
+6|The gas used by plants in photosynthesis is:|Carbon dioxide|Oxygen|Nitrogen|Argon|CO₂.
+6|Lime water turns milky in the presence of:|Carbon dioxide|Oxygen|Nitrogen|Hydrogen|Test for CO₂.
+6|Air pressure is measured by a:|Barometer|Thermometer|Hygrometer|Ammeter|Barometer.
+6|Air has:|Mass and occupies space|No mass|No volume|No weight|Air is matter.
+6|Burning of fuels adds ___ to the air.|Carbon dioxide|Oxygen|Nitrogen|Ozone|Combustion product.
+6|Water vapour in the air causes:|Humidity|Pressure only|Wind|Gravity|Humidity.
+6|Inert gases in air include:|Argon|Oxygen|Nitrogen|Carbon dioxide|Noble gas.
+7|A mixture in which the solute dissolves completely is a:|Solution|Suspension|Colloid|Precipitate|Solution.
+7|In a sugar solution, sugar is the:|Solute|Solvent|Suspension|Precipitate|Solute dissolves.
+7|In a salt solution, water is the:|Solvent|Solute|Suspension|Mixture only|Solvent dissolves.
+7|Water is called the universal solvent because it:|Dissolves many substances|Is hot|Is cold|Is coloured|Universal solvent.
+7|A mixture in which particles settle down on standing is a:|Suspension|Solution|Compound|Element|Suspension.
+7|Muddy water is an example of a:|Suspension|Solution|Element|Compound|Suspension.
+7|A solution that cannot dissolve more solute at a given temperature is:|Saturated|Unsaturated|Dilute|Diluted|Saturated.
+7|Solubility of most solids increases with:|Temperature|Pressure|Colour|Light|Heating.
+7|A solution with a small amount of solute is called:|Dilute|Concentrated|Saturated|Supersaturated|Dilute.
+7|Particles in a suspension can be removed by:|Filtration|Shaking|Heating only|Freezing|Filtration.
+8|The capacity to do work is called:|Energy|Force|Power|Speed|Energy.
+8|The unit of energy is:|Joule|Newton|Watt|Metre|J.
+8|Energy stored in food is:|Chemical energy|Kinetic energy|Sound energy|Light energy|Chemical.
+8|Energy of a moving object is:|Kinetic energy|Potential energy|Chemical energy|Nuclear energy|K.E.
+8|Energy stored in a stretched rubber band is:|Elastic potential energy|Kinetic energy|Heat energy|Sound energy|Elastic P.E.
+8|The main source of energy on Earth is the:|Sun|Moon|Wind|Coal|Sun.
+8|A torch converts chemical energy into:|Light energy|Sound energy|Kinetic energy|Nuclear energy|Torch.
+8|An electric fan converts electrical energy into:|Kinetic energy|Light energy|Chemical energy|Heat only|Moving blades.
+8|Water stored in a dam has:|Potential energy|Kinetic energy only|Chemical energy|Sound energy|Height.
+8|Energy can neither be created nor:|Destroyed|Changed|Used|Measured|Conservation.
+9|A push or pull acting on an object is:|Force|Energy|Work|Power|Force.
+9|Simple machines make our work:|Easier|Harder|Impossible|Slower always|Machines.
+9|A see-saw is an example of a:|Lever|Pulley|Wheel and axle|Screw|Lever.
+9|A ramp is an example of an:|Inclined plane|Pulley|Lever|Wedge|Inclined plane.
+9|A pulley is used to:|Lift heavy loads|Cut wood|Join things|Measure mass|Pulley.
+9|An axe is an example of a:|Wedge|Lever|Pulley|Screw|Wedge.
+9|The fixed point about which a lever turns is the:|Fulcrum|Load|Effort|Axle|Fulcrum.
+9|Friction can be reduced by using:|Lubricants (oil, grease)|Sand|Rough surfaces|Glue|Lubrication.
+9|The unit of force is:|Newton|Joule|Watt|Pascal|N.
+9|A screwdriver turning a screw uses the principle of:|Wheel and axle|Inclined plane only|Pulley|Wedge|Wheel and axle.
+10|Light travels in:|Straight lines|Curves|Circles|Zigzags|Rectilinear.
+10|The speed of light in vacuum is about:|3 × 10⁸ m/s|3 × 10⁵ m/s|340 m/s|1,500 m/s|Speed of light.
+10|A mirror reflects light because it has a:|Smooth shiny surface|Rough surface|Dark surface|Soft surface|Regular reflection.
+10|The angle of incidence equals the angle of:|Reflection|Refraction|Dispersion|Absorption|Law of reflection.
+10|Bending of light when it passes from one medium to another is:|Refraction|Reflection|Dispersion|Scattering|Refraction.
+10|A shadow is formed by an:|Opaque object|Transparent object|Mirror|Lens|Opaque.
+10|White light is made of ___ colours.|Seven|Three|Five|Two|Rainbow colours.
+10|Splitting of white light into colours is called:|Dispersion|Reflection|Refraction only|Absorption|Dispersion.
+10|Objects that emit light are called:|Luminous|Non-luminous|Opaque|Translucent|Luminous.
+10|Image in a plane mirror is:|Laterally inverted|Upside down|Larger|Smaller|Left–right reversed.
+11|Sound is produced by:|Vibrating objects|Still objects|Light|Magnets|Vibration.
+11|Sound needs a ___ to travel.|Medium|Vacuum|Light|Mirror|Solid, liquid or gas.
+11|Sound travels fastest in:|Solids|Liquids|Gases|Vacuum|Close particles.
+11|The speed of sound in air is about:|340 m/s|3 × 10⁸ m/s|34 m/s|3,400 m/s|At room temperature.
+11|The loudness of sound depends on its:|Amplitude|Frequency|Speed|Colour|Amplitude.
+11|The pitch of sound depends on its:|Frequency|Amplitude|Loudness|Speed|Frequency.
+11|An echo is the ___ of sound.|Reflection|Refraction|Absorption|Dispersion|Echo.
+11|The unit of frequency is:|Hertz|Decibel|Newton|Joule|Hz.
+11|Unwanted, unpleasant sound is called:|Noise|Music|Echo|Pitch|Noise.
+11|Humans can hear sounds with frequencies between:|20 Hz and 20,000 Hz|1 Hz and 10 Hz|50,000 Hz and 100,000 Hz|0 Hz only|Audible range.
+12|An object that revolves around a planet is called a:|Satellite|Star|Comet|Galaxy|Satellite.
+12|The Moon is the ___ satellite of the Earth.|Natural|Artificial|Man-made|Second|Natural satellite.
+12|The Earth revolves around the Sun in about:|365¼ days|24 hours|30 days|7 days|One year.
+12|The Sun is a:|Star|Planet|Satellite|Comet|Star.
+12|The number of planets in our solar system is:|Eight|Nine|Seven|Ten|Eight.
+12|The planet with prominent rings is:|Saturn|Mars|Mercury|Venus|Saturn.
+12|The hottest planet in the solar system is:|Venus|Mercury|Mars|Jupiter|Thick CO₂ atmosphere.
+12|Artificial satellites are launched by:|Rockets|Aeroplanes|Balloons|Helicopters|Rockets.
+12|GPS works with the help of:|Satellites|Submarines|Trains|Ships only|Global Positioning System.
+12|A group of stars forming a pattern is a:|Constellation|Galaxy|Planet|Comet|Constellation.
+#g7_science
+1|The system that breaks down food is the:|Digestive system|Respiratory system|Nervous system|Excretory system|Digestion.
+1|Digestion of food begins in the:|Mouth|Stomach|Small intestine|Large intestine|Saliva and teeth.
+1|Most digestion and absorption of food takes place in the:|Small intestine|Stomach|Mouth|Large intestine|Small intestine.
+1|The largest gland in the human body is the:|Liver|Pancreas|Thyroid|Salivary gland|Liver.
+1|The organ that pumps blood is the:|Heart|Lungs|Liver|Kidney|Heart.
+1|Exchange of gases in humans takes place in the:|Lungs|Heart|Stomach|Kidneys|Alveoli.
+1|The kidneys are part of the:|Excretory system|Digestive system|Nervous system|Skeletal system|Excretion.
+1|The brain is part of the:|Nervous system|Digestive system|Respiratory system|Excretory system|Nervous system.
+1|The human skeleton has about:|206 bones|306 bones|106 bones|500 bones|Adult skeleton.
+1|The windpipe is also called the:|Trachea|Oesophagus|Bronchus|Larynx|Trachea.
+2|Blood is pumped from the heart to the body through:|Arteries|Veins|Capillaries only|Nerves|Arteries.
+2|Blood returns to the heart through:|Veins|Arteries|Nerves|Bones|Veins.
+2|The smallest blood vessels are:|Capillaries|Arteries|Veins|Aorta|Capillaries.
+2|Red blood cells carry:|Oxygen|Carbon dioxide only|Food only|Hormones only|Haemoglobin.
+2|White blood cells help to:|Fight diseases|Carry oxygen|Clot blood only|Make food|Defence.
+2|Platelets help in:|Blood clotting|Carrying oxygen|Fighting germs|Digestion|Clotting.
+2|In plants, water is transported by:|Xylem|Phloem|Stomata|Root hairs only|Xylem.
+2|In plants, food is transported by:|Phloem|Xylem|Stomata|Petals|Phloem.
+2|Water is absorbed from the soil by:|Root hairs|Leaves|Flowers|Fruits|Root hairs.
+2|The human heart has ___ chambers.|Four|Two|Three|Five|Two atria, two ventricles.
+3|Reproduction without fusion of gametes is called:|Asexual reproduction|Sexual reproduction|Pollination|Fertilisation|Asexual.
+3|Potato plants grow from:|Tubers (stem)|Seeds only|Leaves|Flowers|Vegetative propagation.
+3|Rose plants are commonly grown from:|Stem cuttings|Seeds only|Roots|Leaves|Cutting.
+3|Bryophyllum reproduces through its:|Leaves|Roots|Seeds only|Flowers|Leaf buds.
+3|Transfer of pollen from one flower to another of the same kind is:|Cross-pollination|Self-pollination|Fertilisation|Germination|Cross-pollination.
+3|Fusion of male and female gametes is called:|Fertilisation|Pollination|Germination|Budding|Fertilisation.
+3|Yeast reproduces by:|Budding|Seeds|Spores only|Cuttings|Budding.
+3|Ferns reproduce by:|Spores|Seeds|Tubers|Bulbs|Spores.
+3|Pollen grains are produced in the:|Anther|Stigma|Ovary|Sepal|Anther.
+3|The part of the pistil that receives pollen is the:|Stigma|Style|Ovary|Anther|Stigma.
+4|Organisms that make their own food are called:|Autotrophs|Heterotrophs|Parasites|Saprophytes|Autotrophs.
+4|Organisms that depend on others for food are called:|Heterotrophs|Autotrophs|Producers|Plants|Heterotrophs.
+4|Mushrooms obtain food from dead and decaying matter. They are:|Saprophytes|Parasites|Autotrophs|Producers|Saprotrophs.
+4|Cuscuta (amarbel) is an example of a:|Parasitic plant|Saprophyte|Producer|Insectivorous plant|Parasite.
+4|The pitcher plant traps insects to obtain:|Nitrogen|Water|Sunlight|Oxygen|Insectivorous.
+4|A food chain always starts with a:|Producer|Consumer|Decomposer|Carnivore|Producer.
+4|Animals that feed on herbivores are:|Secondary consumers|Primary consumers|Producers|Decomposers|Second level.
+4|Herbivores are also called:|Primary consumers|Secondary consumers|Producers|Decomposers|First level.
+4|The amount of energy decreases at each:|Trophic level|Hour|Season|Day|10% rule.
+4|Lichens show a relationship between algae and fungi called:|Mutualism (symbiosis)|Parasitism|Predation|Competition|Mutualism.
+5|The chemical formula of water is:|H₂O|HO₂|H₂O₂|OH|Two hydrogen, one oxygen.
+5|Water boils at:|100 °C|0 °C|50 °C|37 °C|At sea level.
+5|Water freezes at:|0 °C|100 °C|−100 °C|4 °C|Freezing point.
+5|Water that contains dissolved calcium and magnesium salts is:|Hard water|Soft water|Distilled water|Rain water|Hard water.
+5|Boiling removes ___ hardness of water.|Temporary|Permanent|All|No|Bicarbonates removed.
+5|Water purification by heating and condensing is:|Distillation|Filtration|Sedimentation|Chlorination|Distillation.
+5|Chlorine is added to water to:|Kill germs|Add colour|Remove hardness|Add taste|Disinfection.
+5|Water density is maximum at:|4 °C|0 °C|100 °C|−4 °C|Anomalous expansion.
+5|About ___ of the Earth's surface is covered by water.|71%|50%|30%|90%|Hydrosphere.
+5|Water-borne diseases include:|Cholera|Diabetes|Asthma|Rickets|Contaminated water.
+6|An atom consists of protons, neutrons and:|Electrons|Ions|Molecules|Photons|Subatomic particles.
+6|Protons carry a ___ charge.|Positive|Negative|Neutral|Variable|Proton.
+6|Electrons carry a ___ charge.|Negative|Positive|Neutral|Double|Electron.
+6|Neutrons are:|Neutral|Positive|Negative|Double charged|No charge.
+6|Protons and neutrons are found in the:|Nucleus|Electron shells|Outside the atom|Cloud only|Nucleus.
+6|The number of protons in an atom is its:|Atomic number|Mass number|Valency|Charge|Atomic number.
+6|Atomic number of carbon is:|6|12|8|14|Carbon.
+6|Mass number = protons +|Neutrons|Electrons|Shells|Valency|Mass number.
+6|Hydrogen has ___ proton(s).|One|Two|Zero|Three|Simplest atom.
+6|Electrons revolve around the nucleus in:|Shells (orbits)|The nucleus|Neutrons|Protons|Shells.
+7|Melting of wax is a:|Physical change|Chemical change|Nuclear change|Permanent change|Physical.
+7|Burning of wood is a:|Chemical change|Physical change|Reversible change|Temporary change|Chemical.
+7|In a chemical change, a ___ is formed.|New substance|Same substance|Shape only|State only|Chemical change.
+7|Ripening of fruit is a:|Chemical change|Physical change|Reversible change|Temporary change|Chemical.
+7|Dissolving salt in water is a:|Physical change|Chemical change|Nuclear change|Biological change|Physical.
+7|Souring of milk is a:|Chemical change|Physical change|Reversible change|Temporary change|Chemical.
+7|Physical changes are usually:|Reversible|Irreversible|Permanent|Nuclear|Can be reversed.
+7|Rust is chemically:|Iron oxide|Iron sulphate|Iron chloride|Pure iron|Fe₂O₃.
+7|Galvanisation means coating iron with:|Zinc|Copper|Silver|Gold|Prevents rusting.
+7|Crystallisation is a ___ change.|Physical|Chemical|Nuclear|Biological|Physical.
+8|Transfer of heat through solids is:|Conduction|Convection|Radiation|Insulation|Conduction.
+8|Transfer of heat in liquids and gases by moving particles is:|Convection|Conduction|Radiation|Reflection|Convection.
+8|Transfer of heat without a medium is:|Radiation|Conduction|Convection|Evaporation|Radiation.
+8|Sea breeze blows during the:|Day|Night|Winter only|Midnight|Land heats faster in day.
+8|Land breeze blows during the:|Night|Day|Afternoon|Noon|Land cools faster at night.
+8|A vacuum flask reduces heat transfer by:|Conduction, convection and radiation|Only conduction|Only radiation|None|Thermos.
+8|Dark surfaces are good ___ of heat.|Absorbers|Reflectors|Insulators|Conductors only|Black absorbs.
+8|We wear light-coloured clothes in summer because they:|Reflect heat|Absorb heat|Conduct heat|Produce heat|Light colours reflect.
+8|The SI unit of temperature is:|Kelvin|Celsius|Fahrenheit|Joule|K.
+8|Heat always flows from a ___ body to a ___ body.|Hot, cold|Cold, hot|Big, small|Heavy, light|Direction of heat.
+9|White light splits into seven colours when passed through a:|Prism|Mirror|Plane glass|Paper|Dispersion.
+9|The colour that bends the most in a prism is:|Violet|Red|Green|Yellow|Shortest wavelength.
+9|The colour that bends the least in a prism is:|Red|Violet|Blue|Green|Longest wavelength.
+9|A rainbow is formed due to dispersion of sunlight by:|Raindrops|Clouds|Dust|Air only|Rainbow.
+9|The correct order of rainbow colours is:|VIBGYOR|ROYGBIVX|BGYORVI|GYBORVI|Violet to red.
+9|Primary colours of light are:|Red, green and blue|Red, yellow and blue|Green, yellow and orange|Black, white and grey|RGB.
+9|A red object appears red because it:|Reflects red light|Absorbs red light|Emits red light|Refracts red|Reflection.
+9|A white object reflects:|All colours|No colour|Only red|Only blue|White.
+9|A black object:|Absorbs all colours|Reflects all colours|Reflects only black|Emits light|Black.
+9|Newton's colour disc appears ___ when rotated fast.|White|Black|Red|Blue|Mixture of colours.
+10|Sound travels in the form of:|Waves|Rays|Particles only|Straight beams|Sound waves.
+10|Sound waves in air are:|Longitudinal|Transverse|Electromagnetic|Light waves|Compressions and rarefactions.
+10|The number of vibrations per second is called:|Frequency|Amplitude|Wavelength|Speed|Frequency.
+10|Sounds above 20,000 Hz are called:|Ultrasonic|Infrasonic|Audible|Supersonic only|Ultrasound.
+10|Bats use ___ to find their way.|Ultrasound (echolocation)|Light|Smell|Heat|Echolocation.
+10|The loudness of sound is measured in:|Decibels|Hertz|Metres|Newtons|dB.
+10|The time for an echo to be heard distinctly should be at least:|0.1 second|1 hour|10 seconds|0.001 second|Persistence of hearing.
+10|Sound cannot travel through:|Vacuum|Water|Iron|Air|No medium.
+10|A stethoscope is used to hear:|Heartbeat|Music|Radio|Echo|Doctors use it.
+10|Sound waves with frequency below 20 Hz are called:|Infrasonic|Ultrasonic|Audible|Musical|Infrasound.
+11|A complete path for electric current is called a:|Closed circuit|Open circuit|Short only|Fuse|Closed circuit.
+11|An open circuit means:|Current does not flow|Current flows|Bulb glows|Battery charges|Broken path.
+11|In a series circuit, if one bulb fuses, the others:|Go off|Stay on|Glow brighter|Explode|Single path.
+11|In a parallel circuit, if one bulb fuses, the others:|Stay on|Go off|Also fuse|Glow dim|Separate paths.
+11|Electric current is measured in:|Amperes|Volts|Ohms|Watts|A.
+11|The device that measures current is an:|Ammeter|Voltmeter|Thermometer|Barometer|Ammeter.
+11|A fuse wire is made of a material with a:|Low melting point|High melting point|No resistance|Infinite length|Melts to break circuit.
+11|The symbol of a cell in a circuit diagram has:|A long and a short line|Two circles|A zigzag|A cross|Cell symbol.
+11|Household electrical wires are covered with plastic because plastic is an:|Insulator|Conductor|Magnet|Semiconductor|Safety.
+11|Electric current is the flow of:|Electrons|Protons|Neutrons|Atoms|Charge carriers.
+12|A telescope is used to observe:|Distant objects in space|Microbes|Cells|Bones|Telescope.
+12|The first astronaut to go into space was:|Yuri Gagarin|Neil Armstrong|Buzz Aldrin|Galileo|1961.
+12|Pakistan's space agency is:|SUPARCO|NASA|ISRO|ESA|SUPARCO.
+12|Comets have a bright:|Tail|Ring|Moon|Atmosphere like Earth|Tail points away from Sun.
+12|The Milky Way is a:|Galaxy|Planet|Star|Comet|Galaxy.
+12|Meteors are also called:|Shooting stars|Comets|Planets|Satellites|Burning rocks.
+12|Asteroids are mostly found between Mars and:|Jupiter|Saturn|Earth|Venus|Asteroid belt.
+12|The Moon takes about ___ to revolve around the Earth.|27 days|365 days|24 hours|7 days|About 27.3 days.
+12|Light from the Sun reaches Earth in about:|8 minutes|8 seconds|8 hours|8 days|About 8.3 minutes.
+12|A light year measures:|Distance|Time|Mass|Speed|Distance light travels in a year.
+#g8_science
+1|The system that provides support and shape to the body is the:|Skeletal system|Digestive system|Nervous system|Excretory system|Skeleton.
+1|Muscles work in:|Pairs|Singles|Threes|Fours|Antagonistic pairs.
+1|A joint that allows movement in all directions is the:|Ball and socket joint|Hinge joint|Fixed joint|Pivot joint only|Shoulder and hip.
+1|The knee is an example of a:|Hinge joint|Ball and socket joint|Fixed joint|Gliding joint|Moves in one plane.
+1|The functional unit of the kidney is the:|Nephron|Neuron|Alveolus|Villus|Nephron.
+1|The basic unit of the nervous system is the:|Neuron|Nephron|Cell wall|Alveolus|Nerve cell.
+1|The brain and spinal cord form the:|Central nervous system|Peripheral nervous system|Digestive system|Endocrine system|CNS.
+1|Bones are joined to muscles by:|Tendons|Ligaments|Cartilage|Nerves|Tendons.
+1|Bones are joined to other bones by:|Ligaments|Tendons|Muscles|Nerves|Ligaments.
+1|Urine is stored in the:|Urinary bladder|Kidney|Ureter|Liver|Bladder.
+2|Cell division that produces two identical daughter cells is:|Mitosis|Meiosis|Fertilisation|Budding only|Mitosis.
+2|Cell division that produces gametes is:|Meiosis|Mitosis|Binary fission|Budding|Meiosis.
+2|In mitosis, the chromosome number in daughter cells:|Remains the same|Is halved|Is doubled|Becomes zero|Same.
+2|In meiosis, the chromosome number in daughter cells is:|Halved|Same|Doubled|Tripled|Halved.
+2|Human body cells have ___ chromosomes.|46|23|44|48|23 pairs.
+2|Human gametes have ___ chromosomes.|23|46|22|44|Haploid.
+2|Mitosis helps in:|Growth and repair|Gamete formation only|Digestion|Respiration|Growth.
+2|Uncontrolled cell division can lead to:|Cancer|Growth only|Healing|Digestion|Cancer.
+2|Meiosis produces ___ daughter cells.|Four|Two|One|Eight|Four.
+2|Chromosomes are found in the:|Nucleus|Cell wall|Cytoplasm only|Vacuole|Nucleus.
+3|Biotechnology uses ___ to make useful products.|Living organisms|Plastic|Metals|Rocks|Biotechnology.
+3|Fermentation is carried out by:|Yeast and bacteria|Viruses only|Plants only|Animals only|Microorganisms.
+3|Insulin made by genetically modified bacteria is used to treat:|Diabetes|Malaria|Cholera|Polio|Insulin.
+3|Genetically modified crops can be:|Pest resistant|Always harmful|Poisonous always|Non-living|GM crops.
+3|Antibiotics are obtained from:|Microorganisms (fungi/bacteria)|Rocks|Plastics|Salt|e.g. penicillin.
+3|Penicillin was discovered by:|Alexander Fleming|Louis Pasteur|Newton|Darwin|1928.
+3|Vaccines are made from:|Weakened or dead germs|Plastics|Salt|Sugar|Vaccines.
+3|Biogas is produced from:|Animal dung and organic waste|Petrol|Coal|Sand|Biogas plant.
+3|The main gas in biogas is:|Methane|Oxygen|Nitrogen|Hydrogen|CH₄.
+3|DNA carries:|Genetic information|Oxygen|Food|Water|Genes.
+4|Substances that pollute the environment are called:|Pollutants|Nutrients|Minerals|Enzymes|Pollutants.
+4|CFCs damage the:|Ozone layer|Soil|Rivers|Mountains|Ozone depletion.
+4|Excess carbon dioxide in the atmosphere causes:|Global warming|Ozone formation|Rain only|Earthquakes|Greenhouse effect.
+4|Acid rain damages:|Buildings, plants and lakes|Only air|Only space|Nothing|Acid rain.
+4|Pesticides in water cause:|Water pollution|Noise pollution|Light pollution|Nothing|Runoff.
+4|Smog is common in:|Industrial cities in winter|Deserts only|Oceans|Forests|Smoke + fog.
+4|Lead from vehicle exhaust is harmful to the:|Brain and nervous system|Hair only|Nails|Teeth only|Lead poisoning.
+4|Noise pollution can cause:|Hearing loss and stress|Better sleep|Good health|Taller height|Effects of noise.
+4|Planting trees helps to:|Reduce air pollution|Increase pollution|Cause floods|Increase noise|Trees absorb CO₂.
+4|Biodegradable waste includes:|Vegetable peels|Plastic bags|Glass|Metal cans|Decomposes naturally.
+5|In a chemical reaction, the substances that react are called:|Reactants|Products|Catalysts|Solvents|Reactants.
+5|The substances formed in a chemical reaction are called:|Products|Reactants|Elements|Mixtures|Products.
+5|A substance that speeds up a reaction without being used up is a:|Catalyst|Reactant|Product|Solvent|Catalyst.
+5|A reaction that releases heat is called:|Exothermic|Endothermic|Physical|Neutral|Exothermic.
+5|A reaction that absorbs heat is called:|Endothermic|Exothermic|Combustion|Neutralisation|Endothermic.
+5|Burning of fuel is an example of:|Combustion|Neutralisation|Decomposition only|Freezing|Combustion.
+5|Rusting is a slow reaction of iron with oxygen and:|Water|Nitrogen|Carbon|Hydrogen|Rusting.
+5|In a balanced equation, the number of atoms on both sides is:|Equal|Unequal|Zero|Double|Law of conservation of mass.
+5|2H₂ + O₂ → 2H₂O shows the formation of:|Water|Hydrogen peroxide|Oxygen|Ozone|Water.
+5|Breaking down of a compound into simpler substances is:|Decomposition|Combination|Displacement|Neutralisation|Decomposition.
+6|Acids taste:|Sour|Bitter|Sweet|Salty|Sour.
+6|Bases taste:|Bitter|Sour|Sweet|Salty|Bitter.
+6|Acids turn blue litmus paper:|Red|Blue|Green|Yellow|Acid.
+6|Bases turn red litmus paper:|Blue|Red|Green|Orange|Base.
+6|The pH of a neutral solution is:|7|1|14|0|Neutral.
+6|A solution with pH less than 7 is:|Acidic|Basic|Neutral|Salty|Acidic.
+6|Acid + Base → Salt +|Water|Oxygen|Hydrogen|Carbon dioxide|Neutralisation.
+6|The acid present in our stomach is:|Hydrochloric acid|Sulphuric acid|Nitric acid|Acetic acid|HCl.
+6|Vinegar contains:|Acetic acid|Citric acid|Hydrochloric acid|Sulphuric acid|Acetic acid.
+6|Lemon juice contains:|Citric acid|Acetic acid|Lactic acid|Formic acid|Citric acid.
+6|Antacids used for acidity are:|Mild bases|Strong acids|Salts only|Water only|Neutralise acid.
+7|Force per unit area is called:|Pressure|Energy|Work|Power|Pressure.
+7|The SI unit of pressure is:|Pascal|Newton|Joule|Watt|Pa.
+7|Pressure = |Force ÷ Area|Force × Area|Area ÷ Force|Force + Area|Formula.
+7|Sharp knives cut easily because they have:|Small area and more pressure|Large area|Less pressure|No force|Pressure.
+7|Pressure in a liquid ___ with depth.|Increases|Decreases|Remains same|Becomes zero|Liquid pressure.
+7|Atmospheric pressure ___ with height.|Decreases|Increases|Remains same|Doubles|Thin air.
+7|Wide straps on bags reduce pressure because they:|Increase area|Decrease area|Increase force|Decrease mass|More area.
+7|A force of 100 N on an area of 2 m² gives a pressure of:|50 Pa|200 Pa|98 Pa|102 Pa|100 ÷ 2.
+7|Dams are thicker at the bottom because:|Water pressure is greater at depth|Water is lighter there|It looks good|Fish live there|Depth pressure.
+7|Atmospheric pressure is measured by a:|Barometer|Thermometer|Manometer only|Hydrometer|Barometer.
+8|The SI unit of length is:|Metre|Kilometre|Centimetre|Inch|m.
+8|The SI unit of mass is:|Kilogram|Gram|Newton|Pound|kg.
+8|The SI unit of time is:|Second|Minute|Hour|Day|s.
+8|A vernier caliper is used to measure:|Small lengths accurately|Mass|Time|Temperature|Vernier caliper.
+8|A screw gauge measures:|Very small thicknesses|Long distances|Mass|Volume|Micrometer screw gauge.
+8|Volume of an irregular solid can be measured using a:|Measuring cylinder (displacement)|Ruler|Balance|Thermometer|Displacement method.
+8|Mass is measured using a:|Balance|Measuring tape|Stopwatch|Thermometer|Balance.
+8|1 kilogram equals:|1,000 grams|100 grams|10 grams|10,000 grams|Conversion.
+8|The prefix 'milli' means:|10⁻³|10³|10⁻⁶|10⁶|Milli.
+8|The prefix 'kilo' means:|10³|10⁻³|10⁶|10²|Kilo.
+9|Heat energy causes most substances to:|Expand|Contract|Disappear|Change colour|Thermal expansion.
+9|Gaps are left between railway tracks to allow for:|Expansion in summer|Decoration|Drainage|Sound|Expansion.
+9|A thermometer works on the principle of:|Thermal expansion of liquids|Magnetism|Reflection|Gravity|Expansion.
+9|Normal human body temperature is:|37 °C|27 °C|47 °C|100 °C|98.6 °F.
+9|The liquid commonly used in clinical thermometers is:|Mercury|Water|Oil|Milk|Mercury.
+9|Heat is a form of:|Energy|Matter|Force|Pressure|Energy.
+9|0 °C equals ___ K.|273|0|100|−273|K = °C + 273.
+9|Burning of fuels produces:|Heat and light|Only water|Only sound|Cold|Combustion.
+9|Excessive heat from fuels can lead to:|Global warming|Ice ages|Rain only|Nothing|Effect.
+9|A bimetallic strip bends on heating because metals:|Expand differently|Melt|Contract equally|Rust|Thermostat principle.
+10|A lens that is thicker in the middle is a:|Convex lens|Concave lens|Plane lens|Prism|Convex.
+10|A lens that is thinner in the middle is a:|Concave lens|Convex lens|Plane lens|Prism|Concave.
+10|A convex lens is also called a:|Converging lens|Diverging lens|Plane lens|Mirror|Converges light.
+10|A concave lens is also called a:|Diverging lens|Converging lens|Magnifying lens|Prism|Diverges light.
+10|A magnifying glass uses a:|Convex lens|Concave lens|Plane mirror|Prism|Magnifier.
+10|Short-sightedness (myopia) is corrected by a:|Concave lens|Convex lens|Plane lens|Prism|Myopia.
+10|Long-sightedness (hypermetropia) is corrected by a:|Convex lens|Concave lens|Prism|Plane mirror|Hypermetropia.
+10|The point where parallel rays meet after passing through a convex lens is the:|Principal focus|Optical centre|Pole|Centre of curvature|Focus.
+10|The distance between the optical centre and the focus is the:|Focal length|Radius|Aperture|Diameter|Focal length.
+10|The human eye lens is a:|Convex lens|Concave lens|Plane lens|Mirror|Eye lens.
+11|Electrical energy is converted into heat in an:|Electric iron|Electric fan|Radio|Television screen only|Heating effect.
+11|Electrical power is measured in:|Watts|Volts|Amperes|Ohms|W.
+11|Electric energy consumed is measured in:|Kilowatt-hours|Watts|Volts|Amperes|kWh = unit.
+11|A device that converts electrical energy into mechanical energy is an:|Electric motor|Electric generator|Transformer|Battery|Motor.
+11|A device that converts mechanical energy into electrical energy is a:|Generator|Motor|Fan|Heater|Generator.
+11|Electromagnets are used in:|Electric bells and cranes|Candles|Books|Glasses|Uses.
+11|A circuit breaker protects against:|Overloading|Low voltage|Light|Sound|Safety.
+11|The earth wire in a plug is for:|Safety|Light|Decoration|Speed|Prevents shock.
+11|Energy saver bulbs use ___ electricity than ordinary bulbs.|Less|More|Same|Double|Efficiency.
+11|Electroplating uses the ___ effect of current.|Chemical|Heating|Magnetic|Lighting|Electrolysis.
+12|The first man to walk on the Moon was:|Neil Armstrong|Yuri Gagarin|Michael Collins|Galileo|1969, Apollo 11.
+12|Pakistan's first communication satellite was:|PakSat-1R|Badr-1|Sputnik|Apollo|Launched 2011.
+12|The Hubble Space Telescope orbits the:|Earth|Moon|Sun directly|Mars|Hubble.
+12|The International Space Station is a:|Space laboratory in orbit|Planet|Star|Rocket fuel|ISS.
+12|Rockets work on Newton's ___ law of motion.|Third|First|Second|Zero|Action–reaction.
+12|Astronauts float in space because of:|Weightlessness (free fall)|No mass|Magnetism|Strong gravity|Free fall.
+12|A space suit protects astronauts from:|Lack of air and extreme temperatures|Rain|Dust only|Sound|Space suit.
+12|The study of stars and planets is:|Astronomy|Astrology|Geology|Botany|Astronomy.
+12|A remote sensing satellite is used for:|Mapping and weather|Cooking|Teaching only|Farming tools|Remote sensing.
+12|Mars is known as the:|Red Planet|Blue Planet|Ringed Planet|Morning Star|Iron oxide surface.

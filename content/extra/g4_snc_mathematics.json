@@ -1,0 +1,626 @@
+[
+[
+2,
+"Factors of 12 are:",
+[
+"1, 2, 3, 12",
+"2, 4, 6, 8",
+"12, 24, 36",
+"1, 2, 3, 4, 6, 12"
+],
+3,
+"Numbers that divide 12."
+],
+[
+2,
+"The first three multiples of 5 are:",
+[
+"1, 5, 10",
+"5, 6, 7",
+"5, 10, 15",
+"10, 15, 20"
+],
+2,
+"5×1, 5×2, 5×3."
+],
+[
+2,
+"A number with only two factors (1 and itself) is called:",
+[
+"Prime number",
+"Composite number",
+"Even number",
+"Square number"
+],
+0,
+"Prime."
+],
+[
+2,
+"A number with more than two factors is called:",
+[
+"Prime number",
+"Odd number",
+"Composite number",
+"Zero"
+],
+2,
+"Composite."
+],
+[
+2,
+"Which is a prime number?",
+[
+"9",
+"15",
+"21",
+"7"
+],
+3,
+"7 has only 1 and 7."
+],
+[
+2,
+"1 is:",
+[
+"Prime",
+"Composite",
+"Neither prime nor composite",
+"Even"
+],
+2,
+"Special case."
+],
+[
+2,
+"The smallest prime number is:",
+[
+"2",
+"1",
+"3",
+"0"
+],
+0,
+"2 is the only even prime."
+],
+[
+2,
+"Which number is divisible by 3?",
+[
+"28",
+"31",
+"43",
+"27"
+],
+3,
+"2 + 7 = 9 is divisible by 3."
+],
+[
+2,
+"A number ending in 0 or 5 is divisible by:",
+[
+"3",
+"4",
+"5",
+"9"
+],
+2,
+"Divisibility rule."
+],
+[
+2,
+"An even number is always divisible by:",
+[
+"3",
+"5",
+"2",
+"7"
+],
+2,
+"Even numbers."
+],
+[
+2,
+"The common factors of 8 and 12 are:",
+[
+"1, 2, 3",
+"2, 4, 8",
+"1, 2, 4",
+"1, 3, 6"
+],
+2,
+"Factors of both."
+],
+[
+2,
+"The first common multiple of 2 and 3 is:",
+[
+"5",
+"12",
+"6",
+"3"
+],
+2,
+"LCM of 2 and 3."
+],
+[
+3,
+"Which fraction is an improper fraction?",
+[
+"3/4",
+"1/2",
+"7/4",
+"2/5"
+],
+2,
+"Numerator > denominator."
+],
+[
+3,
+"7/4 as a mixed number is:",
+[
+"1¼",
+"7¼",
+"2¾",
+"1¾"
+],
+3,
+"7 ÷ 4 = 1 remainder 3."
+],
+[
+3,
+"2½ as an improper fraction is:",
+[
+"5/2",
+"3/2",
+"4/2",
+"2/5"
+],
+0,
+"2×2 + 1 = 5."
+],
+[
+3,
+"Simplest form of 6/8 is:",
+[
+"3/4",
+"2/3",
+"6/8",
+"1/2"
+],
+0,
+"Divide by 2."
+],
+[
+3,
+"1/3 + 1/3 =",
+[
+"2/6",
+"1/3",
+"1/9",
+"2/3"
+],
+3,
+"Like fractions."
+],
+[
+3,
+"Which is smaller: 1/3 or 1/5?",
+[
+"1/3",
+"Both equal",
+"Cannot say",
+"1/5"
+],
+3,
+"Same numerator, bigger denominator is smaller."
+],
+[
+3,
+"1/2 of 30 is:",
+[
+"15",
+"10",
+"60",
+"30"
+],
+0,
+"30 ÷ 2."
+],
+[
+3,
+"Fractions with the same denominator are called:",
+[
+"Unlike fractions",
+"Like fractions",
+"Improper fractions",
+"Mixed fractions"
+],
+1,
+"Like fractions."
+],
+[
+3,
+"3/4 − 1/4 =",
+[
+"2/8",
+"1/4",
+"1/2",
+"3/4"
+],
+2,
+"2/4 = 1/2."
+],
+[
+3,
+"Which is equivalent to 2/3?",
+[
+"4/6",
+"3/2",
+"2/6",
+"4/3"
+],
+0,
+"Multiply by 2/2."
+],
+[
+4,
+"0.5 as a fraction is:",
+[
+"1/5",
+"5/1",
+"1/2",
+"1/50"
+],
+2,
+"5 tenths = 1/2."
+],
+[
+4,
+"3/10 as a decimal is:",
+[
+"3.0",
+"0.03",
+"0.3",
+"30"
+],
+2,
+"Tenths place."
+],
+[
+4,
+"In 4.27, the digit 2 is in the:",
+[
+"Tenths place",
+"Ones place",
+"Hundredths place",
+"Tens place"
+],
+0,
+"First place after decimal."
+],
+[
+4,
+"7/100 as a decimal is:",
+[
+"0.7",
+"0.07",
+"7.0",
+"0.007"
+],
+1,
+"Hundredths."
+],
+[
+4,
+"2.5 + 1.3 =",
+[
+"3.5",
+"4.8",
+"3.8",
+"2.8"
+],
+2,
+"Add decimals."
+],
+[
+4,
+"5.6 − 2.4 =",
+[
+"3.0",
+"8.0",
+"3.4",
+"3.2"
+],
+3,
+"Subtract decimals."
+],
+[
+4,
+"Which is greater: 0.6 or 0.06?",
+[
+"0.06",
+"Both equal",
+"0.6",
+"Cannot say"
+],
+2,
+"Tenths > hundredths."
+],
+[
+4,
+"The decimal point separates the whole number from the:",
+[
+"Tens",
+"Hundreds",
+"Fractional part",
+"Thousands"
+],
+2,
+"Decimal point."
+],
+[
+4,
+"1.25 in words is:",
+[
+"One point two five",
+"Twelve point five",
+"One hundred twenty-five",
+"One and twenty-five tenths"
+],
+0,
+"Reading decimals."
+],
+[
+4,
+"0.25 equals:",
+[
+"1/2",
+"2/5",
+"1/4",
+"25"
+],
+2,
+"25 hundredths = 1/4."
+],
+[
+5,
+"1 km = ___ m",
+[
+"100",
+"10",
+"1,000",
+"10,000"
+],
+2,
+"Kilometre to metre."
+],
+[
+5,
+"3 kg 200 g = ___ g",
+[
+"320",
+"3,020",
+"3,200",
+"32,000"
+],
+2,
+"3,000 + 200."
+],
+[
+5,
+"1,500 mL = ___ L",
+[
+"15",
+"150",
+"1.5",
+"0.15"
+],
+2,
+"1,000 mL = 1 L."
+],
+[
+5,
+"Perimeter of a square of side 5 cm is:",
+[
+"25 cm",
+"10 cm",
+"15 cm",
+"20 cm"
+],
+3,
+"4 × 5."
+],
+[
+5,
+"Perimeter of a rectangle 6 cm by 4 cm is:",
+[
+"24 cm",
+"20 cm",
+"10 cm",
+"12 cm"
+],
+1,
+"2(6 + 4)."
+],
+[
+5,
+"Which unit is best for the distance between two cities?",
+[
+"Centimetre",
+"Millimetre",
+"Gram",
+"Kilometre"
+],
+3,
+"Long distance."
+],
+[
+6,
+"An angle less than 90° is called:",
+[
+"Obtuse angle",
+"Right angle",
+"Acute angle",
+"Straight angle"
+],
+2,
+"Acute."
+],
+[
+6,
+"An angle greater than 90° but less than 180° is called:",
+[
+"Acute angle",
+"Right angle",
+"Obtuse angle",
+"Reflex angle"
+],
+2,
+"Obtuse."
+],
+[
+6,
+"An angle of exactly 180° is called a:",
+[
+"Right angle",
+"Acute angle",
+"Reflex angle",
+"Straight angle"
+],
+3,
+"Straight angle."
+],
+[
+6,
+"Lines that never meet are called:",
+[
+"Perpendicular lines",
+"Parallel lines",
+"Intersecting lines",
+"Curved lines"
+],
+1,
+"Parallel."
+],
+[
+6,
+"Lines that meet at a right angle are called:",
+[
+"Parallel lines",
+"Curved lines",
+"Rays",
+"Perpendicular lines"
+],
+3,
+"Perpendicular."
+],
+[
+6,
+"An instrument used to measure angles is:",
+[
+"Compass",
+"Protractor",
+"Ruler",
+"Thermometer"
+],
+1,
+"Protractor."
+],
+[
+6,
+"A triangle with all sides equal is called:",
+[
+"Isosceles",
+"Scalene",
+"Right-angled",
+"Equilateral"
+],
+3,
+"Equal sides."
+],
+[
+6,
+"The radius of a circle is ___ the diameter.",
+[
+"Double",
+"Half",
+"Equal",
+"One-third"
+],
+1,
+"r = d/2."
+],
+[
+7,
+"A bar graph uses ___ to show data.",
+[
+"Pictures",
+"Circles",
+"Bars",
+"Lines only"
+],
+2,
+"Bar graph."
+],
+[
+7,
+"In a pictograph, a key tells us:",
+[
+"The title",
+"The total",
+"What one picture stands for",
+"Nothing"
+],
+2,
+"Key."
+],
+[
+7,
+"If 1 symbol = 10 books, then 3½ symbols =",
+[
+"30 books",
+"40 books",
+"3 books",
+"35 books"
+],
+3,
+"3.5 × 10."
+],
+[
+7,
+"The data value that appears most often is called the:",
+[
+"Mean",
+"Total",
+"Range",
+"Mode"
+],
+3,
+"Mode."
+],
+[
+7,
+"A line graph is useful to show:",
+[
+"Parts of a whole",
+"Change over time",
+"Only names",
+"Shapes"
+],
+1,
+"Line graph."
+],
+[
+7,
+"Tally marks are used to:",
+[
+"Draw shapes",
+"Measure length",
+"Count and record data",
+"Tell time"
+],
+2,
+"Tally."
+]
+]

@@ -1,0 +1,1454 @@
+[
+[
+1,
+"The basic structural and functional unit of life is the:",
+[
+"Tissue",
+"Organ",
+"Organ system",
+"Cell"
+],
+3,
+"Cell."
+],
+[
+1,
+"The cell wall is found in:",
+[
+"Plant cells",
+"Animal cells only",
+"Both plant and animal cells equally",
+"Viruses"
+],
+0,
+"Plant cell wall is made of cellulose."
+],
+[
+1,
+"The green pigment in plants is:",
+[
+"Haemoglobin",
+"Melanin",
+"Carotene",
+"Chlorophyll"
+],
+3,
+"Chlorophyll."
+],
+[
+1,
+"Chloroplasts are found in:",
+[
+"Plant cells",
+"Animal cells",
+"Bacteria only",
+"Red blood cells"
+],
+0,
+"Site of photosynthesis."
+],
+[
+1,
+"The control centre of the cell is the:",
+[
+"Cell wall",
+"Vacuole",
+"Nucleus",
+"Cytoplasm"
+],
+2,
+"Nucleus."
+],
+[
+1,
+"The jelly-like substance inside the cell is:",
+[
+"Nucleus",
+"Cell wall",
+"Cytoplasm",
+"Chlorophyll"
+],
+2,
+"Cytoplasm."
+],
+[
+1,
+"The powerhouse of the cell is the:",
+[
+"Nucleus",
+"Vacuole",
+"Chloroplast",
+"Mitochondrion"
+],
+3,
+"Releases energy."
+],
+[
+1,
+"Plant cells have a large central:",
+[
+"Vacuole",
+"Nucleus",
+"Mitochondrion",
+"Cell membrane only"
+],
+0,
+"Vacuole."
+],
+[
+1,
+"A group of similar cells performing a function is a:",
+[
+"Organ",
+"Tissue",
+"System",
+"Organism"
+],
+1,
+"Tissue."
+],
+[
+1,
+"The instrument used to observe cells is the:",
+[
+"Telescope",
+"Periscope",
+"Microscope",
+"Stethoscope"
+],
+2,
+"Microscope."
+],
+[
+2,
+"How many sense organs do humans have?",
+[
+"Four",
+"Five",
+"Six",
+"Three"
+],
+1,
+"Eye, ear, nose, tongue, skin."
+],
+[
+2,
+"The organ of sight is the:",
+[
+"Eye",
+"Ear",
+"Nose",
+"Skin"
+],
+0,
+"Eye."
+],
+[
+2,
+"The organ of hearing is the:",
+[
+"Eye",
+"Tongue",
+"Ear",
+"Nose"
+],
+2,
+"Ear."
+],
+[
+2,
+"The organ of smell is the:",
+[
+"Ear",
+"Tongue",
+"Eye",
+"Nose"
+],
+3,
+"Nose."
+],
+[
+2,
+"The organ of taste is the:",
+[
+"Nose",
+"Tongue",
+"Skin",
+"Ear"
+],
+1,
+"Tongue."
+],
+[
+2,
+"The largest sense organ of the body is the:",
+[
+"Eye",
+"Ear",
+"Skin",
+"Tongue"
+],
+2,
+"Skin."
+],
+[
+2,
+"The coloured part of the eye is the:",
+[
+"Pupil",
+"Iris",
+"Retina",
+"Lens"
+],
+1,
+"Iris."
+],
+[
+2,
+"The image in the eye is formed on the:",
+[
+"Cornea",
+"Iris",
+"Pupil",
+"Retina"
+],
+3,
+"Retina."
+],
+[
+2,
+"Taste buds are found on the:",
+[
+"Nose",
+"Tongue",
+"Ear",
+"Skin"
+],
+1,
+"Tongue."
+],
+[
+2,
+"The eardrum vibrates when ___ waves strike it.",
+[
+"Light",
+"Heat",
+"Sound",
+"Radio"
+],
+2,
+"Hearing."
+],
+[
+3,
+"Plants make food by the process of:",
+[
+"Respiration",
+"Transpiration",
+"Photosynthesis",
+"Digestion"
+],
+2,
+"Photosynthesis."
+],
+[
+3,
+"Photosynthesis requires carbon dioxide, water and:",
+[
+"Sunlight",
+"Oxygen",
+"Glucose",
+"Nitrogen"
+],
+0,
+"Light energy."
+],
+[
+3,
+"The gas released during photosynthesis is:",
+[
+"Carbon dioxide",
+"Oxygen",
+"Nitrogen",
+"Hydrogen"
+],
+1,
+"O₂."
+],
+[
+3,
+"The food made in photosynthesis is:",
+[
+"Protein",
+"Fat",
+"Glucose",
+"Vitamin"
+],
+2,
+"Sugar."
+],
+[
+3,
+"Respiration releases:",
+[
+"Chlorophyll",
+"Sunlight",
+"Energy",
+"Soil"
+],
+2,
+"Energy from food."
+],
+[
+3,
+"In respiration, glucose is broken down using:",
+[
+"Nitrogen",
+"Oxygen",
+"Carbon dioxide only",
+"Water only"
+],
+1,
+"Aerobic respiration."
+],
+[
+3,
+"The tiny pores on leaves are called:",
+[
+"Roots",
+"Veins",
+"Stomata",
+"Xylem"
+],
+2,
+"Stomata."
+],
+[
+3,
+"Loss of water vapour from leaves is called:",
+[
+"Photosynthesis",
+"Respiration",
+"Transpiration",
+"Germination"
+],
+2,
+"Transpiration."
+],
+[
+3,
+"Starch in a leaf is tested with:",
+[
+"Iodine solution",
+"Water",
+"Salt",
+"Vinegar"
+],
+0,
+"Turns blue-black."
+],
+[
+3,
+"Respiration produces carbon dioxide, water and:",
+[
+"Oxygen",
+"Glucose",
+"Energy",
+"Chlorophyll"
+],
+2,
+"Products."
+],
+[
+4,
+"The interaction of living things with each other and their surroundings is studied in:",
+[
+"Ecology",
+"Geology",
+"Astronomy",
+"Physics"
+],
+0,
+"Ecology."
+],
+[
+4,
+"A food web is made of many interconnected:",
+[
+"Cells",
+"Atoms",
+"Food chains",
+"Organs"
+],
+2,
+"Food web."
+],
+[
+4,
+"Lions and tigers are:",
+[
+"Herbivores",
+"Producers",
+"Carnivores",
+"Decomposers"
+],
+2,
+"Meat eaters."
+],
+[
+4,
+"Bacteria and fungi in an ecosystem act as:",
+[
+"Decomposers",
+"Producers",
+"Herbivores",
+"Carnivores"
+],
+0,
+"Decomposers."
+],
+[
+4,
+"A relationship where both organisms benefit is called:",
+[
+"Parasitism",
+"Predation",
+"Competition",
+"Mutualism"
+],
+3,
+"Mutualism."
+],
+[
+4,
+"A relationship where one organism benefits and the other is harmed is:",
+[
+"Parasitism",
+"Mutualism",
+"Commensalism",
+"Predation only"
+],
+0,
+"Parasitism."
+],
+[
+4,
+"Non-living components of an ecosystem include:",
+[
+"Plants",
+"Water, air and sunlight",
+"Animals",
+"Bacteria"
+],
+1,
+"Abiotic factors."
+],
+[
+4,
+"A group of the same species living in an area is a:",
+[
+"Population",
+"Community",
+"Ecosystem",
+"Biosphere"
+],
+0,
+"Population."
+],
+[
+4,
+"Energy flows in a food chain from:",
+[
+"Consumers to producers",
+"Decomposers to producers",
+"Producers to consumers",
+"Sun to soil only"
+],
+2,
+"Direction of energy."
+],
+[
+4,
+"The first link in a food chain is always a:",
+[
+"Carnivore",
+"Herbivore",
+"Decomposer",
+"Producer"
+],
+3,
+"Green plant."
+],
+[
+5,
+"The smallest particle of an element that can take part in a chemical reaction is an:",
+[
+"Molecule",
+"Compound",
+"Atom",
+"Mixture"
+],
+2,
+"Atom."
+],
+[
+5,
+"Two or more atoms chemically combined form a:",
+[
+"Molecule",
+"Mixture",
+"Element",
+"Ion only"
+],
+0,
+"Molecule."
+],
+[
+5,
+"A substance made of only one kind of atom is an:",
+[
+"Compound",
+"Element",
+"Mixture",
+"Solution"
+],
+1,
+"Element."
+],
+[
+5,
+"Water (H₂O) is a:",
+[
+"Compound",
+"Element",
+"Mixture",
+"Metal"
+],
+0,
+"Compound."
+],
+[
+5,
+"Air is a:",
+[
+"Compound",
+"Mixture",
+"Element",
+"Metal"
+],
+1,
+"Mixture of gases."
+],
+[
+5,
+"The symbol of oxygen is:",
+[
+"Ox",
+"Og",
+"Om",
+"O"
+],
+3,
+"O."
+],
+[
+5,
+"The symbol of sodium is:",
+[
+"S",
+"Na",
+"So",
+"Sd"
+],
+1,
+"Natrium."
+],
+[
+5,
+"The symbol of iron is:",
+[
+"Fe",
+"I",
+"Ir",
+"In"
+],
+0,
+"Ferrum."
+],
+[
+5,
+"Components of a mixture can be separated by:",
+[
+"Chemical reactions only",
+"Burning",
+"Physical methods",
+"Never"
+],
+2,
+"Physical separation."
+],
+[
+5,
+"Sand and water can be separated by:",
+[
+"Filtration",
+"Evaporation",
+"Magnetism",
+"Distillation only"
+],
+0,
+"Filtration."
+],
+[
+5,
+"Iron filings can be separated from sand using a:",
+[
+"Filter",
+"Sieve only",
+"Magnet",
+"Funnel"
+],
+2,
+"Magnetic separation."
+],
+[
+6,
+"The most abundant gas in air is:",
+[
+"Oxygen",
+"Nitrogen",
+"Carbon dioxide",
+"Argon"
+],
+1,
+"About 78%."
+],
+[
+6,
+"The percentage of oxygen in air is about:",
+[
+"21%",
+"78%",
+"1%",
+"50%"
+],
+0,
+"Oxygen."
+],
+[
+6,
+"The gas necessary for burning is:",
+[
+"Oxygen",
+"Nitrogen",
+"Carbon dioxide",
+"Helium"
+],
+0,
+"Supports combustion."
+],
+[
+6,
+"The gas used by plants in photosynthesis is:",
+[
+"Oxygen",
+"Carbon dioxide",
+"Nitrogen",
+"Argon"
+],
+1,
+"CO₂."
+],
+[
+6,
+"Lime water turns milky in the presence of:",
+[
+"Oxygen",
+"Nitrogen",
+"Hydrogen",
+"Carbon dioxide"
+],
+3,
+"Test for CO₂."
+],
+[
+6,
+"Air pressure is measured by a:",
+[
+"Barometer",
+"Thermometer",
+"Hygrometer",
+"Ammeter"
+],
+0,
+"Barometer."
+],
+[
+6,
+"Air has:",
+[
+"Mass and occupies space",
+"No mass",
+"No volume",
+"No weight"
+],
+0,
+"Air is matter."
+],
+[
+6,
+"Burning of fuels adds ___ to the air.",
+[
+"Oxygen",
+"Nitrogen",
+"Carbon dioxide",
+"Ozone"
+],
+2,
+"Combustion product."
+],
+[
+6,
+"Water vapour in the air causes:",
+[
+"Humidity",
+"Pressure only",
+"Wind",
+"Gravity"
+],
+0,
+"Humidity."
+],
+[
+6,
+"Inert gases in air include:",
+[
+"Oxygen",
+"Argon",
+"Nitrogen",
+"Carbon dioxide"
+],
+1,
+"Noble gas."
+],
+[
+7,
+"A mixture in which the solute dissolves completely is a:",
+[
+"Suspension",
+"Colloid",
+"Solution",
+"Precipitate"
+],
+2,
+"Solution."
+],
+[
+7,
+"In a sugar solution, sugar is the:",
+[
+"Solvent",
+"Suspension",
+"Solute",
+"Precipitate"
+],
+2,
+"Solute dissolves."
+],
+[
+7,
+"In a salt solution, water is the:",
+[
+"Solute",
+"Suspension",
+"Solvent",
+"Mixture only"
+],
+2,
+"Solvent dissolves."
+],
+[
+7,
+"Water is called the universal solvent because it:",
+[
+"Is hot",
+"Is cold",
+"Is coloured",
+"Dissolves many substances"
+],
+3,
+"Universal solvent."
+],
+[
+7,
+"A mixture in which particles settle down on standing is a:",
+[
+"Solution",
+"Suspension",
+"Compound",
+"Element"
+],
+1,
+"Suspension."
+],
+[
+7,
+"Muddy water is an example of a:",
+[
+"Suspension",
+"Solution",
+"Element",
+"Compound"
+],
+0,
+"Suspension."
+],
+[
+7,
+"A solution that cannot dissolve more solute at a given temperature is:",
+[
+"Saturated",
+"Unsaturated",
+"Dilute",
+"Diluted"
+],
+0,
+"Saturated."
+],
+[
+7,
+"Solubility of most solids increases with:",
+[
+"Pressure",
+"Temperature",
+"Colour",
+"Light"
+],
+1,
+"Heating."
+],
+[
+7,
+"A solution with a small amount of solute is called:",
+[
+"Concentrated",
+"Dilute",
+"Saturated",
+"Supersaturated"
+],
+1,
+"Dilute."
+],
+[
+7,
+"Particles in a suspension can be removed by:",
+[
+"Shaking",
+"Heating only",
+"Filtration",
+"Freezing"
+],
+2,
+"Filtration."
+],
+[
+8,
+"The capacity to do work is called:",
+[
+"Energy",
+"Force",
+"Power",
+"Speed"
+],
+0,
+"Energy."
+],
+[
+8,
+"The unit of energy is:",
+[
+"Newton",
+"Watt",
+"Metre",
+"Joule"
+],
+3,
+"J."
+],
+[
+8,
+"Energy stored in food is:",
+[
+"Kinetic energy",
+"Chemical energy",
+"Sound energy",
+"Light energy"
+],
+1,
+"Chemical."
+],
+[
+8,
+"Energy of a moving object is:",
+[
+"Potential energy",
+"Chemical energy",
+"Kinetic energy",
+"Nuclear energy"
+],
+2,
+"K.E."
+],
+[
+8,
+"Energy stored in a stretched rubber band is:",
+[
+"Elastic potential energy",
+"Kinetic energy",
+"Heat energy",
+"Sound energy"
+],
+0,
+"Elastic P.E."
+],
+[
+8,
+"The main source of energy on Earth is the:",
+[
+"Moon",
+"Wind",
+"Sun",
+"Coal"
+],
+2,
+"Sun."
+],
+[
+8,
+"A torch converts chemical energy into:",
+[
+"Sound energy",
+"Kinetic energy",
+"Light energy",
+"Nuclear energy"
+],
+2,
+"Torch."
+],
+[
+8,
+"An electric fan converts electrical energy into:",
+[
+"Kinetic energy",
+"Light energy",
+"Chemical energy",
+"Heat only"
+],
+0,
+"Moving blades."
+],
+[
+8,
+"Water stored in a dam has:",
+[
+"Potential energy",
+"Kinetic energy only",
+"Chemical energy",
+"Sound energy"
+],
+0,
+"Height."
+],
+[
+8,
+"Energy can neither be created nor:",
+[
+"Destroyed",
+"Changed",
+"Used",
+"Measured"
+],
+0,
+"Conservation."
+],
+[
+9,
+"A push or pull acting on an object is:",
+[
+"Energy",
+"Force",
+"Work",
+"Power"
+],
+1,
+"Force."
+],
+[
+9,
+"Simple machines make our work:",
+[
+"Easier",
+"Harder",
+"Impossible",
+"Slower always"
+],
+0,
+"Machines."
+],
+[
+9,
+"A see-saw is an example of a:",
+[
+"Pulley",
+"Wheel and axle",
+"Screw",
+"Lever"
+],
+3,
+"Lever."
+],
+[
+9,
+"A ramp is an example of an:",
+[
+"Pulley",
+"Lever",
+"Wedge",
+"Inclined plane"
+],
+3,
+"Inclined plane."
+],
+[
+9,
+"A pulley is used to:",
+[
+"Cut wood",
+"Lift heavy loads",
+"Join things",
+"Measure mass"
+],
+1,
+"Pulley."
+],
+[
+9,
+"An axe is an example of a:",
+[
+"Lever",
+"Pulley",
+"Wedge",
+"Screw"
+],
+2,
+"Wedge."
+],
+[
+9,
+"The fixed point about which a lever turns is the:",
+[
+"Fulcrum",
+"Load",
+"Effort",
+"Axle"
+],
+0,
+"Fulcrum."
+],
+[
+9,
+"Friction can be reduced by using:",
+[
+"Sand",
+"Rough surfaces",
+"Glue",
+"Lubricants (oil, grease)"
+],
+3,
+"Lubrication."
+],
+[
+9,
+"The unit of force is:",
+[
+"Newton",
+"Joule",
+"Watt",
+"Pascal"
+],
+0,
+"N."
+],
+[
+9,
+"A screwdriver turning a screw uses the principle of:",
+[
+"Inclined plane only",
+"Pulley",
+"Wedge",
+"Wheel and axle"
+],
+3,
+"Wheel and axle."
+],
+[
+10,
+"Light travels in:",
+[
+"Curves",
+"Circles",
+"Zigzags",
+"Straight lines"
+],
+3,
+"Rectilinear."
+],
+[
+10,
+"The speed of light in vacuum is about:",
+[
+"3 × 10⁸ m/s",
+"3 × 10⁵ m/s",
+"340 m/s",
+"1,500 m/s"
+],
+0,
+"Speed of light."
+],
+[
+10,
+"A mirror reflects light because it has a:",
+[
+"Smooth shiny surface",
+"Rough surface",
+"Dark surface",
+"Soft surface"
+],
+0,
+"Regular reflection."
+],
+[
+10,
+"The angle of incidence equals the angle of:",
+[
+"Refraction",
+"Dispersion",
+"Reflection",
+"Absorption"
+],
+2,
+"Law of reflection."
+],
+[
+10,
+"Bending of light when it passes from one medium to another is:",
+[
+"Reflection",
+"Refraction",
+"Dispersion",
+"Scattering"
+],
+1,
+"Refraction."
+],
+[
+10,
+"A shadow is formed by an:",
+[
+"Transparent object",
+"Opaque object",
+"Mirror",
+"Lens"
+],
+1,
+"Opaque."
+],
+[
+10,
+"White light is made of ___ colours.",
+[
+"Three",
+"Seven",
+"Five",
+"Two"
+],
+1,
+"Rainbow colours."
+],
+[
+10,
+"Splitting of white light into colours is called:",
+[
+"Reflection",
+"Refraction only",
+"Dispersion",
+"Absorption"
+],
+2,
+"Dispersion."
+],
+[
+10,
+"Objects that emit light are called:",
+[
+"Non-luminous",
+"Opaque",
+"Luminous",
+"Translucent"
+],
+2,
+"Luminous."
+],
+[
+10,
+"Image in a plane mirror is:",
+[
+"Laterally inverted",
+"Upside down",
+"Larger",
+"Smaller"
+],
+0,
+"Left–right reversed."
+],
+[
+11,
+"Sound is produced by:",
+[
+"Still objects",
+"Light",
+"Vibrating objects",
+"Magnets"
+],
+2,
+"Vibration."
+],
+[
+11,
+"Sound needs a ___ to travel.",
+[
+"Medium",
+"Vacuum",
+"Light",
+"Mirror"
+],
+0,
+"Solid, liquid or gas."
+],
+[
+11,
+"Sound travels fastest in:",
+[
+"Solids",
+"Liquids",
+"Gases",
+"Vacuum"
+],
+0,
+"Close particles."
+],
+[
+11,
+"The speed of sound in air is about:",
+[
+"3 × 10⁸ m/s",
+"340 m/s",
+"34 m/s",
+"3,400 m/s"
+],
+1,
+"At room temperature."
+],
+[
+11,
+"The loudness of sound depends on its:",
+[
+"Frequency",
+"Speed",
+"Amplitude",
+"Colour"
+],
+2,
+"Amplitude."
+],
+[
+11,
+"The pitch of sound depends on its:",
+[
+"Amplitude",
+"Frequency",
+"Loudness",
+"Speed"
+],
+1,
+"Frequency."
+],
+[
+11,
+"An echo is the ___ of sound.",
+[
+"Refraction",
+"Absorption",
+"Reflection",
+"Dispersion"
+],
+2,
+"Echo."
+],
+[
+11,
+"The unit of frequency is:",
+[
+"Decibel",
+"Newton",
+"Joule",
+"Hertz"
+],
+3,
+"Hz."
+],
+[
+11,
+"Unwanted, unpleasant sound is called:",
+[
+"Music",
+"Noise",
+"Echo",
+"Pitch"
+],
+1,
+"Noise."
+],
+[
+11,
+"Humans can hear sounds with frequencies between:",
+[
+"1 Hz and 10 Hz",
+"20 Hz and 20,000 Hz",
+"50,000 Hz and 100,000 Hz",
+"0 Hz only"
+],
+1,
+"Audible range."
+],
+[
+12,
+"An object that revolves around a planet is called a:",
+[
+"Star",
+"Comet",
+"Satellite",
+"Galaxy"
+],
+2,
+"Satellite."
+],
+[
+12,
+"The Moon is the ___ satellite of the Earth.",
+[
+"Artificial",
+"Man-made",
+"Natural",
+"Second"
+],
+2,
+"Natural satellite."
+],
+[
+12,
+"The Earth revolves around the Sun in about:",
+[
+"24 hours",
+"365¼ days",
+"30 days",
+"7 days"
+],
+1,
+"One year."
+],
+[
+12,
+"The Sun is a:",
+[
+"Planet",
+"Star",
+"Satellite",
+"Comet"
+],
+1,
+"Star."
+],
+[
+12,
+"The number of planets in our solar system is:",
+[
+"Nine",
+"Eight",
+"Seven",
+"Ten"
+],
+1,
+"Eight."
+],
+[
+12,
+"The planet with prominent rings is:",
+[
+"Mars",
+"Mercury",
+"Saturn",
+"Venus"
+],
+2,
+"Saturn."
+],
+[
+12,
+"The hottest planet in the solar system is:",
+[
+"Mercury",
+"Venus",
+"Mars",
+"Jupiter"
+],
+1,
+"Thick CO₂ atmosphere."
+],
+[
+12,
+"Artificial satellites are launched by:",
+[
+"Aeroplanes",
+"Balloons",
+"Helicopters",
+"Rockets"
+],
+3,
+"Rockets."
+],
+[
+12,
+"GPS works with the help of:",
+[
+"Submarines",
+"Trains",
+"Satellites",
+"Ships only"
+],
+2,
+"Global Positioning System."
+],
+[
+12,
+"A group of stars forming a pattern is a:",
+[
+"Galaxy",
+"Constellation",
+"Planet",
+"Comet"
+],
+1,
+"Constellation."
+]
+]

@@ -1,0 +1,1082 @@
+[
+[
+1,
+"The SI unit of mass is:",
+[
+"Kilogram",
+"Gram",
+"Newton",
+"Pound"
+],
+0,
+"Base unit."
+],
+[
+1,
+"How many base quantities are there in SI?",
+[
+"Five",
+"Six",
+"Seven",
+"Nine"
+],
+2,
+"Seven base quantities."
+],
+[
+1,
+"Which is a derived quantity?",
+[
+"Length",
+"Mass",
+"Speed",
+"Time"
+],
+2,
+"Speed = distance/time."
+],
+[
+1,
+"The prefix 'micro' stands for:",
+[
+"10⁻³",
+"10⁶",
+"10⁻⁶",
+"10⁻⁹"
+],
+2,
+"Micro."
+],
+[
+1,
+"The prefix 'mega' stands for:",
+[
+"10⁶",
+"10³",
+"10⁹",
+"10⁻⁶"
+],
+0,
+"Mega."
+],
+[
+1,
+"The least count of a metre rule is:",
+[
+"1 cm",
+"0.1 mm",
+"1 mm",
+"0.01 mm"
+],
+2,
+"Smallest division."
+],
+[
+1,
+"The least count of a vernier caliper is usually:",
+[
+"1 mm",
+"0.01 mm",
+"0.1 mm",
+"1 cm"
+],
+2,
+"Vernier."
+],
+[
+1,
+"The least count of a micrometer screw gauge is usually:",
+[
+"0.01 mm",
+"0.1 mm",
+"1 mm",
+"0.001 mm"
+],
+0,
+"Screw gauge."
+],
+[
+1,
+"The number of significant figures in 0.0450 is:",
+[
+"3",
+"4",
+"2",
+"5"
+],
+0,
+"Leading zeros don't count."
+],
+[
+1,
+"Scientific notation of 0.0005 is:",
+[
+"5 × 10⁴",
+"5 × 10⁻⁴",
+"0.5 × 10⁻³",
+"50 × 10⁻⁵"
+],
+1,
+"Standard form."
+],
+[
+2,
+"A quantity having both magnitude and direction is a:",
+[
+"Scalar",
+"Vector",
+"Constant",
+"Unit"
+],
+1,
+"Vector."
+],
+[
+2,
+"Which is a scalar quantity?",
+[
+"Velocity",
+"Displacement",
+"Acceleration",
+"Speed"
+],
+3,
+"Speed has no direction."
+],
+[
+2,
+"The rate of change of velocity is:",
+[
+"Speed",
+"Displacement",
+"Acceleration",
+"Distance"
+],
+2,
+"Acceleration."
+],
+[
+2,
+"The SI unit of acceleration is:",
+[
+"m/s",
+"m",
+"m/s²",
+"N"
+],
+2,
+"Unit."
+],
+[
+2,
+"The area under a velocity–time graph gives:",
+[
+"Acceleration",
+"Speed",
+"Force",
+"Distance"
+],
+3,
+"Area = distance."
+],
+[
+2,
+"The slope of a distance–time graph gives:",
+[
+"Acceleration",
+"Speed",
+"Force",
+"Distance"
+],
+1,
+"Slope = speed."
+],
+[
+2,
+"The first equation of motion is:",
+[
+"S = vit + ½at²",
+"2aS = vf² − vi²",
+"F = ma",
+"vf = vi + at"
+],
+3,
+"Equations of motion."
+],
+[
+2,
+"A body starting from rest has initial velocity:",
+[
+"0",
+"1 m/s",
+"9.8 m/s",
+"Infinite"
+],
+0,
+"At rest."
+],
+[
+2,
+"The value of g near the Earth's surface is about:",
+[
+"9.8 km/s²",
+"10 m/s²",
+"1 m/s²",
+"100 m/s²"
+],
+1,
+"g ≈ 9.8 m/s²."
+],
+[
+2,
+"Shortest distance between two points in a particular direction is:",
+[
+"Distance",
+"Displacement",
+"Speed",
+"Path"
+],
+1,
+"Displacement."
+],
+[
+3,
+"Newton's first law is also called the law of:",
+[
+"Acceleration",
+"Inertia",
+"Action–reaction",
+"Gravitation"
+],
+1,
+"Inertia."
+],
+[
+3,
+"F = ma is Newton's:",
+[
+"First law",
+"Second law",
+"Third law",
+"Law of gravitation"
+],
+1,
+"Second law."
+],
+[
+3,
+"For every action there is an equal and opposite:",
+[
+"Force",
+"Motion",
+"Reaction",
+"Momentum"
+],
+2,
+"Third law."
+],
+[
+3,
+"Momentum =",
+[
+"Mass × Acceleration",
+"Force × Time",
+"Mass × Velocity",
+"Mass ÷ Velocity"
+],
+2,
+"p = mv."
+],
+[
+3,
+"The SI unit of momentum is:",
+[
+"kg m/s",
+"N",
+"kg m/s²",
+"J"
+],
+0,
+"Unit."
+],
+[
+3,
+"1 newton equals:",
+[
+"1 kg m/s",
+"1 J",
+"1 kg m/s²",
+"1 W"
+],
+2,
+"Definition."
+],
+[
+3,
+"Friction always ___ motion.",
+[
+"Helps",
+"Increases",
+"Opposes",
+"Doesn't affect"
+],
+2,
+"Friction."
+],
+[
+3,
+"Rolling friction is ___ than sliding friction.",
+[
+"More",
+"Equal",
+"Less",
+"Double"
+],
+2,
+"Wheels reduce friction."
+],
+[
+3,
+"The force needed to keep a body moving in a circle is:",
+[
+"Centripetal force",
+"Centrifugal force",
+"Friction",
+"Tension only"
+],
+0,
+"Towards centre."
+],
+[
+3,
+"Weight =",
+[
+"mg",
+"m/g",
+"g/m",
+"m + g"
+],
+0,
+"Weight formula."
+],
+[
+4,
+"The turning effect of a force is called:",
+[
+"Torque",
+"Momentum",
+"Pressure",
+"Work"
+],
+0,
+"Moment of force."
+],
+[
+4,
+"Torque =",
+[
+"Force × time",
+"Mass × velocity",
+"Force ÷ distance",
+"Force × moment arm"
+],
+3,
+"τ = F × d."
+],
+[
+4,
+"The SI unit of torque is:",
+[
+"N",
+"J",
+"N m",
+"W"
+],
+2,
+"Newton-metre."
+],
+[
+4,
+"A body is in equilibrium if the net force and net ___ are zero.",
+[
+"Mass",
+"Velocity",
+"Energy",
+"Torque"
+],
+3,
+"Two conditions."
+],
+[
+4,
+"The point where the whole weight of a body acts is the:",
+[
+"Centre of mass only",
+"Centre of gravity",
+"Pivot",
+"Fulcrum"
+],
+1,
+"C.G."
+],
+[
+4,
+"Stability of a body increases when its centre of gravity is:",
+[
+"Higher",
+"Lower",
+"Outside",
+"At the top"
+],
+1,
+"Lower C.G."
+],
+[
+4,
+"Two equal and opposite parallel forces acting on a body form a:",
+[
+"Torque arm",
+"Lever",
+"Couple",
+"Pulley"
+],
+2,
+"Couple."
+],
+[
+4,
+"A door handle is fixed far from the hinge to:",
+[
+"Increase torque",
+"Decrease torque",
+"Increase friction",
+"Look nice"
+],
+0,
+"Larger moment arm."
+],
+[
+4,
+"The principle of moments states that for equilibrium, clockwise moments equal:",
+[
+"Zero",
+"Anticlockwise moments",
+"Weight",
+"Mass"
+],
+1,
+"Principle of moments."
+],
+[
+4,
+"A body that returns to its original position after being slightly tilted is in:",
+[
+"Unstable equilibrium",
+"Neutral equilibrium",
+"No equilibrium",
+"Stable equilibrium"
+],
+3,
+"Stable."
+],
+[
+5,
+"Newton's law of gravitation: force is proportional to the product of masses and inversely to:",
+[
+"Distance",
+"Cube of distance",
+"Mass only",
+"Square of distance"
+],
+3,
+"Inverse square law."
+],
+[
+5,
+"The value of G is:",
+[
+"9.8 m/s²",
+"3 × 10⁸ m/s",
+"1.6 × 10⁻¹⁹ C",
+"6.67 × 10⁻¹¹ N m²/kg²"
+],
+3,
+"Gravitational constant."
+],
+[
+5,
+"The value of g decreases with:",
+[
+"Mass of body",
+"Altitude",
+"Speed",
+"Time"
+],
+1,
+"Higher = smaller g."
+],
+[
+5,
+"The mass of an object on the Moon compared to Earth is:",
+[
+"Less",
+"More",
+"Zero",
+"The same"
+],
+3,
+"Mass doesn't change."
+],
+[
+5,
+"Weight of an object on the Moon is about ___ of that on Earth.",
+[
+"1/2",
+"1/6",
+"6 times",
+"Equal"
+],
+1,
+"Moon's gravity."
+],
+[
+5,
+"Satellites revolve around the Earth due to:",
+[
+"Magnetic force",
+"Friction",
+"Air resistance",
+"Gravitational force"
+],
+3,
+"Gravity provides centripetal force."
+],
+[
+5,
+"Geostationary satellites have a period of:",
+[
+"12 hours",
+"1 hour",
+"24 hours",
+"365 days"
+],
+2,
+"Same as Earth's rotation."
+],
+[
+5,
+"The orbital speed of a satellite depends on:",
+[
+"Its colour",
+"Its mass mainly",
+"Its shape",
+"Its height above the Earth"
+],
+3,
+"v = √(GM/r)."
+],
+[
+5,
+"Mass of the Earth can be found using:",
+[
+"Ohm's law",
+"Hooke's law",
+"Law of gravitation",
+"Archimedes' principle"
+],
+2,
+"M = gR²/G."
+],
+[
+5,
+"Gravitational force between two masses is always:",
+[
+"Repulsive",
+"Zero",
+"Attractive",
+"Variable sign"
+],
+2,
+"Attraction only."
+],
+[
+6,
+"Work =",
+[
+"Force × time",
+"Force × displacement (in direction of force)",
+"Mass × velocity",
+"Force ÷ distance"
+],
+1,
+"W = Fd."
+],
+[
+6,
+"The SI unit of work is:",
+[
+"Watt",
+"Joule",
+"Newton",
+"Pascal"
+],
+1,
+"J."
+],
+[
+6,
+"Kinetic energy =",
+[
+"mgh",
+"mv",
+"Fd",
+"½mv²"
+],
+3,
+"K.E."
+],
+[
+6,
+"Potential energy =",
+[
+"mgh",
+"½mv²",
+"mv",
+"ma"
+],
+0,
+"P.E."
+],
+[
+6,
+"Power =",
+[
+"Work × time",
+"Force × mass",
+"Work ÷ time",
+"Energy × time"
+],
+2,
+"P = W/t."
+],
+[
+6,
+"The SI unit of power is:",
+[
+"Watt",
+"Joule",
+"Newton",
+"Volt"
+],
+0,
+"W."
+],
+[
+6,
+"1 horsepower equals about:",
+[
+"100 W",
+"1,000 W",
+"500 W",
+"746 W"
+],
+3,
+"hp."
+],
+[
+6,
+"Efficiency =",
+[
+"Input ÷ output",
+"(Useful output ÷ total input) × 100%",
+"Output × input",
+"Work × time"
+],
+1,
+"Efficiency."
+],
+[
+6,
+"No machine can have efficiency of:",
+[
+"100% or more",
+"50%",
+"80%",
+"20%"
+],
+0,
+"Some energy is wasted."
+],
+[
+6,
+"Energy obtained from the heat of Earth's interior is:",
+[
+"Solar energy",
+"Tidal energy",
+"Wind energy",
+"Geothermal energy"
+],
+3,
+"Geothermal."
+],
+[
+7,
+"Density =",
+[
+"Volume ÷ Mass",
+"Mass × Volume",
+"Mass ÷ Volume",
+"Weight × Volume"
+],
+2,
+"ρ = m/V."
+],
+[
+7,
+"The SI unit of density is:",
+[
+"kg/m²",
+"g",
+"N/m",
+"kg/m³"
+],
+3,
+"Unit."
+],
+[
+7,
+"Pressure =",
+[
+"Force × Area",
+"Force ÷ Area",
+"Mass ÷ Area",
+"Area ÷ Force"
+],
+1,
+"P = F/A."
+],
+[
+7,
+"Pascal's law is applied in:",
+[
+"Thermometers",
+"Telescopes",
+"Hydraulic press and brakes",
+"Electric motors"
+],
+2,
+"Pascal's law."
+],
+[
+7,
+"Archimedes' principle relates to:",
+[
+"Pressure in gases only",
+"Upthrust on immersed bodies",
+"Elasticity",
+"Heat"
+],
+1,
+"Buoyancy."
+],
+[
+7,
+"A body floats if its density is ___ the liquid's density.",
+[
+"Greater than",
+"Equal to twice",
+"Not related to",
+"Less than"
+],
+3,
+"Floating."
+],
+[
+7,
+"Hooke's law states that stress is proportional to strain within the:",
+[
+"Breaking point",
+"Elastic limit",
+"Plastic region",
+"Yield point only"
+],
+1,
+"Hooke's law."
+],
+[
+7,
+"Atmospheric pressure at sea level is about:",
+[
+"1,000 Pa",
+"10 Pa",
+"101,300 Pa",
+"1 Pa"
+],
+2,
+"≈ 1 atm."
+],
+[
+7,
+"The instrument used to measure atmospheric pressure is a:",
+[
+"Barometer",
+"Manometer",
+"Hydrometer",
+"Ammeter"
+],
+0,
+"Barometer."
+],
+[
+7,
+"Ice floats on water because ice is:",
+[
+"Denser than water",
+"Less dense than water",
+"Heavier",
+"Colder only"
+],
+1,
+"Density."
+],
+[
+8,
+"Temperature is a measure of:",
+[
+"Total heat",
+"Average kinetic energy of molecules",
+"Mass",
+"Volume"
+],
+1,
+"Temperature."
+],
+[
+8,
+"The SI unit of temperature is:",
+[
+"Celsius",
+"Kelvin",
+"Fahrenheit",
+"Joule"
+],
+1,
+"K."
+],
+[
+8,
+"Specific heat capacity of water is about:",
+[
+"420 J/kg K",
+"42 J/kg K",
+"4,200 J/kg K",
+"42,000 J/kg K"
+],
+2,
+"High specific heat."
+],
+[
+8,
+"Heat needed to change a solid into liquid at constant temperature is:",
+[
+"Latent heat of vaporisation",
+"Latent heat of fusion",
+"Specific heat",
+"Heat capacity"
+],
+1,
+"Fusion."
+],
+[
+8,
+"Evaporation causes:",
+[
+"Heating",
+"Cooling",
+"No change",
+"Freezing always"
+],
+1,
+"Evaporation cools."
+],
+[
+8,
+"Linear expansion depends on original length and:",
+[
+"Colour",
+"Mass only",
+"Pressure",
+"Temperature change"
+],
+3,
+"ΔL = αLΔT."
+],
+[
+8,
+"Absolute zero is:",
+[
+"0 K (−273 °C)",
+"0 °C",
+"−100 °C",
+"273 °C"
+],
+0,
+"Lowest temperature."
+],
+[
+8,
+"Water is used in car radiators because of its high:",
+[
+"Specific heat capacity",
+"Density",
+"Viscosity",
+"Conductivity only"
+],
+0,
+"Absorbs much heat."
+],
+[
+8,
+"Boiling point of water decreases at:",
+[
+"Sea level",
+"Under pressure",
+"Higher altitudes",
+"Below sea level"
+],
+2,
+"Lower pressure."
+],
+[
+8,
+"Heat capacity = mass × ___",
+[
+"Temperature",
+"Volume",
+"Specific heat capacity",
+"Density"
+],
+2,
+"C = mc."
+],
+[
+9,
+"Heat transfer through solids is mainly by:",
+[
+"Convection",
+"Radiation",
+"Conduction",
+"Evaporation"
+],
+2,
+"Conduction."
+],
+[
+9,
+"Heat transfer in fluids is mainly by:",
+[
+"Conduction",
+"Convection",
+"Radiation",
+"Reflection"
+],
+1,
+"Convection."
+],
+[
+9,
+"Heat from the Sun reaches us by:",
+[
+"Radiation",
+"Convection",
+"Conduction",
+"Evaporation"
+],
+0,
+"No medium."
+],
+[
+9,
+"Good absorbers of radiation are also good:",
+[
+"Reflectors",
+"Insulators",
+"Conductors",
+"Emitters"
+],
+3,
+"Black body."
+],
+[
+9,
+"Sea breeze blows from:",
+[
+"Sea to land during the day",
+"Land to sea during day",
+"Land to sea at night only",
+"Mountain to valley"
+],
+0,
+"Day."
+],
+[
+9,
+"Greenhouse effect traps:",
+[
+"Visible light only",
+"Infrared radiation",
+"Sound",
+"Ultraviolet only"
+],
+1,
+"Greenhouse effect."
+],
+[
+9,
+"A vacuum flask has a vacuum between its walls to stop:",
+[
+"Radiation only",
+"Conduction and convection",
+"Evaporation",
+"Reflection"
+],
+1,
+"Vacuum."
+],
+[
+9,
+"Metals are good conductors of heat because they have:",
+[
+"No electrons",
+"Large atoms",
+"Air gaps",
+"Free electrons"
+],
+3,
+"Free electrons."
+],
+[
+9,
+"Wool keeps us warm because it traps:",
+[
+"Air (an insulator)",
+"Water",
+"Light",
+"Heat sources"
+],
+0,
+"Air insulation."
+],
+[
+9,
+"Glider pilots use rising warm air called:",
+[
+"Thermals (convection currents)",
+"Breeze",
+"Jet streams",
+"Cyclones"
+],
+0,
+"Convection."
+]
+]

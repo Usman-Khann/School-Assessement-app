@@ -1,0 +1,324 @@
+#g9_general_science
+1|The word 'science' comes from the Latin word 'scientia' meaning:|Knowledge|Experiment|Nature|Machine|Scientia = knowledge.
+1|The scientific method begins with:|Observation|Conclusion|Theory|Law|First step.
+1|A tentative explanation that can be tested is called a:|Hypothesis|Law|Theory|Fact|Hypothesis.
+1|Al-Khwarizmi is famous for his work in:|Algebra|Medicine|Astronomy only|Chemistry|Father of algebra.
+1|Ibn al-Haytham is known for his work in:|Optics|Algebra|Botany|Geology|Father of optics.
+1|Jabir bin Hayyan is known as the father of:|Chemistry|Physics|Biology|Mathematics|Alchemy/chemistry.
+1|Ibn Sina wrote the famous medical book:|Al-Qanun fi al-Tibb|Al-Jabr|Kitab al-Manazir|Principia|The Canon of Medicine.
+1|Dr. Abdus Salam won the Nobel Prize in:|Physics|Chemistry|Peace|Medicine|1979, Physics.
+1|The branch of science that deals with living things is:|Biology|Physics|Chemistry|Geology|Bio = life.
+1|The branch of science that deals with matter and energy is:|Physics|Biology|Botany|Zoology|Physics.
+2|The smallest particle of an element is an:|Atom|Molecule|Compound|Mixture|Atom.
+2|Water is a:|Compound|Element|Mixture|Metal|H₂O.
+2|The chemical formula of common salt is:|NaCl|H₂O|CO₂|HCl|Sodium chloride.
+2|Soap is made by the reaction of oil/fat with:|Sodium hydroxide|Hydrochloric acid|Water only|Sugar|Saponification.
+2|The pH of pure water is:|7|1|14|0|Neutral.
+2|Acids turn blue litmus:|Red|Blue|Green|Yellow|Acid test.
+2|Bases turn red litmus:|Blue|Red|Yellow|Colourless|Base test.
+2|Which gas is produced when fuels burn completely?|Carbon dioxide|Oxygen|Hydrogen|Nitrogen|Combustion.
+2|Detergents are better than soap in:|Hard water|Soft water only|Oil|Air|Do not form scum.
+2|Fertilizers provide plants with:|Nutrients|Water only|Sunlight|Air only|NPK.
+2|The gas used in fire extinguishers is:|Carbon dioxide|Oxygen|Hydrogen|Methane|CO₂.
+3|Proteins are made up of:|Amino acids|Fatty acids|Glucose|Nucleotides|Building blocks.
+3|Carbohydrates are made of carbon, hydrogen and:|Oxygen|Nitrogen|Sulphur|Iron|CHO.
+3|Enzymes are biological:|Catalysts|Hormones|Vitamins|Minerals|Speed up reactions.
+3|DNA stands for:|Deoxyribonucleic acid|Dinitrogen acid|Dioxy nucleic acid|Double nucleic acid|Genetic material.
+3|The use of living organisms to make useful products is called:|Biotechnology|Geology|Astronomy|Ecology|Biotechnology.
+3|Insulin for diabetics is now produced using:|Genetically modified bacteria|Plants only|Coal|Petroleum|Genetic engineering.
+3|Yoghurt is made using:|Bacteria|Viruses|Algae|Ferns|Fermentation.
+3|Fermentation of sugar by yeast produces alcohol and:|Carbon dioxide|Oxygen|Nitrogen|Water only|Fermentation.
+3|Vitamins required in small amounts are called:|Micronutrients|Macronutrients|Carbohydrates|Fats|Small quantities.
+3|Glucose is a type of:|Carbohydrate|Protein|Fat|Vitamin|Simple sugar.
+3|Fats provide:|Most energy per gram|No energy|Only vitamins|Only minerals|Energy-rich.
+4|A balanced diet contains all nutrients in:|Proper amounts|Large amounts|Small amounts only|Fried form|Balanced diet.
+4|Lack of Vitamin D causes:|Rickets|Scurvy|Anaemia|Goitre|Weak bones.
+4|Lack of iodine causes:|Goitre|Rickets|Scurvy|Night blindness|Thyroid enlargement.
+4|Lack of Vitamin A causes:|Night blindness|Scurvy|Rickets|Beri-beri|Vision.
+4|Normal body temperature of a human is about:|37 °C|30 °C|42 °C|100 °C|98.6 °F.
+4|Regular exercise keeps the body:|Healthy|Weak|Tired|Sick|Benefits of exercise.
+4|Smoking mainly damages the:|Lungs|Bones|Hair|Nails|Lung disease.
+4|Drug addiction affects the:|Brain and whole body|Hair only|Nails only|Teeth only|Harmful.
+4|First aid is the:|Immediate help given to an injured person|Final treatment|Surgery|Medicine only|First aid.
+4|Clean drinking water prevents diseases like:|Cholera and typhoid|Diabetes|Cancer|Asthma|Water-borne diseases.
+5|Diseases caused by germs are called:|Infectious diseases|Deficiency diseases|Genetic diseases|Lifestyle diseases|Pathogens.
+5|Tuberculosis is caused by a:|Bacterium|Virus|Fungus|Worm|Mycobacterium.
+5|Polio is caused by a:|Virus|Bacterium|Fungus|Protozoan|Poliovirus.
+5|Malaria is caused by a:|Protozoan (Plasmodium)|Virus|Bacterium|Fungus|Plasmodium.
+5|Dengue fever is spread by:|Aedes mosquito|Housefly|Rats|Dogs|Aedes aegypti.
+5|Hepatitis mainly affects the:|Liver|Heart|Lungs|Kidneys|Hepat = liver.
+5|Vaccination provides:|Immunity|Disease|Pain|Allergy|Prevention.
+5|Diabetes is related to the hormone:|Insulin|Adrenaline|Thyroxine|Estrogen|Insulin.
+5|AIDS is caused by:|HIV|Bacteria|Fungi|Worms|Human Immunodeficiency Virus.
+5|Washing hands with soap helps prevent:|Spread of germs|Growth|Digestion|Sleep|Hygiene.
+#g10_general_science
+6|The sum of all living and non-living things around us is the:|Environment|Ecosystem only|Atmosphere|Hydrosphere|Environment.
+6|Resources that cannot be replaced once used are:|Non-renewable|Renewable|Inexhaustible|Biotic|e.g. coal.
+6|Which is a renewable resource?|Solar energy|Coal|Petroleum|Natural gas|Never runs out.
+6|Deforestation means:|Cutting down forests|Planting trees|Growing crops|Building dams|Loss of forests.
+6|The layer of gases surrounding the Earth is the:|Atmosphere|Lithosphere|Hydrosphere|Biosphere|Air.
+6|Ozone layer protects us from:|Ultraviolet rays|Rain|Wind|Visible light|UV radiation.
+6|Global warming is mainly caused by excess:|Carbon dioxide|Oxygen|Nitrogen|Argon|Greenhouse gas.
+6|Acid rain is caused by oxides of:|Sulphur and nitrogen|Oxygen only|Helium|Argon|SO₂ and NOx.
+6|Conservation means:|Careful use and protection of resources|Wasting resources|Selling resources|Burning resources|Conservation.
+6|Water part of the Earth is called the:|Hydrosphere|Lithosphere|Atmosphere|Biosphere|Hydro = water.
+6|The solid outer part of the Earth is the:|Lithosphere|Hydrosphere|Atmosphere|Stratosphere|Litho = stone.
+6|Planting trees on a large scale is called:|Afforestation|Deforestation|Erosion|Pollution|Afforestation.
+7|The ability to do work is called:|Energy|Power|Force|Pressure|Energy.
+7|The SI unit of energy is:|Joule|Watt|Newton|Pascal|J.
+7|Energy possessed by a body due to its motion is:|Kinetic energy|Potential energy|Heat energy|Chemical energy|K.E.
+7|Energy stored due to position is:|Potential energy|Kinetic energy|Sound energy|Light energy|P.E.
+7|Energy from the Sun is called:|Solar energy|Tidal energy|Nuclear energy|Geothermal energy|Solar.
+7|Energy obtained from the heat inside the Earth is:|Geothermal energy|Solar energy|Wind energy|Tidal energy|Geo = earth.
+7|Hydroelectric power is produced from:|Flowing water|Coal|Wind|Sunlight|Dams.
+7|A wind turbine changes wind energy into:|Electrical energy|Heat energy|Chemical energy|Sound|Wind power.
+7|Tarbela Dam is built on the River:|Indus|Jhelum|Chenab|Ravi|Tarbela on Indus.
+7|The rate of doing work is called:|Power|Energy|Force|Momentum|Power.
+7|Energy can be changed from one form to another but cannot be:|Created or destroyed|Used|Stored|Measured|Law of conservation.
+7|Coal, oil and natural gas are:|Fossil fuels|Renewable sources|Nuclear fuels|Biofuels only|Fossil fuels.
+8|The flow of electric charge is called:|Electric current|Voltage|Resistance|Power|Current.
+8|The SI unit of current is:|Ampere|Volt|Ohm|Watt|A.
+8|The SI unit of potential difference is:|Volt|Ampere|Ohm|Joule|V.
+8|The SI unit of resistance is:|Ohm|Volt|Ampere|Watt|Ω.
+8|Ohm's law is:|V = IR|V = I/R|P = VI only|R = VI|Ohm's law.
+8|An instrument used to measure current is:|Ammeter|Voltmeter|Thermometer|Barometer|Ammeter.
+8|An instrument used to measure voltage is:|Voltmeter|Ammeter|Galvanometer only|Odometer|Voltmeter.
+8|In a series circuit, the current is:|Same everywhere|Different in each resistor|Zero|Infinite|Series circuit.
+8|In a parallel circuit, the voltage across each branch is:|The same|Different|Zero|Double|Parallel circuit.
+8|A fuse protects a circuit from:|Excess current|Low voltage|Light|Sound|Safety device.
+8|The commercial unit of electrical energy is:|Kilowatt-hour|Joule|Watt|Volt|kWh.
+8|Electric power P equals:|VI|V/I|IR only|V + I|P = VI.
+9|A device that allows current to flow in one direction only is a:|Diode|Resistor|Capacitor|Transformer|Diode.
+9|Silicon and germanium are:|Semiconductors|Conductors|Insulators|Superconductors|Semiconductors.
+9|A transistor is mainly used as an:|Amplifier and switch|Insulator|Battery|Bulb|Transistor uses.
+9|The binary number system uses digits:|0 and 1|0 to 9|1 and 2|0 to 7|Binary.
+9|Logic gate that gives output 1 only when all inputs are 1 is:|AND gate|OR gate|NOT gate|NOR gate|AND.
+9|Logic gate that inverts the input is:|NOT gate|AND gate|OR gate|XOR gate|NOT.
+9|Logic gate that gives output 1 when any input is 1 is:|OR gate|AND gate|NOT gate|NAND gate|OR.
+9|Changing AC into DC is called:|Rectification|Amplification|Modulation|Induction|Rectifier.
+9|LED stands for:|Light Emitting Diode|Low Energy Device|Light Electric Display|Long Emitting Diode|LED.
+9|An integrated circuit (IC) is also called a:|Chip|Bulb|Fuse|Battery|Microchip.
+9|Electronics deals with the flow of:|Electrons in devices|Water|Air|Heat|Electronics.
+10|The use of science for practical purposes is:|Technology|Philosophy|History|Art|Technology.
+10|A computer's brain is the:|CPU|Monitor|Keyboard|Mouse|Central Processing Unit.
+10|Information sent through optical fibres travels as:|Light|Sound|Water|Electricity only|Optical fibre.
+10|Satellites are used for:|Communication and weather forecasting|Cooking|Farming only|Mining|Uses.
+10|Laser light is used in:|Surgery and communication|Cooking only|Painting|Swimming|Lasers.
+10|MRI is used in hospitals for:|Imaging internal body parts|Cooking|Cleaning|Heating|Medical imaging.
+10|Ultrasound is sound of frequency:|Above 20,000 Hz|Below 20 Hz|Exactly 1,000 Hz|Zero|Beyond hearing.
+10|The internet connects computers:|Worldwide|Only in one room|Only in one city|Only offline|Global network.
+10|Genetic engineering is a branch of:|Biotechnology|Geology|Astronomy|Mechanics|Biotechnology.
+10|E-mail stands for:|Electronic mail|Express mail|Emergency mail|Easy mail|Electronic mail.
+11|The study of space and heavenly bodies is called:|Astronomy|Astrology|Geology|Biology|Astronomy.
+11|Pakistan's space agency is called:|SUPARCO|NASA|ESA|ISRO|Space & Upper Atmosphere Research Commission.
+11|Pakistan became a nuclear power on:|28 May 1998|14 August 1947|6 September 1965|23 March 1940|Youm-e-Takbeer.
+11|The energy released by splitting heavy nuclei is called:|Nuclear fission|Nuclear fusion|Combustion|Radiation only|Fission.
+11|The energy of the Sun is produced by:|Nuclear fusion|Nuclear fission|Burning coal|Chemical reaction|Fusion of hydrogen.
+11|Uranium is used as a fuel in:|Nuclear reactors|Petrol engines|Solar panels|Wind turbines|Nuclear fuel.
+11|PAEC stands for:|Pakistan Atomic Energy Commission|Pakistan Agricultural Energy Council|Pakistan Air Engineering College|Pakistan Arts Education Centre|PAEC.
+11|The first Pakistani satellite Badr-1 was launched in:|1990|1947|1998|2011|July 1990.
+11|A device that keeps nuclear reaction under control is a:|Nuclear reactor|Bomb|Generator only|Battery|Reactor.
+11|Chashma Nuclear Power Plant is in:|Punjab|Sindh|Balochistan|KPK|Chashma, Mianwali.
+11|The Moon is a natural ___ of the Earth.|Satellite|Planet|Star|Comet|Satellite.
+11|Light year is a unit of:|Distance|Time|Speed|Mass|Distance light travels in a year.
+#g9_general_math
+1|25% of 80 is:|20|25|40|16|80 × 0.25.
+1|The ratio 8 : 12 in simplest form is:|2 : 3|3 : 2|4 : 6|1 : 2|Divide by 4.
+1|If 3 : 5 = x : 20, then x =|12|15|10|8|3 × 20 / 5.
+1|0.35 as a percentage is:|35%|3.5%|0.35%|350%|× 100.
+1|A price increased from Rs. 200 to Rs. 250. The percentage increase is:|25%|50%|20%|10%|50/200 × 100.
+1|If 5 workers do a job in 12 days, 10 workers will do it in:|6 days|24 days|12 days|10 days|Inverse proportion.
+1|The fourth proportional to 4, 6 and 10 is:|15|12|20|16|4 : 6 = 10 : x.
+1|Percent means per:|Hundred|Thousand|Ten|One|Per cent.
+1|2/5 as a percentage is:|40%|25%|20%|50%|2/5 × 100.
+1|If a : b = 2 : 3 and b : c = 3 : 4, then a : c =|1 : 2|4 : 3|3 : 4|2 : 3|2 : 4 = 1 : 2.
+2|The rate of Zakat on savings is:|2.5%|5%|10%|20%|One-fortieth.
+2|Nisab of gold for Zakat is:|7.5 tola|52.5 tola|10 tola|5 tola|Gold nisab.
+2|Nisab of silver for Zakat is:|52.5 tola|7.5 tola|40 tola|100 tola|Silver nisab.
+2|Zakat on Rs. 100,000 savings (above nisab) is:|Rs. 2,500|Rs. 5,000|Rs. 10,000|Rs. 25,000|2.5%.
+2|Ushr on produce of land irrigated by rain is:|10%|5%|2.5%|20%|One-tenth.
+2|Ushr on produce of land irrigated by artificial means is:|5%|10%|2.5%|20%|One-twentieth.
+2|Zakat is due when wealth remains for:|One lunar year|One month|One week|Five years|Hawl.
+2|Inheritance in Islam is distributed according to:|Islamic law of inheritance (Quran)|Choice of eldest son|Equal shares always|Government only|Faraid.
+2|A son gets ___ the share of a daughter in inheritance.|Double|Half|Equal|Triple|2 : 1.
+2|Zakat is one of the ___ pillars of Islam.|Five|Four|Six|Three|Third pillar.
+3|Profit = |Selling price − Cost price|Cost price − Selling price|Cost price + Selling price|Selling price ÷ Cost price|Profit.
+3|If CP = Rs. 400 and SP = Rs. 500, profit is:|Rs. 100|Rs. 900|Rs. 500|Rs. 50|500 − 400.
+3|Profit % = |(Profit ÷ CP) × 100|(Profit ÷ SP) × 100|(CP ÷ SP) × 100|Profit × CP|On cost price.
+3|If CP = Rs. 400 and profit is Rs. 100, profit % is:|25%|20%|10%|40%|100/400 × 100.
+3|Loss occurs when:|SP < CP|SP > CP|SP = CP|CP = 0|Loss.
+3|Discount is given on the:|Marked price|Cost price|Profit|Loss|Marked price.
+3|A shirt marked Rs. 1,000 is sold at 10% discount. Selling price is:|Rs. 900|Rs. 1,100|Rs. 100|Rs. 990|1,000 − 100.
+3|Commission is usually given as a percentage of:|Sales|Cost price|Loss|Tax|Sales commission.
+3|If SP = Rs. 450 and loss = Rs. 50, CP is:|Rs. 500|Rs. 400|Rs. 450|Rs. 550|450 + 50.
+3|Partnership profit is divided in the ratio of:|Investments (and time)|Ages|Names|Equal always|Capital ratio.
+4|Simple interest = |P × R × T / 100|P + R + T|P × R / T|P / (R × T)|SI formula.
+4|SI on Rs. 1,000 at 5% for 2 years is:|Rs. 100|Rs. 50|Rs. 1,100|Rs. 200|1000 × 5 × 2 / 100.
+4|Amount = |Principal + Interest|Principal − Interest|Interest only|Principal × Rate|Amount.
+4|Interest calculated on principal plus previous interest is:|Compound interest|Simple interest|Profit|Discount|Compound interest.
+4|In SI, if principal doubles (rate and time same), interest:|Doubles|Halves|Stays same|Becomes zero|Proportional.
+4|Rs. 2,000 at 10% p.a. simple interest for 3 years earns:|Rs. 600|Rs. 300|Rs. 200|Rs. 2,600|2000 × 10 × 3 / 100.
+4|The money borrowed or invested is called the:|Principal|Interest|Rate|Amount|Principal.
+4|Rate of interest is usually given:|Per annum|Per day|Per minute|Per decade|p.a.
+4|Compound amount A = |P(1 + r/100)ⁿ|P + r + n|P × r × n|P(1 − r)ⁿ|CI formula.
+4|Rs. 1,000 at 10% compound interest for 2 years amounts to:|Rs. 1,210|Rs. 1,200|Rs. 1,100|Rs. 1,020|1000 × 1.1².
+5|A utility bill is calculated on the basis of:|Units consumed|Size of house|Number of rooms|Family names|Consumption.
+5|If 1 unit of electricity costs Rs. 20, 150 units cost:|Rs. 3,000|Rs. 1,500|Rs. 170|Rs. 2,000|150 × 20.
+5|Sales tax is charged on:|Goods and services sold|Salary only|Savings|Gifts|Sales tax.
+5|Income tax is charged on:|Income|Sales|Property only|Imports only|Income tax.
+5|A buyer of goods on instalments usually pays:|More than the cash price|Less than cash price|Exactly cash price|Nothing|Hire purchase.
+5|If an item costs Rs. 1,000 + 17% GST, total price is:|Rs. 1,170|Rs. 1,017|Rs. 1,700|Rs. 170|1000 + 170.
+5|A bank account in which money can be withdrawn by cheque is a:|Current account|Fixed deposit|Locker|Loan|Current account.
+5|Money kept in a bank for a fixed period at higher interest is a:|Fixed deposit|Current account|Cheque|Draft|Fixed deposit.
+5|The unit price is the price of:|One unit|All units|Ten units|Half unit|Unit price.
+5|A better buy is the item with the lower:|Price per unit|Total weight|Colour|Brand name|Comparison shopping.
+6|a⁰ (a ≠ 0) equals:|1|0|a|Undefined|Zero exponent.
+6|a³ × a² equals:|a⁵|a⁶|a|a¹|Add exponents.
+6|a⁵ ÷ a² equals:|a³|a⁷|a¹⁰|a^2.5|Subtract exponents.
+6|(a²)³ equals:|a⁶|a⁵|a⁸|a⁹|Multiply exponents.
+6|a⁻² equals:|1/a²|−a²|a²|−2a|Negative exponent.
+6|2⁵ equals:|32|10|25|64|2 × 2 × 2 × 2 × 2.
+6|log₁₀ 1000 equals:|3|10|100|1|10³ = 1000.
+6|log₂ 8 equals:|3|2|4|8|2³ = 8.
+6|log (ab) equals:|log a + log b|log a × log b|log a − log b|a log b|Product law.
+6|The square root of a can be written as:|a^(1/2)|a²|2a|a^(−2)|Radical as exponent.
+7|In the sequence 2, 4, 6, 8, …, the common difference is:|2|4|6|8|A.P.
+7|The nth term of an A.P. is:|a + (n − 1)d|a + nd|ar^(n−1)|n(a + l)/2|A.P. formula.
+7|The 10th term of the A.P. 3, 5, 7, … is:|21|23|19|20|3 + 9×2.
+7|In the sequence 3, 6, 12, 24, …, the common ratio is:|2|3|6|4|G.P.
+7|The nth term of a G.P. is:|ar^(n−1)|a + (n − 1)d|arⁿ|a/r|G.P. formula.
+7|The arithmetic mean between 4 and 10 is:|7|6|14|5|(4 + 10)/2.
+7|The geometric mean between 4 and 9 is:|6|6.5|13|36|√36.
+7|The sum of the first n natural numbers is:|n(n + 1)/2|n²|n(n − 1)|2n|Formula.
+7|The sum of first 10 natural numbers is:|55|50|45|100|10 × 11 / 2.
+7|A sequence in which each term is obtained by adding a fixed number is an:|Arithmetic sequence|Geometric sequence|Random sequence|Harmonic sequence|A.P.
+8|A set containing no element is called:|Empty set|Universal set|Finite set|Singleton set|∅.
+8|The set {1, 2, 3, …} is a:|Infinite set|Finite set|Empty set|Singleton|Never ends.
+8|If A ⊆ B and B ⊆ A, then:|A = B|A ≠ B|A is empty|B is empty|Equal sets.
+8|A ∪ ∅ equals:|A|∅|U|A′|Union with empty set.
+8|A ∩ ∅ equals:|∅|A|U|A′|Intersection with empty set.
+8|A relation in which every element of the domain has exactly one image is a:|Function|Set|Relation only|Sequence|Function.
+8|The set of first elements of ordered pairs of a relation is called the:|Domain|Range|Codomain|Image|Domain.
+8|The set of second elements of ordered pairs of a relation is called the:|Range|Domain|Universal set|Subset|Range.
+8|The complement of the universal set is:|Empty set|Universal set|Finite set|A|U′ = ∅.
+8|A Venn diagram is used to represent:|Sets|Graphs|Equations|Matrices|Venn diagram.
+9|The equation of a straight line in slope-intercept form is:|y = mx + c|y = ax²|x² + y² = r²|y = c/x|Linear form.
+9|In y = mx + c, m represents the:|Slope|y-intercept|x-intercept|Origin|Gradient.
+9|In y = 3x + 2, the y-intercept is:|2|3|5|−2|c = 2.
+9|In y = 3x + 2, the slope is:|3|2|5|1/3|m = 3.
+9|A line parallel to the x-axis has slope:|0|1|Undefined|−1|Horizontal line.
+9|The graph of a linear equation is always a:|Straight line|Curve|Circle|Parabola|Linear.
+9|The point where x-axis and y-axis meet is the:|Origin|Intercept|Slope|Quadrant|Origin (0, 0).
+9|The point (4, 0) lies on the:|x-axis|y-axis|Origin|Second quadrant|y = 0.
+9|Two lines with equal slopes are:|Parallel|Perpendicular|Intersecting at 90°|Same always|Parallel lines.
+9|The x-intercept of y = 2x − 4 is:|2|−4|4|−2|0 = 2x − 4.
+10|The mean of 5, 10, 15 is:|10|15|30|5|30 ÷ 3.
+10|The median of 2, 5, 9, 11, 14 is:|9|5|11|8.2|Middle value.
+10|The mode of 1, 2, 2, 3, 3, 3, 4 is:|3|2|4|1|Most frequent.
+10|The range of 12, 7, 20, 15 is:|13|20|7|8|20 − 7.
+10|Data collected directly by the investigator is called:|Primary data|Secondary data|Grouped data|False data|Primary.
+10|Data taken from published sources is called:|Secondary data|Primary data|Raw data only|Grouped data|Secondary.
+10|A table showing values and how often they occur is a:|Frequency distribution|Pie chart|Line graph|Venn diagram|Frequency table.
+10|A histogram is drawn for:|Grouped (continuous) data|Names|Single values only|Sets|Histogram.
+10|The sum of deviations of values from their mean is always:|0|1|Positive|Negative|Property of mean.
+10|The class mark of class 20–30 is:|25|20|30|10|Mid-point.
+#g10_general_math
+1|(a + b)² equals:|a² + 2ab + b²|a² + b²|a² − 2ab + b²|2a + 2b|Identity.
+1|(a − b)² equals:|a² − 2ab + b²|a² + b²|a² + 2ab + b²|a² − b²|Identity.
+1|(a + b)(a − b) equals:|a² − b²|a² + b²|(a − b)²|2ab|Identity.
+1|If a + b = 7 and ab = 10, then a² + b² equals:|29|49|39|19|49 − 20.
+1|(x + 3)² equals:|x² + 6x + 9|x² + 9|x² + 3x + 9|x² + 6x + 3|Identity.
+1|102² can be found easily using:|(100 + 2)²|(100 − 2)²|100 × 2|102 × 2|= 10404.
+1|98 × 102 equals:|9,996|10,004|9,900|10,000|(100 − 2)(100 + 2) = 10000 − 4.
+1|(a + b)³ equals:|a³ + 3a²b + 3ab² + b³|a³ + b³|a³ + 3ab + b³|3a + 3b|Cube identity.
+1|a³ − b³ equals:|(a − b)(a² + ab + b²)|(a + b)(a² − ab + b²)|(a − b)³|a² − b²|Difference of cubes.
+2|Factorise: x² − 16|(x + 4)(x − 4)|(x − 4)²|(x + 16)(x − 1)|(x + 8)(x − 2)|Difference of squares.
+2|Factorise: x² + 7x + 12|(x + 3)(x + 4)|(x + 2)(x + 6)|(x + 1)(x + 12)|(x − 3)(x − 4)|3 × 4 = 12, 3 + 4 = 7.
+2|Factorise: 5x + 10|5(x + 2)|5x(2)|x(5 + 10)|10(x + 5)|Common factor.
+2|Factorise: x² − 2x + 1|(x − 1)²|(x + 1)²|(x − 2)(x + 1)|x(x − 2)|Perfect square.
+2|Factorise: x² − x − 12|(x − 4)(x + 3)|(x + 4)(x − 3)|(x − 6)(x + 2)|(x − 12)(x + 1)|−4 × 3 = −12, sum −1.
+2|Factorise: 9x² − 1|(3x + 1)(3x − 1)|(9x − 1)(x + 1)|(3x − 1)²|9(x² − 1)|Difference of squares.
+2|Factorise: x³ + 8|(x + 2)(x² − 2x + 4)|(x − 2)(x² + 2x + 4)|(x + 2)³|(x + 8)(x² + 1)|Sum of cubes.
+2|Factorise: ax + ay|a(x + y)|x(a + y)|ay(x)|(a + x)y|Common factor.
+3|HCF of 6x² and 9x is:|3x|18x²|3x²|9x|HCF of coefficients and lowest powers.
+3|LCM of 6x² and 9x is:|18x²|3x|54x³|18x|LCM.
+3|Simplify: (x² − 4)/(x − 2)|x + 2|x − 2|x² − 2|2|Cancel (x − 2).
+3|Simplify: 2/x + 3/x|5/x|5/2x|6/x²|5/x²|Same denominator.
+3|The square root of x² − 6x + 9 is:|±(x − 3)|x + 3|x − 9|x² − 3|Perfect square (x − 3)².
+3|HCF × LCM of two polynomials equals their:|Product|Sum|Difference|Quotient|Property.
+3|Simplify: (a² − b²)/(a + b)|a − b|a + b|a² − b|1|Cancel (a + b).
+3|LCM of (x + 1) and (x − 1) is:|x² − 1|x + 1|x − 1|1|Product of distinct factors.
+3|HCF of x² − 9 and x − 3 is:|x − 3|x + 3|x² − 9|1|(x − 3) is common.
+3|Simplify: x/2 + x/3|5x/6|2x/5|x/6|5x/5|LCM 6.
+3|The square root of 16x²y² is:|±4xy|4x²y²|16xy|8xy|√16 = 4.
+3|Simplify: (x + 1)/(x + 1)²|1/(x + 1)|x + 1|1|(x + 1)²|Cancel.
+4|Solve: 3x + 5 = 20|x = 5|x = 15|x = 25/3|x = 4|3x = 15.
+4|Solve: x − 7 = 3|x = 10|x = 4|x = −4|x = 21|Add 7.
+4|Solve: 2(x − 1) = 8|x = 5|x = 4|x = 3|x = 9/2|x − 1 = 4.
+4|Solve: 4x > 12|x > 3|x < 3|x > 48|x > 8|Divide by 4.
+4|Solve: −3x ≤ 9|x ≥ −3|x ≤ −3|x ≥ 3|x ≤ 3|Divide by −3 and reverse.
+4|Solve: x/4 = 3|x = 12|x = 3/4|x = 7|x = 1|Multiply by 4.
+4|The solution of 5x − 3 = 2x + 9 is:|x = 4|x = 2|x = 12|x = 3|3x = 12.
+4|The sign < means:|Less than|Greater than|Equal to|Not equal|Inequality.
+4|A linear equation in two variables x + y = 5 has:|Infinitely many solutions|One solution|No solution|Two solutions only|A line has many points.
+4|Solve: x + y = 6, x − y = 2.|x = 4, y = 2|x = 2, y = 4|x = 3, y = 3|x = 6, y = 0|Add: 2x = 8.
+5|Solve: x² = 25|x = ±5|x = 5 only|x = 25|x = 12.5|Square root.
+5|Solve: x² − 3x = 0|x = 0 or 3|x = 3 only|x = 0 only|x = −3|x(x − 3) = 0.
+5|Solve: x² − 4x + 4 = 0|x = 2 (repeated)|x = −2|x = 4|x = ±2|(x − 2)² = 0.
+5|Solve: x² + x − 6 = 0|x = 2 or −3|x = −2 or 3|x = 6 or −1|x = 1 or −6|(x − 2)(x + 3) = 0.
+5|A quadratic equation has degree:|2|1|3|0|Highest power 2.
+5|The discriminant of x² − 5x + 6 = 0 is:|1|25|24|49|25 − 24.
+5|If the discriminant is negative, the roots are:|Not real (imaginary)|Real and equal|Real and unequal|Zero|Nature of roots.
+5|The sum of roots of x² − 9x + 20 = 0 is:|9|20|−9|−20|−b/a.
+5|The product of roots of x² − 9x + 20 = 0 is:|20|9|−20|−9|c/a.
+5|Solve: 2x² = 18|x = ±3|x = 9|x = ±9|x = 3 only|x² = 9.
+6|A matrix with 2 rows and 3 columns has order:|2 × 3|3 × 2|5|6 × 1|Rows × columns.
+6|The number of elements in a 3 × 3 matrix is:|9|6|3|12|3 × 3.
+6|A matrix with equal number of rows and columns is a:|Square matrix|Row matrix|Column matrix|Rectangular matrix|Square matrix.
+6|The determinant of [2 1; 4 3] is:|2|10|−2|5|6 − 4.
+6|[1 2] + [3 4] =|[4 6]|[3 8]|[2 2]|[4 4]|Add corresponding elements.
+6|2 × [1 3] =|[2 6]|[3 5]|[1 6]|[2 3]|Scalar multiplication.
+6|The transpose of a row matrix is a:|Column matrix|Row matrix|Square matrix|Null matrix|Rows become columns.
+6|A matrix whose determinant is zero is called:|Singular|Non-singular|Identity|Scalar|Singular.
+6|The identity matrix I satisfies AI =|A|I|0|A²|Identity property.
+6|Two matrices can be multiplied if the columns of the first equal the ___ of the second.|Rows|Columns|Determinant|Diagonal|Conformability.
+7|An angle of 90° is called:|Right angle|Acute angle|Obtuse angle|Straight angle|Right angle.
+7|Two angles whose sum is 90° are called:|Complementary|Supplementary|Adjacent|Vertical|Complementary.
+7|Two angles whose sum is 180° are called:|Supplementary|Complementary|Reflex|Right|Supplementary.
+7|The complement of 30° is:|60°|150°|90°|30°|90 − 30.
+7|The supplement of 110° is:|70°|20°|250°|110°|180 − 110.
+7|Vertically opposite angles are:|Equal|Supplementary|Complementary|Unequal|Theorem.
+7|When a transversal cuts two parallel lines, alternate angles are:|Equal|Supplementary|Complementary|Unequal|Property.
+7|The sum of angles of a quadrilateral is:|360°|180°|270°|540°|Angle sum.
+7|A polygon with 5 sides is a:|Pentagon|Hexagon|Quadrilateral|Octagon|Penta = five.
+7|Each interior angle of a regular hexagon is:|120°|60°|90°|108°|(6 − 2) × 180 / 6.
+8|To bisect a line segment we use a:|Compass and ruler|Protractor only|Set square only|Thermometer|Construction.
+8|An angle of 60° can be constructed using:|Compass and ruler|Only protractor|Only set square|Calculator|Equilateral triangle method.
+8|An angle of 90° can be constructed by drawing a:|Perpendicular|Parallel|Circle only|Arc only|Perpendicular line.
+8|Bisecting a 60° angle gives:|30°|120°|90°|45°|60 ÷ 2.
+8|Bisecting a 90° angle gives:|45°|30°|60°|180°|90 ÷ 2.
+8|To construct a triangle with three given sides we use:|S.S.S.|S.A.S.|A.S.A.|R.H.S.|Three sides.
+8|The perpendicular bisector of a segment passes through its:|Mid-point|End-point|Extension only|Centroid|Bisector.
+8|A triangle can be constructed only if the sum of any two sides is ___ the third side.|Greater than|Less than|Equal to|Half|Triangle inequality.
+8|An angle of 45° is half of:|90°|60°|120°|180°|Bisection.
+8|The instrument used to draw arcs is:|Compass|Protractor|Ruler|Set square|Compass.
+9|Area of a triangle =|½ × base × height|base × height|base + height|2 × base × height|Formula.
+9|Area of a circle of radius r =|πr²|2πr|πd|r²|Formula.
+9|Circumference of a circle =|2πr|πr²|πr|r²|Formula.
+9|Volume of a cube of side a =|a³|a²|6a²|3a|Formula.
+9|Volume of a cuboid =|l × b × h|2(lb + bh + hl)|l + b + h|lb|Formula.
+9|Surface area of a cube of side a =|6a²|a³|4a²|12a|Six faces.
+9|Volume of a cylinder =|πr²h|2πrh|πr²|2πr(r + h)|Formula.
+9|Area of a circle with radius 7 cm (π = 22/7) is:|154 cm²|44 cm²|49 cm²|22 cm²|22/7 × 49.
+9|Volume of a cube of side 3 cm is:|27 cm³|9 cm³|18 cm³|54 cm³|3³.
+9|Area of a trapezium =|½ × (sum of parallel sides) × height|base × height|½ × base × height|length × breadth|Formula.
+9|Area of a rectangle 12 m × 5 m is:|60 m²|34 m²|17 m²|120 m²|12 × 5.
+10|The distance between (1, 2) and (4, 6) is:|5|7|25|3|√(9 + 16).
+10|The mid-point of (2, 3) and (6, 7) is:|(4, 5)|(8, 10)|(3, 4)|(2, 2)|Average.
+10|The point (−2, −3) lies in quadrant:|III|I|II|IV|Both negative.
+10|The point (5, −1) lies in quadrant:|IV|I|II|III|x +, y −.
+10|The coordinates of the origin are:|(0, 0)|(1, 1)|(0, 1)|(1, 0)|Origin.
+10|The slope of the line joining (1, 2) and (3, 6) is:|2|4|1/2|3|(6 − 2)/(3 − 1).
+10|Points lying on the same line are called:|Collinear|Concurrent|Coplanar only|Parallel|Collinear.
+10|The y-coordinate of any point on the x-axis is:|0|1|x|Undefined|On x-axis y = 0.
+10|The distance of point (3, 4) from the origin is:|5|7|1|12|√(9 + 16).

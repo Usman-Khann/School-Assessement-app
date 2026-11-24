@@ -1,0 +1,1082 @@
+[
+[
+10,
+"Motion that repeats itself in equal intervals of time is:",
+[
+"Random motion",
+"Linear motion",
+"Periodic motion",
+"Rotational only"
+],
+2,
+"Periodic."
+],
+[
+10,
+"In SHM, acceleration is proportional to:",
+[
+"Velocity",
+"Displacement (and opposite in direction)",
+"Mass",
+"Time"
+],
+1,
+"a = −ω²x."
+],
+[
+10,
+"The time period of a simple pendulum depends on:",
+[
+"Length and g",
+"Mass of bob",
+"Amplitude (small)",
+"Colour"
+],
+0,
+"T = 2π√(l/g)."
+],
+[
+10,
+"Frequency is the reciprocal of:",
+[
+"Amplitude",
+"Time period",
+"Wavelength",
+"Speed"
+],
+1,
+"f = 1/T."
+],
+[
+10,
+"The maximum displacement from the mean position is:",
+[
+"Wavelength",
+"Amplitude",
+"Frequency",
+"Period"
+],
+1,
+"Amplitude."
+],
+[
+10,
+"Waves that need a medium are:",
+[
+"Electromagnetic waves",
+"Light waves",
+"Mechanical waves",
+"Radio waves"
+],
+2,
+"Mechanical."
+],
+[
+10,
+"In transverse waves, particles vibrate ___ to the direction of the wave.",
+[
+"Parallel",
+"Perpendicular",
+"Opposite",
+"Randomly"
+],
+1,
+"Transverse."
+],
+[
+10,
+"In longitudinal waves, particles vibrate ___ to the direction of the wave.",
+[
+"Perpendicular",
+"At 45°",
+"Parallel",
+"Not at all"
+],
+2,
+"Longitudinal."
+],
+[
+10,
+"Wave speed v =",
+[
+"f/λ",
+"fλ",
+"λ/f",
+"f + λ"
+],
+1,
+"Wave equation."
+],
+[
+10,
+"Waves transfer:",
+[
+"Energy",
+"Matter",
+"Mass",
+"Medium"
+],
+0,
+"Waves carry energy."
+],
+[
+11,
+"Sound waves are:",
+[
+"Transverse",
+"Electromagnetic",
+"Light waves",
+"Longitudinal"
+],
+3,
+"Sound."
+],
+[
+11,
+"The speed of sound in air at 0 °C is about:",
+[
+"3 × 10⁸ m/s",
+"332 m/s",
+"1,500 m/s",
+"5,000 m/s"
+],
+1,
+"At 0 °C."
+],
+[
+11,
+"The quality (timbre) of sound depends on:",
+[
+"Waveform (overtones)",
+"Amplitude only",
+"Frequency only",
+"Speed"
+],
+0,
+"Quality."
+],
+[
+11,
+"Intensity level of sound is measured in:",
+[
+"Hertz",
+"Decibels",
+"Watts",
+"Joules"
+],
+1,
+"dB."
+],
+[
+11,
+"Reflection of sound is called:",
+[
+"Refraction",
+"Resonance",
+"Echo",
+"Beat"
+],
+2,
+"Echo."
+],
+[
+11,
+"Ultrasound is used in:",
+[
+"Cooking",
+"Medical imaging and SONAR",
+"Painting",
+"Lighting"
+],
+1,
+"Uses."
+],
+[
+11,
+"Audible frequency range is:",
+[
+"20 Hz to 20 kHz",
+"1 Hz to 10 Hz",
+"20 kHz to 50 kHz",
+"0 to 20 Hz"
+],
+0,
+"Human hearing."
+],
+[
+11,
+"Sound is faster in steel than in air because steel is:",
+[
+"More elastic",
+"Lighter",
+"Hotter",
+"Softer"
+],
+0,
+"Elasticity."
+],
+[
+11,
+"Acoustic protection reduces:",
+[
+"Light",
+"Heat",
+"Noise",
+"Pressure"
+],
+2,
+"Soundproofing."
+],
+[
+11,
+"Pitch of sound increases with:",
+[
+"Frequency",
+"Amplitude",
+"Speed",
+"Mass"
+],
+0,
+"Pitch."
+],
+[
+12,
+"The angle of incidence equals the angle of reflection is the:",
+[
+"Snell's law",
+"Law of reflection",
+"Ohm's law",
+"Hooke's law"
+],
+1,
+"Reflection."
+],
+[
+12,
+"Snell's law relates to:",
+[
+"Reflection",
+"Refraction",
+"Diffraction",
+"Interference"
+],
+1,
+"n = sin i / sin r."
+],
+[
+12,
+"Total internal reflection occurs when light goes from:",
+[
+"Denser to rarer medium beyond critical angle",
+"Rarer to denser",
+"Vacuum to glass",
+"Any medium"
+],
+0,
+"TIR."
+],
+[
+12,
+"Optical fibres work on the principle of:",
+[
+"Refraction only",
+"Diffraction",
+"Dispersion",
+"Total internal reflection"
+],
+3,
+"TIR."
+],
+[
+12,
+"A concave mirror is used as a:",
+[
+"Rear-view mirror",
+"Shaving mirror",
+"Window",
+"Lens"
+],
+1,
+"Magnified image."
+],
+[
+12,
+"A convex mirror is used as a:",
+[
+"Shaving mirror",
+"Torch reflector",
+"Rear-view mirror in vehicles",
+"Dentist mirror"
+],
+2,
+"Wide field."
+],
+[
+12,
+"Power of a lens is measured in:",
+[
+"Dioptres",
+"Metres",
+"Watts",
+"Joules"
+],
+0,
+"D = 1/f (m)."
+],
+[
+12,
+"Power of a lens of focal length 0.5 m is:",
+[
+"2 D",
+"0.5 D",
+"5 D",
+"1 D"
+],
+0,
+"1/0.5."
+],
+[
+12,
+"Refractive index of a medium =",
+[
+"v / c",
+"c × v",
+"v − c",
+"c / v"
+],
+3,
+"n = c/v."
+],
+[
+12,
+"A simple microscope uses a:",
+[
+"Convex lens",
+"Concave lens",
+"Plane mirror",
+"Prism"
+],
+0,
+"Magnifying glass."
+],
+[
+13,
+"Like charges:",
+[
+"Attract",
+"Do nothing",
+"Repel",
+"Cancel"
+],
+2,
+"Electrostatics."
+],
+[
+13,
+"The SI unit of charge is:",
+[
+"Ampere",
+"Volt",
+"Ohm",
+"Coulomb"
+],
+3,
+"C."
+],
+[
+13,
+"The charge on an electron is:",
+[
+"+1.6 × 10⁻¹⁹ C",
+"1 C",
+"−1.6 × 10⁻¹⁹ C",
+"0"
+],
+2,
+"Elementary charge."
+],
+[
+13,
+"Coulomb's law: force is inversely proportional to the:",
+[
+"Distance",
+"Cube of distance",
+"Charge",
+"Square of distance"
+],
+3,
+"Inverse square."
+],
+[
+13,
+"The SI unit of capacitance is:",
+[
+"Henry",
+"Ohm",
+"Farad",
+"Coulomb"
+],
+2,
+"F."
+],
+[
+13,
+"An electroscope is used to detect:",
+[
+"Charge",
+"Current",
+"Voltage only",
+"Magnetism"
+],
+0,
+"Gold-leaf electroscope."
+],
+[
+13,
+"Charging by rubbing is called charging by:",
+[
+"Induction",
+"Conduction only",
+"Friction",
+"Radiation"
+],
+2,
+"Friction."
+],
+[
+13,
+"The SI unit of electric potential is:",
+[
+"Coulomb",
+"Volt",
+"Ampere",
+"Joule"
+],
+1,
+"V."
+],
+[
+13,
+"A capacitor stores:",
+[
+"Current",
+"Resistance",
+"Magnetism",
+"Electric charge (energy)"
+],
+3,
+"Capacitor."
+],
+[
+13,
+"Lightning conductors protect buildings by:",
+[
+"Stopping rain",
+"Absorbing light",
+"Producing sound",
+"Conducting charge safely to earth"
+],
+3,
+"Earthing."
+],
+[
+14,
+"Ohm's law: V =",
+[
+"IR",
+"I/R",
+"R/I",
+"I + R"
+],
+0,
+"Ohm's law."
+],
+[
+14,
+"Resistance of a wire is directly proportional to its:",
+[
+"Area",
+"Temperature only",
+"Length",
+"Colour"
+],
+2,
+"R ∝ L."
+],
+[
+14,
+"Resistance of a wire is inversely proportional to its:",
+[
+"Length",
+"Mass",
+"Resistivity",
+"Cross-sectional area"
+],
+3,
+"R ∝ 1/A."
+],
+[
+14,
+"Resistances in series add up as:",
+[
+"1/R = 1/R₁ + 1/R₂",
+"R = R₁R₂",
+"R = R₁ − R₂",
+"R = R₁ + R₂ + …"
+],
+3,
+"Series."
+],
+[
+14,
+"Two 4 Ω resistors in parallel give:",
+[
+"2 Ω",
+"8 Ω",
+"4 Ω",
+"16 Ω"
+],
+0,
+"1/R = 1/4 + 1/4."
+],
+[
+14,
+"Electric power P =",
+[
+"V/I",
+"IR",
+"V + I",
+"VI"
+],
+3,
+"Power."
+],
+[
+14,
+"1 kWh equals:",
+[
+"1,000 J",
+"3,600 J",
+"36 J",
+"3.6 × 10⁶ J"
+],
+3,
+"Energy unit."
+],
+[
+14,
+"The SI unit of resistance is:",
+[
+"Ohm",
+"Volt",
+"Ampere",
+"Watt"
+],
+0,
+"Ω."
+],
+[
+14,
+"Electromotive force (EMF) is measured in:",
+[
+"Volts",
+"Amperes",
+"Ohms",
+"Watts"
+],
+0,
+"EMF."
+],
+[
+14,
+"A conductor that does not obey Ohm's law is:",
+[
+"Ohmic",
+"Superconductor only",
+"Non-ohmic",
+"Insulator"
+],
+2,
+"e.g. diode, filament lamp."
+],
+[
+15,
+"A current-carrying conductor produces a:",
+[
+"Gravitational field",
+"Sound",
+"Light only",
+"Magnetic field"
+],
+3,
+"Oersted."
+],
+[
+15,
+"The direction of force on a current-carrying conductor in a magnetic field is given by:",
+[
+"Right-hand grip rule only",
+"Fleming's left-hand rule",
+"Lenz's law",
+"Ohm's law"
+],
+1,
+"Motor rule."
+],
+[
+15,
+"An electric motor converts electrical energy into:",
+[
+"Chemical energy",
+"Heat only",
+"Light",
+"Mechanical energy"
+],
+3,
+"Motor."
+],
+[
+15,
+"Electromagnetic induction was discovered by:",
+[
+"Newton",
+"Faraday",
+"Ohm",
+"Coulomb"
+],
+1,
+"Faraday."
+],
+[
+15,
+"A generator converts mechanical energy into:",
+[
+"Chemical energy",
+"Heat",
+"Sound",
+"Electrical energy"
+],
+3,
+"Generator."
+],
+[
+15,
+"A transformer works on:",
+[
+"Direct current only",
+"Both equally",
+"Static charge",
+"Alternating current (AC)"
+],
+3,
+"Mutual induction."
+],
+[
+15,
+"A step-up transformer increases:",
+[
+"Current",
+"Voltage",
+"Power",
+"Frequency"
+],
+1,
+"Step-up."
+],
+[
+15,
+"The direction of induced current is given by:",
+[
+"Lenz's law",
+"Ohm's law",
+"Coulomb's law",
+"Snell's law"
+],
+0,
+"Lenz."
+],
+[
+15,
+"Transmission lines use high voltage to reduce:",
+[
+"Power loss",
+"Voltage",
+"Resistance to zero",
+"Frequency"
+],
+0,
+"P = I²R loss."
+],
+[
+15,
+"The magnetic field around a straight wire forms:",
+[
+"Straight lines",
+"Squares",
+"Spirals only",
+"Concentric circles"
+],
+3,
+"Field pattern."
+],
+[
+16,
+"Thermionic emission is the emission of electrons from:",
+[
+"Cold surfaces",
+"Liquids",
+"Gases only",
+"Hot metal surfaces"
+],
+3,
+"Thermionic."
+],
+[
+16,
+"A cathode-ray oscilloscope (CRO) displays:",
+[
+"Temperature",
+"Waveforms of signals",
+"Mass",
+"Light only"
+],
+1,
+"CRO."
+],
+[
+16,
+"Analogue quantities vary:",
+[
+"Continuously",
+"In steps only",
+"Never",
+"Randomly only"
+],
+0,
+"Analogue."
+],
+[
+16,
+"Digital quantities have:",
+[
+"Discrete values",
+"Continuous values",
+"No values",
+"Infinite values"
+],
+0,
+"Digital."
+],
+[
+16,
+"The AND gate gives output 1 when:",
+[
+"Any input is 1",
+"All inputs are 0",
+"All inputs are 1",
+"Input is inverted"
+],
+2,
+"AND."
+],
+[
+16,
+"The NOT gate:",
+[
+"Adds inputs",
+"Multiplies inputs",
+"Inverts the input",
+"Has two inputs"
+],
+2,
+"NOT."
+],
+[
+16,
+"The NAND gate is a combination of:",
+[
+"OR and NOT",
+"AND and OR",
+"AND and NOT",
+"NOT only"
+],
+2,
+"NAND."
+],
+[
+16,
+"The NOR gate gives output 1 only when:",
+[
+"All inputs are 0",
+"All inputs are 1",
+"Any input is 1",
+"One input is 1"
+],
+0,
+"NOR."
+],
+[
+16,
+"Electrons are deflected in an electric field because they are:",
+[
+"Neutral",
+"Heavy",
+"Magnetic only",
+"Charged"
+],
+3,
+"Charge."
+],
+[
+16,
+"In Boolean algebra, A + A equals:",
+[
+"A",
+"2A",
+"0",
+"1"
+],
+0,
+"Idempotent law."
+],
+[
+17,
+"Information is transmitted over long distances using:",
+[
+"Sound waves only",
+"Water waves",
+"Seismic waves",
+"Electromagnetic waves"
+],
+3,
+"Radio, microwaves."
+],
+[
+17,
+"Optical fibres carry information as:",
+[
+"Sound",
+"Electric current only",
+"Light signals",
+"Water"
+],
+2,
+"Light."
+],
+[
+17,
+"The main part of a computer that processes data is the:",
+[
+"Monitor",
+"Keyboard",
+"CPU",
+"Printer"
+],
+2,
+"CPU."
+],
+[
+17,
+"A device that converts sound into electrical signals is a:",
+[
+"Speaker",
+"Bulb",
+"Motor",
+"Microphone"
+],
+3,
+"Microphone."
+],
+[
+17,
+"A device that converts electrical signals into sound is a:",
+[
+"Microphone",
+"Battery",
+"Loudspeaker",
+"Bulb"
+],
+2,
+"Speaker."
+],
+[
+17,
+"Storage devices include:",
+[
+"Monitor",
+"Hard disk and USB flash drive",
+"Keyboard",
+"Mouse"
+],
+1,
+"Storage."
+],
+[
+17,
+"E-mail is sent through the:",
+[
+"Telephone line only",
+"Internet",
+"Radio only",
+"Post office"
+],
+1,
+"Internet."
+],
+[
+17,
+"Mobile phones communicate using:",
+[
+"Sound waves",
+"Cables only",
+"Radio/microwaves",
+"Light from bulbs"
+],
+2,
+"Wireless."
+],
+[
+17,
+"A fax machine sends:",
+[
+"Only sound",
+"Only video",
+"Money",
+"Images of documents"
+],
+3,
+"Fax."
+],
+[
+17,
+"Information technology deals with:",
+[
+"Storing, processing and transmitting information",
+"Only farming",
+"Only cooking",
+"Only travelling"
+],
+0,
+"IT."
+],
+[
+18,
+"The nucleus of an atom contains:",
+[
+"Protons and neutrons",
+"Electrons only",
+"Protons and electrons",
+"Neutrons and electrons"
+],
+0,
+"Nucleons."
+],
+[
+18,
+"Isotopes have the same number of ___ but different number of neutrons.",
+[
+"Neutrons",
+"Nucleons",
+"Protons",
+"Electrons only"
+],
+2,
+"Isotopes."
+],
+[
+18,
+"Alpha particles are:",
+[
+"Helium nuclei",
+"Electrons",
+"Photons",
+"Neutrons"
+],
+0,
+"α = ⁴He nucleus."
+],
+[
+18,
+"Beta particles are:",
+[
+"Helium nuclei",
+"Photons",
+"Fast-moving electrons",
+"Protons"
+],
+2,
+"β."
+],
+[
+18,
+"Gamma rays are:",
+[
+"Electromagnetic waves",
+"Charged particles",
+"Helium nuclei",
+"Neutrons"
+],
+0,
+"γ."
+],
+[
+18,
+"The most penetrating radiation is:",
+[
+"Alpha",
+"Gamma",
+"Beta",
+"All equal"
+],
+1,
+"γ rays."
+],
+[
+18,
+"The time in which half of a radioactive sample decays is its:",
+[
+"Full life",
+"Half-life",
+"Period",
+"Decay constant"
+],
+1,
+"Half-life."
+],
+[
+18,
+"Nuclear fission is the splitting of:",
+[
+"A light nucleus",
+"An electron",
+"A molecule",
+"A heavy nucleus"
+],
+3,
+"Fission."
+],
+[
+18,
+"Nuclear fusion is the combining of:",
+[
+"Heavy nuclei",
+"Light nuclei",
+"Electrons",
+"Molecules"
+],
+1,
+"Fusion."
+],
+[
+18,
+"Radioactivity was discovered by:",
+[
+"Newton",
+"Faraday",
+"Einstein",
+"Henri Becquerel"
+],
+3,
+"1896."
+]
+]

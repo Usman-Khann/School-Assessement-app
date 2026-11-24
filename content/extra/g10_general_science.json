@@ -1,0 +1,830 @@
+[
+[
+6,
+"The sum of all living and non-living things around us is the:",
+[
+"Ecosystem only",
+"Atmosphere",
+"Hydrosphere",
+"Environment"
+],
+3,
+"Environment."
+],
+[
+6,
+"Resources that cannot be replaced once used are:",
+[
+"Renewable",
+"Inexhaustible",
+"Non-renewable",
+"Biotic"
+],
+2,
+"e.g. coal."
+],
+[
+6,
+"Which is a renewable resource?",
+[
+"Solar energy",
+"Coal",
+"Petroleum",
+"Natural gas"
+],
+0,
+"Never runs out."
+],
+[
+6,
+"Deforestation means:",
+[
+"Planting trees",
+"Cutting down forests",
+"Growing crops",
+"Building dams"
+],
+1,
+"Loss of forests."
+],
+[
+6,
+"The layer of gases surrounding the Earth is the:",
+[
+"Atmosphere",
+"Lithosphere",
+"Hydrosphere",
+"Biosphere"
+],
+0,
+"Air."
+],
+[
+6,
+"Ozone layer protects us from:",
+[
+"Rain",
+"Wind",
+"Ultraviolet rays",
+"Visible light"
+],
+2,
+"UV radiation."
+],
+[
+6,
+"Global warming is mainly caused by excess:",
+[
+"Oxygen",
+"Nitrogen",
+"Argon",
+"Carbon dioxide"
+],
+3,
+"Greenhouse gas."
+],
+[
+6,
+"Acid rain is caused by oxides of:",
+[
+"Sulphur and nitrogen",
+"Oxygen only",
+"Helium",
+"Argon"
+],
+0,
+"SO₂ and NOx."
+],
+[
+6,
+"Conservation means:",
+[
+"Wasting resources",
+"Selling resources",
+"Burning resources",
+"Careful use and protection of resources"
+],
+3,
+"Conservation."
+],
+[
+6,
+"Water part of the Earth is called the:",
+[
+"Hydrosphere",
+"Lithosphere",
+"Atmosphere",
+"Biosphere"
+],
+0,
+"Hydro = water."
+],
+[
+6,
+"The solid outer part of the Earth is the:",
+[
+"Hydrosphere",
+"Atmosphere",
+"Lithosphere",
+"Stratosphere"
+],
+2,
+"Litho = stone."
+],
+[
+6,
+"Planting trees on a large scale is called:",
+[
+"Deforestation",
+"Erosion",
+"Afforestation",
+"Pollution"
+],
+2,
+"Afforestation."
+],
+[
+7,
+"The ability to do work is called:",
+[
+"Energy",
+"Power",
+"Force",
+"Pressure"
+],
+0,
+"Energy."
+],
+[
+7,
+"The SI unit of energy is:",
+[
+"Watt",
+"Joule",
+"Newton",
+"Pascal"
+],
+1,
+"J."
+],
+[
+7,
+"Energy possessed by a body due to its motion is:",
+[
+"Potential energy",
+"Heat energy",
+"Chemical energy",
+"Kinetic energy"
+],
+3,
+"K.E."
+],
+[
+7,
+"Energy stored due to position is:",
+[
+"Kinetic energy",
+"Sound energy",
+"Light energy",
+"Potential energy"
+],
+3,
+"P.E."
+],
+[
+7,
+"Energy from the Sun is called:",
+[
+"Tidal energy",
+"Nuclear energy",
+"Geothermal energy",
+"Solar energy"
+],
+3,
+"Solar."
+],
+[
+7,
+"Energy obtained from the heat inside the Earth is:",
+[
+"Solar energy",
+"Wind energy",
+"Tidal energy",
+"Geothermal energy"
+],
+3,
+"Geo = earth."
+],
+[
+7,
+"Hydroelectric power is produced from:",
+[
+"Coal",
+"Wind",
+"Sunlight",
+"Flowing water"
+],
+3,
+"Dams."
+],
+[
+7,
+"A wind turbine changes wind energy into:",
+[
+"Electrical energy",
+"Heat energy",
+"Chemical energy",
+"Sound"
+],
+0,
+"Wind power."
+],
+[
+7,
+"Tarbela Dam is built on the River:",
+[
+"Indus",
+"Jhelum",
+"Chenab",
+"Ravi"
+],
+0,
+"Tarbela on Indus."
+],
+[
+7,
+"The rate of doing work is called:",
+[
+"Energy",
+"Force",
+"Power",
+"Momentum"
+],
+2,
+"Power."
+],
+[
+7,
+"Energy can be changed from one form to another but cannot be:",
+[
+"Used",
+"Created or destroyed",
+"Stored",
+"Measured"
+],
+1,
+"Law of conservation."
+],
+[
+7,
+"Coal, oil and natural gas are:",
+[
+"Fossil fuels",
+"Renewable sources",
+"Nuclear fuels",
+"Biofuels only"
+],
+0,
+"Fossil fuels."
+],
+[
+8,
+"The flow of electric charge is called:",
+[
+"Electric current",
+"Voltage",
+"Resistance",
+"Power"
+],
+0,
+"Current."
+],
+[
+8,
+"The SI unit of current is:",
+[
+"Volt",
+"Ohm",
+"Watt",
+"Ampere"
+],
+3,
+"A."
+],
+[
+8,
+"The SI unit of potential difference is:",
+[
+"Ampere",
+"Ohm",
+"Joule",
+"Volt"
+],
+3,
+"V."
+],
+[
+8,
+"The SI unit of resistance is:",
+[
+"Ohm",
+"Volt",
+"Ampere",
+"Watt"
+],
+0,
+"Ω."
+],
+[
+8,
+"Ohm's law is:",
+[
+"V = I/R",
+"V = IR",
+"P = VI only",
+"R = VI"
+],
+1,
+"Ohm's law."
+],
+[
+8,
+"An instrument used to measure current is:",
+[
+"Ammeter",
+"Voltmeter",
+"Thermometer",
+"Barometer"
+],
+0,
+"Ammeter."
+],
+[
+8,
+"An instrument used to measure voltage is:",
+[
+"Ammeter",
+"Galvanometer only",
+"Voltmeter",
+"Odometer"
+],
+2,
+"Voltmeter."
+],
+[
+8,
+"In a series circuit, the current is:",
+[
+"Different in each resistor",
+"Zero",
+"Same everywhere",
+"Infinite"
+],
+2,
+"Series circuit."
+],
+[
+8,
+"In a parallel circuit, the voltage across each branch is:",
+[
+"Different",
+"Zero",
+"The same",
+"Double"
+],
+2,
+"Parallel circuit."
+],
+[
+8,
+"A fuse protects a circuit from:",
+[
+"Low voltage",
+"Light",
+"Excess current",
+"Sound"
+],
+2,
+"Safety device."
+],
+[
+8,
+"The commercial unit of electrical energy is:",
+[
+"Joule",
+"Watt",
+"Kilowatt-hour",
+"Volt"
+],
+2,
+"kWh."
+],
+[
+8,
+"Electric power P equals:",
+[
+"V/I",
+"VI",
+"IR only",
+"V + I"
+],
+1,
+"P = VI."
+],
+[
+9,
+"A device that allows current to flow in one direction only is a:",
+[
+"Resistor",
+"Capacitor",
+"Transformer",
+"Diode"
+],
+3,
+"Diode."
+],
+[
+9,
+"Silicon and germanium are:",
+[
+"Conductors",
+"Semiconductors",
+"Insulators",
+"Superconductors"
+],
+1,
+"Semiconductors."
+],
+[
+9,
+"A transistor is mainly used as an:",
+[
+"Insulator",
+"Amplifier and switch",
+"Battery",
+"Bulb"
+],
+1,
+"Transistor uses."
+],
+[
+9,
+"The binary number system uses digits:",
+[
+"0 and 1",
+"0 to 9",
+"1 and 2",
+"0 to 7"
+],
+0,
+"Binary."
+],
+[
+9,
+"Logic gate that gives output 1 only when all inputs are 1 is:",
+[
+"OR gate",
+"NOT gate",
+"NOR gate",
+"AND gate"
+],
+3,
+"AND."
+],
+[
+9,
+"Logic gate that inverts the input is:",
+[
+"NOT gate",
+"AND gate",
+"OR gate",
+"XOR gate"
+],
+0,
+"NOT."
+],
+[
+9,
+"Logic gate that gives output 1 when any input is 1 is:",
+[
+"AND gate",
+"NOT gate",
+"NAND gate",
+"OR gate"
+],
+3,
+"OR."
+],
+[
+9,
+"Changing AC into DC is called:",
+[
+"Rectification",
+"Amplification",
+"Modulation",
+"Induction"
+],
+0,
+"Rectifier."
+],
+[
+9,
+"LED stands for:",
+[
+"Low Energy Device",
+"Light Emitting Diode",
+"Light Electric Display",
+"Long Emitting Diode"
+],
+1,
+"LED."
+],
+[
+9,
+"An integrated circuit (IC) is also called a:",
+[
+"Chip",
+"Bulb",
+"Fuse",
+"Battery"
+],
+0,
+"Microchip."
+],
+[
+9,
+"Electronics deals with the flow of:",
+[
+"Electrons in devices",
+"Water",
+"Air",
+"Heat"
+],
+0,
+"Electronics."
+],
+[
+10,
+"The use of science for practical purposes is:",
+[
+"Philosophy",
+"Technology",
+"History",
+"Art"
+],
+1,
+"Technology."
+],
+[
+10,
+"A computer's brain is the:",
+[
+"CPU",
+"Monitor",
+"Keyboard",
+"Mouse"
+],
+0,
+"Central Processing Unit."
+],
+[
+10,
+"Information sent through optical fibres travels as:",
+[
+"Sound",
+"Light",
+"Water",
+"Electricity only"
+],
+1,
+"Optical fibre."
+],
+[
+10,
+"Satellites are used for:",
+[
+"Cooking",
+"Farming only",
+"Mining",
+"Communication and weather forecasting"
+],
+3,
+"Uses."
+],
+[
+10,
+"Laser light is used in:",
+[
+"Surgery and communication",
+"Cooking only",
+"Painting",
+"Swimming"
+],
+0,
+"Lasers."
+],
+[
+10,
+"MRI is used in hospitals for:",
+[
+"Imaging internal body parts",
+"Cooking",
+"Cleaning",
+"Heating"
+],
+0,
+"Medical imaging."
+],
+[
+10,
+"Ultrasound is sound of frequency:",
+[
+"Above 20,000 Hz",
+"Below 20 Hz",
+"Exactly 1,000 Hz",
+"Zero"
+],
+0,
+"Beyond hearing."
+],
+[
+10,
+"The internet connects computers:",
+[
+"Only in one room",
+"Only in one city",
+"Worldwide",
+"Only offline"
+],
+2,
+"Global network."
+],
+[
+10,
+"Genetic engineering is a branch of:",
+[
+"Geology",
+"Biotechnology",
+"Astronomy",
+"Mechanics"
+],
+1,
+"Biotechnology."
+],
+[
+10,
+"E-mail stands for:",
+[
+"Electronic mail",
+"Express mail",
+"Emergency mail",
+"Easy mail"
+],
+0,
+"Electronic mail."
+],
+[
+11,
+"The study of space and heavenly bodies is called:",
+[
+"Astronomy",
+"Astrology",
+"Geology",
+"Biology"
+],
+0,
+"Astronomy."
+],
+[
+11,
+"Pakistan's space agency is called:",
+[
+"NASA",
+"SUPARCO",
+"ESA",
+"ISRO"
+],
+1,
+"Space & Upper Atmosphere Research Commission."
+],
+[
+11,
+"Pakistan became a nuclear power on:",
+[
+"14 August 1947",
+"6 September 1965",
+"28 May 1998",
+"23 March 1940"
+],
+2,
+"Youm-e-Takbeer."
+],
+[
+11,
+"The energy released by splitting heavy nuclei is called:",
+[
+"Nuclear fission",
+"Nuclear fusion",
+"Combustion",
+"Radiation only"
+],
+0,
+"Fission."
+],
+[
+11,
+"The energy of the Sun is produced by:",
+[
+"Nuclear fission",
+"Nuclear fusion",
+"Burning coal",
+"Chemical reaction"
+],
+1,
+"Fusion of hydrogen."
+],
+[
+11,
+"Uranium is used as a fuel in:",
+[
+"Petrol engines",
+"Solar panels",
+"Wind turbines",
+"Nuclear reactors"
+],
+3,
+"Nuclear fuel."
+],
+[
+11,
+"PAEC stands for:",
+[
+"Pakistan Atomic Energy Commission",
+"Pakistan Agricultural Energy Council",
+"Pakistan Air Engineering College",
+"Pakistan Arts Education Centre"
+],
+0,
+"PAEC."
+],
+[
+11,
+"The first Pakistani satellite Badr-1 was launched in:",
+[
+"1947",
+"1990",
+"1998",
+"2011"
+],
+1,
+"July 1990."
+],
+[
+11,
+"A device that keeps nuclear reaction under control is a:",
+[
+"Bomb",
+"Generator only",
+"Battery",
+"Nuclear reactor"
+],
+3,
+"Reactor."
+],
+[
+11,
+"Chashma Nuclear Power Plant is in:",
+[
+"Sindh",
+"Balochistan",
+"Punjab",
+"KPK"
+],
+2,
+"Chashma, Mianwali."
+],
+[
+11,
+"The Moon is a natural ___ of the Earth.",
+[
+"Planet",
+"Star",
+"Satellite",
+"Comet"
+],
+2,
+"Satellite."
+],
+[
+11,
+"Light year is a unit of:",
+[
+"Time",
+"Speed",
+"Distance",
+"Mass"
+],
+2,
+"Distance light travels in a year."
+]
+]

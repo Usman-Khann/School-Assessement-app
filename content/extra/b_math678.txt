@@ -1,0 +1,383 @@
+#g6_math
+1|A collection of well-defined objects is called a:|Set|Group only|Number|Line|Definition of set.
+1|The set of even numbers between 1 and 9 is:|{2, 4, 6, 8}|{1, 3, 5, 7}|{2, 4, 6, 8, 10}|{0, 2, 4}|Even numbers.
+1|The symbol ∈ means:|Is an element of|Is not an element of|Subset|Union|Membership.
+1|A set with no elements is called:|Empty set|Singleton set|Finite set|Infinite set|∅ or { }.
+1|A set with only one element is called:|Singleton set|Empty set|Infinite set|Equal set|Singleton.
+1|{a, b} and {b, a} are:|Equal sets|Different sets|Empty sets|Infinite sets|Order does not matter.
+1|The number of elements in {1, 3, 5, 7} is:|4|3|7|16|Count elements.
+1|The set of natural numbers is:|Infinite|Finite|Empty|Singleton|Never ends.
+1|Two sets with the same number of elements are called:|Equivalent sets|Equal sets always|Empty sets|Disjoint sets|Equivalent.
+1|Sets with no common element are called:|Disjoint sets|Equal sets|Overlapping sets|Subsets|Disjoint.
+2|Which of the following is a rational number?|3/4|√2|π|√3|p/q form.
+2|The additive inverse of 5/7 is:|−5/7|7/5|5/7|−7/5|Sum is zero.
+2|The multiplicative inverse of 2/3 is:|3/2|−2/3|2/3|−3/2|Reciprocal.
+2|−3/4 + 3/4 =|0|1|−3/2|3/2|Additive inverses.
+2|2/3 × 3/2 =|1|0|4/9|9/4|Multiplicative inverses.
+2|Which is greater: −1/2 or −1/3?|−1/3|−1/2|Equal|Cannot say|−0.33 > −0.5.
+2|0 is a:|Rational number|Irrational number|Negative number|Prime number|0 = 0/1.
+2|1/2 + 1/4 =|3/4|2/6|1/6|1/8|2/4 + 1/4.
+2|5/6 − 1/3 =|1/2|4/3|1/3|2/3|5/6 − 2/6 = 3/6.
+2|3/5 ÷ 3/10 =|2|9/50|1/2|5/3|3/5 × 10/3.
+3|0.7 + 0.25 =|0.95|0.32|0.725|9.5|Line up decimal points.
+3|3.6 × 10 =|36|0.36|360|3.60|Shift decimal one place right.
+3|4.8 ÷ 100 =|0.048|48|0.48|480|Shift two places left.
+3|0.2 × 0.3 =|0.06|0.6|6|0.006|2 × 3 = 6, two decimal places.
+3|1/8 as a decimal is:|0.125|0.18|0.8|1.8|1 ÷ 8.
+3|0.75 as a fraction in lowest terms is:|3/4|75/10|7/5|1/4|75/100.
+3|Round 3.476 to two decimal places:|3.48|3.47|3.5|3.4|6 ≥ 5.
+3|Which is the largest: 0.5, 0.45, 0.505?|0.505|0.5|0.45|All equal|Compare place values.
+3|2.5 − 0.75 =|1.75|1.25|2.25|1.85|Subtraction.
+3|1.2 ÷ 0.4 =|3|0.3|30|4.8|12 ÷ 4.
+4|2³ equals:|8|6|9|5|2 × 2 × 2.
+4|In 5⁴, the base is:|5|4|20|625|Base and exponent.
+4|In 5⁴, the exponent is:|4|5|20|625|Power.
+4|10³ equals:|1,000|30|100|10,000|10 × 10 × 10.
+4|a² × a³ =|a⁵|a⁶|a|2a⁵|Add exponents.
+4|(−2)² =|4|−4|2|−2|Even power of negative is positive.
+4|(−2)³ =|−8|8|−6|6|Odd power keeps sign.
+4|7⁰ =|1|0|7|Undefined|Any non-zero number to power 0 is 1.
+4|3² + 4² =|25|49|14|7|9 + 16.
+4|(2/3)² =|4/9|4/6|2/9|4/3|Square numerator and denominator.
+5|√49 =|7|49|14|24.5|7 × 7 = 49.
+5|√144 =|12|14|72|11|12 × 12.
+5|The square of 15 is:|225|30|150|215|15 × 15.
+5|Which is a perfect square?|81|50|72|90|9².
+5|√(9/16) =|3/4|9/4|3/16|81/256|Root of numerator and denominator.
+5|√0.25 =|0.5|0.05|0.25|5|0.5 × 0.5.
+5|The square root of 1 is:|1|0|2|1/2|1 × 1.
+5|A number ending in 7 cannot be a perfect square because:|No square ends in 7|It is odd|It is prime|It is large|Squares end in 0,1,4,5,6,9.
+5|√400 =|20|40|200|16|20².
+5|The square of 1.1 is:|1.21|1.1|12.1|2.2|1.1 × 1.1.
+6|If y = kx, then y varies ___ as x.|Directly|Inversely|Not at all|Randomly|Direct variation.
+6|If 2 pens cost Rs. 30, then 6 pens cost:|Rs. 90|Rs. 60|Rs. 180|Rs. 36|Direct variation.
+6|If 4 men build a wall in 6 days, 8 men will build it in:|3 days|12 days|6 days|2 days|Inverse variation.
+6|Speed and time for a fixed distance vary:|Inversely|Directly|Equally|Not at all|More speed, less time.
+6|The ratio 12 : 18 in simplest form is:|2 : 3|3 : 2|6 : 9|4 : 6|Divide by 6.
+6|If x : 5 = 6 : 10, then x =|3|12|30|2|Cross multiply.
+6|Number of workers and days to finish a job vary:|Inversely|Directly|Equally|Not at all|Inverse.
+6|Cost of oranges and their number vary:|Directly|Inversely|Not at all|Randomly|Direct.
+6|A car covers 60 km in 1 hour. In 3 hours it covers:|180 km|60 km|20 km|120 km|Direct variation.
+6|If 5 kg of sugar costs Rs. 500, 2 kg will cost:|Rs. 200|Rs. 250|Rs. 100|Rs. 1,000|Rs. 100 per kg.
+7|Profit = Selling price − ___|Cost price|Discount|Loss|Tax|Profit formula.
+7|If CP = Rs. 80 and SP = Rs. 100, profit % is:|25%|20%|80%|10%|20/80 × 100.
+7|If CP = Rs. 200 and SP = Rs. 180, loss is:|Rs. 20|Rs. 180|Rs. 380|Rs. 10|200 − 180.
+7|Discount is calculated on the:|Marked price|Cost price|Profit|Loss|Marked price.
+7|10% discount on Rs. 500 is:|Rs. 50|Rs. 450|Rs. 10|Rs. 5|500 × 10%.
+7|Simple interest on Rs. 500 at 10% for 1 year is:|Rs. 50|Rs. 10|Rs. 550|Rs. 5|500 × 10 × 1/100.
+7|Selling price when CP = Rs. 300 and profit = 10% is:|Rs. 330|Rs. 310|Rs. 270|Rs. 30|300 + 30.
+7|Money kept in a bank earns:|Interest|Discount|Loss|Tax|Interest.
+7|If marked price is Rs. 800 and discount is Rs. 80, discount % is:|10%|8%|80%|1%|80/800 × 100.
+7|The rate of Zakat is:|2.5%|5%|10%|1%|One-fortieth.
+8|In 5x + 3, the coefficient of x is:|5|3|x|8|Number with variable.
+8|In 5x + 3, the constant term is:|3|5|x|5x|Term without variable.
+8|Like terms among 3x, 4y, 7x, 2 are:|3x and 7x|3x and 4y|4y and 2|7x and 2|Same variable.
+8|3x + 5x =|8x|15x|8x²|2x|Add like terms.
+8|7a − 2a =|5a|9a|5|14a|Subtract like terms.
+8|The value of 2x + 1 when x = 3 is:|7|6|5|9|2(3) + 1.
+8|An expression with two terms is called a:|Binomial|Monomial|Trinomial|Polynomial of degree 2|Bi = two.
+8|An expression with one term is called a:|Monomial|Binomial|Trinomial|Constant only|Mono = one.
+8|x × x =|x²|2x|x|2x²|Multiply.
+8|(a + b) + (a − b) =|2a|2b|0|a² − b²|b cancels.
+9|Solve: x + 5 = 12|x = 7|x = 17|x = 5|x = 12|Subtract 5.
+9|Solve: 3x = 21|x = 7|x = 18|x = 63|x = 3|Divide by 3.
+9|Solve: x/2 = 9|x = 18|x = 4.5|x = 11|x = 7|Multiply by 2.
+9|Solve: 2x − 4 = 10|x = 7|x = 3|x = 14|x = 5|2x = 14.
+9|The highest power of the variable in a linear equation is:|1|2|0|3|Linear.
+9|Solve: 5x + 2 = 3x + 8|x = 3|x = 5|x = 2|x = 4|2x = 6.
+9|If twice a number is 30, the number is:|15|60|28|32|2x = 30.
+9|The sum of a number and 7 is 20. The number is:|13|27|7|20|x + 7 = 20.
+9|Solve: 4(x − 1) = 12|x = 4|x = 3|x = 2|x = 13/4|x − 1 = 3.
+9|An equation is a statement that two expressions are:|Equal|Unequal|Opposite|Parallel|Equation.
+10|An angle of exactly 90° is called:|Right angle|Acute angle|Obtuse angle|Reflex angle|Right angle.
+10|An angle less than 90° is:|Acute|Obtuse|Right|Straight|Acute.
+10|Two angles that add up to 90° are:|Complementary|Supplementary|Vertical|Adjacent|Complementary.
+10|Two angles that add up to 180° are:|Supplementary|Complementary|Acute|Right|Supplementary.
+10|The complement of 40° is:|50°|140°|40°|60°|90 − 40.
+10|The supplement of 40° is:|140°|50°|40°|320°|180 − 40.
+10|Vertically opposite angles are:|Equal|Supplementary|Complementary|Right|Equal.
+10|A line segment has ___ end points.|Two|One|No|Three|Segment.
+10|Lines in the same plane that never meet are:|Parallel|Perpendicular|Intersecting|Concurrent|Parallel.
+10|The sum of angles on a straight line is:|180°|90°|360°|270°|Straight angle.
+11|To construct an angle of 60° we use:|Compass and ruler|Protractor only|Thermometer|Set square only|Construction.
+11|Bisecting a line segment means dividing it into:|Two equal parts|Three parts|Unequal parts|Four parts|Bisect.
+11|A perpendicular makes an angle of ___ with the line.|90°|60°|45°|180°|Perpendicular.
+11|To draw a circle we need a:|Compass|Protractor|Ruler only|Set square|Compass.
+11|The bisector of a 120° angle gives two angles of:|60°|30°|90°|120°|120 ÷ 2.
+11|A triangle with sides 3 cm, 4 cm, 5 cm is:|Right-angled|Equilateral|Isosceles|Obtuse|3² + 4² = 5².
+11|To construct a triangle we need at least ___ measurements.|Three|Two|One|Four|Three.
+11|A protractor is used to:|Measure and draw angles|Draw circles|Measure mass|Measure time|Protractor.
+11|An equilateral triangle has each angle of:|60°|90°|45°|120°|180 ÷ 3.
+11|Bisecting a 90° angle gives:|45°|30°|60°|90°|90 ÷ 2.
+12|Circumference of a circle =|2πr|πr²|πr|4πr|Formula.
+12|Area of a circle =|πr²|2πr|πd|2r|Formula.
+12|Diameter = ___ × radius.|2|3|π|1/2|d = 2r.
+12|Circumference of a circle of radius 7 cm (π = 22/7) is:|44 cm|154 cm|22 cm|14 cm|2 × 22/7 × 7.
+12|Area of a circle of radius 7 cm (π = 22/7) is:|154 cm²|44 cm²|49 cm²|22 cm²|22/7 × 49.
+12|Volume of a cube of side 4 cm is:|64 cm³|16 cm³|48 cm³|12 cm³|4³.
+12|Volume of a cuboid 5 × 3 × 2 cm is:|30 cm³|10 cm³|31 cm³|15 cm³|5 × 3 × 2.
+12|The value of π is approximately:|3.14|3.41|2.14|1.34|π ≈ 22/7.
+12|The unit of volume is:|cm³|cm²|cm|kg|Cubic units.
+12|Area of a rectangle 8 cm × 6 cm is:|48 cm²|28 cm²|14 cm²|96 cm²|8 × 6.
+13|A graph that shows data using bars is a:|Bar graph|Pie chart|Line graph|Pictograph|Bar graph.
+13|A circular graph divided into sectors is a:|Pie chart|Bar graph|Histogram|Line graph|Pie chart.
+13|The average of 3, 5, 7, 9 is:|6|5|24|7|24 ÷ 4.
+13|The mode of 4, 5, 5, 6, 7 is:|5|4|6|7|Most frequent.
+13|The median of 1, 3, 5, 7, 9 is:|5|3|7|25|Middle value.
+13|Total angle of a pie chart is:|360°|180°|100°|90°|Full circle.
+13|Information collected for a purpose is called:|Data|Graph|Table|Formula|Data.
+13|In a pie chart, if 1/4 of students like cricket, its sector angle is:|90°|45°|180°|60°|360 × 1/4.
+13|The difference between highest and lowest values is the:|Range|Mean|Mode|Median|Range.
+13|The arithmetic mean of 10 and 20 is:|15|30|10|20|(10 + 20)/2.
+#g7_math
+1|If A = {1, 2, 3} and B = {3, 4}, A ∪ B =|{1, 2, 3, 4}|{3}|{1, 2}|{4}|Union.
+1|If A = {1, 2, 3} and B = {3, 4}, A ∩ B =|{3}|{1, 2, 3, 4}|{1, 2}|{4}|Intersection.
+1|If A = {1, 2, 3} and B = {3, 4}, A − B =|{1, 2}|{4}|{3}|{1, 2, 3, 4}|Difference.
+1|A ⊆ B means A is a ___ of B.|Subset|Superset|Element|Complement|Subset.
+1|The number of subsets of {a, b} is:|4|2|3|1|2² = 4.
+1|The complement of A is the set of elements in U but:|Not in A|In A|In A and B|In B only|A′ = U − A.
+1|A ∪ A =|A|∅|U|A′|Idempotent.
+1|A ∩ A′ =|∅|A|U|A′|Nothing in both.
+1|A ∪ A′ =|U|∅|A|A′|Universal set.
+1|A Venn diagram represents sets using:|Closed curves (circles)|Bars|Lines|Tables|Venn diagram.
+2|Which is not a rational number?|√5|0.5|−3|2/7|Irrational.
+2|−2/3 × −3/4 =|1/2|−1/2|6/7|−1/3|Negative × negative.
+2|The reciprocal of −5 is:|−1/5|5|1/5|−5|Reciprocal.
+2|Rational numbers between 0 and 1 include:|1/2|3/2|−1/2|2|Between 0 and 1.
+2|(−3/5) + (2/5) =|−1/5|1/5|−5/5|5/5|Like fractions.
+2|The rational number −4/8 in lowest terms is:|−1/2|−2/4|1/2|−4/8|Divide by 4.
+2|Which property: a × b = b × a?|Commutative|Associative|Distributive|Identity|Order.
+2|3/4 ÷ (−3/8) =|−2|2|−9/32|9/32|3/4 × −8/3.
+2|The additive identity for rational numbers is:|0|1|−1|10|a + 0 = a.
+2|The multiplicative identity for rational numbers is:|1|0|−1|10|a × 1 = a.
+3|0.333… is a:|Recurring decimal|Terminating decimal|Whole number|Irrational number|Repeating 3.
+3|0.25 is a:|Terminating decimal|Recurring decimal|Irrational number|Negative number|Ends.
+3|1/3 as a decimal is:|0.333…|0.3|0.33|3.33|Recurring.
+3|0.6 × 0.5 =|0.3|3.0|0.03|1.1|6 × 5 = 30, two places.
+3|Round 2.649 to one decimal place:|2.6|2.7|2.65|3.0|4 < 5.
+3|0.125 as a fraction is:|1/8|1/4|125/10|1/125|125/1000.
+3|5.04 − 2.5 =|2.54|3.54|2.99|2.46|Subtraction.
+3|0.09 × 100 =|9|0.9|90|0.009|Two places right.
+3|7.5 ÷ 2.5 =|3|30|0.3|5|75 ÷ 25.
+3|Which is greater: 0.7 or 0.69?|0.7|0.69|Equal|Cannot say|0.70 > 0.69.
+4|a⁵ ÷ a² =|a³|a⁷|a^2.5|a¹⁰|Subtract exponents.
+4|(a³)² =|a⁶|a⁵|a⁹|a|Multiply exponents.
+4|2⁻¹ =|1/2|−2|2|−1/2|Negative exponent.
+4|(ab)² =|a²b²|ab²|a²b|2ab|Power of product.
+4|(a/b)³ =|a³/b³|a/b³|3a/3b|a³/b|Power of quotient.
+4|5² × 5³ =|5⁵|5⁶|25⁵|10⁵|Add exponents.
+4|10⁻² =|0.01|0.1|−100|100|1/100.
+4|(−1)¹⁰⁰ =|1|−1|100|0|Even power.
+4|3⁴ =|81|12|64|27|3 × 3 × 3 × 3.
+4|4⁰ + 4¹ =|5|4|1|8|1 + 4.
+5|√64 =|8|6|32|16|8².
+5|√169 =|13|14|12|16|13².
+5|√(0.04) =|0.2|0.02|2|0.4|0.2².
+5|Square root of 2.25 is:|1.5|1.25|15|0.15|1.5².
+5|√(25/36) =|5/6|25/36|6/5|5/36|Root top and bottom.
+5|Which is a perfect square?|196|200|210|180|14².
+5|The smallest number to multiply 18 to make a perfect square is:|2|3|9|6|18 × 2 = 36.
+5|√(2 × 2 × 3 × 3) =|6|12|36|5|2 × 3.
+5|The square of 0.3 is:|0.09|0.9|0.03|9|0.3 × 0.3.
+5|√10000 =|100|1000|10|50|100².
+6|If y ∝ x and y = 12 when x = 4, then y = 18 when x =|6|9|3|72|k = 3.
+6|If y ∝ 1/x and y = 10 when x = 3, then y when x = 5 is:|6|50/3|15|2|xy = 30.
+6|In continued ratio a : b : c, if a : b = 2 : 3 and b : c = 3 : 5, then a : b : c =|2 : 3 : 5|2 : 5 : 3|3 : 2 : 5|5 : 3 : 2|Combine.
+6|12 workers can do a job in 10 days. 6 workers will take:|20 days|5 days|10 days|12 days|Inverse.
+6|A car uses 8 L for 96 km. For 144 km it uses:|12 L|10 L|16 L|9 L|12 km per L.
+6|The ratio of 500 g to 2 kg is:|1 : 4|4 : 1|5 : 2|1 : 2|500 : 2000.
+6|Rs. 600 divided in the ratio 1 : 2 gives:|Rs. 200 and Rs. 400|Rs. 300 and Rs. 300|Rs. 100 and Rs. 500|Rs. 150 and Rs. 450|600 ÷ 3.
+6|Direct proportion means when one quantity increases, the other:|Increases|Decreases|Stays same|Becomes zero|Direct.
+6|Inverse proportion means when one quantity increases, the other:|Decreases|Increases|Stays same|Doubles|Inverse.
+6|If 3 : 4 = 9 : x, then x =|12|16|6|27|Cross multiply.
+7|Simple interest on Rs. 2,000 at 5% for 3 years is:|Rs. 300|Rs. 150|Rs. 2,300|Rs. 100|2000 × 5 × 3/100.
+7|If SP = Rs. 1,200 and profit is 20%, then CP is:|Rs. 1,000|Rs. 960|Rs. 1,440|Rs. 1,180|SP = 1.2 CP.
+7|Income tax is paid on:|Income|Expenses|Discounts|Loans|Income tax.
+7|A loss of 10% on CP Rs. 500 means SP is:|Rs. 450|Rs. 550|Rs. 490|Rs. 50|500 − 50.
+7|Commission of 5% on sales of Rs. 20,000 is:|Rs. 1,000|Rs. 500|Rs. 2,000|Rs. 100|20000 × 5%.
+7|The amount on Rs. 1,000 at 10% SI for 2 years is:|Rs. 1,200|Rs. 1,100|Rs. 200|Rs. 1,020|1000 + 200.
+7|Zakat on Rs. 40,000 (above nisab) is:|Rs. 1,000|Rs. 4,000|Rs. 400|Rs. 2,000|2.5%.
+7|Profit percentage is calculated on:|Cost price|Selling price|Marked price|Discount|On CP.
+7|If an item is bought for Rs. 250 and sold for Rs. 300, profit % is:|20%|50%|25%|16%|50/250 × 100.
+7|Inheritance is divided according to:|Islamic law (Quran and Sunnah)|Age only|Random choice|Height|Islamic law.
+8|(x + 2)(x + 3) =|x² + 5x + 6|x² + 6|x² + 5x + 5|x² + 6x + 5|Multiply.
+8|(x + 4)² =|x² + 8x + 16|x² + 16|x² + 4x + 16|x² + 8x + 8|Identity.
+8|(x − 5)(x + 5) =|x² − 25|x² + 25|x² − 10x + 25|x² − 5|Difference of squares.
+8|The degree of 4x³ − 2x + 7 is:|3|1|7|4|Highest power.
+8|2x(3x − 1) =|6x² − 2x|6x − 2|5x² − 2x|6x² − 1|Distribute.
+8|Add: (3x + 2) + (5x − 7)|8x − 5|8x + 9|2x − 5|15x − 14|Combine like terms.
+8|Subtract: (5x + 4) − (2x + 1)|3x + 3|3x + 5|7x + 5|3x − 3|Combine.
+8|A polynomial with three terms is called a:|Trinomial|Binomial|Monomial|Quadratic always|Tri = three.
+8|The value of x² − 3 when x = −2 is:|1|−7|7|−1|4 − 3.
+8|(a − b)² =|a² − 2ab + b²|a² + b²|a² − b²|a² + 2ab − b²|Identity.
+9|Solve: 3(x + 2) = 15|x = 3|x = 5|x = 7|x = 13/3|x + 2 = 5.
+9|Solve: x/3 + 2 = 5|x = 9|x = 3|x = 21|x = 1|x/3 = 3.
+9|Solve: 7 − x = 2|x = 5|x = 9|x = −5|x = 2|x = 7 − 2.
+9|The present age of a father is 3 times his son's age. If the son is 12, the father is:|36|15|24|48|3 × 12.
+9|Solve: 0.5x = 4|x = 8|x = 2|x = 4.5|x = 0.8|x = 4 ÷ 0.5.
+9|Solve: 2x + 3 = x + 10|x = 7|x = 13|x = 3|x = 10|x = 7.
+9|A number increased by 15 gives 40. The number is:|25|55|15|40|x + 15 = 40.
+9|The solution of 6x = 0 is:|0|6|1/6|No solution|x = 0.
+9|Solve: (2x − 1)/3 = 3|x = 5|x = 4|x = 3|x = 9|2x − 1 = 9.
+9|If 5 more than a number is 3 times the number, the number is:|2.5|5|1.5|3|x + 5 = 3x.
+10|The sum of angles of a triangle is:|180°|90°|360°|270°|Angle sum.
+10|If two angles of a triangle are 40° and 80°, the third is:|60°|120°|40°|80°|180 − 120.
+10|Corresponding angles formed by a transversal on parallel lines are:|Equal|Supplementary|Complementary|Unequal|Property.
+10|Co-interior angles on parallel lines are:|Supplementary|Equal|Complementary|Right angles|Sum 180°.
+10|A triangle with all angles less than 90° is:|Acute-angled|Obtuse-angled|Right-angled|Straight|Acute.
+10|An exterior angle of a triangle equals:|Sum of the two opposite interior angles|180°|90°|Adjacent interior angle|Theorem.
+10|Two triangles are congruent if they are:|Equal in all respects|Similar only|Equal in area only|Different|Congruent.
+10|The sum of exterior angles of any polygon is:|360°|180°|540°|720°|Always 360°.
+10|An angle greater than 180° but less than 360° is:|Reflex angle|Obtuse angle|Straight angle|Acute angle|Reflex.
+10|Adjacent angles on a straight line add up to:|180°|90°|360°|0°|Linear pair.
+11|To construct a triangle given two angles and the included side we use:|A.S.A.|S.S.S.|S.A.S.|R.H.S.|Angle–Side–Angle.
+11|An angle of 30° can be constructed by bisecting:|60°|90°|45°|120°|60 ÷ 2.
+11|An angle of 75° can be constructed by bisecting the angle between:|60° and 90°|30° and 60°|90° and 120°|0° and 60°|(60 + 90)/2.
+11|To construct a right-angled triangle given hypotenuse and one side, we use:|R.H.S.|S.S.S.|A.S.A.|S.A.S.|Right angle–Hypotenuse–Side.
+11|A quadrilateral with four equal sides and four right angles is a:|Square|Rhombus|Rectangle|Trapezium|Square.
+11|A quadrilateral with four equal sides but angles not 90° is a:|Rhombus|Square|Rectangle|Kite|Rhombus.
+11|The diagonals of a square are:|Equal and perpendicular|Unequal|Parallel|Not bisecting|Square property.
+11|An angle of 135° can be made by adding 90° and:|45°|30°|60°|75°|90 + 45.
+11|The arcs drawn while bisecting a line segment must have radius:|More than half the segment|Less than half|Exactly one cm|Zero|Construction rule.
+11|A set square is used to draw:|Parallel and perpendicular lines|Circles|Arcs|Curves only|Set square.
+12|Circumference of a circle with diameter 14 cm (π = 22/7) is:|44 cm|154 cm|22 cm|88 cm|πd.
+12|Area of a circle with diameter 14 cm (π = 22/7) is:|154 cm²|44 cm²|616 cm²|196 cm²|r = 7.
+12|Volume of a cylinder with r = 7 cm, h = 10 cm (π = 22/7) is:|1,540 cm³|440 cm³|154 cm³|700 cm³|22/7 × 49 × 10.
+12|Surface area of a cube with side 5 cm is:|150 cm²|125 cm³|25 cm²|100 cm²|6 × 25.
+12|1 litre equals:|1,000 cm³|100 cm³|10 cm³|10,000 cm³|1 L = 1000 cm³.
+12|Area of a semicircle of radius r is:|πr²/2|πr²|2πr|πr|Half circle.
+12|If the radius of a circle is doubled, its area becomes:|Four times|Double|Half|Same|r² factor.
+12|Volume of a cube is 125 cm³. Its side is:|5 cm|25 cm|15 cm|3 cm|∛125.
+12|Perimeter of a semicircle of radius r (including diameter) is:|πr + 2r|πr|2πr|πr²/2|Arc + diameter.
+12|Area of a ring between radii 7 cm and 3.5 cm is found by:|π(R² − r²)|π(R − r)|2π(R − r)|πR²|Annulus.
+13|Frequency means:|How many times a value occurs|The largest value|The average|The total|Frequency.
+13|A histogram has bars that are:|Adjacent (no gaps)|Separated|Circular|Triangular|Continuous data.
+13|The mean of 6, 8, 10, 12 is:|9|8|10|36|36 ÷ 4.
+13|The median of 2, 4, 6, 8 is:|5|4|6|20|Average of 4 and 6.
+13|If a pie chart sector is 120°, it represents ___ of the whole.|1/3|1/4|1/2|1/6|120/360.
+13|The mode of 2, 2, 3, 4, 4, 4, 5 is:|4|2|3|5|Most frequent.
+13|A frequency table groups data into:|Classes|Circles|Angles|Lines|Classes.
+13|The range of 15, 22, 9, 30 is:|21|30|9|15|30 − 9.
+13|Data collected by the person himself is:|Primary data|Secondary data|False data|Grouped data|Primary.
+13|In a pie chart, 50% of the data takes an angle of:|180°|90°|360°|50°|Half circle.
+#g8_math
+1|If U = {1,…,6}, A = {1, 2, 3}, then A′ =|{4, 5, 6}|{1, 2, 3}|{}|{1,…,6}|Complement.
+1|(A ∪ B)′ =|A′ ∩ B′|A′ ∪ B′|A ∩ B|A ∪ B|De Morgan's law.
+1|(A ∩ B)′ =|A′ ∪ B′|A′ ∩ B′|A ∪ B|A ∩ B|De Morgan's law.
+1|A ∪ B = B ∪ A is the ___ property.|Commutative|Associative|Distributive|Identity|Order.
+1|A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) is the ___ property.|Distributive|Commutative|Associative|De Morgan's|Distributive.
+1|A − B is the set of elements in A but:|Not in B|In B|In both|In U only|Difference.
+1|If A ⊆ B, then A ∪ B =|B|A|∅|U|B contains A.
+1|If A ⊆ B, then A ∩ B =|A|B|∅|U|A is inside B.
+1|The number of elements in the power set of a set with 3 elements is:|8|3|6|9|2³.
+1|Sets A and B are disjoint if A ∩ B =|∅|A|B|U|No common elements.
+2|Which is an irrational number?|√7|√9|0.25|4/5|Non-terminating, non-repeating.
+2|Real numbers consist of:|Rational and irrational numbers|Only integers|Only fractions|Only natural numbers|Real numbers.
+2|√2 + √2 =|2√2|√4|4|2|Like surds.
+2|√3 × √3 =|3|√6|9|6|√9 = 3.
+2|√50 in simplest form is:|5√2|25√2|2√5|10√5|√(25 × 2).
+2|π is approximately:|3.1416|3.1614|3.4116|2.1416|Value of π.
+2|Every integer is a:|Rational number|Irrational number|Natural number|Prime number|n = n/1.
+2|0.1010010001… is:|Irrational|Rational|Terminating|Recurring|Non-repeating pattern.
+2|√(16) + √(9) =|7|5|25|√25|4 + 3.
+2|Which lies between 1 and 2?|√3|√5|√1|√9|√3 ≈ 1.73.
+3|The binary number system has base:|2|10|8|16|Binary.
+3|The decimal number system has base:|10|2|8|5|Decimal.
+3|(101)₂ in decimal is:|5|3|6|101|4 + 0 + 1.
+3|(1010)₂ in decimal is:|10|12|8|1010|8 + 2.
+3|7 in binary is:|111|101|110|1001|4 + 2 + 1.
+3|The digits used in base 5 are:|0, 1, 2, 3, 4|1, 2, 3, 4, 5|0 to 9|0 and 1|Base 5.
+3|(11)₂ + (1)₂ =|(100)₂|(12)₂|(111)₂|(10)₂|3 + 1 = 4.
+3|The octal system has base:|8|6|10|16|Octal.
+3|(23)₅ in decimal is:|13|23|10|15|2×5 + 3.
+3|Computers mainly use the ___ system.|Binary|Decimal|Octal|Roman|0 and 1.
+4|Compound interest is calculated on:|Principal plus accumulated interest|Principal only|Interest only|Discount|Compound.
+4|Rs. 1,000 at 10% compound interest for 1 year amounts to:|Rs. 1,100|Rs. 1,010|Rs. 1,210|Rs. 1,000|Same as SI for 1 year.
+4|Rs. 1,000 at 10% compound interest for 2 years amounts to:|Rs. 1,210|Rs. 1,200|Rs. 1,100|Rs. 1,020|1000 × 1.1².
+4|Ushr is paid on:|Agricultural produce|Savings|Salaries|Gold only|Ushr.
+4|Insurance is a protection against:|Financial loss|Profit|Interest|Tax|Insurance.
+4|Rs. 5,000 at 8% SI for 2 years earns:|Rs. 800|Rs. 400|Rs. 5,800|Rs. 1,600|5000 × 8 × 2 / 100.
+4|A loan taken from a bank must be returned with:|Interest (markup)|Discount|Profit only|Nothing extra|Loan.
+4|Depreciation means:|Decrease in value with time|Increase in value|Profit|Interest|Depreciation.
+4|A machine worth Rs. 10,000 depreciates 10% in one year. Its value becomes:|Rs. 9,000|Rs. 11,000|Rs. 1,000|Rs. 9,900|10000 − 1000.
+4|Zakat is paid at the rate of:|2.5%|10%|5%|20%|Zakat.
+5|The degree of the polynomial 2x⁴ − x + 3 is:|4|1|3|2|Highest power.
+5|(x + 5)(x − 2) =|x² + 3x − 10|x² − 3x − 10|x² + 3x + 10|x² − 10|Multiply.
+5|(2x + 1)² =|4x² + 4x + 1|4x² + 1|2x² + 4x + 1|4x² + 2x + 1|Identity.
+5|(x³ + 2x) ÷ x =|x² + 2|x² + 2x|x³ + 2|x + 2|Divide each term.
+5|The value of x² + 2x + 1 at x = 2 is:|9|7|5|8|4 + 4 + 1.
+5|A polynomial with degree 2 is called:|Quadratic|Linear|Cubic|Constant|Quadratic.
+5|A polynomial with degree 3 is called:|Cubic|Quadratic|Linear|Quartic|Cubic.
+5|(a + b)(a² − ab + b²) =|a³ + b³|a³ − b³|(a + b)³|a² + b²|Sum of cubes.
+5|If x + y = 5 and xy = 6, then x² + y² =|13|25|19|31|25 − 12.
+5|The leading coefficient of 3x³ + 2x² − x is:|3|2|−1|1|Coefficient of highest power.
+6|Factorise: x² + 8x + 15|(x + 3)(x + 5)|(x + 1)(x + 15)|(x − 3)(x − 5)|(x + 8)(x + 1)|3 × 5 = 15.
+6|Factorise: x² − 1|(x + 1)(x − 1)|(x − 1)²|(x + 1)²|x(x − 1)|Difference of squares.
+6|Factorise: 6x² + 3x|3x(2x + 1)|3(2x² + x)|x(6x + 3)|6x(x + 3)|Highest common factor 3x.
+6|Solve simultaneously: x + y = 10, x − y = 4.|x = 7, y = 3|x = 3, y = 7|x = 6, y = 4|x = 5, y = 5|Add: 2x = 14.
+6|Solve: 2x + y = 7, x + y = 4.|x = 3, y = 1|x = 1, y = 3|x = 2, y = 3|x = 4, y = 0|Subtract: x = 3.
+6|Factorise: a² + 2ab + b²|(a + b)²|(a − b)²|(a + b)(a − b)|a(a + 2b)|Perfect square.
+6|Factorise: x² − 5x + 6|(x − 2)(x − 3)|(x + 2)(x + 3)|(x − 1)(x − 6)|(x + 1)(x − 6)|−2 × −3 = 6.
+6|Simultaneous linear equations in two variables usually have:|One solution (x, y)|No solution always|Infinite always|Two solutions|Intersection of two lines.
+6|Factorise: 4a² − 9b²|(2a + 3b)(2a − 3b)|(4a − 9b)²|(2a − 3b)²|(4a + 9b)(a − b)|Difference of squares.
+6|Solve: x + 2y = 8, x = 2.|y = 3|y = 4|y = 2|y = 6|2 + 2y = 8.
+7|An angle bisector divides an angle into:|Two equal angles|Two right angles|Three parts|Unequal parts|Bisector.
+7|The sum of interior angles of a pentagon is:|540°|360°|720°|180°|(5 − 2) × 180.
+7|Each exterior angle of a regular hexagon is:|60°|120°|90°|45°|360 ÷ 6.
+7|A triangle with two equal sides is:|Isosceles|Scalene|Equilateral|Right|Isosceles.
+7|Alternate interior angles formed by a transversal on parallel lines are:|Equal|Supplementary|Complementary|Unequal|Property.
+7|The sum of interior angles of a hexagon is:|720°|540°|360°|900°|(6 − 2) × 180.
+7|A polygon with all sides and angles equal is called:|Regular polygon|Irregular polygon|Triangle|Trapezium|Regular.
+7|The number of diagonals of a quadrilateral is:|2|4|1|3|Two diagonals.
+7|Each interior angle of a regular pentagon is:|108°|120°|90°|72°|540 ÷ 5.
+7|A point where two sides of a polygon meet is called a:|Vertex|Edge|Diagonal|Face|Vertex.
+8|To construct a quadrilateral we need ___ independent measurements.|Five|Three|Four|Six|Five.
+8|To construct a parallelogram we need its two adjacent sides and the:|Included angle|Perimeter|Area|Diagonal only|SAS for parallelogram.
+8|A rectangle can be constructed if we know its:|Length and breadth|Area only|Perimeter only|Diagonal only|Two sides.
+8|A square can be constructed if we know its:|Side|Area and perimeter both|Angle only|Nothing|One side is enough.
+8|In a rhombus, all sides are:|Equal|Unequal|Parallel only|Perpendicular|Rhombus.
+8|A trapezium has ___ pair(s) of parallel sides.|One|Two|No|Three|Trapezium.
+8|A kite has ___ pairs of equal adjacent sides.|Two|One|Three|No|Kite.
+8|The diagonals of a rhombus bisect each other at:|90°|60°|45°|180°|Perpendicular.
+8|A parallelogram with one right angle is a:|Rectangle|Rhombus|Kite|Trapezium|Rectangle.
+8|The opposite sides of a rectangle are:|Equal and parallel|Unequal|Perpendicular|Curved|Rectangle.
+9|Area of a trapezium with parallel sides 6 cm and 10 cm and height 4 cm is:|32 cm²|64 cm²|40 cm²|24 cm²|½ × 16 × 4.
+9|Area of a parallelogram with base 12 cm and height 5 cm is:|60 cm²|30 cm²|17 cm²|120 cm²|12 × 5.
+9|Volume of a cuboid 10 × 4 × 3 cm is:|120 cm³|17 cm³|60 cm³|40 cm³|10 × 4 × 3.
+9|Surface area of a cuboid =|2(lb + bh + hl)|lbh|l + b + h|6l²|Six faces.
+9|Area of a rhombus with diagonals 8 cm and 6 cm is:|24 cm²|48 cm²|14 cm²|12 cm²|½ × 8 × 6.
+9|Volume of a cylinder =|πr²h|2πrh|πrh|2πr²|Formula.
+9|Curved surface area of a cylinder =|2πrh|πr²h|2πr²|πrh|Formula.
+9|Hero's formula is used to find the area of a:|Triangle|Circle|Rectangle|Cylinder|√(s(s − a)(s − b)(s − c)).
+9|Area of a triangle with sides 3, 4, 5 is:|6 cm²|12 cm²|7.5 cm²|10 cm²|½ × 3 × 4.
+9|1 m² equals:|10,000 cm²|100 cm²|1,000 cm²|100,000 cm²|100 × 100.
+10|A statement accepted without proof is called an:|Axiom|Theorem|Corollary|Hypothesis|Axiom.
+10|A statement that is proved logically is called a:|Theorem|Axiom|Postulate|Definition|Theorem.
+10|A result that follows directly from a theorem is a:|Corollary|Axiom|Hypothesis|Converse|Corollary.
+10|In a theorem, the given information is called the:|Hypothesis|Conclusion|Proof|Corollary|Given.
+10|What is to be proved in a theorem is called the:|Conclusion|Hypothesis|Axiom|Figure|To prove.
+10|The converse of a theorem is obtained by interchanging its:|Hypothesis and conclusion|Figure and proof|Axioms|Definitions|Converse.
+10|Through two distinct points, the number of lines that can pass is:|One|Two|Infinite|None|Axiom.
+10|Demonstrative geometry proves results by:|Logical reasoning|Measurement only|Guessing|Drawing only|Deductive proof.
+10|If two lines intersect, vertically opposite angles are:|Equal|Supplementary|Complementary|Right angles|Theorem.
+10|The angles opposite to equal sides of an isosceles triangle are:|Equal|Supplementary|Unequal|90°|Theorem.
+11|In a right triangle, sin θ =|Perpendicular / Hypotenuse|Base / Hypotenuse|Perpendicular / Base|Hypotenuse / Base|Definition.
+11|In a right triangle, cos θ =|Base / Hypotenuse|Perpendicular / Hypotenuse|Perpendicular / Base|Hypotenuse / Perpendicular|Definition.
+11|In a right triangle, tan θ =|Perpendicular / Base|Base / Perpendicular|Base / Hypotenuse|Hypotenuse / Base|Definition.
+11|sin 30° =|1/2|√3/2|1|0|Standard value.
+11|cos 0° =|1|0|1/2|√3/2|Standard value.
+11|tan 45° =|1|0|√3|1/√3|Standard value.
+11|sin 60° =|√3/2|1/2|1|√2/2|Standard value.
+11|If sin θ = 3/5, then cos θ (θ acute) =|4/5|3/4|5/3|5/4|3-4-5 triangle.
+11|sin² θ + cos² θ =|1|0|2|tan θ|Identity.
+11|Trigonometry deals with the relationship between sides and ___ of triangles.|Angles|Areas|Perimeters|Volumes|Trigonometry.
+12|The mean of 2, 4, 6, 8, 10 is:|6|5|30|8|30 ÷ 5.
+12|The median of 3, 8, 5, 9, 1 is:|5|8|9|3|Sort: 1, 3, 5, 8, 9.
+12|In a frequency distribution, the class with the highest frequency is the:|Modal class|Median class|Mean class|Range|Modal class.
+12|The mid-point of class 30–40 is:|35|30|40|70|(30 + 40)/2.
+12|The sum of frequencies equals the:|Total number of observations|Mean|Range|Mode|Σf = n.
+12|A cumulative frequency table shows:|Running totals of frequencies|Only mean|Only mode|Angles|Cumulative frequency.
+12|A frequency polygon is drawn by joining:|Mid-points of the tops of histogram bars|Corners of bars|Random points|Class limits|Frequency polygon.
+12|The mean of 4 numbers is 10. Their sum is:|40|14|2.5|10|4 × 10.
+12|If each value in a data set is increased by 2, the mean:|Increases by 2|Stays same|Doubles|Decreases by 2|Shift property.
+12|Weighted mean is used when values have different:|Importance (weights)|Colours|Names|Units only|Weighted mean.

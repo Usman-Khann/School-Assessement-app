@@ -1,0 +1,1562 @@
+[
+[
+1,
+"If A = {1, 2, 3} and B = {3, 4}, A ∪ B =",
+[
+"{3}",
+"{1, 2}",
+"{4}",
+"{1, 2, 3, 4}"
+],
+3,
+"Union."
+],
+[
+1,
+"If A = {1, 2, 3} and B = {3, 4}, A ∩ B =",
+[
+"{1, 2, 3, 4}",
+"{3}",
+"{1, 2}",
+"{4}"
+],
+1,
+"Intersection."
+],
+[
+1,
+"If A = {1, 2, 3} and B = {3, 4}, A − B =",
+[
+"{4}",
+"{1, 2}",
+"{3}",
+"{1, 2, 3, 4}"
+],
+1,
+"Difference."
+],
+[
+1,
+"A ⊆ B means A is a ___ of B.",
+[
+"Subset",
+"Superset",
+"Element",
+"Complement"
+],
+0,
+"Subset."
+],
+[
+1,
+"The number of subsets of {a, b} is:",
+[
+"2",
+"4",
+"3",
+"1"
+],
+1,
+"2² = 4."
+],
+[
+1,
+"The complement of A is the set of elements in U but:",
+[
+"Not in A",
+"In A",
+"In A and B",
+"In B only"
+],
+0,
+"A′ = U − A."
+],
+[
+1,
+"A ∪ A =",
+[
+"A",
+"∅",
+"U",
+"A′"
+],
+0,
+"Idempotent."
+],
+[
+1,
+"A ∩ A′ =",
+[
+"A",
+"U",
+"∅",
+"A′"
+],
+2,
+"Nothing in both."
+],
+[
+1,
+"A ∪ A′ =",
+[
+"∅",
+"A",
+"A′",
+"U"
+],
+3,
+"Universal set."
+],
+[
+1,
+"A Venn diagram represents sets using:",
+[
+"Bars",
+"Closed curves (circles)",
+"Lines",
+"Tables"
+],
+1,
+"Venn diagram."
+],
+[
+2,
+"Which is not a rational number?",
+[
+"√5",
+"0.5",
+"−3",
+"2/7"
+],
+0,
+"Irrational."
+],
+[
+2,
+"−2/3 × −3/4 =",
+[
+"−1/2",
+"6/7",
+"−1/3",
+"1/2"
+],
+3,
+"Negative × negative."
+],
+[
+2,
+"The reciprocal of −5 is:",
+[
+"5",
+"1/5",
+"−5",
+"−1/5"
+],
+3,
+"Reciprocal."
+],
+[
+2,
+"Rational numbers between 0 and 1 include:",
+[
+"3/2",
+"1/2",
+"−1/2",
+"2"
+],
+1,
+"Between 0 and 1."
+],
+[
+2,
+"(−3/5) + (2/5) =",
+[
+"1/5",
+"−1/5",
+"−5/5",
+"5/5"
+],
+1,
+"Like fractions."
+],
+[
+2,
+"The rational number −4/8 in lowest terms is:",
+[
+"−2/4",
+"1/2",
+"−1/2",
+"−4/8"
+],
+2,
+"Divide by 4."
+],
+[
+2,
+"Which property: a × b = b × a?",
+[
+"Associative",
+"Distributive",
+"Commutative",
+"Identity"
+],
+2,
+"Order."
+],
+[
+2,
+"3/4 ÷ (−3/8) =",
+[
+"−2",
+"2",
+"−9/32",
+"9/32"
+],
+0,
+"3/4 × −8/3."
+],
+[
+2,
+"The additive identity for rational numbers is:",
+[
+"0",
+"1",
+"−1",
+"10"
+],
+0,
+"a + 0 = a."
+],
+[
+2,
+"The multiplicative identity for rational numbers is:",
+[
+"0",
+"−1",
+"10",
+"1"
+],
+3,
+"a × 1 = a."
+],
+[
+3,
+"0.333… is a:",
+[
+"Terminating decimal",
+"Whole number",
+"Recurring decimal",
+"Irrational number"
+],
+2,
+"Repeating 3."
+],
+[
+3,
+"0.25 is a:",
+[
+"Recurring decimal",
+"Irrational number",
+"Terminating decimal",
+"Negative number"
+],
+2,
+"Ends."
+],
+[
+3,
+"1/3 as a decimal is:",
+[
+"0.3",
+"0.333…",
+"0.33",
+"3.33"
+],
+1,
+"Recurring."
+],
+[
+3,
+"0.6 × 0.5 =",
+[
+"0.3",
+"3.0",
+"0.03",
+"1.1"
+],
+0,
+"6 × 5 = 30, two places."
+],
+[
+3,
+"Round 2.649 to one decimal place:",
+[
+"2.7",
+"2.6",
+"2.65",
+"3.0"
+],
+1,
+"4 < 5."
+],
+[
+3,
+"0.125 as a fraction is:",
+[
+"1/4",
+"125/10",
+"1/8",
+"1/125"
+],
+2,
+"125/1000."
+],
+[
+3,
+"5.04 − 2.5 =",
+[
+"3.54",
+"2.99",
+"2.54",
+"2.46"
+],
+2,
+"Subtraction."
+],
+[
+3,
+"0.09 × 100 =",
+[
+"0.9",
+"9",
+"90",
+"0.009"
+],
+1,
+"Two places right."
+],
+[
+3,
+"7.5 ÷ 2.5 =",
+[
+"30",
+"0.3",
+"5",
+"3"
+],
+3,
+"75 ÷ 25."
+],
+[
+3,
+"Which is greater: 0.7 or 0.69?",
+[
+"0.69",
+"Equal",
+"Cannot say",
+"0.7"
+],
+3,
+"0.70 > 0.69."
+],
+[
+4,
+"a⁵ ÷ a² =",
+[
+"a³",
+"a⁷",
+"a^2.5",
+"a¹⁰"
+],
+0,
+"Subtract exponents."
+],
+[
+4,
+"(a³)² =",
+[
+"a⁵",
+"a⁹",
+"a",
+"a⁶"
+],
+3,
+"Multiply exponents."
+],
+[
+4,
+"2⁻¹ =",
+[
+"−2",
+"2",
+"−1/2",
+"1/2"
+],
+3,
+"Negative exponent."
+],
+[
+4,
+"(ab)² =",
+[
+"ab²",
+"a²b",
+"2ab",
+"a²b²"
+],
+3,
+"Power of product."
+],
+[
+4,
+"(a/b)³ =",
+[
+"a/b³",
+"a³/b³",
+"3a/3b",
+"a³/b"
+],
+1,
+"Power of quotient."
+],
+[
+4,
+"5² × 5³ =",
+[
+"5⁵",
+"5⁶",
+"25⁵",
+"10⁵"
+],
+0,
+"Add exponents."
+],
+[
+4,
+"10⁻² =",
+[
+"0.1",
+"−100",
+"0.01",
+"100"
+],
+2,
+"1/100."
+],
+[
+4,
+"(−1)¹⁰⁰ =",
+[
+"1",
+"−1",
+"100",
+"0"
+],
+0,
+"Even power."
+],
+[
+4,
+"3⁴ =",
+[
+"81",
+"12",
+"64",
+"27"
+],
+0,
+"3 × 3 × 3 × 3."
+],
+[
+4,
+"4⁰ + 4¹ =",
+[
+"5",
+"4",
+"1",
+"8"
+],
+0,
+"1 + 4."
+],
+[
+5,
+"√64 =",
+[
+"6",
+"8",
+"32",
+"16"
+],
+1,
+"8²."
+],
+[
+5,
+"√169 =",
+[
+"13",
+"14",
+"12",
+"16"
+],
+0,
+"13²."
+],
+[
+5,
+"√(0.04) =",
+[
+"0.02",
+"2",
+"0.2",
+"0.4"
+],
+2,
+"0.2²."
+],
+[
+5,
+"Square root of 2.25 is:",
+[
+"1.25",
+"15",
+"0.15",
+"1.5"
+],
+3,
+"1.5²."
+],
+[
+5,
+"√(25/36) =",
+[
+"25/36",
+"6/5",
+"5/36",
+"5/6"
+],
+3,
+"Root top and bottom."
+],
+[
+5,
+"Which is a perfect square?",
+[
+"200",
+"196",
+"210",
+"180"
+],
+1,
+"14²."
+],
+[
+5,
+"The smallest number to multiply 18 to make a perfect square is:",
+[
+"3",
+"2",
+"9",
+"6"
+],
+1,
+"18 × 2 = 36."
+],
+[
+5,
+"√(2 × 2 × 3 × 3) =",
+[
+"12",
+"36",
+"6",
+"5"
+],
+2,
+"2 × 3."
+],
+[
+5,
+"The square of 0.3 is:",
+[
+"0.9",
+"0.09",
+"0.03",
+"9"
+],
+1,
+"0.3 × 0.3."
+],
+[
+5,
+"√10000 =",
+[
+"1000",
+"10",
+"50",
+"100"
+],
+3,
+"100²."
+],
+[
+6,
+"If y ∝ x and y = 12 when x = 4, then y = 18 when x =",
+[
+"9",
+"3",
+"72",
+"6"
+],
+3,
+"k = 3."
+],
+[
+6,
+"If y ∝ 1/x and y = 10 when x = 3, then y when x = 5 is:",
+[
+"6",
+"50/3",
+"15",
+"2"
+],
+0,
+"xy = 30."
+],
+[
+6,
+"In continued ratio a : b : c, if a : b = 2 : 3 and b : c = 3 : 5, then a : b : c =",
+[
+"2 : 3 : 5",
+"2 : 5 : 3",
+"3 : 2 : 5",
+"5 : 3 : 2"
+],
+0,
+"Combine."
+],
+[
+6,
+"12 workers can do a job in 10 days. 6 workers will take:",
+[
+"5 days",
+"20 days",
+"10 days",
+"12 days"
+],
+1,
+"Inverse."
+],
+[
+6,
+"A car uses 8 L for 96 km. For 144 km it uses:",
+[
+"10 L",
+"16 L",
+"12 L",
+"9 L"
+],
+2,
+"12 km per L."
+],
+[
+6,
+"The ratio of 500 g to 2 kg is:",
+[
+"1 : 4",
+"4 : 1",
+"5 : 2",
+"1 : 2"
+],
+0,
+"500 : 2000."
+],
+[
+6,
+"Rs. 600 divided in the ratio 1 : 2 gives:",
+[
+"Rs. 300 and Rs. 300",
+"Rs. 100 and Rs. 500",
+"Rs. 150 and Rs. 450",
+"Rs. 200 and Rs. 400"
+],
+3,
+"600 ÷ 3."
+],
+[
+6,
+"Direct proportion means when one quantity increases, the other:",
+[
+"Increases",
+"Decreases",
+"Stays same",
+"Becomes zero"
+],
+0,
+"Direct."
+],
+[
+6,
+"Inverse proportion means when one quantity increases, the other:",
+[
+"Increases",
+"Stays same",
+"Decreases",
+"Doubles"
+],
+2,
+"Inverse."
+],
+[
+6,
+"If 3 : 4 = 9 : x, then x =",
+[
+"16",
+"6",
+"12",
+"27"
+],
+2,
+"Cross multiply."
+],
+[
+7,
+"Simple interest on Rs. 2,000 at 5% for 3 years is:",
+[
+"Rs. 150",
+"Rs. 2,300",
+"Rs. 300",
+"Rs. 100"
+],
+2,
+"2000 × 5 × 3/100."
+],
+[
+7,
+"If SP = Rs. 1,200 and profit is 20%, then CP is:",
+[
+"Rs. 960",
+"Rs. 1,440",
+"Rs. 1,000",
+"Rs. 1,180"
+],
+2,
+"SP = 1.2 CP."
+],
+[
+7,
+"Income tax is paid on:",
+[
+"Expenses",
+"Income",
+"Discounts",
+"Loans"
+],
+1,
+"Income tax."
+],
+[
+7,
+"A loss of 10% on CP Rs. 500 means SP is:",
+[
+"Rs. 550",
+"Rs. 490",
+"Rs. 450",
+"Rs. 50"
+],
+2,
+"500 − 50."
+],
+[
+7,
+"Commission of 5% on sales of Rs. 20,000 is:",
+[
+"Rs. 500",
+"Rs. 2,000",
+"Rs. 1,000",
+"Rs. 100"
+],
+2,
+"20000 × 5%."
+],
+[
+7,
+"The amount on Rs. 1,000 at 10% SI for 2 years is:",
+[
+"Rs. 1,100",
+"Rs. 200",
+"Rs. 1,020",
+"Rs. 1,200"
+],
+3,
+"1000 + 200."
+],
+[
+7,
+"Zakat on Rs. 40,000 (above nisab) is:",
+[
+"Rs. 4,000",
+"Rs. 1,000",
+"Rs. 400",
+"Rs. 2,000"
+],
+1,
+"2.5%."
+],
+[
+7,
+"Profit percentage is calculated on:",
+[
+"Selling price",
+"Marked price",
+"Discount",
+"Cost price"
+],
+3,
+"On CP."
+],
+[
+7,
+"If an item is bought for Rs. 250 and sold for Rs. 300, profit % is:",
+[
+"50%",
+"25%",
+"20%",
+"16%"
+],
+2,
+"50/250 × 100."
+],
+[
+7,
+"Inheritance is divided according to:",
+[
+"Age only",
+"Random choice",
+"Height",
+"Islamic law (Quran and Sunnah)"
+],
+3,
+"Islamic law."
+],
+[
+8,
+"(x + 2)(x + 3) =",
+[
+"x² + 6",
+"x² + 5x + 6",
+"x² + 5x + 5",
+"x² + 6x + 5"
+],
+1,
+"Multiply."
+],
+[
+8,
+"(x + 4)² =",
+[
+"x² + 16",
+"x² + 4x + 16",
+"x² + 8x + 16",
+"x² + 8x + 8"
+],
+2,
+"Identity."
+],
+[
+8,
+"(x − 5)(x + 5) =",
+[
+"x² + 25",
+"x² − 25",
+"x² − 10x + 25",
+"x² − 5"
+],
+1,
+"Difference of squares."
+],
+[
+8,
+"The degree of 4x³ − 2x + 7 is:",
+[
+"1",
+"7",
+"3",
+"4"
+],
+2,
+"Highest power."
+],
+[
+8,
+"2x(3x − 1) =",
+[
+"6x − 2",
+"5x² − 2x",
+"6x² − 1",
+"6x² − 2x"
+],
+3,
+"Distribute."
+],
+[
+8,
+"Add: (3x + 2) + (5x − 7)",
+[
+"8x + 9",
+"2x − 5",
+"15x − 14",
+"8x − 5"
+],
+3,
+"Combine like terms."
+],
+[
+8,
+"Subtract: (5x + 4) − (2x + 1)",
+[
+"3x + 5",
+"7x + 5",
+"3x + 3",
+"3x − 3"
+],
+2,
+"Combine."
+],
+[
+8,
+"A polynomial with three terms is called a:",
+[
+"Binomial",
+"Monomial",
+"Trinomial",
+"Quadratic always"
+],
+2,
+"Tri = three."
+],
+[
+8,
+"The value of x² − 3 when x = −2 is:",
+[
+"−7",
+"1",
+"7",
+"−1"
+],
+1,
+"4 − 3."
+],
+[
+8,
+"(a − b)² =",
+[
+"a² + b²",
+"a² − b²",
+"a² − 2ab + b²",
+"a² + 2ab − b²"
+],
+2,
+"Identity."
+],
+[
+9,
+"Solve: 3(x + 2) = 15",
+[
+"x = 3",
+"x = 5",
+"x = 7",
+"x = 13/3"
+],
+0,
+"x + 2 = 5."
+],
+[
+9,
+"Solve: x/3 + 2 = 5",
+[
+"x = 3",
+"x = 9",
+"x = 21",
+"x = 1"
+],
+1,
+"x/3 = 3."
+],
+[
+9,
+"Solve: 7 − x = 2",
+[
+"x = 9",
+"x = −5",
+"x = 2",
+"x = 5"
+],
+3,
+"x = 7 − 2."
+],
+[
+9,
+"The present age of a father is 3 times his son's age. If the son is 12, the father is:",
+[
+"36",
+"15",
+"24",
+"48"
+],
+0,
+"3 × 12."
+],
+[
+9,
+"Solve: 0.5x = 4",
+[
+"x = 2",
+"x = 4.5",
+"x = 8",
+"x = 0.8"
+],
+2,
+"x = 4 ÷ 0.5."
+],
+[
+9,
+"Solve: 2x + 3 = x + 10",
+[
+"x = 7",
+"x = 13",
+"x = 3",
+"x = 10"
+],
+0,
+"x = 7."
+],
+[
+9,
+"A number increased by 15 gives 40. The number is:",
+[
+"55",
+"25",
+"15",
+"40"
+],
+1,
+"x + 15 = 40."
+],
+[
+9,
+"The solution of 6x = 0 is:",
+[
+"6",
+"1/6",
+"No solution",
+"0"
+],
+3,
+"x = 0."
+],
+[
+9,
+"Solve: (2x − 1)/3 = 3",
+[
+"x = 5",
+"x = 4",
+"x = 3",
+"x = 9"
+],
+0,
+"2x − 1 = 9."
+],
+[
+9,
+"If 5 more than a number is 3 times the number, the number is:",
+[
+"2.5",
+"5",
+"1.5",
+"3"
+],
+0,
+"x + 5 = 3x."
+],
+[
+10,
+"The sum of angles of a triangle is:",
+[
+"90°",
+"360°",
+"270°",
+"180°"
+],
+3,
+"Angle sum."
+],
+[
+10,
+"If two angles of a triangle are 40° and 80°, the third is:",
+[
+"120°",
+"60°",
+"40°",
+"80°"
+],
+1,
+"180 − 120."
+],
+[
+10,
+"Corresponding angles formed by a transversal on parallel lines are:",
+[
+"Supplementary",
+"Complementary",
+"Equal",
+"Unequal"
+],
+2,
+"Property."
+],
+[
+10,
+"Co-interior angles on parallel lines are:",
+[
+"Equal",
+"Complementary",
+"Supplementary",
+"Right angles"
+],
+2,
+"Sum 180°."
+],
+[
+10,
+"A triangle with all angles less than 90° is:",
+[
+"Obtuse-angled",
+"Right-angled",
+"Straight",
+"Acute-angled"
+],
+3,
+"Acute."
+],
+[
+10,
+"An exterior angle of a triangle equals:",
+[
+"180°",
+"90°",
+"Sum of the two opposite interior angles",
+"Adjacent interior angle"
+],
+2,
+"Theorem."
+],
+[
+10,
+"Two triangles are congruent if they are:",
+[
+"Similar only",
+"Equal in area only",
+"Different",
+"Equal in all respects"
+],
+3,
+"Congruent."
+],
+[
+10,
+"The sum of exterior angles of any polygon is:",
+[
+"180°",
+"540°",
+"360°",
+"720°"
+],
+2,
+"Always 360°."
+],
+[
+10,
+"An angle greater than 180° but less than 360° is:",
+[
+"Reflex angle",
+"Obtuse angle",
+"Straight angle",
+"Acute angle"
+],
+0,
+"Reflex."
+],
+[
+10,
+"Adjacent angles on a straight line add up to:",
+[
+"180°",
+"90°",
+"360°",
+"0°"
+],
+0,
+"Linear pair."
+],
+[
+11,
+"To construct a triangle given two angles and the included side we use:",
+[
+"S.S.S.",
+"A.S.A.",
+"S.A.S.",
+"R.H.S."
+],
+1,
+"Angle–Side–Angle."
+],
+[
+11,
+"An angle of 30° can be constructed by bisecting:",
+[
+"90°",
+"45°",
+"60°",
+"120°"
+],
+2,
+"60 ÷ 2."
+],
+[
+11,
+"An angle of 75° can be constructed by bisecting the angle between:",
+[
+"60° and 90°",
+"30° and 60°",
+"90° and 120°",
+"0° and 60°"
+],
+0,
+"(60 + 90)/2."
+],
+[
+11,
+"To construct a right-angled triangle given hypotenuse and one side, we use:",
+[
+"S.S.S.",
+"A.S.A.",
+"R.H.S.",
+"S.A.S."
+],
+2,
+"Right angle–Hypotenuse–Side."
+],
+[
+11,
+"A quadrilateral with four equal sides and four right angles is a:",
+[
+"Rhombus",
+"Rectangle",
+"Square",
+"Trapezium"
+],
+2,
+"Square."
+],
+[
+11,
+"A quadrilateral with four equal sides but angles not 90° is a:",
+[
+"Square",
+"Rectangle",
+"Rhombus",
+"Kite"
+],
+2,
+"Rhombus."
+],
+[
+11,
+"The diagonals of a square are:",
+[
+"Unequal",
+"Parallel",
+"Not bisecting",
+"Equal and perpendicular"
+],
+3,
+"Square property."
+],
+[
+11,
+"An angle of 135° can be made by adding 90° and:",
+[
+"45°",
+"30°",
+"60°",
+"75°"
+],
+0,
+"90 + 45."
+],
+[
+11,
+"The arcs drawn while bisecting a line segment must have radius:",
+[
+"Less than half",
+"Exactly one cm",
+"More than half the segment",
+"Zero"
+],
+2,
+"Construction rule."
+],
+[
+11,
+"A set square is used to draw:",
+[
+"Circles",
+"Arcs",
+"Parallel and perpendicular lines",
+"Curves only"
+],
+2,
+"Set square."
+],
+[
+12,
+"Circumference of a circle with diameter 14 cm (π = 22/7) is:",
+[
+"154 cm",
+"22 cm",
+"88 cm",
+"44 cm"
+],
+3,
+"πd."
+],
+[
+12,
+"Area of a circle with diameter 14 cm (π = 22/7) is:",
+[
+"154 cm²",
+"44 cm²",
+"616 cm²",
+"196 cm²"
+],
+0,
+"r = 7."
+],
+[
+12,
+"Volume of a cylinder with r = 7 cm, h = 10 cm (π = 22/7) is:",
+[
+"440 cm³",
+"1,540 cm³",
+"154 cm³",
+"700 cm³"
+],
+1,
+"22/7 × 49 × 10."
+],
+[
+12,
+"Surface area of a cube with side 5 cm is:",
+[
+"125 cm³",
+"25 cm²",
+"150 cm²",
+"100 cm²"
+],
+2,
+"6 × 25."
+],
+[
+12,
+"1 litre equals:",
+[
+"100 cm³",
+"1,000 cm³",
+"10 cm³",
+"10,000 cm³"
+],
+1,
+"1 L = 1000 cm³."
+],
+[
+12,
+"Area of a semicircle of radius r is:",
+[
+"πr²/2",
+"πr²",
+"2πr",
+"πr"
+],
+0,
+"Half circle."
+],
+[
+12,
+"If the radius of a circle is doubled, its area becomes:",
+[
+"Double",
+"Four times",
+"Half",
+"Same"
+],
+1,
+"r² factor."
+],
+[
+12,
+"Volume of a cube is 125 cm³. Its side is:",
+[
+"25 cm",
+"15 cm",
+"5 cm",
+"3 cm"
+],
+2,
+"∛125."
+],
+[
+12,
+"Perimeter of a semicircle of radius r (including diameter) is:",
+[
+"πr",
+"2πr",
+"πr + 2r",
+"πr²/2"
+],
+2,
+"Arc + diameter."
+],
+[
+12,
+"Area of a ring between radii 7 cm and 3.5 cm is found by:",
+[
+"π(R² − r²)",
+"π(R − r)",
+"2π(R − r)",
+"πR²"
+],
+0,
+"Annulus."
+],
+[
+13,
+"Frequency means:",
+[
+"How many times a value occurs",
+"The largest value",
+"The average",
+"The total"
+],
+0,
+"Frequency."
+],
+[
+13,
+"A histogram has bars that are:",
+[
+"Separated",
+"Circular",
+"Triangular",
+"Adjacent (no gaps)"
+],
+3,
+"Continuous data."
+],
+[
+13,
+"The mean of 6, 8, 10, 12 is:",
+[
+"8",
+"10",
+"9",
+"36"
+],
+2,
+"36 ÷ 4."
+],
+[
+13,
+"The median of 2, 4, 6, 8 is:",
+[
+"4",
+"6",
+"5",
+"20"
+],
+2,
+"Average of 4 and 6."
+],
+[
+13,
+"If a pie chart sector is 120°, it represents ___ of the whole.",
+[
+"1/4",
+"1/3",
+"1/2",
+"1/6"
+],
+1,
+"120/360."
+],
+[
+13,
+"The mode of 2, 2, 3, 4, 4, 4, 5 is:",
+[
+"2",
+"3",
+"5",
+"4"
+],
+3,
+"Most frequent."
+],
+[
+13,
+"A frequency table groups data into:",
+[
+"Circles",
+"Classes",
+"Angles",
+"Lines"
+],
+1,
+"Classes."
+],
+[
+13,
+"The range of 15, 22, 9, 30 is:",
+[
+"30",
+"9",
+"15",
+"21"
+],
+3,
+"30 − 9."
+],
+[
+13,
+"Data collected by the person himself is:",
+[
+"Secondary data",
+"False data",
+"Grouped data",
+"Primary data"
+],
+3,
+"Primary."
+],
+[
+13,
+"In a pie chart, 50% of the data takes an angle of:",
+[
+"90°",
+"360°",
+"50°",
+"180°"
+],
+3,
+"Half circle."
+]
+]

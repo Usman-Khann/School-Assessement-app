@@ -149,6 +149,25 @@ def main():
             chapters.append({"id": cid, "number": c["number"], "title": clean_title(c["title"]),
                              "pageStart": min(pages) if pages else None,
                              "pageEnd": None, "topics": topics})
+        # Supplementary MCQs written for this book (content/extra/<key>.json).
+        xp = f"{SRC}/extra/{key}.json"
+        if os.path.exists(xp):
+            bych = {ch["number"]: ch for ch in chapters}
+            for x in json.load(open(xp, encoding="utf-8")):
+                ch = bych.get(x[0])
+                if not ch:
+                    continue
+                k = qid(x[1], sorted(o.lower() for o in x[2]))
+                if k in seen:
+                    continue
+                seen.add(k)
+                questions.append({"id": f"{bid}-x{k}", "chapterId": ch["id"],
+                                  "topicId": ch["topics"][0]["id"] if ch["topics"] else None,
+                                  "type": "mcq", "text": x[1], "options": x[2], "correctIndex": x[3],
+                                  "page": ch["pageStart"], "difficulty": 2, "source": "extra",
+                                  "explanation": x[4]})
+                totals.setdefault("extra", 0)
+                totals["extra"] += 1
         # Chapter page ranges: up to the page before the next chapter starts.
         starts = [ch["pageStart"] for ch in chapters]
         for i, ch in enumerate(chapters):

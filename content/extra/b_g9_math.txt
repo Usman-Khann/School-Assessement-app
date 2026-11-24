@@ -1,0 +1,220 @@
+1|The order of the matrix [2 3 5] is:|1 × 3|3 × 1|3 × 3|1 × 1|It has 1 row and 3 columns.
+1|A matrix having only one column is called:|Column matrix|Row matrix|Square matrix|Null matrix|One column = column matrix.
+1|A square matrix whose all non-diagonal elements are zero is called:|Diagonal matrix|Null matrix|Row matrix|Rectangular matrix|Only diagonal entries can be non-zero.
+1|The identity matrix of order 2 is:|[1 0; 0 1]|[0 1; 1 0]|[1 1; 1 1]|[0 0; 0 0]|Diagonal 1s, others 0.
+1|If A = [a b; c d], then det A equals:|ad − bc|ab − cd|ac − bd|ad + bc|Determinant of a 2×2 matrix.
+1|The determinant of [3 2; 1 4] is:|10|14|11|−10|3×4 − 2×1 = 10.
+1|A square matrix A is singular if:|det A = 0|det A = 1|det A ≠ 0|A has no zero|Singular means determinant is zero.
+1|Addition of two matrices is possible only if they have:|Same order|Same determinant|Same first row|Different order|Matrices of the same order can be added.
+1|The transpose of a matrix is obtained by:|Interchanging rows and columns|Multiplying by −1|Taking the determinant|Squaring each element|Rows become columns.
+1|If A is a 2 × 3 matrix and B is a 3 × 4 matrix, the order of AB is:|2 × 4|3 × 3|4 × 2|2 × 3|(2×3)(3×4) = 2×4.
+1|The multiplicative inverse of a non-singular matrix A is:|(adj A) ÷ det A|A ÷ det A|det A ÷ adj A|Aᵗ|A⁻¹ = (1/det A) adj A.
+1|A matrix in which every element is zero is called:|Null (zero) matrix|Identity matrix|Unit matrix|Scalar matrix|All elements zero.
+1|If A = [2 0; 0 2], A is called a:|Scalar matrix|Null matrix|Row matrix|Rectangular matrix|Equal diagonal entries, zeros elsewhere.
+2|√2 is a/an:|Irrational number|Rational number|Natural number|Integer|It cannot be written as p/q.
+2|Every terminating decimal is a:|Rational number|Irrational number|Complex number|Prime number|It can be written as p/q.
+2|The value of i² is:|−1|1|i|0|i = √−1, so i² = −1.
+2|The value of i⁴ is:|1|−1|i|−i|i⁴ = (i²)² = 1.
+2|The conjugate of 3 + 4i is:|3 − 4i|−3 + 4i|−3 − 4i|4 + 3i|Change the sign of the imaginary part.
+2|The modulus of 3 + 4i is:|5|7|1|25|√(3² + 4²) = 5.
+2|The real part of 5 − 2i is:|5|−2|2|−5|Re(a + bi) = a.
+2|The imaginary part of 7 + 6i is:|6|7|6i|13|Im(a + bi) = b.
+2|π is a/an:|Irrational number|Rational number|Whole number|Integer|π is non-terminating and non-repeating.
+2|0.333... (recurring) is a:|Rational number|Irrational number|Imaginary number|Natural number|It equals 1/3.
+2|(a + b) + c = a + (b + c) is called the ___ property of addition.|Associative|Commutative|Distributive|Closure|Grouping does not matter.
+2|a(b + c) = ab + ac is called the ___ property.|Distributive|Associative|Commutative|Identity|Multiplication distributes over addition.
+2|The additive inverse of −7 is:|7|−7|1/7|0|−7 + 7 = 0.
+2|The multiplicative identity in real numbers is:|1|0|−1|10|a × 1 = a.
+3|log 100 (base 10) equals:|2|10|1|100|10² = 100.
+3|log 1 to any base is:|0|1|10|Undefined|b⁰ = 1.
+3|log_a a equals:|1|0|a|Undefined|a¹ = a.
+3|log (mn) equals:|log m + log n|log m × log n|log m − log n|n log m|Product rule.
+3|log (m/n) equals:|log m − log n|log m + log n|log m ÷ log n|log n − log m|Quotient rule.
+3|log mⁿ equals:|n log m|log m + n|(log m)ⁿ|log n − m|Power rule.
+3|In scientific notation, 45000 is written as:|4.5 × 10⁴|45 × 10³|0.45 × 10⁵|4.5 × 10³|Move decimal 4 places.
+3|0.00032 in scientific notation is:|3.2 × 10⁻⁴|3.2 × 10⁴|32 × 10⁻³|0.32 × 10⁻³|Move decimal 4 places right.
+3|Logarithms to base 10 are called:|Common logarithms|Natural logarithms|Anti-logarithms|Binary logarithms|Base 10 = common.
+3|Logarithms to base e are called:|Natural logarithms|Common logarithms|Characteristics|Mantissas|Base e = natural.
+3|The integral part of a common logarithm is called the:|Characteristic|Mantissa|Antilog|Base|Characteristic + mantissa.
+3|The decimal part of a common logarithm is called the:|Mantissa|Characteristic|Index|Base|Mantissa is always positive.
+3|If log x = 3, then x equals:|1000|30|300|3|10³ = 1000.
+3|The characteristic of log 456.7 is:|2|3|1|0|It has 3 digits before the decimal, so 3 − 1 = 2.
+4|(a + b)² equals:|a² + 2ab + b²|a² + b²|a² − 2ab + b²|a² + ab + b²|Identity.
+4|(a − b)² equals:|a² − 2ab + b²|a² + b²|a² − b²|a² + 2ab − b²|Identity.
+4|a² − b² equals:|(a + b)(a − b)|(a − b)²|(a + b)²|a(a − b)|Difference of squares.
+4|(a + b)³ equals:|a³ + 3a²b + 3ab² + b³|a³ + b³|a³ + 3ab + b³|a³ + 3a²b + b³|Cube identity.
+4|a³ + b³ equals:|(a + b)(a² − ab + b²)|(a + b)(a² + ab + b²)|(a − b)(a² + ab + b²)|(a + b)³|Sum of cubes.
+4|If a + b = 5 and ab = 6, then a² + b² equals:|13|25|19|31|(a + b)² − 2ab = 25 − 12 = 13.
+4|The rationalising factor of √3 is:|√3|3|1/3|√2|√3 × √3 = 3.
+4|The conjugate of 2 + √5 is:|2 − √5|−2 + √5|−2 − √5|√5 − 2 not|Change the sign of the surd part.
+4|An expression of the form p(x)/q(x), q(x) ≠ 0, is called a:|Rational expression|Polynomial|Surd|Constant|Ratio of polynomials.
+4|The degree of the polynomial 3x⁴ + 2x² − 5 is:|4|2|3|6|Highest power of x.
+4|√2 × √8 equals:|4|16|√10|2|√16 = 4.
+4|The value of (x + 1/x)² when x + 1/x = 3 is:|9|7|11|3|3² = 9.
+4|If x + 1/x = 3, then x² + 1/x² equals:|7|9|11|5|(x + 1/x)² − 2 = 9 − 2 = 7.
+4|(a + b)(a − b) is a product that gives:|Difference of two squares|Sum of squares|Perfect square|Cube|a² − b².
+4|A surd of order 3 is called a:|Cubic surd|Quadratic surd|Linear surd|Rational surd|∛a.
+5|Factorise: x² − 9|(x + 3)(x − 3)|(x − 3)²|(x + 9)(x − 1)|(x + 3)²|Difference of squares.
+5|Factorise: x² + 5x + 6|(x + 2)(x + 3)|(x + 1)(x + 6)|(x − 2)(x − 3)|(x + 5)(x + 1)|2 × 3 = 6, 2 + 3 = 5.
+5|Factorise: x² − 7x + 12|(x − 3)(x − 4)|(x + 3)(x + 4)|(x − 2)(x − 6)|(x − 12)(x + 1)|−3 × −4 = 12, sum −7.
+5|Factorise: a³ − b³|(a − b)(a² + ab + b²)|(a + b)(a² − ab + b²)|(a − b)³|(a − b)(a² − ab + b²)|Difference of cubes.
+5|The remainder when x² + 3x + 5 is divided by x − 1 is:|9|5|7|1|f(1) = 1 + 3 + 5 = 9.
+5|By the factor theorem, x − a is a factor of p(x) if:|p(a) = 0|p(a) = 1|p(0) = a|p(−a) = 0|Remainder is zero.
+5|Factorise: 4x² − 25|(2x + 5)(2x − 5)|(4x − 5)(x + 5)|(2x − 5)²|(4x + 5)(x − 5)|(2x)² − 5².
+5|Factorise: x² + 6x + 9|(x + 3)²|(x − 3)²|(x + 9)(x + 1)|(x + 6)(x + 3)|Perfect square.
+5|Factorise: 3x + 3y|3(x + y)|3x(y)|x(3 + y)|3 + (x + y)|Common factor 3.
+5|The remainder theorem states that the remainder when p(x) is divided by x − a is:|p(a)|p(−a)|p(0)|a|Remainder = p(a).
+5|Factorise: x² − x − 6|(x − 3)(x + 2)|(x + 3)(x − 2)|(x − 6)(x + 1)|(x − 1)(x + 6)|−3 × 2 = −6, sum −1.
+5|Factorise: 8x³ + 1|(2x + 1)(4x² − 2x + 1)|(2x − 1)(4x² + 2x + 1)|(8x + 1)(x² + 1)|(2x + 1)³|Sum of cubes.
+6|The H.C.F. of 12x²y and 18xy² is:|6xy|36x²y²|6x²y²|3xy|HCF of 12 and 18 is 6; lowest powers x, y.
+6|The L.C.M. of 4x and 6x² is:|12x²|24x³|2x|12x|LCM of 4 and 6 = 12, highest power x².
+6|For two polynomials p(x) and q(x), H.C.F. × L.C.M. equals:|p(x) × q(x)|p(x) + q(x)|p(x) − q(x)|p(x) ÷ q(x)|Product rule for HCF and LCM.
+6|The square root of x² + 2x + 1 is:|±(x + 1)|x − 1|x² + 1|x + 2|It is (x + 1)².
+6|The H.C.F. of x² − 4 and x + 2 is:|x + 2|x − 2|x² − 4|1|x² − 4 = (x + 2)(x − 2).
+6|The L.C.M. of (x − 1) and (x + 1) is:|x² − 1|x − 1|x + 1|1|Product of distinct factors.
+6|Simplify: (x² − 9)/(x + 3)|x − 3|x + 3|x² − 3|1|Cancel (x + 3).
+6|Simplify: 1/x + 1/y|(x + y)/xy|2/(x + y)|1/(x + y)|xy/(x + y)|Common denominator xy.
+6|The square root of 9x⁴ is:|±3x²|3x|9x²|±3x⁴|√9 = 3, √x⁴ = x².
+6|H.C.F. is also called:|Greatest common divisor|Least common multiple|Lowest term|Prime factor|GCD = HCF.
+6|The L.C.M. of a² and ab is:|a²b|ab|a|a³b|Highest powers of a and b.
+6|If the H.C.F. of two expressions is 1, they are called:|Co-prime|Equal|Similar|Identical|No common factor.
+7|The solution of 2x + 3 = 11 is:|x = 4|x = 7|x = 3|x = 5|2x = 8.
+7|The solution of x/3 = 5 is:|x = 15|x = 5/3|x = 8|x = 2|Multiply both sides by 3.
+7|A linear equation in one variable has degree:|1|2|0|3|Highest power of the variable is 1.
+7|│x│ = 5 means:|x = 5 or x = −5|x = 5 only|x = −5 only|x = 0|Absolute value equation.
+7|The solution set of │x│ = −3 is:|Empty set|{3}|{−3}|{3, −3}|Absolute value cannot be negative.
+7|Solve: 3x − 7 > 5|x > 4|x < 4|x > 12|x < −4|3x > 12.
+7|Solve: −2x < 6|x > −3|x < −3|x > 3|x < 3|Dividing by a negative reverses the inequality.
+7|The symbol ≥ means:|Greater than or equal to|Less than|Not equal to|Less than or equal to|Inequality symbol.
+7|An equation that is true for all values of the variable is called:|Identity|Linear equation|Inequality|Quadratic|e.g. 2(x + 1) = 2x + 2.
+7|The solution of 5x = 0 is:|x = 0|x = 5|x = 1/5|No solution|0/5 = 0.
+7|Solve: (x + 1)/2 = 4|x = 7|x = 9|x = 3|x = 8|x + 1 = 8.
+7|If 4x − 1 = 3x + 2, then x equals:|3|1|−3|2|x = 3.
+7|Solve: │x − 2│ = 3|x = 5 or x = −1|x = 5 only|x = 1 or x = −5|x = 3|x − 2 = ±3.
+8|The graph of y = 2x is a:|Straight line through the origin|Curve|Circle|Parabola|Linear equation.
+8|The point (0, 0) is called the:|Origin|Abscissa|Ordinate|Quadrant|Where the axes meet.
+8|The x-coordinate of a point is also called its:|Abscissa|Ordinate|Origin|Slope|x = abscissa.
+8|The y-coordinate of a point is also called its:|Ordinate|Abscissa|Origin|Intercept|y = ordinate.
+8|The point (−3, 4) lies in which quadrant?|II|I|III|IV|x negative, y positive.
+8|The point (2, −5) lies in which quadrant?|IV|I|II|III|x positive, y negative.
+8|The graph of x = 3 is a line:|Parallel to the y-axis|Parallel to the x-axis|Through the origin|Of slope 3|All points have x = 3.
+8|The graph of y = −2 is a line:|Parallel to the x-axis|Parallel to the y-axis|Through the origin|Vertical|All points have y = −2.
+8|The x-axis is also represented by the equation:|y = 0|x = 0|y = x|x = 1|On the x-axis, y = 0.
+8|The y-axis is represented by:|x = 0|y = 0|y = x|y = 1|On the y-axis, x = 0.
+8|The point where a line cuts the y-axis is called the:|y-intercept|x-intercept|Origin|Slope|Where x = 0.
+8|Which point lies on y = x + 1?|(2, 3)|(3, 2)|(1, 1)|(0, 0)|3 = 2 + 1.
+8|To convert Celsius to Fahrenheit we use:|F = (9/5)C + 32|F = (5/9)C − 32|F = C + 32|F = 9C + 5|Linear relation.
+8|100 °C is equal to:|212 °F|180 °F|100 °F|32 °F|(9/5)×100 + 32 = 212.
+9|The distance between (0, 0) and (3, 4) is:|5|7|1|25|√(9 + 16) = 5.
+9|The distance formula between (x₁, y₁) and (x₂, y₂) is:|√[(x₂ − x₁)² + (y₂ − y₁)²]|(x₂ − x₁) + (y₂ − y₁)|√(x₁x₂ + y₁y₂)|(x₂ + x₁)/2|Pythagoras.
+9|The mid-point of (2, 4) and (6, 8) is:|(4, 6)|(8, 12)|(2, 2)|(3, 4)|((2+6)/2, (4+8)/2).
+9|The mid-point formula of (x₁, y₁) and (x₂, y₂) is:|((x₁ + x₂)/2, (y₁ + y₂)/2)|(x₁ − x₂, y₁ − y₂)|(x₁x₂, y₁y₂)|((x₂ − x₁)/2, (y₂ − y₁)/2)|Average of coordinates.
+9|A triangle with all sides equal is called:|Equilateral|Isosceles|Scalene|Right-angled|Three equal sides.
+9|A triangle with no two sides equal is called:|Scalene|Isosceles|Equilateral|Right-angled|All sides different.
+9|A triangle with two equal sides is called:|Isosceles|Scalene|Equilateral|Obtuse|Two equal sides.
+9|Points that lie on the same straight line are called:|Collinear|Concyclic|Coplanar only|Concurrent|Same line.
+9|A quadrilateral whose opposite sides are equal and parallel is a:|Parallelogram|Trapezium|Kite|Triangle|Definition.
+9|The distance between (1, 1) and (4, 5) is:|5|7|3|4|√(9 + 16) = 5.
+9|The point (0, 5) lies on the:|y-axis|x-axis|Origin|First quadrant only|x = 0.
+9|In a right triangle, the side opposite the right angle is called the:|Hypotenuse|Base|Perpendicular|Median|Longest side.
+10|Two triangles are congruent if they have:|Same shape and same size|Same shape only|Same area only|Same perimeter only|Congruent = exactly equal.
+10|The symbol for congruence is:|≅|~|=|≈|≅ means congruent.
+10|S.A.S. stands for:|Side–Angle–Side|Side–Area–Side|Square–Angle–Side|Side–Angle–Square|A congruence postulate.
+10|A.S.A. congruence requires:|Two angles and the included side|Two sides and one angle|Three sides|Three angles|Angle–Side–Angle.
+10|S.S.S. congruence requires:|All three sides equal|Two sides and an angle|Three angles equal|One side and two angles|Side–Side–Side.
+10|R.H.S. congruence applies to:|Right-angled triangles|All triangles|Equilateral triangles only|Quadrilaterals|Right angle–Hypotenuse–Side.
+10|In an isosceles triangle, the angles opposite the equal sides are:|Equal|Supplementary|Right angles|Unequal|Base angles are equal.
+10|If two triangles have three equal angles, they are necessarily:|Similar|Congruent|Equal in area|Equal in perimeter|A.A.A. gives similarity, not congruence.
+10|Corresponding parts of congruent triangles are:|Equal|Unequal|Parallel|Perpendicular|CPCT.
+10|In ΔABC ≅ ΔPQR, side AB corresponds to:|PQ|QR|PR|RP only|Order of letters.
+10|The sum of the interior angles of a triangle is:|180°|90°|360°|270°|Angle sum property.
+10|Each angle of an equilateral triangle measures:|60°|90°|45°|30°|180° ÷ 3.
+10|A.A.S. congruence means:|Two angles and a non-included side|Three angles|Two sides|Three sides|Angle–Angle–Side.
+10|If AB = AC in ΔABC, then:|∠B = ∠C|∠A = ∠B|∠A = ∠C|∠A = 90°|Isosceles triangle.
+10|An exterior angle of a triangle equals:|Sum of the two opposite interior angles|180°|The adjacent interior angle|90°|Exterior angle theorem.
+11|In a parallelogram, opposite sides are:|Equal and parallel|Perpendicular|Unequal|Intersecting|Property.
+11|The diagonals of a parallelogram:|Bisect each other|Are always equal|Are perpendicular always|Do not meet|Property.
+11|Opposite angles of a parallelogram are:|Equal|Supplementary only|Right angles|Unequal|Property.
+11|The sum of adjacent angles of a parallelogram is:|180°|90°|360°|270°|Co-interior angles.
+11|Triangles on the same base and between the same parallels are:|Equal in area|Congruent|Similar|Equal in perimeter|Area theorem.
+11|A parallelogram with all sides equal is a:|Rhombus|Rectangle|Trapezium|Kite|Rhombus.
+11|A parallelogram with all angles 90° is a:|Rectangle|Rhombus|Trapezium|Kite|Rectangle.
+11|The diagonals of a rhombus are:|Perpendicular bisectors of each other|Equal|Parallel|Not intersecting|Rhombus property.
+11|The diagonals of a rectangle are:|Equal|Perpendicular always|Unequal|Parallel|Rectangle property.
+11|The line segment joining the mid-points of two sides of a triangle is ___ to the third side.|Parallel and half|Perpendicular|Equal|Double|Mid-point theorem.
+11|Area of a parallelogram equals:|Base × height|½ × base × height|Sum of sides|Base + height|Area formula.
+11|A diagonal divides a parallelogram into two:|Congruent triangles|Squares|Rectangles|Unequal triangles|Property.
+11|In parallelogram ABCD, if ∠A = 70°, then ∠C equals:|70°|110°|90°|20°|Opposite angles equal.
+11|In parallelogram ABCD, if ∠A = 70°, then ∠B equals:|110°|70°|90°|20°|Adjacent angles are supplementary.
+12|A line that divides a line segment into two equal parts at right angles is its:|Right bisector|Angle bisector|Median|Altitude|Perpendicular bisector.
+12|Any point on the right bisector of a segment is ___ from its end points.|Equidistant|Twice as far|Not related|At the same line|Right bisector theorem.
+12|Any point on the bisector of an angle is equidistant from its:|Arms|Vertex only|Opposite side|Diagonals|Angle bisector theorem.
+12|The right bisectors of the sides of a triangle are:|Concurrent|Parallel|Never meeting|Perpendicular to each other|They meet at the circumcentre.
+12|The point where the angle bisectors of a triangle meet is the:|Incentre|Circumcentre|Centroid|Orthocentre|Incentre.
+12|The point where the right bisectors of the sides of a triangle meet is the:|Circumcentre|Incentre|Centroid|Orthocentre|Circumcentre.
+12|Three or more lines passing through the same point are called:|Concurrent|Collinear|Parallel|Perpendicular|Concurrency.
+12|An angle bisector divides an angle into:|Two equal angles|Two right angles|Three equal parts|Unequal parts|Definition.
+12|The circumcentre is the centre of the circle passing through:|All three vertices|Mid-points|Incentre|Only two vertices|Circumcircle.
+12|The incentre is the centre of the circle that touches:|All three sides|All vertices|Only one side|The circumcircle|Incircle.
+12|The bisector of a 90° angle forms two angles of:|45° each|30° each|60° each|90° each|90 ÷ 2.
+12|A median joins a vertex to:|The mid-point of the opposite side|The opposite vertex|The incentre|The circumcentre|Median definition.
+13|In a triangle, the side opposite the greater angle is:|Longer|Shorter|Equal|Perpendicular|Greater angle, greater side.
+13|In a triangle, the sum of any two sides is ___ the third side.|Greater than|Less than|Equal to|Half of|Triangle inequality.
+13|Can 2 cm, 3 cm and 6 cm be the sides of a triangle?|No|Yes|Only if right-angled|Only if isosceles|2 + 3 is not greater than 6.
+13|Can 3 cm, 4 cm and 5 cm be the sides of a triangle?|Yes|No|Only equilateral|Only isosceles|Each pair sum exceeds the third.
+13|In ΔABC, if ∠A > ∠B, then:|BC > AC|BC < AC|BC = AC|AB = 0|Opposite sides follow angles.
+13|The perpendicular from a point to a line is the ___ distance.|Shortest|Longest|Equal|Average|Shortest distance.
+13|In a right-angled triangle, the longest side is the:|Hypotenuse|Base|Perpendicular|Median|Opposite the 90° angle.
+13|If two sides of a triangle are 5 cm and 7 cm, the third side must be less than:|12 cm|2 cm|5 cm|7 cm|Sum of the other two.
+13|If two sides of a triangle are 5 cm and 7 cm, the third side must be greater than:|2 cm|12 cm|5 cm|7 cm|Difference of the other two.
+13|The largest angle of a triangle is opposite the:|Longest side|Shortest side|Median|Altitude|Greater side, greater angle.
+13|In ΔABC, if AB = 4, BC = 6, CA = 5, the smallest angle is:|∠C|∠A|∠B|All equal|Opposite the smallest side AB.
+13|An obtuse-angled triangle has one angle:|Greater than 90°|Equal to 90°|Less than 90°|Equal to 60°|Obtuse angle.
+14|The ratio 15 : 25 in simplest form is:|3 : 5|5 : 3|15 : 5|1 : 5|Divide by 5.
+14|If a : b = c : d, then a, b, c, d are in:|Proportion|Continued proportion|Ratio only|Inverse variation|Equality of ratios.
+14|In a proportion a : b :: c : d, the product of the means equals the product of the:|Extremes|Means|Ratios|Sums|ad = bc.
+14|The fourth proportional to 2, 3, 4 is:|6|8|5|12|2 : 3 = 4 : x → x = 6.
+14|The mean proportional between 4 and 9 is:|6|36|13|5|√(4×9) = 6.
+14|If y varies directly as x and y = 10 when x = 2, then y when x = 5 is:|25|10|4|50|y = 5x.
+14|If y varies inversely as x and y = 6 when x = 2, then y when x = 4 is:|3|12|8|1.5|xy = 12.
+14|Similar triangles have the same:|Shape|Size|Area|Perimeter only|Similar = same shape.
+14|The symbol for similarity is:|~|≅|=|∥|~ means similar.
+14|The ratio of 2 hours to 30 minutes is:|4 : 1|1 : 4|2 : 30|15 : 1|120 : 30.
+14|The third proportional to 2 and 4 is:|8|6|16|2|2 : 4 = 4 : x → x = 8.
+14|If two triangles are similar, their corresponding sides are:|Proportional|Equal|Perpendicular|Unrelated|Property.
+15|In a right-angled triangle, Pythagoras' theorem states:|(Hypotenuse)² = (Base)² + (Perpendicular)²|Hypotenuse = Base + Perpendicular|(Base)² = (Hyp)² + (Perp)²|Hyp = 2 × Base|c² = a² + b².
+15|If the legs of a right triangle are 6 cm and 8 cm, the hypotenuse is:|10 cm|14 cm|12 cm|48 cm|√(36 + 64) = 10.
+15|If the hypotenuse is 13 cm and one leg is 5 cm, the other leg is:|12 cm|8 cm|18 cm|10 cm|√(169 − 25) = 12.
+15|Which of the following is a Pythagorean triple?|3, 4, 5|2, 3, 4|4, 5, 6|1, 2, 3|9 + 16 = 25.
+15|Which of the following is a Pythagorean triple?|5, 12, 13|5, 10, 15|6, 7, 8|2, 4, 6|25 + 144 = 169.
+15|If a² + b² = c² for a triangle's sides, the triangle is:|Right-angled|Acute-angled|Obtuse-angled|Equilateral|Converse of Pythagoras.
+15|The diagonal of a square of side 1 cm is:|√2 cm|2 cm|1 cm|√3 cm|√(1 + 1).
+15|A ladder 10 m long reaches a window 8 m high. Its foot is from the wall:|6 m|2 m|18 m|4 m|√(100 − 64) = 6.
+15|The diagonal of a rectangle 6 cm × 8 cm is:|10 cm|14 cm|12 cm|48 cm|√(36 + 64).
+15|In a right triangle, the hypotenuse is always the ___ side.|Longest|Shortest|Middle|Equal|Opposite 90°.
+15|Is a triangle with sides 7, 24, 25 right-angled?|Yes|No|Only isosceles|Cannot say|49 + 576 = 625.
+15|Pythagoras' theorem applies to:|Right-angled triangles only|All triangles|Equilateral triangles only|Quadrilaterals|Only right triangles.
+16|The area of a triangle is:|½ × base × height|Base × height|Base + height|2 × base × height|Area formula.
+16|Parallelograms on the same base and between the same parallels are:|Equal in area|Congruent|Similar|Equal in perimeter|Area theorem.
+16|The area of a triangle is ___ the area of a parallelogram on the same base and between the same parallels.|Half|Equal to|Double|One-third|Area theorem.
+16|Triangles on equal bases and of equal altitudes are:|Equal in area|Congruent|Similar|Right-angled|Area depends on base and height.
+16|The area of a rectangle of length 8 cm and breadth 5 cm is:|40 cm²|26 cm²|13 cm²|80 cm²|8 × 5.
+16|The area of a square of side 7 cm is:|49 cm²|28 cm²|14 cm²|21 cm²|7².
+16|The area of a triangle with base 10 cm and height 6 cm is:|30 cm²|60 cm²|16 cm²|15 cm²|½ × 10 × 6.
+16|A median of a triangle divides it into two triangles of:|Equal area|Equal perimeter|Congruent shape always|Different area|Equal bases and same height.
+16|The area of a parallelogram with base 9 cm and height 4 cm is:|36 cm²|13 cm²|18 cm²|26 cm²|9 × 4.
+16|The unit of area in the SI system is:|Square metre|Metre|Cubic metre|Litre|m².
+16|The altitude of a triangle is the perpendicular from a vertex to the:|Opposite side|Adjacent side|Mid-point|Centroid|Height.
+16|If two triangles have equal areas and equal bases, their altitudes are:|Equal|Unequal|Double|Half|Area = ½bh.
+17|To construct a triangle we need at least:|Three measurements (with at least one side)|Two angles only|One side only|Three angles only|SSS, SAS, ASA etc.
+17|A triangle cannot be constructed if the three angles given are:|Without any side|With one side|With two sides|With three sides|Angles alone don't fix size.
+17|To construct a triangle with sides 4 cm, 5 cm and 6 cm we use:|S.S.S.|S.A.S.|A.S.A.|R.H.S.|Three sides.
+17|The point of concurrency of the medians of a triangle is called the:|Centroid|Incentre|Circumcentre|Orthocentre|Centroid.
+17|The point of concurrency of the altitudes of a triangle is called the:|Orthocentre|Centroid|Incentre|Circumcentre|Orthocentre.
+17|The centroid divides each median in the ratio:|2 : 1|1 : 1|3 : 1|1 : 2 from the vertex|From the vertex, 2 : 1.
+17|Which instrument is used to draw a circle?|Compass|Protractor|Set square|Divider|Compass.
+17|Which instrument is used to measure an angle?|Protractor|Compass|Ruler only|Divider|Protractor.
+17|The three medians of a triangle are:|Concurrent|Parallel|Perpendicular|Equal always|They meet at one point.
+17|The orthocentre of a right-angled triangle lies at:|The vertex of the right angle|The mid-point of hypotenuse|Outside the triangle|The centroid|Altitudes meet at the right angle.
+17|To construct a triangle given two sides and the included angle we use:|S.A.S.|S.S.S.|A.S.A.|R.H.S.|Side–Angle–Side.
+17|The circumcentre of a right-angled triangle lies at:|The mid-point of the hypotenuse|The right-angle vertex|The centroid|Outside|Property.

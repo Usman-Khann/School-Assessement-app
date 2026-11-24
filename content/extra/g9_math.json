@@ -1,0 +1,2618 @@
+[
+[
+1,
+"The order of the matrix [2 3 5] is:",
+[
+"3 × 1",
+"3 × 3",
+"1 × 1",
+"1 × 3"
+],
+3,
+"It has 1 row and 3 columns."
+],
+[
+1,
+"A matrix having only one column is called:",
+[
+"Row matrix",
+"Column matrix",
+"Square matrix",
+"Null matrix"
+],
+1,
+"One column = column matrix."
+],
+[
+1,
+"A square matrix whose all non-diagonal elements are zero is called:",
+[
+"Null matrix",
+"Row matrix",
+"Rectangular matrix",
+"Diagonal matrix"
+],
+3,
+"Only diagonal entries can be non-zero."
+],
+[
+1,
+"The identity matrix of order 2 is:",
+[
+"[0 1; 1 0]",
+"[1 1; 1 1]",
+"[0 0; 0 0]",
+"[1 0; 0 1]"
+],
+3,
+"Diagonal 1s, others 0."
+],
+[
+1,
+"If A = [a b; c d], then det A equals:",
+[
+"ad − bc",
+"ab − cd",
+"ac − bd",
+"ad + bc"
+],
+0,
+"Determinant of a 2×2 matrix."
+],
+[
+1,
+"The determinant of [3 2; 1 4] is:",
+[
+"14",
+"11",
+"10",
+"−10"
+],
+2,
+"3×4 − 2×1 = 10."
+],
+[
+1,
+"A square matrix A is singular if:",
+[
+"det A = 0",
+"det A = 1",
+"det A ≠ 0",
+"A has no zero"
+],
+0,
+"Singular means determinant is zero."
+],
+[
+1,
+"Addition of two matrices is possible only if they have:",
+[
+"Same determinant",
+"Same first row",
+"Different order",
+"Same order"
+],
+3,
+"Matrices of the same order can be added."
+],
+[
+1,
+"The transpose of a matrix is obtained by:",
+[
+"Multiplying by −1",
+"Interchanging rows and columns",
+"Taking the determinant",
+"Squaring each element"
+],
+1,
+"Rows become columns."
+],
+[
+1,
+"If A is a 2 × 3 matrix and B is a 3 × 4 matrix, the order of AB is:",
+[
+"2 × 4",
+"3 × 3",
+"4 × 2",
+"2 × 3"
+],
+0,
+"(2×3)(3×4) = 2×4."
+],
+[
+1,
+"The multiplicative inverse of a non-singular matrix A is:",
+[
+"A ÷ det A",
+"(adj A) ÷ det A",
+"det A ÷ adj A",
+"Aᵗ"
+],
+1,
+"A⁻¹ = (1/det A) adj A."
+],
+[
+1,
+"A matrix in which every element is zero is called:",
+[
+"Null (zero) matrix",
+"Identity matrix",
+"Unit matrix",
+"Scalar matrix"
+],
+0,
+"All elements zero."
+],
+[
+1,
+"If A = [2 0; 0 2], A is called a:",
+[
+"Scalar matrix",
+"Null matrix",
+"Row matrix",
+"Rectangular matrix"
+],
+0,
+"Equal diagonal entries, zeros elsewhere."
+],
+[
+2,
+"√2 is a/an:",
+[
+"Rational number",
+"Irrational number",
+"Natural number",
+"Integer"
+],
+1,
+"It cannot be written as p/q."
+],
+[
+2,
+"Every terminating decimal is a:",
+[
+"Irrational number",
+"Rational number",
+"Complex number",
+"Prime number"
+],
+1,
+"It can be written as p/q."
+],
+[
+2,
+"The value of i² is:",
+[
+"1",
+"i",
+"−1",
+"0"
+],
+2,
+"i = √−1, so i² = −1."
+],
+[
+2,
+"The value of i⁴ is:",
+[
+"−1",
+"1",
+"i",
+"−i"
+],
+1,
+"i⁴ = (i²)² = 1."
+],
+[
+2,
+"The conjugate of 3 + 4i is:",
+[
+"−3 + 4i",
+"−3 − 4i",
+"3 − 4i",
+"4 + 3i"
+],
+2,
+"Change the sign of the imaginary part."
+],
+[
+2,
+"The modulus of 3 + 4i is:",
+[
+"7",
+"1",
+"5",
+"25"
+],
+2,
+"√(3² + 4²) = 5."
+],
+[
+2,
+"The real part of 5 − 2i is:",
+[
+"−2",
+"5",
+"2",
+"−5"
+],
+1,
+"Re(a + bi) = a."
+],
+[
+2,
+"The imaginary part of 7 + 6i is:",
+[
+"7",
+"6i",
+"6",
+"13"
+],
+2,
+"Im(a + bi) = b."
+],
+[
+2,
+"π is a/an:",
+[
+"Rational number",
+"Irrational number",
+"Whole number",
+"Integer"
+],
+1,
+"π is non-terminating and non-repeating."
+],
+[
+2,
+"0.333... (recurring) is a:",
+[
+"Irrational number",
+"Imaginary number",
+"Natural number",
+"Rational number"
+],
+3,
+"It equals 1/3."
+],
+[
+2,
+"(a + b) + c = a + (b + c) is called the ___ property of addition.",
+[
+"Commutative",
+"Distributive",
+"Closure",
+"Associative"
+],
+3,
+"Grouping does not matter."
+],
+[
+2,
+"a(b + c) = ab + ac is called the ___ property.",
+[
+"Associative",
+"Distributive",
+"Commutative",
+"Identity"
+],
+1,
+"Multiplication distributes over addition."
+],
+[
+2,
+"The additive inverse of −7 is:",
+[
+"−7",
+"1/7",
+"7",
+"0"
+],
+2,
+"−7 + 7 = 0."
+],
+[
+2,
+"The multiplicative identity in real numbers is:",
+[
+"0",
+"1",
+"−1",
+"10"
+],
+1,
+"a × 1 = a."
+],
+[
+3,
+"log 100 (base 10) equals:",
+[
+"10",
+"1",
+"2",
+"100"
+],
+2,
+"10² = 100."
+],
+[
+3,
+"log 1 to any base is:",
+[
+"1",
+"10",
+"0",
+"Undefined"
+],
+2,
+"b⁰ = 1."
+],
+[
+3,
+"log_a a equals:",
+[
+"1",
+"0",
+"a",
+"Undefined"
+],
+0,
+"a¹ = a."
+],
+[
+3,
+"log (mn) equals:",
+[
+"log m × log n",
+"log m − log n",
+"log m + log n",
+"n log m"
+],
+2,
+"Product rule."
+],
+[
+3,
+"log (m/n) equals:",
+[
+"log m + log n",
+"log m ÷ log n",
+"log n − log m",
+"log m − log n"
+],
+3,
+"Quotient rule."
+],
+[
+3,
+"log mⁿ equals:",
+[
+"n log m",
+"log m + n",
+"(log m)ⁿ",
+"log n − m"
+],
+0,
+"Power rule."
+],
+[
+3,
+"In scientific notation, 45000 is written as:",
+[
+"45 × 10³",
+"0.45 × 10⁵",
+"4.5 × 10⁴",
+"4.5 × 10³"
+],
+2,
+"Move decimal 4 places."
+],
+[
+3,
+"0.00032 in scientific notation is:",
+[
+"3.2 × 10⁴",
+"32 × 10⁻³",
+"3.2 × 10⁻⁴",
+"0.32 × 10⁻³"
+],
+2,
+"Move decimal 4 places right."
+],
+[
+3,
+"Logarithms to base 10 are called:",
+[
+"Common logarithms",
+"Natural logarithms",
+"Anti-logarithms",
+"Binary logarithms"
+],
+0,
+"Base 10 = common."
+],
+[
+3,
+"Logarithms to base e are called:",
+[
+"Common logarithms",
+"Characteristics",
+"Natural logarithms",
+"Mantissas"
+],
+2,
+"Base e = natural."
+],
+[
+3,
+"The integral part of a common logarithm is called the:",
+[
+"Mantissa",
+"Characteristic",
+"Antilog",
+"Base"
+],
+1,
+"Characteristic + mantissa."
+],
+[
+3,
+"The decimal part of a common logarithm is called the:",
+[
+"Mantissa",
+"Characteristic",
+"Index",
+"Base"
+],
+0,
+"Mantissa is always positive."
+],
+[
+3,
+"If log x = 3, then x equals:",
+[
+"30",
+"1000",
+"300",
+"3"
+],
+1,
+"10³ = 1000."
+],
+[
+3,
+"The characteristic of log 456.7 is:",
+[
+"2",
+"3",
+"1",
+"0"
+],
+0,
+"It has 3 digits before the decimal, so 3 − 1 = 2."
+],
+[
+4,
+"(a + b)² equals:",
+[
+"a² + b²",
+"a² − 2ab + b²",
+"a² + 2ab + b²",
+"a² + ab + b²"
+],
+2,
+"Identity."
+],
+[
+4,
+"(a − b)² equals:",
+[
+"a² − 2ab + b²",
+"a² + b²",
+"a² − b²",
+"a² + 2ab − b²"
+],
+0,
+"Identity."
+],
+[
+4,
+"a² − b² equals:",
+[
+"(a − b)²",
+"(a + b)²",
+"a(a − b)",
+"(a + b)(a − b)"
+],
+3,
+"Difference of squares."
+],
+[
+4,
+"(a + b)³ equals:",
+[
+"a³ + 3a²b + 3ab² + b³",
+"a³ + b³",
+"a³ + 3ab + b³",
+"a³ + 3a²b + b³"
+],
+0,
+"Cube identity."
+],
+[
+4,
+"a³ + b³ equals:",
+[
+"(a + b)(a² − ab + b²)",
+"(a + b)(a² + ab + b²)",
+"(a − b)(a² + ab + b²)",
+"(a + b)³"
+],
+0,
+"Sum of cubes."
+],
+[
+4,
+"If a + b = 5 and ab = 6, then a² + b² equals:",
+[
+"25",
+"19",
+"13",
+"31"
+],
+2,
+"(a + b)² − 2ab = 25 − 12 = 13."
+],
+[
+4,
+"The rationalising factor of √3 is:",
+[
+"√3",
+"3",
+"1/3",
+"√2"
+],
+0,
+"√3 × √3 = 3."
+],
+[
+4,
+"An expression of the form p(x)/q(x), q(x) ≠ 0, is called a:",
+[
+"Polynomial",
+"Surd",
+"Constant",
+"Rational expression"
+],
+3,
+"Ratio of polynomials."
+],
+[
+4,
+"The degree of the polynomial 3x⁴ + 2x² − 5 is:",
+[
+"4",
+"2",
+"3",
+"6"
+],
+0,
+"Highest power of x."
+],
+[
+4,
+"√2 × √8 equals:",
+[
+"16",
+"√10",
+"2",
+"4"
+],
+3,
+"√16 = 4."
+],
+[
+4,
+"The value of (x + 1/x)² when x + 1/x = 3 is:",
+[
+"7",
+"9",
+"11",
+"3"
+],
+1,
+"3² = 9."
+],
+[
+4,
+"If x + 1/x = 3, then x² + 1/x² equals:",
+[
+"9",
+"11",
+"7",
+"5"
+],
+2,
+"(x + 1/x)² − 2 = 9 − 2 = 7."
+],
+[
+4,
+"(a + b)(a − b) is a product that gives:",
+[
+"Sum of squares",
+"Perfect square",
+"Difference of two squares",
+"Cube"
+],
+2,
+"a² − b²."
+],
+[
+4,
+"A surd of order 3 is called a:",
+[
+"Quadratic surd",
+"Cubic surd",
+"Linear surd",
+"Rational surd"
+],
+1,
+"∛a."
+],
+[
+5,
+"Factorise: x² − 9",
+[
+"(x − 3)²",
+"(x + 9)(x − 1)",
+"(x + 3)(x − 3)",
+"(x + 3)²"
+],
+2,
+"Difference of squares."
+],
+[
+5,
+"Factorise: x² + 5x + 6",
+[
+"(x + 1)(x + 6)",
+"(x + 2)(x + 3)",
+"(x − 2)(x − 3)",
+"(x + 5)(x + 1)"
+],
+1,
+"2 × 3 = 6, 2 + 3 = 5."
+],
+[
+5,
+"Factorise: x² − 7x + 12",
+[
+"(x + 3)(x + 4)",
+"(x − 2)(x − 6)",
+"(x − 12)(x + 1)",
+"(x − 3)(x − 4)"
+],
+3,
+"−3 × −4 = 12, sum −7."
+],
+[
+5,
+"Factorise: a³ − b³",
+[
+"(a + b)(a² − ab + b²)",
+"(a − b)³",
+"(a − b)(a² − ab + b²)",
+"(a − b)(a² + ab + b²)"
+],
+3,
+"Difference of cubes."
+],
+[
+5,
+"The remainder when x² + 3x + 5 is divided by x − 1 is:",
+[
+"5",
+"9",
+"7",
+"1"
+],
+1,
+"f(1) = 1 + 3 + 5 = 9."
+],
+[
+5,
+"By the factor theorem, x − a is a factor of p(x) if:",
+[
+"p(a) = 1",
+"p(0) = a",
+"p(−a) = 0",
+"p(a) = 0"
+],
+3,
+"Remainder is zero."
+],
+[
+5,
+"Factorise: 4x² − 25",
+[
+"(4x − 5)(x + 5)",
+"(2x − 5)²",
+"(2x + 5)(2x − 5)",
+"(4x + 5)(x − 5)"
+],
+2,
+"(2x)² − 5²."
+],
+[
+5,
+"Factorise: x² + 6x + 9",
+[
+"(x − 3)²",
+"(x + 3)²",
+"(x + 9)(x + 1)",
+"(x + 6)(x + 3)"
+],
+1,
+"Perfect square."
+],
+[
+5,
+"Factorise: 3x + 3y",
+[
+"3x(y)",
+"x(3 + y)",
+"3 + (x + y)",
+"3(x + y)"
+],
+3,
+"Common factor 3."
+],
+[
+5,
+"The remainder theorem states that the remainder when p(x) is divided by x − a is:",
+[
+"p(a)",
+"p(−a)",
+"p(0)",
+"a"
+],
+0,
+"Remainder = p(a)."
+],
+[
+5,
+"Factorise: x² − x − 6",
+[
+"(x + 3)(x − 2)",
+"(x − 3)(x + 2)",
+"(x − 6)(x + 1)",
+"(x − 1)(x + 6)"
+],
+1,
+"−3 × 2 = −6, sum −1."
+],
+[
+5,
+"Factorise: 8x³ + 1",
+[
+"(2x + 1)(4x² − 2x + 1)",
+"(2x − 1)(4x² + 2x + 1)",
+"(8x + 1)(x² + 1)",
+"(2x + 1)³"
+],
+0,
+"Sum of cubes."
+],
+[
+6,
+"The H.C.F. of 12x²y and 18xy² is:",
+[
+"36x²y²",
+"6xy",
+"6x²y²",
+"3xy"
+],
+1,
+"HCF of 12 and 18 is 6; lowest powers x, y."
+],
+[
+6,
+"The L.C.M. of 4x and 6x² is:",
+[
+"24x³",
+"2x",
+"12x",
+"12x²"
+],
+3,
+"LCM of 4 and 6 = 12, highest power x²."
+],
+[
+6,
+"For two polynomials p(x) and q(x), H.C.F. × L.C.M. equals:",
+[
+"p(x) × q(x)",
+"p(x) + q(x)",
+"p(x) − q(x)",
+"p(x) ÷ q(x)"
+],
+0,
+"Product rule for HCF and LCM."
+],
+[
+6,
+"The square root of x² + 2x + 1 is:",
+[
+"x − 1",
+"x² + 1",
+"x + 2",
+"±(x + 1)"
+],
+3,
+"It is (x + 1)²."
+],
+[
+6,
+"The H.C.F. of x² − 4 and x + 2 is:",
+[
+"x − 2",
+"x² − 4",
+"x + 2",
+"1"
+],
+2,
+"x² − 4 = (x + 2)(x − 2)."
+],
+[
+6,
+"The L.C.M. of (x − 1) and (x + 1) is:",
+[
+"x − 1",
+"x + 1",
+"1",
+"x² − 1"
+],
+3,
+"Product of distinct factors."
+],
+[
+6,
+"Simplify: (x² − 9)/(x + 3)",
+[
+"x + 3",
+"x² − 3",
+"1",
+"x − 3"
+],
+3,
+"Cancel (x + 3)."
+],
+[
+6,
+"Simplify: 1/x + 1/y",
+[
+"2/(x + y)",
+"(x + y)/xy",
+"1/(x + y)",
+"xy/(x + y)"
+],
+1,
+"Common denominator xy."
+],
+[
+6,
+"The square root of 9x⁴ is:",
+[
+"3x",
+"9x²",
+"±3x²",
+"±3x⁴"
+],
+2,
+"√9 = 3, √x⁴ = x²."
+],
+[
+6,
+"H.C.F. is also called:",
+[
+"Greatest common divisor",
+"Least common multiple",
+"Lowest term",
+"Prime factor"
+],
+0,
+"GCD = HCF."
+],
+[
+6,
+"The L.C.M. of a² and ab is:",
+[
+"a²b",
+"ab",
+"a",
+"a³b"
+],
+0,
+"Highest powers of a and b."
+],
+[
+6,
+"If the H.C.F. of two expressions is 1, they are called:",
+[
+"Co-prime",
+"Equal",
+"Similar",
+"Identical"
+],
+0,
+"No common factor."
+],
+[
+7,
+"The solution of 2x + 3 = 11 is:",
+[
+"x = 7",
+"x = 3",
+"x = 5",
+"x = 4"
+],
+3,
+"2x = 8."
+],
+[
+7,
+"The solution of x/3 = 5 is:",
+[
+"x = 5/3",
+"x = 8",
+"x = 15",
+"x = 2"
+],
+2,
+"Multiply both sides by 3."
+],
+[
+7,
+"A linear equation in one variable has degree:",
+[
+"2",
+"0",
+"3",
+"1"
+],
+3,
+"Highest power of the variable is 1."
+],
+[
+7,
+"│x│ = 5 means:",
+[
+"x = 5 or x = −5",
+"x = 5 only",
+"x = −5 only",
+"x = 0"
+],
+0,
+"Absolute value equation."
+],
+[
+7,
+"The solution set of │x│ = −3 is:",
+[
+"{3}",
+"{−3}",
+"{3, −3}",
+"Empty set"
+],
+3,
+"Absolute value cannot be negative."
+],
+[
+7,
+"Solve: 3x − 7 > 5",
+[
+"x < 4",
+"x > 12",
+"x < −4",
+"x > 4"
+],
+3,
+"3x > 12."
+],
+[
+7,
+"Solve: −2x < 6",
+[
+"x < −3",
+"x > 3",
+"x > −3",
+"x < 3"
+],
+2,
+"Dividing by a negative reverses the inequality."
+],
+[
+7,
+"The symbol ≥ means:",
+[
+"Less than",
+"Not equal to",
+"Less than or equal to",
+"Greater than or equal to"
+],
+3,
+"Inequality symbol."
+],
+[
+7,
+"An equation that is true for all values of the variable is called:",
+[
+"Linear equation",
+"Inequality",
+"Identity",
+"Quadratic"
+],
+2,
+"e.g. 2(x + 1) = 2x + 2."
+],
+[
+7,
+"The solution of 5x = 0 is:",
+[
+"x = 5",
+"x = 0",
+"x = 1/5",
+"No solution"
+],
+1,
+"0/5 = 0."
+],
+[
+7,
+"Solve: (x + 1)/2 = 4",
+[
+"x = 9",
+"x = 3",
+"x = 8",
+"x = 7"
+],
+3,
+"x + 1 = 8."
+],
+[
+7,
+"If 4x − 1 = 3x + 2, then x equals:",
+[
+"1",
+"3",
+"−3",
+"2"
+],
+1,
+"x = 3."
+],
+[
+7,
+"Solve: │x − 2│ = 3",
+[
+"x = 5 only",
+"x = 5 or x = −1",
+"x = 1 or x = −5",
+"x = 3"
+],
+1,
+"x − 2 = ±3."
+],
+[
+8,
+"The graph of y = 2x is a:",
+[
+"Curve",
+"Circle",
+"Parabola",
+"Straight line through the origin"
+],
+3,
+"Linear equation."
+],
+[
+8,
+"The point (0, 0) is called the:",
+[
+"Abscissa",
+"Ordinate",
+"Quadrant",
+"Origin"
+],
+3,
+"Where the axes meet."
+],
+[
+8,
+"The x-coordinate of a point is also called its:",
+[
+"Ordinate",
+"Origin",
+"Abscissa",
+"Slope"
+],
+2,
+"x = abscissa."
+],
+[
+8,
+"The y-coordinate of a point is also called its:",
+[
+"Ordinate",
+"Abscissa",
+"Origin",
+"Intercept"
+],
+0,
+"y = ordinate."
+],
+[
+8,
+"The point (−3, 4) lies in which quadrant?",
+[
+"I",
+"II",
+"III",
+"IV"
+],
+1,
+"x negative, y positive."
+],
+[
+8,
+"The point (2, −5) lies in which quadrant?",
+[
+"IV",
+"I",
+"II",
+"III"
+],
+0,
+"x positive, y negative."
+],
+[
+8,
+"The graph of x = 3 is a line:",
+[
+"Parallel to the x-axis",
+"Through the origin",
+"Of slope 3",
+"Parallel to the y-axis"
+],
+3,
+"All points have x = 3."
+],
+[
+8,
+"The graph of y = −2 is a line:",
+[
+"Parallel to the x-axis",
+"Parallel to the y-axis",
+"Through the origin",
+"Vertical"
+],
+0,
+"All points have y = −2."
+],
+[
+8,
+"The x-axis is also represented by the equation:",
+[
+"x = 0",
+"y = x",
+"x = 1",
+"y = 0"
+],
+3,
+"On the x-axis, y = 0."
+],
+[
+8,
+"The y-axis is represented by:",
+[
+"y = 0",
+"x = 0",
+"y = x",
+"y = 1"
+],
+1,
+"On the y-axis, x = 0."
+],
+[
+8,
+"The point where a line cuts the y-axis is called the:",
+[
+"x-intercept",
+"y-intercept",
+"Origin",
+"Slope"
+],
+1,
+"Where x = 0."
+],
+[
+8,
+"Which point lies on y = x + 1?",
+[
+"(3, 2)",
+"(1, 1)",
+"(0, 0)",
+"(2, 3)"
+],
+3,
+"3 = 2 + 1."
+],
+[
+8,
+"To convert Celsius to Fahrenheit we use:",
+[
+"F = (5/9)C − 32",
+"F = C + 32",
+"F = 9C + 5",
+"F = (9/5)C + 32"
+],
+3,
+"Linear relation."
+],
+[
+8,
+"100 °C is equal to:",
+[
+"180 °F",
+"100 °F",
+"212 °F",
+"32 °F"
+],
+2,
+"(9/5)×100 + 32 = 212."
+],
+[
+9,
+"The distance between (0, 0) and (3, 4) is:",
+[
+"5",
+"7",
+"1",
+"25"
+],
+0,
+"√(9 + 16) = 5."
+],
+[
+9,
+"The distance formula between (x₁, y₁) and (x₂, y₂) is:",
+[
+"(x₂ − x₁) + (y₂ − y₁)",
+"√[(x₂ − x₁)² + (y₂ − y₁)²]",
+"√(x₁x₂ + y₁y₂)",
+"(x₂ + x₁)/2"
+],
+1,
+"Pythagoras."
+],
+[
+9,
+"The mid-point of (2, 4) and (6, 8) is:",
+[
+"(8, 12)",
+"(2, 2)",
+"(3, 4)",
+"(4, 6)"
+],
+3,
+"((2+6)/2, (4+8)/2)."
+],
+[
+9,
+"The mid-point formula of (x₁, y₁) and (x₂, y₂) is:",
+[
+"(x₁ − x₂, y₁ − y₂)",
+"(x₁x₂, y₁y₂)",
+"((x₂ − x₁)/2, (y₂ − y₁)/2)",
+"((x₁ + x₂)/2, (y₁ + y₂)/2)"
+],
+3,
+"Average of coordinates."
+],
+[
+9,
+"A triangle with all sides equal is called:",
+[
+"Isosceles",
+"Scalene",
+"Right-angled",
+"Equilateral"
+],
+3,
+"Three equal sides."
+],
+[
+9,
+"A triangle with no two sides equal is called:",
+[
+"Scalene",
+"Isosceles",
+"Equilateral",
+"Right-angled"
+],
+0,
+"All sides different."
+],
+[
+9,
+"A triangle with two equal sides is called:",
+[
+"Scalene",
+"Equilateral",
+"Isosceles",
+"Obtuse"
+],
+2,
+"Two equal sides."
+],
+[
+9,
+"Points that lie on the same straight line are called:",
+[
+"Concyclic",
+"Coplanar only",
+"Concurrent",
+"Collinear"
+],
+3,
+"Same line."
+],
+[
+9,
+"A quadrilateral whose opposite sides are equal and parallel is a:",
+[
+"Parallelogram",
+"Trapezium",
+"Kite",
+"Triangle"
+],
+0,
+"Definition."
+],
+[
+9,
+"The distance between (1, 1) and (4, 5) is:",
+[
+"5",
+"7",
+"3",
+"4"
+],
+0,
+"√(9 + 16) = 5."
+],
+[
+9,
+"The point (0, 5) lies on the:",
+[
+"y-axis",
+"x-axis",
+"Origin",
+"First quadrant only"
+],
+0,
+"x = 0."
+],
+[
+9,
+"In a right triangle, the side opposite the right angle is called the:",
+[
+"Base",
+"Hypotenuse",
+"Perpendicular",
+"Median"
+],
+1,
+"Longest side."
+],
+[
+10,
+"Two triangles are congruent if they have:",
+[
+"Same shape only",
+"Same shape and same size",
+"Same area only",
+"Same perimeter only"
+],
+1,
+"Congruent = exactly equal."
+],
+[
+10,
+"The symbol for congruence is:",
+[
+"~",
+"=",
+"≅",
+"≈"
+],
+2,
+"≅ means congruent."
+],
+[
+10,
+"S.A.S. stands for:",
+[
+"Side–Area–Side",
+"Square–Angle–Side",
+"Side–Angle–Side",
+"Side–Angle–Square"
+],
+2,
+"A congruence postulate."
+],
+[
+10,
+"A.S.A. congruence requires:",
+[
+"Two sides and one angle",
+"Two angles and the included side",
+"Three sides",
+"Three angles"
+],
+1,
+"Angle–Side–Angle."
+],
+[
+10,
+"S.S.S. congruence requires:",
+[
+"Two sides and an angle",
+"All three sides equal",
+"Three angles equal",
+"One side and two angles"
+],
+1,
+"Side–Side–Side."
+],
+[
+10,
+"R.H.S. congruence applies to:",
+[
+"All triangles",
+"Equilateral triangles only",
+"Right-angled triangles",
+"Quadrilaterals"
+],
+2,
+"Right angle–Hypotenuse–Side."
+],
+[
+10,
+"In an isosceles triangle, the angles opposite the equal sides are:",
+[
+"Supplementary",
+"Right angles",
+"Equal",
+"Unequal"
+],
+2,
+"Base angles are equal."
+],
+[
+10,
+"If two triangles have three equal angles, they are necessarily:",
+[
+"Similar",
+"Congruent",
+"Equal in area",
+"Equal in perimeter"
+],
+0,
+"A.A.A. gives similarity, not congruence."
+],
+[
+10,
+"Corresponding parts of congruent triangles are:",
+[
+"Unequal",
+"Parallel",
+"Equal",
+"Perpendicular"
+],
+2,
+"CPCT."
+],
+[
+10,
+"In ΔABC ≅ ΔPQR, side AB corresponds to:",
+[
+"QR",
+"PQ",
+"PR",
+"RP only"
+],
+1,
+"Order of letters."
+],
+[
+10,
+"The sum of the interior angles of a triangle is:",
+[
+"90°",
+"180°",
+"360°",
+"270°"
+],
+1,
+"Angle sum property."
+],
+[
+10,
+"Each angle of an equilateral triangle measures:",
+[
+"90°",
+"45°",
+"60°",
+"30°"
+],
+2,
+"180° ÷ 3."
+],
+[
+10,
+"A.A.S. congruence means:",
+[
+"Three angles",
+"Two sides",
+"Three sides",
+"Two angles and a non-included side"
+],
+3,
+"Angle–Angle–Side."
+],
+[
+10,
+"If AB = AC in ΔABC, then:",
+[
+"∠A = ∠B",
+"∠B = ∠C",
+"∠A = ∠C",
+"∠A = 90°"
+],
+1,
+"Isosceles triangle."
+],
+[
+10,
+"An exterior angle of a triangle equals:",
+[
+"180°",
+"The adjacent interior angle",
+"Sum of the two opposite interior angles",
+"90°"
+],
+2,
+"Exterior angle theorem."
+],
+[
+11,
+"In a parallelogram, opposite sides are:",
+[
+"Perpendicular",
+"Equal and parallel",
+"Unequal",
+"Intersecting"
+],
+1,
+"Property."
+],
+[
+11,
+"The diagonals of a parallelogram:",
+[
+"Bisect each other",
+"Are always equal",
+"Are perpendicular always",
+"Do not meet"
+],
+0,
+"Property."
+],
+[
+11,
+"Opposite angles of a parallelogram are:",
+[
+"Supplementary only",
+"Right angles",
+"Equal",
+"Unequal"
+],
+2,
+"Property."
+],
+[
+11,
+"The sum of adjacent angles of a parallelogram is:",
+[
+"180°",
+"90°",
+"360°",
+"270°"
+],
+0,
+"Co-interior angles."
+],
+[
+11,
+"Triangles on the same base and between the same parallels are:",
+[
+"Congruent",
+"Equal in area",
+"Similar",
+"Equal in perimeter"
+],
+1,
+"Area theorem."
+],
+[
+11,
+"A parallelogram with all sides equal is a:",
+[
+"Rectangle",
+"Rhombus",
+"Trapezium",
+"Kite"
+],
+1,
+"Rhombus."
+],
+[
+11,
+"A parallelogram with all angles 90° is a:",
+[
+"Rhombus",
+"Rectangle",
+"Trapezium",
+"Kite"
+],
+1,
+"Rectangle."
+],
+[
+11,
+"The diagonals of a rhombus are:",
+[
+"Equal",
+"Parallel",
+"Perpendicular bisectors of each other",
+"Not intersecting"
+],
+2,
+"Rhombus property."
+],
+[
+11,
+"The diagonals of a rectangle are:",
+[
+"Perpendicular always",
+"Unequal",
+"Parallel",
+"Equal"
+],
+3,
+"Rectangle property."
+],
+[
+11,
+"The line segment joining the mid-points of two sides of a triangle is ___ to the third side.",
+[
+"Perpendicular",
+"Parallel and half",
+"Equal",
+"Double"
+],
+1,
+"Mid-point theorem."
+],
+[
+11,
+"Area of a parallelogram equals:",
+[
+"½ × base × height",
+"Sum of sides",
+"Base × height",
+"Base + height"
+],
+2,
+"Area formula."
+],
+[
+11,
+"A diagonal divides a parallelogram into two:",
+[
+"Squares",
+"Rectangles",
+"Congruent triangles",
+"Unequal triangles"
+],
+2,
+"Property."
+],
+[
+11,
+"In parallelogram ABCD, if ∠A = 70°, then ∠C equals:",
+[
+"110°",
+"70°",
+"90°",
+"20°"
+],
+1,
+"Opposite angles equal."
+],
+[
+11,
+"In parallelogram ABCD, if ∠A = 70°, then ∠B equals:",
+[
+"110°",
+"70°",
+"90°",
+"20°"
+],
+0,
+"Adjacent angles are supplementary."
+],
+[
+12,
+"A line that divides a line segment into two equal parts at right angles is its:",
+[
+"Angle bisector",
+"Right bisector",
+"Median",
+"Altitude"
+],
+1,
+"Perpendicular bisector."
+],
+[
+12,
+"Any point on the right bisector of a segment is ___ from its end points.",
+[
+"Twice as far",
+"Not related",
+"At the same line",
+"Equidistant"
+],
+3,
+"Right bisector theorem."
+],
+[
+12,
+"Any point on the bisector of an angle is equidistant from its:",
+[
+"Vertex only",
+"Opposite side",
+"Arms",
+"Diagonals"
+],
+2,
+"Angle bisector theorem."
+],
+[
+12,
+"The right bisectors of the sides of a triangle are:",
+[
+"Parallel",
+"Concurrent",
+"Never meeting",
+"Perpendicular to each other"
+],
+1,
+"They meet at the circumcentre."
+],
+[
+12,
+"The point where the angle bisectors of a triangle meet is the:",
+[
+"Circumcentre",
+"Centroid",
+"Incentre",
+"Orthocentre"
+],
+2,
+"Incentre."
+],
+[
+12,
+"The point where the right bisectors of the sides of a triangle meet is the:",
+[
+"Incentre",
+"Centroid",
+"Circumcentre",
+"Orthocentre"
+],
+2,
+"Circumcentre."
+],
+[
+12,
+"Three or more lines passing through the same point are called:",
+[
+"Collinear",
+"Parallel",
+"Perpendicular",
+"Concurrent"
+],
+3,
+"Concurrency."
+],
+[
+12,
+"An angle bisector divides an angle into:",
+[
+"Two right angles",
+"Two equal angles",
+"Three equal parts",
+"Unequal parts"
+],
+1,
+"Definition."
+],
+[
+12,
+"The circumcentre is the centre of the circle passing through:",
+[
+"Mid-points",
+"All three vertices",
+"Incentre",
+"Only two vertices"
+],
+1,
+"Circumcircle."
+],
+[
+12,
+"The incentre is the centre of the circle that touches:",
+[
+"All vertices",
+"Only one side",
+"The circumcircle",
+"All three sides"
+],
+3,
+"Incircle."
+],
+[
+12,
+"The bisector of a 90° angle forms two angles of:",
+[
+"30° each",
+"60° each",
+"45° each",
+"90° each"
+],
+2,
+"90 ÷ 2."
+],
+[
+12,
+"A median joins a vertex to:",
+[
+"The opposite vertex",
+"The incentre",
+"The mid-point of the opposite side",
+"The circumcentre"
+],
+2,
+"Median definition."
+],
+[
+13,
+"In a triangle, the side opposite the greater angle is:",
+[
+"Shorter",
+"Equal",
+"Perpendicular",
+"Longer"
+],
+3,
+"Greater angle, greater side."
+],
+[
+13,
+"In a triangle, the sum of any two sides is ___ the third side.",
+[
+"Less than",
+"Equal to",
+"Half of",
+"Greater than"
+],
+3,
+"Triangle inequality."
+],
+[
+13,
+"Can 2 cm, 3 cm and 6 cm be the sides of a triangle?",
+[
+"No",
+"Yes",
+"Only if right-angled",
+"Only if isosceles"
+],
+0,
+"2 + 3 is not greater than 6."
+],
+[
+13,
+"Can 3 cm, 4 cm and 5 cm be the sides of a triangle?",
+[
+"No",
+"Yes",
+"Only equilateral",
+"Only isosceles"
+],
+1,
+"Each pair sum exceeds the third."
+],
+[
+13,
+"In ΔABC, if ∠A > ∠B, then:",
+[
+"BC < AC",
+"BC > AC",
+"BC = AC",
+"AB = 0"
+],
+1,
+"Opposite sides follow angles."
+],
+[
+13,
+"The perpendicular from a point to a line is the ___ distance.",
+[
+"Shortest",
+"Longest",
+"Equal",
+"Average"
+],
+0,
+"Shortest distance."
+],
+[
+13,
+"In a right-angled triangle, the longest side is the:",
+[
+"Hypotenuse",
+"Base",
+"Perpendicular",
+"Median"
+],
+0,
+"Opposite the 90° angle."
+],
+[
+13,
+"If two sides of a triangle are 5 cm and 7 cm, the third side must be less than:",
+[
+"2 cm",
+"5 cm",
+"7 cm",
+"12 cm"
+],
+3,
+"Sum of the other two."
+],
+[
+13,
+"If two sides of a triangle are 5 cm and 7 cm, the third side must be greater than:",
+[
+"12 cm",
+"5 cm",
+"2 cm",
+"7 cm"
+],
+2,
+"Difference of the other two."
+],
+[
+13,
+"The largest angle of a triangle is opposite the:",
+[
+"Shortest side",
+"Median",
+"Longest side",
+"Altitude"
+],
+2,
+"Greater side, greater angle."
+],
+[
+13,
+"In ΔABC, if AB = 4, BC = 6, CA = 5, the smallest angle is:",
+[
+"∠A",
+"∠B",
+"∠C",
+"All equal"
+],
+2,
+"Opposite the smallest side AB."
+],
+[
+13,
+"An obtuse-angled triangle has one angle:",
+[
+"Greater than 90°",
+"Equal to 90°",
+"Less than 90°",
+"Equal to 60°"
+],
+0,
+"Obtuse angle."
+],
+[
+14,
+"The ratio 15 : 25 in simplest form is:",
+[
+"5 : 3",
+"15 : 5",
+"1 : 5",
+"3 : 5"
+],
+3,
+"Divide by 5."
+],
+[
+14,
+"If a : b = c : d, then a, b, c, d are in:",
+[
+"Proportion",
+"Continued proportion",
+"Ratio only",
+"Inverse variation"
+],
+0,
+"Equality of ratios."
+],
+[
+14,
+"In a proportion a : b :: c : d, the product of the means equals the product of the:",
+[
+"Means",
+"Ratios",
+"Extremes",
+"Sums"
+],
+2,
+"ad = bc."
+],
+[
+14,
+"The fourth proportional to 2, 3, 4 is:",
+[
+"6",
+"8",
+"5",
+"12"
+],
+0,
+"2 : 3 = 4 : x → x = 6."
+],
+[
+14,
+"The mean proportional between 4 and 9 is:",
+[
+"36",
+"6",
+"13",
+"5"
+],
+1,
+"√(4×9) = 6."
+],
+[
+14,
+"If y varies directly as x and y = 10 when x = 2, then y when x = 5 is:",
+[
+"10",
+"25",
+"4",
+"50"
+],
+1,
+"y = 5x."
+],
+[
+14,
+"If y varies inversely as x and y = 6 when x = 2, then y when x = 4 is:",
+[
+"12",
+"8",
+"3",
+"1.5"
+],
+2,
+"xy = 12."
+],
+[
+14,
+"Similar triangles have the same:",
+[
+"Size",
+"Area",
+"Perimeter only",
+"Shape"
+],
+3,
+"Similar = same shape."
+],
+[
+14,
+"The symbol for similarity is:",
+[
+"≅",
+"~",
+"=",
+"∥"
+],
+1,
+"~ means similar."
+],
+[
+14,
+"The ratio of 2 hours to 30 minutes is:",
+[
+"1 : 4",
+"2 : 30",
+"4 : 1",
+"15 : 1"
+],
+2,
+"120 : 30."
+],
+[
+14,
+"The third proportional to 2 and 4 is:",
+[
+"8",
+"6",
+"16",
+"2"
+],
+0,
+"2 : 4 = 4 : x → x = 8."
+],
+[
+14,
+"If two triangles are similar, their corresponding sides are:",
+[
+"Equal",
+"Perpendicular",
+"Unrelated",
+"Proportional"
+],
+3,
+"Property."
+],
+[
+15,
+"In a right-angled triangle, Pythagoras' theorem states:",
+[
+"Hypotenuse = Base + Perpendicular",
+"(Hypotenuse)² = (Base)² + (Perpendicular)²",
+"(Base)² = (Hyp)² + (Perp)²",
+"Hyp = 2 × Base"
+],
+1,
+"c² = a² + b²."
+],
+[
+15,
+"If the legs of a right triangle are 6 cm and 8 cm, the hypotenuse is:",
+[
+"14 cm",
+"12 cm",
+"10 cm",
+"48 cm"
+],
+2,
+"√(36 + 64) = 10."
+],
+[
+15,
+"If the hypotenuse is 13 cm and one leg is 5 cm, the other leg is:",
+[
+"8 cm",
+"18 cm",
+"12 cm",
+"10 cm"
+],
+2,
+"√(169 − 25) = 12."
+],
+[
+15,
+"Which of the following is a Pythagorean triple?",
+[
+"2, 3, 4",
+"4, 5, 6",
+"1, 2, 3",
+"3, 4, 5"
+],
+3,
+"9 + 16 = 25."
+],
+[
+15,
+"If a² + b² = c² for a triangle's sides, the triangle is:",
+[
+"Right-angled",
+"Acute-angled",
+"Obtuse-angled",
+"Equilateral"
+],
+0,
+"Converse of Pythagoras."
+],
+[
+15,
+"The diagonal of a square of side 1 cm is:",
+[
+"2 cm",
+"1 cm",
+"√3 cm",
+"√2 cm"
+],
+3,
+"√(1 + 1)."
+],
+[
+15,
+"A ladder 10 m long reaches a window 8 m high. Its foot is from the wall:",
+[
+"6 m",
+"2 m",
+"18 m",
+"4 m"
+],
+0,
+"√(100 − 64) = 6."
+],
+[
+15,
+"The diagonal of a rectangle 6 cm × 8 cm is:",
+[
+"14 cm",
+"10 cm",
+"12 cm",
+"48 cm"
+],
+1,
+"√(36 + 64)."
+],
+[
+15,
+"In a right triangle, the hypotenuse is always the ___ side.",
+[
+"Shortest",
+"Middle",
+"Longest",
+"Equal"
+],
+2,
+"Opposite 90°."
+],
+[
+15,
+"Is a triangle with sides 7, 24, 25 right-angled?",
+[
+"Yes",
+"No",
+"Only isosceles",
+"Cannot say"
+],
+0,
+"49 + 576 = 625."
+],
+[
+15,
+"Pythagoras' theorem applies to:",
+[
+"All triangles",
+"Equilateral triangles only",
+"Quadrilaterals",
+"Right-angled triangles only"
+],
+3,
+"Only right triangles."
+],
+[
+16,
+"The area of a triangle is:",
+[
+"Base × height",
+"Base + height",
+"½ × base × height",
+"2 × base × height"
+],
+2,
+"Area formula."
+],
+[
+16,
+"Parallelograms on the same base and between the same parallels are:",
+[
+"Congruent",
+"Equal in area",
+"Similar",
+"Equal in perimeter"
+],
+1,
+"Area theorem."
+],
+[
+16,
+"The area of a triangle is ___ the area of a parallelogram on the same base and between the same parallels.",
+[
+"Half",
+"Equal to",
+"Double",
+"One-third"
+],
+0,
+"Area theorem."
+],
+[
+16,
+"Triangles on equal bases and of equal altitudes are:",
+[
+"Equal in area",
+"Congruent",
+"Similar",
+"Right-angled"
+],
+0,
+"Area depends on base and height."
+],
+[
+16,
+"The area of a rectangle of length 8 cm and breadth 5 cm is:",
+[
+"40 cm²",
+"26 cm²",
+"13 cm²",
+"80 cm²"
+],
+0,
+"8 × 5."
+],
+[
+16,
+"The area of a square of side 7 cm is:",
+[
+"49 cm²",
+"28 cm²",
+"14 cm²",
+"21 cm²"
+],
+0,
+"7²."
+],
+[
+16,
+"The area of a triangle with base 10 cm and height 6 cm is:",
+[
+"60 cm²",
+"16 cm²",
+"30 cm²",
+"15 cm²"
+],
+2,
+"½ × 10 × 6."
+],
+[
+16,
+"A median of a triangle divides it into two triangles of:",
+[
+"Equal area",
+"Equal perimeter",
+"Congruent shape always",
+"Different area"
+],
+0,
+"Equal bases and same height."
+],
+[
+16,
+"The area of a parallelogram with base 9 cm and height 4 cm is:",
+[
+"13 cm²",
+"18 cm²",
+"36 cm²",
+"26 cm²"
+],
+2,
+"9 × 4."
+],
+[
+16,
+"The unit of area in the SI system is:",
+[
+"Metre",
+"Cubic metre",
+"Litre",
+"Square metre"
+],
+3,
+"m²."
+],
+[
+16,
+"The altitude of a triangle is the perpendicular from a vertex to the:",
+[
+"Adjacent side",
+"Opposite side",
+"Mid-point",
+"Centroid"
+],
+1,
+"Height."
+],
+[
+16,
+"If two triangles have equal areas and equal bases, their altitudes are:",
+[
+"Unequal",
+"Double",
+"Equal",
+"Half"
+],
+2,
+"Area = ½bh."
+],
+[
+17,
+"To construct a triangle we need at least:",
+[
+"Two angles only",
+"One side only",
+"Three angles only",
+"Three measurements (with at least one side)"
+],
+3,
+"SSS, SAS, ASA etc."
+],
+[
+17,
+"A triangle cannot be constructed if the three angles given are:",
+[
+"With one side",
+"Without any side",
+"With two sides",
+"With three sides"
+],
+1,
+"Angles alone don't fix size."
+],
+[
+17,
+"To construct a triangle with sides 4 cm, 5 cm and 6 cm we use:",
+[
+"S.S.S.",
+"S.A.S.",
+"A.S.A.",
+"R.H.S."
+],
+0,
+"Three sides."
+],
+[
+17,
+"The point of concurrency of the medians of a triangle is called the:",
+[
+"Incentre",
+"Centroid",
+"Circumcentre",
+"Orthocentre"
+],
+1,
+"Centroid."
+],
+[
+17,
+"The point of concurrency of the altitudes of a triangle is called the:",
+[
+"Centroid",
+"Incentre",
+"Circumcentre",
+"Orthocentre"
+],
+3,
+"Orthocentre."
+],
+[
+17,
+"The centroid divides each median in the ratio:",
+[
+"2 : 1",
+"1 : 1",
+"3 : 1",
+"1 : 2 from the vertex"
+],
+0,
+"From the vertex, 2 : 1."
+],
+[
+17,
+"Which instrument is used to draw a circle?",
+[
+"Protractor",
+"Set square",
+"Compass",
+"Divider"
+],
+2,
+"Compass."
+],
+[
+17,
+"Which instrument is used to measure an angle?",
+[
+"Compass",
+"Protractor",
+"Ruler only",
+"Divider"
+],
+1,
+"Protractor."
+],
+[
+17,
+"The three medians of a triangle are:",
+[
+"Concurrent",
+"Parallel",
+"Perpendicular",
+"Equal always"
+],
+0,
+"They meet at one point."
+],
+[
+17,
+"The orthocentre of a right-angled triangle lies at:",
+[
+"The mid-point of hypotenuse",
+"Outside the triangle",
+"The vertex of the right angle",
+"The centroid"
+],
+2,
+"Altitudes meet at the right angle."
+],
+[
+17,
+"To construct a triangle given two sides and the included angle we use:",
+[
+"S.S.S.",
+"A.S.A.",
+"R.H.S.",
+"S.A.S."
+],
+3,
+"Side–Angle–Side."
+],
+[
+17,
+"The circumcentre of a right-angled triangle lies at:",
+[
+"The mid-point of the hypotenuse",
+"The right-angle vertex",
+"The centroid",
+"Outside"
+],
+0,
+"Property."
+]
+]

@@ -1,0 +1,902 @@
+[
+[
+1,
+"The place value of 7 in 4,726 is:",
+[
+"7",
+"70",
+"7,000",
+"700"
+],
+3,
+"7 is in the hundreds place."
+],
+[
+1,
+"The number 3,045 in words is:",
+[
+"Three thousand four hundred five",
+"Thirty forty-five",
+"Three thousand forty-five",
+"Three hundred forty-five"
+],
+2,
+"3 thousands, 0 hundreds, 4 tens, 5 ones."
+],
+[
+1,
+"The greatest 4-digit number is:",
+[
+"9,999",
+"9,000",
+"1,000",
+"99,999"
+],
+0,
+"Largest 4-digit number."
+],
+[
+1,
+"The smallest 4-digit number is:",
+[
+"999",
+"1,111",
+"1,000",
+"9,999"
+],
+2,
+"Smallest 4-digit number."
+],
+[
+1,
+"Which number is greater: 5,432 or 5,423?",
+[
+"5,423",
+"5,432",
+"Both are equal",
+"Cannot say"
+],
+1,
+"Compare tens: 3 > 2."
+],
+[
+1,
+"2,000 + 300 + 50 + 6 =",
+[
+"2,365",
+"2,356",
+"23,56",
+"2,536"
+],
+1,
+"Expanded form."
+],
+[
+1,
+"The number just after 999 is:",
+[
+"998",
+"9,999",
+"1,001",
+"1,000"
+],
+3,
+"999 + 1."
+],
+[
+1,
+"Round 46 to the nearest 10:",
+[
+"50",
+"40",
+"45",
+"60"
+],
+0,
+"6 ≥ 5, so round up."
+],
+[
+1,
+"The Roman numeral X stands for:",
+[
+"5",
+"1",
+"50",
+"10"
+],
+3,
+"X = 10."
+],
+[
+1,
+"Ordinal number for 3 is:",
+[
+"Three",
+"Thirteen",
+"Third",
+"Thirty"
+],
+2,
+"Ordinal numbers show position."
+],
+[
+2,
+"245 + 132 =",
+[
+"367",
+"387",
+"377",
+"113"
+],
+2,
+"Add hundreds, tens, ones."
+],
+[
+2,
+"500 − 275 =",
+[
+"235",
+"275",
+"225",
+"325"
+],
+2,
+"Subtraction with borrowing."
+],
+[
+2,
+"8 × 7 =",
+[
+"54",
+"56",
+"48",
+"64"
+],
+1,
+"Multiplication table of 8."
+],
+[
+2,
+"63 ÷ 9 =",
+[
+"6",
+"8",
+"9",
+"7"
+],
+3,
+"9 × 7 = 63."
+],
+[
+2,
+"Any number multiplied by 0 gives:",
+[
+"0",
+"The same number",
+"1",
+"10"
+],
+0,
+"Zero property."
+],
+[
+2,
+"Any number multiplied by 1 gives:",
+[
+"The same number",
+"0",
+"1",
+"10"
+],
+0,
+"Identity property."
+],
+[
+2,
+"25 × 4 =",
+[
+"100",
+"90",
+"125",
+"29"
+],
+0,
+"4 quarters of 100."
+],
+[
+2,
+"The sign used for division is:",
+[
+"÷",
+"×",
+"+",
+"−"
+],
+0,
+"Division sign."
+],
+[
+2,
+"48 ÷ 6 =",
+[
+"6",
+"7",
+"9",
+"8"
+],
+3,
+"6 × 8 = 48."
+],
+[
+2,
+"The sum of 199 and 1 is:",
+[
+"200",
+"198",
+"201",
+"100"
+],
+0,
+"199 + 1."
+],
+[
+2,
+"12 × 10 =",
+[
+"112",
+"102",
+"1,200",
+"120"
+],
+3,
+"Multiply by 10: add a zero."
+],
+[
+3,
+"In the fraction 3/5, the numerator is:",
+[
+"3",
+"5",
+"8",
+"2"
+],
+0,
+"Top number."
+],
+[
+3,
+"In the fraction 3/5, the denominator is:",
+[
+"3",
+"8",
+"15",
+"5"
+],
+3,
+"Bottom number."
+],
+[
+3,
+"Which fraction is equal to 1/2?",
+[
+"1/3",
+"2/3",
+"3/4",
+"2/4"
+],
+3,
+"Equivalent fraction."
+],
+[
+3,
+"Which is greater: 3/4 or 1/4?",
+[
+"1/4",
+"3/4",
+"Both equal",
+"Cannot say"
+],
+1,
+"Same denominator, bigger numerator."
+],
+[
+3,
+"1/4 + 2/4 =",
+[
+"3/8",
+"1/2",
+"3/4",
+"2/4"
+],
+2,
+"Like fractions."
+],
+[
+3,
+"Half of 20 is:",
+[
+"5",
+"20",
+"10",
+"40"
+],
+2,
+"20 ÷ 2."
+],
+[
+3,
+"A fraction whose numerator is smaller than denominator is a:",
+[
+"Improper fraction",
+"Mixed number",
+"Whole number",
+"Proper fraction"
+],
+3,
+"Proper fraction."
+],
+[
+3,
+"5/5 equals:",
+[
+"5",
+"0",
+"10",
+"1"
+],
+3,
+"Same numerator and denominator."
+],
+[
+3,
+"One quarter is written as:",
+[
+"1/2",
+"1/4",
+"4/1",
+"1/3"
+],
+1,
+"Quarter = one of four equal parts."
+],
+[
+3,
+"3/7 − 1/7 =",
+[
+"2/7",
+"4/7",
+"2/0",
+"3/7"
+],
+0,
+"Like fractions."
+],
+[
+4,
+"1 metre equals:",
+[
+"100 centimetres",
+"10 centimetres",
+"1,000 centimetres",
+"50 centimetres"
+],
+0,
+"1 m = 100 cm."
+],
+[
+4,
+"1 kilogram equals:",
+[
+"100 grams",
+"10 grams",
+"1,000 grams",
+"500 grams"
+],
+2,
+"1 kg = 1,000 g."
+],
+[
+4,
+"1 litre equals:",
+[
+"100 millilitres",
+"1,000 millilitres",
+"10 millilitres",
+"500 millilitres"
+],
+1,
+"1 L = 1,000 mL."
+],
+[
+4,
+"1 kilometre equals:",
+[
+"100 metres",
+"1,000 metres",
+"10 metres",
+"10,000 metres"
+],
+1,
+"1 km = 1,000 m."
+],
+[
+4,
+"Which unit is used to measure the weight of a bag of rice?",
+[
+"Litre",
+"Kilogram",
+"Metre",
+"Hour"
+],
+1,
+"Mass unit."
+],
+[
+4,
+"Which unit is used to measure milk?",
+[
+"Kilogram",
+"Metre",
+"Gram",
+"Litre"
+],
+3,
+"Capacity unit."
+],
+[
+4,
+"2 m 50 cm equals:",
+[
+"25 cm",
+"205 cm",
+"2,050 cm",
+"250 cm"
+],
+3,
+"200 + 50."
+],
+[
+4,
+"Which is longer: 1 m or 90 cm?",
+[
+"90 cm",
+"Both equal",
+"1 m",
+"Cannot say"
+],
+2,
+"1 m = 100 cm."
+],
+[
+4,
+"Half a kilogram equals:",
+[
+"500 g",
+"50 g",
+"5,000 g",
+"250 g"
+],
+0,
+"1,000 ÷ 2."
+],
+[
+4,
+"Length of a pencil is best measured in:",
+[
+"Kilometres",
+"Litres",
+"Centimetres",
+"Kilograms"
+],
+2,
+"Small length."
+],
+[
+5,
+"How many minutes are there in one hour?",
+[
+"60",
+"30",
+"100",
+"24"
+],
+0,
+"1 hour = 60 minutes."
+],
+[
+5,
+"How many hours are there in one day?",
+[
+"12",
+"60",
+"24",
+"7"
+],
+2,
+"1 day = 24 hours."
+],
+[
+5,
+"How many days are there in one week?",
+[
+"5",
+"7",
+"10",
+"30"
+],
+1,
+"1 week = 7 days."
+],
+[
+5,
+"How many months are there in one year?",
+[
+"10",
+"24",
+"52",
+"12"
+],
+3,
+"1 year = 12 months."
+],
+[
+5,
+"How many seconds are there in one minute?",
+[
+"60",
+"100",
+"30",
+"24"
+],
+0,
+"1 minute = 60 seconds."
+],
+[
+5,
+"When the minute hand is at 12 and the hour hand at 3, the time is:",
+[
+"3 o'clock",
+"12 o'clock",
+"12:15",
+"3:30"
+],
+0,
+"Clock reading."
+],
+[
+5,
+"Half past 4 means:",
+[
+"4:30",
+"4:15",
+"4:45",
+"5:30"
+],
+0,
+"Half past = 30 minutes."
+],
+[
+5,
+"Quarter past 2 means:",
+[
+"2:45",
+"2:30",
+"2:15",
+"1:45"
+],
+2,
+"Quarter = 15 minutes."
+],
+[
+5,
+"The short hand of a clock shows the:",
+[
+"Minutes",
+"Hours",
+"Seconds",
+"Days"
+],
+1,
+"Hour hand."
+],
+[
+5,
+"Which month has 28 or 29 days?",
+[
+"February",
+"January",
+"March",
+"December"
+],
+0,
+"February."
+],
+[
+5,
+"How many days are there in a normal year?",
+[
+"366",
+"360",
+"365",
+"300"
+],
+2,
+"Leap year has 366."
+],
+[
+5,
+"A.M. is used for time:",
+[
+"From midnight to noon",
+"From noon to midnight",
+"Only at night",
+"Only evening"
+],
+0,
+"Before noon."
+],
+[
+6,
+"A triangle has how many sides?",
+[
+"4",
+"5",
+"6",
+"3"
+],
+3,
+"Tri = three."
+],
+[
+6,
+"A square has how many corners (vertices)?",
+[
+"3",
+"5",
+"6",
+"4"
+],
+3,
+"Square."
+],
+[
+6,
+"A shape with 4 equal sides and 4 right angles is a:",
+[
+"Rectangle",
+"Square",
+"Triangle",
+"Circle"
+],
+1,
+"Square."
+],
+[
+6,
+"A circle has how many corners?",
+[
+"1",
+"2",
+"4",
+"0"
+],
+3,
+"A circle has no corners."
+],
+[
+6,
+"A shape with 6 sides is called a:",
+[
+"Pentagon",
+"Octagon",
+"Square",
+"Hexagon"
+],
+3,
+"Hexa = six."
+],
+[
+6,
+"A ball is shaped like a:",
+[
+"Cube",
+"Cylinder",
+"Sphere",
+"Cone"
+],
+2,
+"Sphere."
+],
+[
+6,
+"An ice-cream cone is shaped like a:",
+[
+"Cone",
+"Cube",
+"Sphere",
+"Cylinder"
+],
+0,
+"Cone."
+],
+[
+6,
+"A dice is shaped like a:",
+[
+"Sphere",
+"Cone",
+"Cylinder",
+"Cube"
+],
+3,
+"Cube."
+],
+[
+6,
+"A straight line has how many end points?",
+[
+"None (it goes on forever)",
+"One",
+"Two",
+"Three"
+],
+0,
+"Line has no end points."
+],
+[
+6,
+"A line segment has how many end points?",
+[
+"One",
+"None",
+"Three",
+"Two"
+],
+3,
+"Segment."
+],
+[
+6,
+"A ray has how many end points?",
+[
+"Two",
+"None",
+"One",
+"Three"
+],
+2,
+"Ray."
+],
+[
+6,
+"A right angle measures:",
+[
+"180°",
+"45°",
+"360°",
+"90°"
+],
+3,
+"Right angle."
+],
+[
+7,
+"Information collected in the form of numbers is called:",
+[
+"Graph",
+"Table",
+"Picture",
+"Data"
+],
+3,
+"Data."
+],
+[
+7,
+"A graph that uses pictures to show data is called a:",
+[
+"Bar graph",
+"Line graph",
+"Pie chart",
+"Pictograph"
+],
+3,
+"Pictograph."
+],
+[
+7,
+"A graph that uses bars to show data is called a:",
+[
+"Pictograph",
+"Bar graph",
+"Pie chart",
+"Map"
+],
+1,
+"Bar graph."
+],
+[
+7,
+"Tally marks (four lines with one line across) represent:",
+[
+"5",
+"4",
+"6",
+"10"
+],
+0,
+"Group of five."
+],
+[
+7,
+"In a pictograph, if one picture = 2 children, then 4 pictures =",
+[
+"8 children",
+"4 children",
+"6 children",
+"2 children"
+],
+0,
+"4 × 2."
+],
+[
+7,
+"In a bar graph, the tallest bar shows the:",
+[
+"Smallest value",
+"Average",
+"Greatest value",
+"Total only"
+],
+2,
+"Tallest = most."
+],
+[
+7,
+"Data arranged in rows and columns is called a:",
+[
+"Graph",
+"Picture",
+"Table",
+"Map"
+],
+2,
+"Table."
+],
+[
+7,
+"To record data quickly we use:",
+[
+"Fractions",
+"Tally marks",
+"Clocks",
+"Rulers"
+],
+1,
+"Tally."
+],
+[
+7,
+"If 5 children like mango and 3 like apple, how many more like mango?",
+[
+"8",
+"2",
+"3",
+"5"
+],
+1,
+"5 − 3."
+],
+[
+7,
+"If 5 children like mango and 3 like apple, how many in all?",
+[
+"2",
+"15",
+"8",
+"5"
+],
+2,
+"5 + 3."
+]
+]

@@ -1,0 +1,526 @@
+#g9_physics
+1|The SI unit of mass is:|Kilogram|Gram|Newton|Pound|Base unit.
+1|How many base quantities are there in SI?|Seven|Five|Six|Nine|Seven base quantities.
+1|Which is a derived quantity?|Speed|Length|Mass|Time|Speed = distance/time.
+1|The prefix 'micro' stands for:|10⁻⁶|10⁻³|10⁶|10⁻⁹|Micro.
+1|The prefix 'mega' stands for:|10⁶|10³|10⁹|10⁻⁶|Mega.
+1|The least count of a metre rule is:|1 mm|1 cm|0.1 mm|0.01 mm|Smallest division.
+1|The least count of a vernier caliper is usually:|0.1 mm|1 mm|0.01 mm|1 cm|Vernier.
+1|The least count of a micrometer screw gauge is usually:|0.01 mm|0.1 mm|1 mm|0.001 mm|Screw gauge.
+1|The number of significant figures in 0.0450 is:|3|4|2|5|Leading zeros don't count.
+1|Scientific notation of 0.0005 is:|5 × 10⁻⁴|5 × 10⁴|0.5 × 10⁻³|50 × 10⁻⁵|Standard form.
+2|A quantity having both magnitude and direction is a:|Vector|Scalar|Constant|Unit|Vector.
+2|Which is a scalar quantity?|Speed|Velocity|Displacement|Acceleration|Speed has no direction.
+2|The rate of change of velocity is:|Acceleration|Speed|Displacement|Distance|Acceleration.
+2|The SI unit of acceleration is:|m/s²|m/s|m|N|Unit.
+2|The area under a velocity–time graph gives:|Distance|Acceleration|Speed|Force|Area = distance.
+2|The slope of a distance–time graph gives:|Speed|Acceleration|Force|Distance|Slope = speed.
+2|The first equation of motion is:|vf = vi + at|S = vit + ½at²|2aS = vf² − vi²|F = ma|Equations of motion.
+2|A body starting from rest has initial velocity:|0|1 m/s|9.8 m/s|Infinite|At rest.
+2|The value of g near the Earth's surface is about:|10 m/s²|9.8 km/s²|1 m/s²|100 m/s²|g ≈ 9.8 m/s².
+2|Shortest distance between two points in a particular direction is:|Displacement|Distance|Speed|Path|Displacement.
+3|Newton's first law is also called the law of:|Inertia|Acceleration|Action–reaction|Gravitation|Inertia.
+3|F = ma is Newton's:|Second law|First law|Third law|Law of gravitation|Second law.
+3|For every action there is an equal and opposite:|Reaction|Force|Motion|Momentum|Third law.
+3|Momentum = |Mass × Velocity|Mass × Acceleration|Force × Time|Mass ÷ Velocity|p = mv.
+3|The SI unit of momentum is:|kg m/s|N|kg m/s²|J|Unit.
+3|1 newton equals:|1 kg m/s²|1 kg m/s|1 J|1 W|Definition.
+3|Friction always ___ motion.|Opposes|Helps|Increases|Doesn't affect|Friction.
+3|Rolling friction is ___ than sliding friction.|Less|More|Equal|Double|Wheels reduce friction.
+3|The force needed to keep a body moving in a circle is:|Centripetal force|Centrifugal force|Friction|Tension only|Towards centre.
+3|Weight = |mg|m/g|g/m|m + g|Weight formula.
+4|The turning effect of a force is called:|Torque|Momentum|Pressure|Work|Moment of force.
+4|Torque = |Force × moment arm|Force × time|Mass × velocity|Force ÷ distance|τ = F × d.
+4|The SI unit of torque is:|N m|N|J|W|Newton-metre.
+4|A body is in equilibrium if the net force and net ___ are zero.|Torque|Mass|Velocity|Energy|Two conditions.
+4|The point where the whole weight of a body acts is the:|Centre of gravity|Centre of mass only|Pivot|Fulcrum|C.G.
+4|Stability of a body increases when its centre of gravity is:|Lower|Higher|Outside|At the top|Lower C.G.
+4|Two equal and opposite parallel forces acting on a body form a:|Couple|Torque arm|Lever|Pulley|Couple.
+4|A door handle is fixed far from the hinge to:|Increase torque|Decrease torque|Increase friction|Look nice|Larger moment arm.
+4|The principle of moments states that for equilibrium, clockwise moments equal:|Anticlockwise moments|Zero|Weight|Mass|Principle of moments.
+4|A body that returns to its original position after being slightly tilted is in:|Stable equilibrium|Unstable equilibrium|Neutral equilibrium|No equilibrium|Stable.
+5|Newton's law of gravitation: force is proportional to the product of masses and inversely to:|Square of distance|Distance|Cube of distance|Mass only|Inverse square law.
+5|The value of G is:|6.67 × 10⁻¹¹ N m²/kg²|9.8 m/s²|3 × 10⁸ m/s|1.6 × 10⁻¹⁹ C|Gravitational constant.
+5|The value of g decreases with:|Altitude|Mass of body|Speed|Time|Higher = smaller g.
+5|The mass of an object on the Moon compared to Earth is:|The same|Less|More|Zero|Mass doesn't change.
+5|Weight of an object on the Moon is about ___ of that on Earth.|1/6|1/2|6 times|Equal|Moon's gravity.
+5|Satellites revolve around the Earth due to:|Gravitational force|Magnetic force|Friction|Air resistance|Gravity provides centripetal force.
+5|Geostationary satellites have a period of:|24 hours|12 hours|1 hour|365 days|Same as Earth's rotation.
+5|The orbital speed of a satellite depends on:|Its height above the Earth|Its colour|Its mass mainly|Its shape|v = √(GM/r).
+5|Mass of the Earth can be found using:|Law of gravitation|Ohm's law|Hooke's law|Archimedes' principle|M = gR²/G.
+5|Gravitational force between two masses is always:|Attractive|Repulsive|Zero|Variable sign|Attraction only.
+6|Work = |Force × displacement (in direction of force)|Force × time|Mass × velocity|Force ÷ distance|W = Fd.
+6|The SI unit of work is:|Joule|Watt|Newton|Pascal|J.
+6|Kinetic energy = |½mv²|mgh|mv|Fd|K.E.
+6|Potential energy = |mgh|½mv²|mv|ma|P.E.
+6|Power = |Work ÷ time|Work × time|Force × mass|Energy × time|P = W/t.
+6|The SI unit of power is:|Watt|Joule|Newton|Volt|W.
+6|1 horsepower equals about:|746 W|100 W|1,000 W|500 W|hp.
+6|Efficiency = |(Useful output ÷ total input) × 100%|Input ÷ output|Output × input|Work × time|Efficiency.
+6|No machine can have efficiency of:|100% or more|50%|80%|20%|Some energy is wasted.
+6|Energy obtained from the heat of Earth's interior is:|Geothermal energy|Solar energy|Tidal energy|Wind energy|Geothermal.
+7|Density = |Mass ÷ Volume|Volume ÷ Mass|Mass × Volume|Weight × Volume|ρ = m/V.
+7|The SI unit of density is:|kg/m³|kg/m²|g|N/m|Unit.
+7|Pressure = |Force ÷ Area|Force × Area|Mass ÷ Area|Area ÷ Force|P = F/A.
+7|Pascal's law is applied in:|Hydraulic press and brakes|Thermometers|Telescopes|Electric motors|Pascal's law.
+7|Archimedes' principle relates to:|Upthrust on immersed bodies|Pressure in gases only|Elasticity|Heat|Buoyancy.
+7|A body floats if its density is ___ the liquid's density.|Less than|Greater than|Equal to twice|Not related to|Floating.
+7|Hooke's law states that stress is proportional to strain within the:|Elastic limit|Breaking point|Plastic region|Yield point only|Hooke's law.
+7|Atmospheric pressure at sea level is about:|101,300 Pa|1,000 Pa|10 Pa|1 Pa|≈ 1 atm.
+7|The instrument used to measure atmospheric pressure is a:|Barometer|Manometer|Hydrometer|Ammeter|Barometer.
+7|Ice floats on water because ice is:|Less dense than water|Denser than water|Heavier|Colder only|Density.
+8|Temperature is a measure of:|Average kinetic energy of molecules|Total heat|Mass|Volume|Temperature.
+8|The SI unit of temperature is:|Kelvin|Celsius|Fahrenheit|Joule|K.
+8|Specific heat capacity of water is about:|4,200 J/kg K|420 J/kg K|42 J/kg K|42,000 J/kg K|High specific heat.
+8|Heat needed to change a solid into liquid at constant temperature is:|Latent heat of fusion|Latent heat of vaporisation|Specific heat|Heat capacity|Fusion.
+8|Evaporation causes:|Cooling|Heating|No change|Freezing always|Evaporation cools.
+8|Linear expansion depends on original length and:|Temperature change|Colour|Mass only|Pressure|ΔL = αLΔT.
+8|Absolute zero is:|0 K (−273 °C)|0 °C|−100 °C|273 °C|Lowest temperature.
+8|Water is used in car radiators because of its high:|Specific heat capacity|Density|Viscosity|Conductivity only|Absorbs much heat.
+8|Boiling point of water decreases at:|Higher altitudes|Sea level|Under pressure|Below sea level|Lower pressure.
+8|Heat capacity = mass × ___|Specific heat capacity|Temperature|Volume|Density|C = mc.
+9|Heat transfer through solids is mainly by:|Conduction|Convection|Radiation|Evaporation|Conduction.
+9|Heat transfer in fluids is mainly by:|Convection|Conduction|Radiation|Reflection|Convection.
+9|Heat from the Sun reaches us by:|Radiation|Convection|Conduction|Evaporation|No medium.
+9|Good absorbers of radiation are also good:|Emitters|Reflectors|Insulators|Conductors|Black body.
+9|Sea breeze blows from:|Sea to land during the day|Land to sea during day|Land to sea at night only|Mountain to valley|Day.
+9|Greenhouse effect traps:|Infrared radiation|Visible light only|Sound|Ultraviolet only|Greenhouse effect.
+9|A vacuum flask has a vacuum between its walls to stop:|Conduction and convection|Radiation only|Evaporation|Reflection|Vacuum.
+9|Metals are good conductors of heat because they have:|Free electrons|No electrons|Large atoms|Air gaps|Free electrons.
+9|Wool keeps us warm because it traps:|Air (an insulator)|Water|Light|Heat sources|Air insulation.
+9|Glider pilots use rising warm air called:|Thermals (convection currents)|Breeze|Jet streams|Cyclones|Convection.
+#g10_physics
+10|Motion that repeats itself in equal intervals of time is:|Periodic motion|Random motion|Linear motion|Rotational only|Periodic.
+10|In SHM, acceleration is proportional to:|Displacement (and opposite in direction)|Velocity|Mass|Time|a = −ω²x.
+10|The time period of a simple pendulum depends on:|Length and g|Mass of bob|Amplitude (small)|Colour|T = 2π√(l/g).
+10|Frequency is the reciprocal of:|Time period|Amplitude|Wavelength|Speed|f = 1/T.
+10|The maximum displacement from the mean position is:|Amplitude|Wavelength|Frequency|Period|Amplitude.
+10|Waves that need a medium are:|Mechanical waves|Electromagnetic waves|Light waves|Radio waves|Mechanical.
+10|In transverse waves, particles vibrate ___ to the direction of the wave.|Perpendicular|Parallel|Opposite|Randomly|Transverse.
+10|In longitudinal waves, particles vibrate ___ to the direction of the wave.|Parallel|Perpendicular|At 45°|Not at all|Longitudinal.
+10|Wave speed v = |fλ|f/λ|λ/f|f + λ|Wave equation.
+10|Waves transfer:|Energy|Matter|Mass|Medium|Waves carry energy.
+11|Sound waves are:|Longitudinal|Transverse|Electromagnetic|Light waves|Sound.
+11|The speed of sound in air at 0 °C is about:|332 m/s|3 × 10⁸ m/s|1,500 m/s|5,000 m/s|At 0 °C.
+11|The quality (timbre) of sound depends on:|Waveform (overtones)|Amplitude only|Frequency only|Speed|Quality.
+11|Intensity level of sound is measured in:|Decibels|Hertz|Watts|Joules|dB.
+11|Reflection of sound is called:|Echo|Refraction|Resonance|Beat|Echo.
+11|Ultrasound is used in:|Medical imaging and SONAR|Cooking|Painting|Lighting|Uses.
+11|Audible frequency range is:|20 Hz to 20 kHz|1 Hz to 10 Hz|20 kHz to 50 kHz|0 to 20 Hz|Human hearing.
+11|Sound is faster in steel than in air because steel is:|More elastic|Lighter|Hotter|Softer|Elasticity.
+11|Acoustic protection reduces:|Noise|Light|Heat|Pressure|Soundproofing.
+11|Pitch of sound increases with:|Frequency|Amplitude|Speed|Mass|Pitch.
+12|The angle of incidence equals the angle of reflection is the:|Law of reflection|Snell's law|Ohm's law|Hooke's law|Reflection.
+12|Snell's law relates to:|Refraction|Reflection|Diffraction|Interference|n = sin i / sin r.
+12|Total internal reflection occurs when light goes from:|Denser to rarer medium beyond critical angle|Rarer to denser|Vacuum to glass|Any medium|TIR.
+12|Optical fibres work on the principle of:|Total internal reflection|Refraction only|Diffraction|Dispersion|TIR.
+12|A concave mirror is used as a:|Shaving mirror|Rear-view mirror|Window|Lens|Magnified image.
+12|A convex mirror is used as a:|Rear-view mirror in vehicles|Shaving mirror|Torch reflector|Dentist mirror|Wide field.
+12|Power of a lens is measured in:|Dioptres|Metres|Watts|Joules|D = 1/f (m).
+12|Power of a lens of focal length 0.5 m is:|2 D|0.5 D|5 D|1 D|1/0.5.
+12|Refractive index of a medium = |c / v|v / c|c × v|v − c|n = c/v.
+12|A simple microscope uses a:|Convex lens|Concave lens|Plane mirror|Prism|Magnifying glass.
+13|Like charges:|Repel|Attract|Do nothing|Cancel|Electrostatics.
+13|The SI unit of charge is:|Coulomb|Ampere|Volt|Ohm|C.
+13|The charge on an electron is:|−1.6 × 10⁻¹⁹ C|+1.6 × 10⁻¹⁹ C|1 C|0|Elementary charge.
+13|Coulomb's law: force is inversely proportional to the:|Square of distance|Distance|Cube of distance|Charge|Inverse square.
+13|The SI unit of capacitance is:|Farad|Henry|Ohm|Coulomb|F.
+13|An electroscope is used to detect:|Charge|Current|Voltage only|Magnetism|Gold-leaf electroscope.
+13|Charging by rubbing is called charging by:|Friction|Induction|Conduction only|Radiation|Friction.
+13|The SI unit of electric potential is:|Volt|Coulomb|Ampere|Joule|V.
+13|A capacitor stores:|Electric charge (energy)|Current|Resistance|Magnetism|Capacitor.
+13|Lightning conductors protect buildings by:|Conducting charge safely to earth|Stopping rain|Absorbing light|Producing sound|Earthing.
+14|Ohm's law: V = |IR|I/R|R/I|I + R|Ohm's law.
+14|Resistance of a wire is directly proportional to its:|Length|Area|Temperature only|Colour|R ∝ L.
+14|Resistance of a wire is inversely proportional to its:|Cross-sectional area|Length|Mass|Resistivity|R ∝ 1/A.
+14|Resistances in series add up as:|R = R₁ + R₂ + …|1/R = 1/R₁ + 1/R₂|R = R₁R₂|R = R₁ − R₂|Series.
+14|Two 4 Ω resistors in parallel give:|2 Ω|8 Ω|4 Ω|16 Ω|1/R = 1/4 + 1/4.
+14|Electric power P = |VI|V/I|IR|V + I|Power.
+14|1 kWh equals:|3.6 × 10⁶ J|1,000 J|3,600 J|36 J|Energy unit.
+14|The SI unit of resistance is:|Ohm|Volt|Ampere|Watt|Ω.
+14|Electromotive force (EMF) is measured in:|Volts|Amperes|Ohms|Watts|EMF.
+14|A conductor that does not obey Ohm's law is:|Non-ohmic|Ohmic|Superconductor only|Insulator|e.g. diode, filament lamp.
+15|A current-carrying conductor produces a:|Magnetic field|Gravitational field|Sound|Light only|Oersted.
+15|The direction of force on a current-carrying conductor in a magnetic field is given by:|Fleming's left-hand rule|Right-hand grip rule only|Lenz's law|Ohm's law|Motor rule.
+15|An electric motor converts electrical energy into:|Mechanical energy|Chemical energy|Heat only|Light|Motor.
+15|Electromagnetic induction was discovered by:|Faraday|Newton|Ohm|Coulomb|Faraday.
+15|A generator converts mechanical energy into:|Electrical energy|Chemical energy|Heat|Sound|Generator.
+15|A transformer works on:|Alternating current (AC)|Direct current only|Both equally|Static charge|Mutual induction.
+15|A step-up transformer increases:|Voltage|Current|Power|Frequency|Step-up.
+15|The direction of induced current is given by:|Lenz's law|Ohm's law|Coulomb's law|Snell's law|Lenz.
+15|Transmission lines use high voltage to reduce:|Power loss|Voltage|Resistance to zero|Frequency|P = I²R loss.
+15|The magnetic field around a straight wire forms:|Concentric circles|Straight lines|Squares|Spirals only|Field pattern.
+16|Thermionic emission is the emission of electrons from:|Hot metal surfaces|Cold surfaces|Liquids|Gases only|Thermionic.
+16|A cathode-ray oscilloscope (CRO) displays:|Waveforms of signals|Temperature|Mass|Light only|CRO.
+16|Analogue quantities vary:|Continuously|In steps only|Never|Randomly only|Analogue.
+16|Digital quantities have:|Discrete values|Continuous values|No values|Infinite values|Digital.
+16|The AND gate gives output 1 when:|All inputs are 1|Any input is 1|All inputs are 0|Input is inverted|AND.
+16|The NOT gate:|Inverts the input|Adds inputs|Multiplies inputs|Has two inputs|NOT.
+16|The NAND gate is a combination of:|AND and NOT|OR and NOT|AND and OR|NOT only|NAND.
+16|The NOR gate gives output 1 only when:|All inputs are 0|All inputs are 1|Any input is 1|One input is 1|NOR.
+16|Electrons are deflected in an electric field because they are:|Charged|Neutral|Heavy|Magnetic only|Charge.
+16|In Boolean algebra, A + A equals:|A|2A|0|1|Idempotent law.
+17|Information is transmitted over long distances using:|Electromagnetic waves|Sound waves only|Water waves|Seismic waves|Radio, microwaves.
+17|Optical fibres carry information as:|Light signals|Sound|Electric current only|Water|Light.
+17|The main part of a computer that processes data is the:|CPU|Monitor|Keyboard|Printer|CPU.
+17|A device that converts sound into electrical signals is a:|Microphone|Speaker|Bulb|Motor|Microphone.
+17|A device that converts electrical signals into sound is a:|Loudspeaker|Microphone|Battery|Bulb|Speaker.
+17|Storage devices include:|Hard disk and USB flash drive|Monitor|Keyboard|Mouse|Storage.
+17|E-mail is sent through the:|Internet|Telephone line only|Radio only|Post office|Internet.
+17|Mobile phones communicate using:|Radio/microwaves|Sound waves|Cables only|Light from bulbs|Wireless.
+17|A fax machine sends:|Images of documents|Only sound|Only video|Money|Fax.
+17|Information technology deals with:|Storing, processing and transmitting information|Only farming|Only cooking|Only travelling|IT.
+18|The nucleus of an atom contains:|Protons and neutrons|Electrons only|Protons and electrons|Neutrons and electrons|Nucleons.
+18|Isotopes have the same number of ___ but different number of neutrons.|Protons|Neutrons|Nucleons|Electrons only|Isotopes.
+18|Alpha particles are:|Helium nuclei|Electrons|Photons|Neutrons|α = ⁴He nucleus.
+18|Beta particles are:|Fast-moving electrons|Helium nuclei|Photons|Protons|β.
+18|Gamma rays are:|Electromagnetic waves|Charged particles|Helium nuclei|Neutrons|γ.
+18|The most penetrating radiation is:|Gamma|Alpha|Beta|All equal|γ rays.
+18|The time in which half of a radioactive sample decays is its:|Half-life|Full life|Period|Decay constant|Half-life.
+18|Nuclear fission is the splitting of:|A heavy nucleus|A light nucleus|An electron|A molecule|Fission.
+18|Nuclear fusion is the combining of:|Light nuclei|Heavy nuclei|Electrons|Molecules|Fusion.
+18|Radioactivity was discovered by:|Henri Becquerel|Newton|Faraday|Einstein|1896.
+#g9_chemistry
+1|The branch of chemistry dealing with carbon compounds is:|Organic chemistry|Inorganic chemistry|Physical chemistry|Biochemistry|Organic.
+1|The smallest unit of matter that can exist independently is a:|Molecule|Atom always|Ion|Electron|Molecule.
+1|An element is made of:|Same kind of atoms|Different atoms|Molecules only|Ions only|Element.
+1|The atomic mass unit (amu) is 1/12 of the mass of one atom of:|Carbon-12|Hydrogen|Oxygen-16|Nitrogen|amu.
+1|Avogadro's number is:|6.02 × 10²³|3 × 10⁸|1.6 × 10⁻¹⁹|9.8|Number in a mole.
+1|One mole of any substance contains:|6.02 × 10²³ particles|1 particle|12 particles|1,000 particles|Mole.
+1|The molar mass of water (H₂O) is:|18 g/mol|16 g/mol|20 g/mol|10 g/mol|2 + 16.
+1|The empirical formula shows:|Simplest whole-number ratio of atoms|Actual number of atoms|Structure|Mass only|Empirical.
+1|The molecular formula of glucose is:|C₆H₁₂O₆|CH₂O|C₂H₆O|C₁₂H₂₂O₁₁|Glucose.
+1|The molar mass of CO₂ is:|44 g/mol|28 g/mol|32 g/mol|12 g/mol|12 + 32.
+2|The atomic number is the number of:|Protons|Neutrons|Nucleons|Electrons + neutrons|Z.
+2|The electron was discovered by:|J.J. Thomson|Rutherford|Chadwick|Bohr|Cathode rays.
+2|The neutron was discovered by:|James Chadwick|Rutherford|Thomson|Bohr|1932.
+2|The nucleus was discovered by:|Rutherford|Thomson|Dalton|Bohr|Gold foil experiment.
+2|The maximum number of electrons in the second shell is:|8|2|18|32|2n².
+2|Electronic configuration of sodium (Z = 11) is:|2, 8, 1|2, 8, 2|2, 9|8, 2, 1|Shells.
+2|Isotopes of hydrogen are protium, deuterium and:|Tritium|Helium|Lithium|Ozone|Three isotopes.
+2|Atoms of the same element with different mass numbers are:|Isotopes|Isobars|Isomers|Ions|Isotopes.
+2|The maximum number of electrons in the K shell is:|2|8|18|1|First shell.
+2|Bohr's model says electrons move in:|Fixed circular orbits (energy levels)|Random paths|The nucleus|Straight lines|Bohr.
+3|The modern periodic table is arranged by increasing:|Atomic number|Atomic mass|Number of neutrons|Density|Modern periodic law.
+3|Horizontal rows of the periodic table are called:|Periods|Groups|Families|Blocks only|Periods.
+3|Vertical columns of the periodic table are called:|Groups|Periods|Series|Rows|Groups.
+3|Elements of group 1 are called:|Alkali metals|Halogens|Noble gases|Alkaline earth metals|Group 1.
+3|Elements of group 17 are called:|Halogens|Noble gases|Alkali metals|Transition metals|Group 17.
+3|Elements of group 18 are called:|Noble gases|Halogens|Alkali metals|Metalloids|Inert gases.
+3|Atomic size ___ down a group.|Increases|Decreases|Remains same|Becomes zero|More shells.
+3|Atomic size ___ across a period from left to right.|Decreases|Increases|Remains same|Doubles|Nuclear charge increases.
+3|Electronegativity ___ across a period.|Increases|Decreases|Remains same|Becomes zero|Trend.
+3|The periodic table was first arranged by atomic mass by:|Mendeleev|Moseley|Dalton|Bohr|Mendeleev.
+4|A bond formed by transfer of electrons is a/an:|Ionic bond|Covalent bond|Metallic bond|Hydrogen bond|Ionic.
+4|A bond formed by sharing of electrons is a/an:|Covalent bond|Ionic bond|Metallic bond|Dative only|Covalent.
+4|NaCl has a/an ___ bond.|Ionic|Covalent|Metallic|Hydrogen|Na⁺Cl⁻.
+4|The bond in the H₂ molecule is:|Single covalent|Double covalent|Ionic|Metallic|H–H.
+4|The bond in O₂ is:|Double covalent|Single covalent|Triple covalent|Ionic|O=O.
+4|The bond in N₂ is:|Triple covalent|Double covalent|Single|Ionic|N≡N.
+4|A coordinate (dative) covalent bond is formed when:|Both shared electrons come from one atom|Electrons are transferred|Metals bond|Ions repel|Dative bond.
+4|Atoms bond to attain the electronic configuration of:|Noble gases|Alkali metals|Halogens|Hydrogen|Octet rule.
+4|Hydrogen bonding is strongest in:|Water (H₂O)|Methane|Hydrogen gas|Carbon dioxide|H-bonds.
+4|Metallic bonds are due to:|Sea of free electrons|Shared pairs only|Transfer of electrons|Hydrogen atoms|Metallic.
+5|Boyle's law: at constant temperature, pressure is inversely proportional to:|Volume|Temperature|Mass|Moles|PV = constant.
+5|Charles's law: at constant pressure, volume is directly proportional to:|Absolute temperature|Pressure|Mass|Density|V/T = constant.
+5|Diffusion is fastest in:|Gases|Liquids|Solids|Vacuum|Gas particles move freely.
+5|Evaporation is a ___ process.|Cooling|Heating|Freezing|Neutral|Takes heat.
+5|The temperature at which vapour pressure equals external pressure is the:|Boiling point|Melting point|Freezing point|Dew point|Boiling.
+5|Crystalline solids have:|Definite geometric shapes|No shape|Variable melting points|No arrangement|Crystals.
+5|Amorphous solids include:|Glass|Diamond|Sodium chloride|Ice|No regular structure.
+5|Allotropes of carbon include:|Diamond and graphite|Oxygen and ozone|Sulphur only|Iron and steel|Allotropy.
+5|Graphite conducts electricity because it has:|Free electrons|No electrons|Ionic bonds|Water|Delocalised electrons.
+5|Standard pressure is:|1 atm (760 mmHg)|0 atm|10 atm|100 mmHg|STP.
+6|A homogeneous mixture of two or more substances is a:|Solution|Suspension|Colloid only|Compound|Solution.
+6|The substance present in larger amount in a solution is the:|Solvent|Solute|Precipitate|Colloid|Solvent.
+6|Molarity is moles of solute per:|Litre of solution|Kilogram of solvent|Gram|Millilitre|M = n/V.
+6|A solution containing maximum solute at a given temperature is:|Saturated|Unsaturated|Dilute|Colloidal|Saturated.
+6|Particles in a colloid are ___ than in a true solution.|Larger|Smaller|Equal|Invisible always|Colloid.
+6|Milk is an example of a:|Colloid|True solution|Suspension|Element|Colloid.
+6|The Tyndall effect is shown by:|Colloids|True solutions|Pure water|Salt solution|Light scattering.
+6|1 M solution of NaCl contains ___ g NaCl per litre.|58.5|40|36.5|18|Molar mass of NaCl.
+6|Like dissolves like means polar solvents dissolve:|Polar solutes|Non-polar solutes|Metals|Gases only|Solubility rule.
+6|Percentage (m/m) = (mass of solute / mass of solution) ×|100|1,000|10|1|Percent.
+7|Oxidation is:|Loss of electrons|Gain of electrons|Gain of hydrogen|Loss of oxygen|OIL RIG.
+7|Reduction is:|Gain of electrons|Loss of electrons|Gain of oxygen|Loss of hydrogen|OIL RIG.
+7|In electrolysis, the positive electrode is the:|Anode|Cathode|Electrolyte|Salt bridge|Anode.
+7|In electrolysis, the negative electrode is the:|Cathode|Anode|Electrolyte|Battery|Cathode.
+7|Electroplating of objects is done by:|Electrolysis|Distillation|Filtration|Evaporation|Electroplating.
+7|A galvanic (voltaic) cell converts chemical energy into:|Electrical energy|Heat only|Light|Sound|Voltaic cell.
+7|Rusting of iron is an example of:|Oxidation (corrosion)|Reduction|Neutralisation|Sublimation|Corrosion.
+7|The oxidation number of oxygen in most compounds is:|−2|+2|0|−1|Rule.
+7|An oxidising agent:|Gains electrons|Loses electrons|Gives hydrogen|Is always a metal|It is reduced.
+7|Galvanising protects iron by coating it with:|Zinc|Copper|Tin only|Silver|Sacrificial protection.
+8|Metals generally:|Lose electrons to form positive ions|Gain electrons|Share electrons only|Do not react|Electropositive.
+8|Non-metals generally:|Gain electrons to form negative ions|Lose electrons|Are shiny|Conduct electricity well|Electronegative.
+8|The most reactive metal among these is:|Potassium|Iron|Copper|Gold|Reactivity series.
+8|Sodium is stored under kerosene because it:|Reacts vigorously with air and water|Is heavy|Is a gas|Is poisonous only|Very reactive.
+8|Gold and platinum are called noble metals because they:|Are very unreactive|Are very reactive|Are gases|Are non-metals|Noble metals.
+8|Metals are good conductors of:|Heat and electricity|Sound only|Light only|Nothing|Free electrons.
+8|The only liquid metal at room temperature is:|Mercury|Gallium|Sodium|Bromine|Mercury.
+8|Silicon is a:|Metalloid|Metal|Non-metal gas|Noble gas|Semi-metal.
+8|Halogens are very reactive:|Non-metals|Metals|Noble gases|Metalloids|Group 17.
+8|Alkali metals react with water to form hydroxides and:|Hydrogen gas|Oxygen gas|Nitrogen|Chlorine|e.g. 2Na + 2H₂O → 2NaOH + H₂.
+#g10_chemistry
+9|A reaction that can proceed in both directions is a:|Reversible reaction|Irreversible reaction|Combustion|Precipitation|Reversible.
+9|At chemical equilibrium, the rates of forward and reverse reactions are:|Equal|Zero|Unequal|Infinite|Dynamic equilibrium.
+9|Chemical equilibrium is:|Dynamic|Static|Irreversible|Complete reaction|Both reactions continue.
+9|The law of mass action was given by:|Guldberg and Waage|Newton|Dalton|Avogadro|1864.
+9|Kc is the equilibrium constant in terms of:|Concentration|Pressure only|Temperature|Volume only|Kc.
+9|A large value of Kc indicates that the equilibrium mixture has:|More products|More reactants|No products|Equal amounts always|Kc large.
+9|The Haber process is used to make:|Ammonia|Sulphuric acid|Nitric acid|Urea only|N₂ + 3H₂ ⇌ 2NH₃.
+9|A catalyst ___ the position of equilibrium.|Does not change|Shifts forward|Shifts backward|Destroys|Catalyst speeds both.
+9|The symbol ⇌ indicates a:|Reversible reaction|Irreversible reaction|Precipitate|Gas|Double arrow.
+9|In an irreversible reaction, products:|Do not change back to reactants|Change back easily|Are at equilibrium|Are never formed|Irreversible.
+10|According to Arrhenius, an acid produces ___ ions in water.|H⁺|OH⁻|Na⁺|Cl⁻ only|Arrhenius acid.
+10|According to Arrhenius, a base produces ___ ions in water.|OH⁻|H⁺|Cl⁻|SO₄²⁻|Arrhenius base.
+10|According to Brønsted–Lowry, an acid is a proton:|Donor|Acceptor|Neutraliser|Remover|Brønsted acid.
+10|According to Lewis, a base is an electron pair:|Donor|Acceptor|Remover|Neutraliser|Lewis base.
+10|The pH of a strong acid is about:|1|7|14|10|Strongly acidic.
+10|pH = |−log[H⁺]|log[H⁺]|−log[OH⁻]|[H⁺] × 10|Definition.
+10|The salt formed from HCl and NaOH is:|NaCl|Na₂SO₄|NaNO₃|KCl|Neutralisation.
+10|Sulphuric acid formula is:|H₂SO₄|HCl|HNO₃|H₂CO₃|Sulphuric acid.
+10|Phenolphthalein in basic solution turns:|Pink|Colourless|Blue|Yellow|Indicator.
+10|Baking soda is chemically:|Sodium bicarbonate (NaHCO₃)|Sodium chloride|Calcium carbonate|Sodium hydroxide|Baking soda.
+11|Organic compounds always contain:|Carbon|Oxygen|Nitrogen|Sulphur|Organic chemistry.
+11|The property of carbon to form long chains is called:|Catenation|Isomerism|Allotropy|Hybridisation|Catenation.
+11|Compounds with the same molecular formula but different structures are:|Isomers|Isotopes|Allotropes|Homologues|Isomerism.
+11|A series of organic compounds differing by –CH₂– is a:|Homologous series|Isomeric series|Periodic series|Reactive series|Homologous series.
+11|The functional group of alcohols is:|–OH|–COOH|–CHO|–NH₂|Hydroxyl.
+11|The functional group of carboxylic acids is:|–COOH|–OH|–CHO|–CO–|Carboxyl.
+11|The functional group of aldehydes is:|–CHO|–COOH|–OH|–NH₂|Aldehyde.
+11|Ethanol has the formula:|C₂H₅OH|CH₃OH|C₂H₆|CH₃COOH|Ethanol.
+11|Coal, petroleum and natural gas are sources of:|Organic compounds|Only metals|Only salts|Noble gases|Sources.
+11|The first member of the alkane series is:|Methane|Ethane|Propane|Butane|CH₄.
+12|Hydrocarbons contain only:|Carbon and hydrogen|Carbon and oxygen|Hydrogen and oxygen|Carbon, hydrogen and nitrogen|Hydrocarbons.
+12|Alkanes are:|Saturated hydrocarbons|Unsaturated hydrocarbons|Aromatic only|Alcohols|C–C single bonds.
+12|Alkenes contain at least one:|C=C double bond|C≡C triple bond|C–O bond|Benzene ring|Alkenes.
+12|Alkynes contain at least one:|C≡C triple bond|C=C double bond|C–C single bond only|O–H bond|Alkynes.
+12|General formula of alkanes is:|CₙH₂ₙ₊₂|CₙH₂ₙ|CₙH₂ₙ₋₂|CₙHₙ|Alkanes.
+12|General formula of alkenes is:|CₙH₂ₙ|CₙH₂ₙ₊₂|CₙH₂ₙ₋₂|CₙHₙ|Alkenes.
+12|Ethene has the formula:|C₂H₄|C₂H₆|C₂H₂|CH₄|Ethene.
+12|Ethyne (acetylene) is used in:|Welding (oxy-acetylene flame)|Cooking only|Drinks|Fertilisers|Welding.
+12|Bromine water is decolourised by:|Alkenes|Alkanes|Water|Salt|Test for unsaturation.
+12|Methane is the main component of:|Natural gas|Petrol|Kerosene|LPG only|Natural gas.
+13|Carbohydrates are compounds of carbon, hydrogen and:|Oxygen|Nitrogen|Sulphur|Phosphorus|CHO.
+13|Glucose is a:|Monosaccharide|Disaccharide|Polysaccharide|Protein|Simple sugar.
+13|Sucrose is a:|Disaccharide|Monosaccharide|Polysaccharide|Lipid|Table sugar.
+13|Starch is a:|Polysaccharide|Monosaccharide|Disaccharide|Vitamin|Polymer of glucose.
+13|Proteins are polymers of:|Amino acids|Glucose|Fatty acids|Nucleotides|Proteins.
+13|Fats and oils are esters of glycerol and:|Fatty acids|Amino acids|Glucose|Vitamins|Lipids.
+13|Nucleic acids are polymers of:|Nucleotides|Amino acids|Glucose|Glycerol|DNA/RNA.
+13|Vitamin C is soluble in:|Water|Fat|Oil only|Alcohol only|Water-soluble.
+13|Vitamins A, D, E and K are:|Fat-soluble|Water-soluble|Proteins|Minerals|Fat-soluble.
+13|Enzymes are:|Proteins that act as catalysts|Carbohydrates|Lipids|Minerals|Enzymes.
+14|The layer of the atmosphere closest to the Earth is the:|Troposphere|Stratosphere|Mesosphere|Thermosphere|Troposphere.
+14|The ozone layer lies in the:|Stratosphere|Troposphere|Mesosphere|Exosphere|Ozone layer.
+14|Ozone is:|O₃|O₂|O|CO₂|Triatomic oxygen.
+14|CFCs destroy:|Ozone|Nitrogen|Oxygen|Water|Ozone depletion.
+14|The most abundant gas in the atmosphere is:|Nitrogen|Oxygen|Argon|Carbon dioxide|78%.
+14|Acid rain is caused by:|SO₂ and NOx|CO only|Ozone|Water vapour|Acid rain.
+14|Carbon monoxide is poisonous because it combines with:|Haemoglobin|Oxygen in air|Water|Sugar|Prevents oxygen transport.
+14|The greenhouse effect is mainly caused by:|CO₂ and methane|Nitrogen|Oxygen|Argon|Greenhouse gases.
+14|Temperature in the troposphere ___ with height.|Decreases|Increases|Remains same|Doubles|Lapse rate.
+14|Smog is formed by smoke and:|Fog|Ozone only|Rain|Dust only|Smog.
+15|Water is a ___ molecule.|Polar|Non-polar|Ionic|Metallic|Bent shape.
+15|Hardness of water is caused by salts of:|Calcium and magnesium|Sodium and potassium|Iron only|Chlorine|Hard water.
+15|Temporary hardness is due to:|Bicarbonates of Ca and Mg|Sulphates|Chlorides only|Nitrates|Temporary.
+15|Permanent hardness is due to:|Sulphates and chlorides of Ca and Mg|Bicarbonates|Sodium salts|Oxygen|Permanent.
+15|Temporary hardness is removed by:|Boiling|Filtration|Freezing|Shaking|Boiling.
+15|Washing soda (Na₂CO₃) removes:|Permanent hardness|Only colour|Bacteria|Nothing|Washing soda.
+15|Water-borne disease among these is:|Cholera|Diabetes|Anaemia|Rickets|Cholera.
+15|Industrial waste in water causes:|Water pollution|Noise pollution|Light pollution|Air pollution only|Pollution.
+15|The universal solvent is:|Water|Alcohol|Benzene|Acetone|Water.
+15|Water has high boiling point due to:|Hydrogen bonding|Ionic bonds|Metallic bonds|Low mass|H-bonds.
+16|Urea is used as a:|Fertiliser|Fuel|Explosive|Medicine only|Nitrogen fertiliser.
+16|Urea is made from ammonia and:|Carbon dioxide|Oxygen|Water only|Nitrogen|Urea manufacture.
+16|The Solvay process is used to make:|Sodium carbonate (soda ash)|Ammonia|Urea|Sulphuric acid|Solvay.
+16|Petroleum is separated into fractions by:|Fractional distillation|Filtration|Evaporation|Crystallisation|Refining.
+16|Kerosene, petrol and diesel are obtained from:|Petroleum|Coal only|Natural gas only|Wood|Petroleum fractions.
+16|LPG mainly contains:|Propane and butane|Methane only|Ethane only|Hydrogen|LPG.
+16|Raw materials of the Solvay process include:|Sodium chloride, limestone and ammonia|Iron ore|Sulphur|Bauxite|Solvay.
+16|Fractional distillation separates components by their:|Boiling points|Colours|Densities only|Shapes|Different boiling points.
+16|Pakistan's large urea plants are mainly based on:|Natural gas|Coal|Petrol|Wood|Feedstock.
+16|Bitumen (asphalt) is used for:|Road making|Cooking|Medicine|Fuel for cars|Residue.
+#g9_biology
+1|The study of living things is called:|Biology|Geology|Astronomy|Chemistry|Bio = life.
+1|The study of plants is:|Botany|Zoology|Ecology|Anatomy|Botany.
+1|The study of animals is:|Zoology|Botany|Mycology|Geology|Zoology.
+1|The study of fungi is:|Mycology|Virology|Botany|Zoology|Mycology.
+1|The study of the internal structure of organisms is:|Anatomy|Physiology|Ecology|Genetics|Anatomy.
+1|The study of functions of body parts is:|Physiology|Anatomy|Morphology|Taxonomy|Physiology.
+1|The study of inheritance is:|Genetics|Ecology|Histology|Paleontology|Genetics.
+1|The study of fossils is:|Palaeontology|Histology|Embryology|Ecology|Fossils.
+1|The basic unit of life is the:|Cell|Atom|Organ|Tissue|Cell.
+1|Bioelements present in largest amount in living things are carbon, hydrogen, oxygen and:|Nitrogen|Iron|Calcium|Sodium|C, H, O, N.
+2|The first step in solving a biological problem is:|Recognising the problem / observation|Conclusion|Theory|Law|Scientific method.
+2|A testable statement or tentative answer is a:|Hypothesis|Theory|Law|Fact|Hypothesis.
+2|A hypothesis supported by many experiments becomes a:|Theory|Fact only|Law immediately|Guess|Theory.
+2|The group that does not receive the treatment in an experiment is the:|Control group|Experimental group|Variable|Sample|Control.
+2|Malaria is caused by:|Plasmodium|A virus|A bacterium|A fungus|Plasmodium.
+2|Malaria is transmitted by the female:|Anopheles mosquito|Culex mosquito|Aedes mosquito|Housefly|Vector.
+2|Deductive reasoning goes from:|General to specific|Specific to general|Fact to fiction|Nothing|Deduction.
+2|Inductive reasoning goes from:|Specific to general|General to specific|Theory to fact|Law to hypothesis|Induction.
+2|Data in the form of numbers is called:|Quantitative data|Qualitative data|Hypothesis|Observation only|Quantitative.
+2|Ronald Ross discovered that malaria is transmitted by:|Mosquitoes|Houseflies|Water|Air|1897.
+3|The variety of life on Earth is called:|Biodiversity|Taxonomy|Ecology|Evolution|Biodiversity.
+3|The science of classification is called:|Taxonomy|Ecology|Physiology|Anatomy|Taxonomy.
+3|Binomial nomenclature was introduced by:|Carolus Linnaeus|Darwin|Mendel|Aristotle|Two-name system.
+3|In binomial nomenclature, the first name is the:|Genus|Species|Family|Order|Genus.
+3|The scientific name of humans is:|Homo sapiens|Felis catus|Rosa indica|Pisum sativum|Humans.
+3|The five-kingdom system was proposed by:|Robert Whittaker|Linnaeus|Haeckel|Copeland|1969.
+3|Bacteria belong to kingdom:|Monera (Prokaryotae)|Protista|Fungi|Plantae|Prokaryotes.
+3|Mushrooms belong to kingdom:|Fungi|Plantae|Protista|Monera|Fungi.
+3|The basic unit of classification is:|Species|Genus|Family|Kingdom|Species.
+3|Viruses are not included in the five kingdoms because they are:|Non-cellular|Too large|Plants|Animals|Acellular.
+4|The cell theory was proposed by:|Schleiden and Schwann|Darwin and Wallace|Watson and Crick|Mendel|Cell theory.
+4|Cells without a true nucleus are called:|Prokaryotic|Eukaryotic|Plant cells|Animal cells|Prokaryotes.
+4|Ribosomes are the site of:|Protein synthesis|Photosynthesis|Respiration|Digestion|Ribosomes.
+4|The cell membrane is:|Selectively permeable|Fully permeable|Impermeable|Rigid|Controls entry.
+4|Lysosomes are known as:|Suicide bags|Powerhouses|Kitchens|Control centres|Digestive enzymes.
+4|The Golgi apparatus functions in:|Packaging and secretion|Respiration|Photosynthesis|Storage of water|Golgi.
+4|Movement of water through a semi-permeable membrane is:|Osmosis|Diffusion only|Active transport|Endocytosis|Osmosis.
+4|Movement of molecules from high to low concentration is:|Diffusion|Osmosis only|Active transport|Phagocytosis|Diffusion.
+4|Active transport requires:|Energy (ATP)|No energy|Only water|Light|Against gradient.
+4|The electron microscope has higher ___ than the light microscope.|Resolution|Size|Colour|Cost only|Resolution.
+5|Cell division that produces identical daughter cells is:|Mitosis|Meiosis|Fertilisation|Budding|Mitosis.
+5|Meiosis produces:|Gametes with half chromosomes|Identical body cells|Four diploid cells|Two diploid cells|Meiosis.
+5|The stage in which chromosomes line up at the equator is:|Metaphase|Prophase|Anaphase|Telophase|Metaphase.
+5|In anaphase, chromatids move to:|Opposite poles|The equator|The nucleus|Outside the cell|Anaphase.
+5|The phase between two cell divisions is:|Interphase|Prophase|Metaphase|Telophase|Interphase.
+5|Division of cytoplasm is called:|Cytokinesis|Karyokinesis|Mitosis|Meiosis|Cytokinesis.
+5|Crossing over occurs during:|Meiosis I|Mitosis|Meiosis II|Interphase|Prophase I.
+5|Programmed cell death is called:|Apoptosis|Necrosis|Mitosis|Meiosis|Apoptosis.
+5|DNA replication occurs in the ___ phase of interphase.|S|G1|G2|M|Synthesis.
+5|Uncontrolled mitosis may lead to:|Cancer (tumour)|Growth only|Healing|Reproduction|Cancer.
+6|Enzymes are made of:|Proteins|Carbohydrates|Lipids|Minerals|Enzymes.
+6|Enzymes ___ the activation energy of a reaction.|Lower|Raise|Do not change|Double|Catalysts.
+6|The lock and key model of enzyme action was proposed by:|Emil Fischer|Koshland|Mendel|Pasteur|1894.
+6|The induced fit model was proposed by:|Koshland|Fischer|Darwin|Watson|1958.
+6|The part of an enzyme where substrate binds is the:|Active site|Cofactor|Product|Inhibitor|Active site.
+6|High temperature can ___ enzymes.|Denature|Activate permanently|Create|Multiply|Denaturation.
+6|Pepsin works best in:|Acidic medium|Basic medium|Neutral medium|Any medium|Stomach pH ~2.
+6|Non-protein part needed for enzyme activity is a:|Cofactor|Substrate|Product|Active site|Cofactor.
+6|Amylase breaks down:|Starch|Protein|Fat|DNA|Amylase.
+6|Lipase breaks down:|Fats|Starch|Proteins|Nucleic acids|Lipase.
+7|The energy currency of the cell is:|ATP|ADP|DNA|RNA|ATP.
+7|Photosynthesis takes place in the:|Chloroplast|Mitochondrion|Nucleus|Ribosome|Chloroplast.
+7|The light reactions of photosynthesis occur in the:|Thylakoids (grana)|Stroma|Cytoplasm|Mitochondria|Grana.
+7|The dark reactions (Calvin cycle) occur in the:|Stroma|Thylakoids|Nucleus|Cell wall|Stroma.
+7|Aerobic respiration takes place mainly in the:|Mitochondria|Chloroplasts|Ribosomes|Golgi|Mitochondria.
+7|Anaerobic respiration in muscles produces:|Lactic acid|Alcohol|Oxygen|Glucose|Lactic acid.
+7|Anaerobic respiration in yeast produces alcohol and:|Carbon dioxide|Oxygen|Lactic acid|Water only|Fermentation.
+7|Glycolysis occurs in the:|Cytoplasm|Mitochondria|Nucleus|Chloroplast|Glycolysis.
+7|Aerobic respiration of one glucose molecule yields about ___ ATP.|36–38|2|10|100|High yield.
+7|Water is split during photosynthesis in a process called:|Photolysis|Glycolysis|Hydrolysis only|Respiration|Photolysis.
+8|Mineral needed for chlorophyll formation is:|Magnesium|Iron|Calcium|Iodine|Mg in chlorophyll.
+8|Nitrogen deficiency in plants causes:|Yellowing of leaves (chlorosis)|Red leaves|Taller plants|More flowers|Chlorosis.
+8|Digestion of proteins begins in the:|Stomach|Mouth|Small intestine|Large intestine|Pepsin.
+8|Bile is produced by the:|Liver|Pancreas|Stomach|Gall bladder|Liver (stored in gall bladder).
+8|Bile helps in the emulsification of:|Fats|Proteins|Starch|Vitamins|Emulsification.
+8|Villi in the small intestine increase the surface area for:|Absorption|Chewing|Swallowing|Excretion|Villi.
+8|Water is mainly absorbed in the:|Large intestine|Stomach|Mouth|Oesophagus|Colon.
+8|Kwashiorkor is caused by deficiency of:|Protein|Vitamin C|Iron|Iodine|Protein-energy malnutrition.
+8|Marasmus is caused by deficiency of:|Protein and energy (calories)|Vitamin A|Iodine|Calcium only|Malnutrition.
+8|Wave-like movement of food in the gut is:|Peristalsis|Osmosis|Diffusion|Excretion|Peristalsis.
+9|In plants, water moves up through the:|Xylem|Phloem|Cortex|Epidermis|Xylem.
+9|Transport of food in plants is called:|Translocation|Transpiration|Respiration|Absorption|Translocation.
+9|Loss of water from aerial parts of plants is:|Transpiration|Guttation only|Translocation|Respiration|Transpiration.
+9|The liquid part of blood is:|Plasma|Serum|Platelets|Lymph|Plasma.
+9|Red blood cells contain the pigment:|Haemoglobin|Chlorophyll|Melanin|Myoglobin|Haemoglobin.
+9|The universal blood donor group is:|O negative|AB positive|A positive|B negative|O⁻.
+9|The universal blood recipient group is:|AB positive|O negative|A negative|B positive|AB⁺.
+9|The largest artery in the body is the:|Aorta|Pulmonary artery|Carotid artery|Vena cava|Aorta.
+9|The pulmonary artery carries:|Deoxygenated blood to the lungs|Oxygenated blood to the body|Blood to the brain|Lymph|Exception.
+9|A heart attack (myocardial infarction) is due to blockage of:|Coronary arteries|Veins of legs|Lymph vessels|Capillaries of skin|Coronary.
+#g10_biology
+10|Gaseous exchange in leaves takes place through:|Stomata|Xylem|Root hairs|Phloem|Stomata.
+10|In humans, gaseous exchange occurs in the:|Alveoli|Trachea|Bronchi|Nose|Alveoli.
+10|The voice box is the:|Larynx|Pharynx|Trachea|Bronchus|Larynx.
+10|The muscular sheet below the lungs that helps breathing is the:|Diaphragm|Pleura|Rib|Epiglottis|Diaphragm.
+10|During inspiration, the diaphragm:|Contracts and flattens|Relaxes and domes up|Does nothing|Moves sideways|Inhalation.
+10|The flap that prevents food from entering the windpipe is the:|Epiglottis|Larynx|Uvula|Tongue|Epiglottis.
+10|Bronchitis is inflammation of the:|Bronchi|Alveoli|Nose|Larynx|Bronchitis.
+10|Emphysema damages the:|Alveoli|Trachea|Larynx|Nose|Emphysema.
+10|Tuberculosis is caused by:|Mycobacterium tuberculosis|A virus|A fungus|Plasmodium|TB.
+10|Smoking increases the risk of:|Lung cancer|Better breathing|Taller height|Stronger lungs|Smoking.
+11|Maintaining a constant internal environment is called:|Homeostasis|Metabolism|Respiration|Digestion|Homeostasis.
+11|The functional unit of the kidney is the:|Nephron|Neuron|Alveolus|Villus|Nephron.
+11|Urea is formed in the:|Liver|Kidney|Bladder|Lungs|Liver (ornithine cycle).
+11|Filtration of blood in the nephron occurs in the:|Glomerulus (Bowman's capsule)|Loop of Henle|Collecting duct|Ureter|Ultrafiltration.
+11|Kidney stones are mostly made of:|Calcium oxalate|Sodium chloride|Glucose|Urea only|Common type.
+11|Dialysis is used for patients with:|Kidney failure|Heart failure|Lung failure|Liver failure only|Artificial kidney.
+11|In plants, excess water is removed by:|Transpiration (and guttation)|Urination|Sweating|Breathing|Plant excretion.
+11|Sweat glands help to regulate:|Body temperature|Blood sugar|Heart rate only|Digestion|Thermoregulation.
+11|ADH (antidiuretic hormone) increases:|Water reabsorption in the kidney|Urine volume|Sweating|Blood sugar|ADH.
+11|The tube carrying urine from kidney to bladder is the:|Ureter|Urethra|Nephron|Bowman's capsule|Ureter.
+12|The basic unit of the nervous system is the:|Neuron|Nephron|Glia only|Synapse|Neuron.
+12|The junction between two neurons is a:|Synapse|Dendrite|Axon|Node|Synapse.
+12|The largest part of the human brain is the:|Cerebrum|Cerebellum|Medulla|Pons|Cerebrum.
+12|Balance and coordination are controlled by the:|Cerebellum|Cerebrum|Medulla|Hypothalamus|Cerebellum.
+12|A quick automatic response to a stimulus is a:|Reflex action|Voluntary action|Hormone|Habit|Reflex.
+12|Insulin is secreted by the:|Pancreas|Thyroid|Adrenal gland|Pituitary|Islets of Langerhans.
+12|The master gland of the body is the:|Pituitary gland|Thyroid gland|Adrenal gland|Pancreas|Pituitary.
+12|Thyroxine is produced by the:|Thyroid gland|Pituitary|Adrenal|Pancreas|Thyroid.
+12|The light-sensitive layer of the eye is the:|Retina|Cornea|Iris|Lens|Retina.
+12|Adrenaline is called the hormone of:|Fight or flight|Growth|Sleep|Digestion|Emergency hormone.
+13|The human skeleton is an:|Endoskeleton|Exoskeleton|Hydrostatic skeleton|Cartilage only|Inside the body.
+13|The skeleton of insects is an:|Exoskeleton|Endoskeleton|Bony skeleton|No skeleton|Chitin.
+13|Cartilage is found in the:|Nose and ears|Thigh bone only|Skull only|Teeth|Flexible tissue.
+13|Joints that allow movement in one plane only are:|Hinge joints|Ball and socket joints|Fixed joints|Pivot joints|Hinge.
+13|The biceps and triceps are:|Antagonistic muscles|Synergistic only|Involuntary muscles|Cardiac muscles|Opposite action.
+13|Muscles of the heart are:|Cardiac muscles|Skeletal muscles|Smooth muscles|Voluntary muscles|Cardiac.
+13|Arthritis is inflammation of:|Joints|Muscles|Bones only|Skin|Joints.
+13|Osteoporosis makes bones:|Weak and porous|Stronger|Longer|Flexible|Calcium loss.
+13|Plants move water and support themselves partly by:|Turgor pressure|Muscles|Bones|Nerves|Turgidity.
+13|Wood (secondary xylem) gives plants:|Mechanical support|Colour|Smell|Food|Support.
+14|Reproduction involving only one parent is:|Asexual|Sexual|Cross-pollination|Fertilisation|Asexual.
+14|Binary fission occurs in:|Bacteria and Amoeba|Humans|Flowering plants|Birds|Binary fission.
+14|Budding is seen in:|Yeast and Hydra|Amoeba|Humans|Ferns|Budding.
+14|Formation of new plants from roots, stems or leaves is:|Vegetative propagation|Sexual reproduction|Pollination|Seed formation|Vegetative.
+14|Producing genetically identical copies is called:|Cloning|Mutation|Crossing over|Pollination|Cloning.
+14|The male gamete in humans is the:|Sperm|Ovum|Zygote|Embryo|Sperm.
+14|The female gamete in humans is the:|Ovum (egg)|Sperm|Zygote|Placenta|Ovum.
+14|The fertilised egg is called a:|Zygote|Embryo|Foetus|Gamete|Zygote.
+14|Double fertilisation is a feature of:|Flowering plants|Animals|Fungi|Bacteria|Angiosperms.
+14|AIDS is a ___ transmitted disease.|Sexually / blood|Air|Water|Food|HIV.
+15|The father of genetics is:|Gregor Mendel|Charles Darwin|Watson|Linnaeus|Mendel.
+15|Mendel worked on:|Garden pea plants|Fruit flies|Bacteria|Mice|Pisum sativum.
+15|Alternative forms of a gene are called:|Alleles|Chromosomes|Genotypes|Phenotypes|Alleles.
+15|The genetic makeup of an organism is its:|Genotype|Phenotype|Allele|Trait|Genotype.
+15|The observable characteristics of an organism are its:|Phenotype|Genotype|Gene|Chromosome|Phenotype.
+15|An organism with two identical alleles is:|Homozygous|Heterozygous|Hybrid|Mutant|Homozygous.
+15|The ratio of a monohybrid F₂ phenotype is:|3 : 1|1 : 1|9 : 3 : 3 : 1|1 : 2 : 1 always|Mendel.
+15|The structure of DNA was described by:|Watson and Crick|Mendel|Darwin|Pasteur|Double helix, 1953.
+15|Human males have sex chromosomes:|XY|XX|YY|XO|Male.
+15|The theory of natural selection was proposed by:|Charles Darwin|Lamarck|Mendel|Hooke|Darwin.
+16|The physical and biological surroundings of an organism are its:|Environment|Population|Community|Habitat only|Environment.
+16|All the populations living together in an area form a:|Community|Ecosystem|Biome|Species|Community.
+16|The process of conversion of nitrogen gas into usable compounds is:|Nitrogen fixation|Denitrification|Respiration|Photosynthesis|Fixation.
+16|Rhizobium bacteria live in the root nodules of:|Leguminous plants|Grasses|Pine trees|Mosses|Legumes.
+16|The carbon cycle involves photosynthesis and:|Respiration|Transpiration only|Osmosis|Digestion only|Carbon cycle.
+16|Energy transfer between trophic levels is about:|10%|50%|90%|100%|10% law.
+16|The pyramid of energy is always:|Upright|Inverted|Spindle-shaped|Flat|Energy decreases.
+16|Deforestation leads to:|Soil erosion and loss of habitat|More rain always|More forests|More oxygen|Effects.
+16|An organism that feeds on dead organic matter is a:|Decomposer|Producer|Herbivore|Carnivore|Decomposer.
+16|Global warming results in:|Melting of glaciers|Colder climate|More ozone|Less sea level|Effects.
+17|Biotechnology uses ___ to produce useful products.|Living organisms|Rocks|Metals|Plastics|Biotechnology.
+17|Fermentation by yeast produces:|Ethanol and CO₂|Lactic acid only|Oxygen|Glucose|Yeast fermentation.
+17|Genetic engineering involves changing an organism's:|DNA|Colour only|Food|Habitat|Recombinant DNA.
+17|Enzymes that cut DNA at specific sites are:|Restriction endonucleases|Ligases|Polymerases|Amylases|Molecular scissors.
+17|Enzyme that joins DNA fragments is:|DNA ligase|Restriction enzyme|Amylase|Pepsin|Molecular glue.
+17|Plasmids are small circular DNA found in:|Bacteria|Humans|Plants only|Viruses only|Vectors.
+17|Human insulin is produced by genetically engineered:|Bacteria (E. coli)|Cows|Plants only|Fungi only|Recombinant insulin.
+17|Single-cell protein is obtained from:|Microorganisms|Cattle|Fish|Plants only|SCP.
+17|A bioreactor (fermenter) is used to:|Grow microorganisms on a large scale|Store DNA|Make plastic|Cool water|Fermenter.
+17|Bt cotton is resistant to:|Insect pests|Drought only|Frost|Salt|Bt toxin gene.
+18|Drugs that relieve pain are called:|Analgesics|Antibiotics|Vaccines|Sedatives only|Painkillers.
+18|Antibiotics are used against:|Bacteria|Viruses|Fungi only|Worms only|Bacterial infections.
+18|Antibiotics are not effective against:|Viruses|Bacteria|Cocci|Bacilli|Viral diseases.
+18|Penicillin was discovered by:|Alexander Fleming|Louis Pasteur|Edward Jenner|Robert Koch|1928.
+18|The first vaccine (smallpox) was developed by:|Edward Jenner|Fleming|Pasteur|Koch|1796.
+18|Misuse of antibiotics leads to:|Antibiotic resistance|Better immunity|No effect|Faster healing always|Resistance.
+18|Narcotics like heroin are obtained from:|Opium poppy|Tobacco|Tea|Coffee|Opium.
+18|Pharmacology is the study of:|Drugs and their effects|Plants|Animals|Rocks|Pharmacology.
+18|Vaccines provide:|Active immunity|Passive immunity|No immunity|Disease|Vaccines.
+18|Sedatives (tranquillisers) cause:|Calmness and sleep|Excitement|Pain|Fever|Sedatives.

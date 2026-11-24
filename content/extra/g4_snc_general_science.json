@@ -1,0 +1,1178 @@
+[
+[
+1,
+"Which of these is a living thing?",
+[
+"A stone",
+"A chair",
+"A cup",
+"A tree"
+],
+3,
+"Living things grow and reproduce."
+],
+[
+1,
+"Living things take in food to get:",
+[
+"Colour",
+"Water only",
+"Light",
+"Energy"
+],
+3,
+"Food gives energy."
+],
+[
+1,
+"The process by which living things produce young ones is called:",
+[
+"Respiration",
+"Excretion",
+"Reproduction",
+"Nutrition"
+],
+2,
+"Reproduction."
+],
+[
+1,
+"Removal of waste materials from the body is called:",
+[
+"Excretion",
+"Respiration",
+"Digestion",
+"Growth"
+],
+0,
+"Excretion."
+],
+[
+1,
+"Which life process gives energy from food using oxygen?",
+[
+"Excretion",
+"Respiration",
+"Reproduction",
+"Movement"
+],
+1,
+"Respiration."
+],
+[
+1,
+"Plants make their own food by:",
+[
+"Digestion",
+"Respiration",
+"Photosynthesis",
+"Excretion"
+],
+2,
+"Photosynthesis."
+],
+[
+1,
+"Which of these is a non-living thing?",
+[
+"Water",
+"Grass",
+"Fish",
+"Bird"
+],
+0,
+"Water does not grow or reproduce."
+],
+[
+1,
+"Response of living things to changes around them is called:",
+[
+"Growth",
+"Nutrition",
+"Sensitivity",
+"Excretion"
+],
+2,
+"Sensitivity."
+],
+[
+1,
+"Animals that eat only plants are called:",
+[
+"Herbivores",
+"Carnivores",
+"Omnivores",
+"Decomposers"
+],
+0,
+"Herbivores."
+],
+[
+1,
+"Which part of a plant absorbs water from the soil?",
+[
+"Leaf",
+"Flower",
+"Stem",
+"Root"
+],
+3,
+"Roots absorb water."
+],
+[
+2,
+"All living and non-living things in an area together form an:",
+[
+"Organ",
+"Atom",
+"Orbit",
+"Ecosystem"
+],
+3,
+"Ecosystem."
+],
+[
+2,
+"Green plants in a food chain are called:",
+[
+"Consumers",
+"Decomposers",
+"Predators",
+"Producers"
+],
+3,
+"They make food."
+],
+[
+2,
+"Animals that eat other animals are called:",
+[
+"Herbivores",
+"Producers",
+"Carnivores",
+"Decomposers"
+],
+2,
+"Carnivores."
+],
+[
+2,
+"Organisms that break down dead plants and animals are called:",
+[
+"Producers",
+"Herbivores",
+"Carnivores",
+"Decomposers"
+],
+3,
+"e.g. bacteria and fungi."
+],
+[
+2,
+"Which is a correct food chain?",
+[
+"Fox → Grass → Rabbit",
+"Rabbit → Grass → Fox",
+"Grass → Fox → Rabbit",
+"Grass → Rabbit → Fox"
+],
+3,
+"Energy flows from producer."
+],
+[
+2,
+"The natural home of an organism is called its:",
+[
+"Habitat",
+"Food",
+"Population",
+"Shelter only"
+],
+0,
+"Habitat."
+],
+[
+2,
+"Animals that eat both plants and animals are called:",
+[
+"Herbivores",
+"Carnivores",
+"Omnivores",
+"Producers"
+],
+2,
+"Omnivores."
+],
+[
+2,
+"The main source of energy for all ecosystems is the:",
+[
+"Moon",
+"Soil",
+"Water",
+"Sun"
+],
+3,
+"Sunlight."
+],
+[
+2,
+"A camel is adapted to live in the:",
+[
+"Ocean",
+"Polar region",
+"Rainforest",
+"Desert"
+],
+3,
+"Stores fat and water."
+],
+[
+2,
+"An animal that hunts other animals is called a:",
+[
+"Prey",
+"Producer",
+"Predator",
+"Decomposer"
+],
+2,
+"Predator."
+],
+[
+3,
+"A balanced diet contains:",
+[
+"Only proteins",
+"Only fats",
+"Only sweets",
+"All nutrients in correct amounts"
+],
+3,
+"Balanced diet."
+],
+[
+3,
+"Carbohydrates give us:",
+[
+"Strong bones only",
+"Vitamins",
+"Water",
+"Energy"
+],
+3,
+"Energy-giving food."
+],
+[
+3,
+"Proteins are needed for:",
+[
+"Growth and repair of the body",
+"Only energy",
+"Only water",
+"Colour"
+],
+0,
+"Body-building food."
+],
+[
+3,
+"Lack of Vitamin C causes:",
+[
+"Rickets",
+"Scurvy",
+"Night blindness",
+"Goitre"
+],
+1,
+"Vitamin C deficiency."
+],
+[
+3,
+"Milk is a good source of:",
+[
+"Iron only",
+"Fibre",
+"Calcium",
+"Starch only"
+],
+2,
+"Strong bones and teeth."
+],
+[
+3,
+"We should wash our hands before:",
+[
+"Sleeping",
+"Reading",
+"Eating",
+"Walking"
+],
+2,
+"Hygiene."
+],
+[
+3,
+"Diseases that spread from one person to another are called:",
+[
+"Deficiency diseases",
+"Genetic diseases",
+"Communicable diseases",
+"Allergies"
+],
+2,
+"Infectious diseases."
+],
+[
+3,
+"Lack of iron in the diet causes:",
+[
+"Scurvy",
+"Rickets",
+"Goitre",
+"Anaemia"
+],
+3,
+"Iron deficiency."
+],
+[
+3,
+"We should brush our teeth at least:",
+[
+"Once a week",
+"Twice a day",
+"Once a month",
+"Never"
+],
+1,
+"Dental hygiene."
+],
+[
+3,
+"Fruits and vegetables are rich in:",
+[
+"Fats only",
+"Proteins only",
+"Vitamins and minerals",
+"Sugar only"
+],
+2,
+"Protective foods."
+],
+[
+4,
+"Anything that has mass and occupies space is called:",
+[
+"Matter",
+"Energy",
+"Force",
+"Light"
+],
+0,
+"Matter."
+],
+[
+4,
+"The three states of matter are:",
+[
+"Hot, cold and warm",
+"Solid, liquid and gas",
+"Hard, soft and rough",
+"Water, ice and stone"
+],
+1,
+"States of matter."
+],
+[
+4,
+"Which state of matter has a fixed shape?",
+[
+"Liquid",
+"Gas",
+"Solid",
+"None"
+],
+2,
+"Solids have fixed shape."
+],
+[
+4,
+"Liquids take the shape of their:",
+[
+"Own",
+"Container",
+"Air",
+"Floor"
+],
+1,
+"No fixed shape."
+],
+[
+4,
+"Changing of water into vapour is called:",
+[
+"Evaporation",
+"Condensation",
+"Freezing",
+"Melting"
+],
+0,
+"Evaporation."
+],
+[
+4,
+"Changing of ice into water is called:",
+[
+"Freezing",
+"Melting",
+"Boiling",
+"Condensation"
+],
+1,
+"Melting."
+],
+[
+4,
+"Changing of water vapour into water is called:",
+[
+"Evaporation",
+"Condensation",
+"Melting",
+"Freezing"
+],
+1,
+"Condensation."
+],
+[
+4,
+"Water freezes at:",
+[
+"0 °C",
+"100 °C",
+"50 °C",
+"−10 °C"
+],
+0,
+"Freezing point."
+],
+[
+4,
+"Water boils at:",
+[
+"100 °C",
+"0 °C",
+"50 °C",
+"200 °C"
+],
+0,
+"Boiling point at sea level."
+],
+[
+4,
+"Air is an example of a:",
+[
+"Solid",
+"Gas",
+"Liquid",
+"Metal"
+],
+1,
+"Air is a gas."
+],
+[
+5,
+"Energy cannot be created or:",
+[
+"Used",
+"Changed",
+"Destroyed",
+"Measured"
+],
+2,
+"Conservation of energy."
+],
+[
+5,
+"Heat moves from a hotter object to a:",
+[
+"Hotter object",
+"Heavier object",
+"Colder object",
+"Bigger object"
+],
+2,
+"Heat transfer."
+],
+[
+5,
+"Transfer of heat through solids is called:",
+[
+"Convection",
+"Radiation",
+"Evaporation",
+"Conduction"
+],
+3,
+"Conduction."
+],
+[
+5,
+"Heat from the Sun reaches the Earth by:",
+[
+"Conduction",
+"Convection",
+"Evaporation",
+"Radiation"
+],
+3,
+"No medium needed."
+],
+[
+5,
+"Metals are good:",
+[
+"Insulators of heat",
+"Conductors of heat",
+"Producers",
+"Absorbers of sound only"
+],
+1,
+"Metals conduct heat."
+],
+[
+5,
+"Wood and plastic are good:",
+[
+"Conductors",
+"Insulators",
+"Magnets",
+"Mirrors"
+],
+1,
+"They do not conduct heat well."
+],
+[
+5,
+"A battery stores energy in the form of:",
+[
+"Chemical energy",
+"Heat energy",
+"Sound energy",
+"Light energy"
+],
+0,
+"Chemical energy."
+],
+[
+5,
+"A moving car has:",
+[
+"Only potential energy",
+"No energy",
+"Kinetic energy",
+"Sound energy only"
+],
+2,
+"Energy of motion."
+],
+[
+5,
+"Transfer of heat in liquids and gases by movement is called:",
+[
+"Convection",
+"Conduction",
+"Radiation",
+"Reflection"
+],
+0,
+"Convection."
+],
+[
+5,
+"An electric bulb changes electrical energy into:",
+[
+"Sound energy",
+"Chemical energy",
+"Kinetic energy",
+"Light and heat energy"
+],
+3,
+"Energy change."
+],
+[
+6,
+"A push or a pull is called:",
+[
+"Energy",
+"Work",
+"Force",
+"Speed"
+],
+2,
+"Force."
+],
+[
+6,
+"The force that pulls objects towards the Earth is:",
+[
+"Gravity",
+"Friction",
+"Magnetism",
+"Tension"
+],
+0,
+"Gravity."
+],
+[
+6,
+"The force that opposes motion between two surfaces is:",
+[
+"Gravity",
+"Magnetism",
+"Push",
+"Friction"
+],
+3,
+"Friction."
+],
+[
+6,
+"Friction is more on a:",
+[
+"Smooth surface",
+"Wet glass",
+"Rough surface",
+"Ice"
+],
+2,
+"Rough surfaces."
+],
+[
+6,
+"Force can change the ___ of an object.",
+[
+"Colour",
+"Smell",
+"Shape, speed and direction",
+"Taste"
+],
+2,
+"Effects of force."
+],
+[
+6,
+"The unit of force is:",
+[
+"Newton",
+"Metre",
+"Kilogram",
+"Second"
+],
+0,
+"Newton (N)."
+],
+[
+6,
+"A magnet attracts:",
+[
+"Wood",
+"Iron",
+"Plastic",
+"Paper"
+],
+1,
+"Magnetic material."
+],
+[
+6,
+"Like poles of magnets:",
+[
+"Repel each other",
+"Attract each other",
+"Do nothing",
+"Melt"
+],
+0,
+"Like poles repel."
+],
+[
+6,
+"Unlike poles of magnets:",
+[
+"Repel each other",
+"Do nothing",
+"Attract each other",
+"Break"
+],
+2,
+"Unlike poles attract."
+],
+[
+6,
+"Change in position of an object with time is called:",
+[
+"Rest",
+"Motion",
+"Force",
+"Energy"
+],
+1,
+"Motion."
+],
+[
+7,
+"The outermost layer of the Earth is called the:",
+[
+"Crust",
+"Mantle",
+"Core",
+"Atmosphere"
+],
+0,
+"Crust."
+],
+[
+7,
+"Natural resources that can be replaced are called:",
+[
+"Non-renewable resources",
+"Renewable resources",
+"Fossil fuels",
+"Minerals"
+],
+1,
+"e.g. sunlight, wind."
+],
+[
+7,
+"Coal, oil and gas are called:",
+[
+"Renewable resources",
+"Metals",
+"Rocks only",
+"Fossil fuels"
+],
+3,
+"Formed from dead organisms."
+],
+[
+7,
+"Which is a renewable resource?",
+[
+"Wind",
+"Coal",
+"Petrol",
+"Natural gas"
+],
+0,
+"Wind does not run out."
+],
+[
+7,
+"Soil is formed by the breaking down of:",
+[
+"Water",
+"Rocks",
+"Air",
+"Plastic"
+],
+1,
+"Weathering."
+],
+[
+7,
+"We should save water because it is:",
+[
+"Unlimited",
+"Useless",
+"Precious and limited",
+"Harmful"
+],
+2,
+"Conservation."
+],
+[
+7,
+"The innermost layer of the Earth is the:",
+[
+"Crust",
+"Core",
+"Mantle",
+"Surface"
+],
+1,
+"Core."
+],
+[
+7,
+"Reduce, Reuse and ___ are the three Rs.",
+[
+"Recycle",
+"Remove",
+"Replace",
+"Return"
+],
+0,
+"3 Rs."
+],
+[
+7,
+"Minerals are obtained from:",
+[
+"Mines",
+"Rivers only",
+"Air",
+"Plants"
+],
+0,
+"Mining."
+],
+[
+7,
+"Most of the Earth's surface is covered with:",
+[
+"Water",
+"Land",
+"Ice only",
+"Forests"
+],
+0,
+"About 71% water."
+],
+[
+8,
+"The condition of the atmosphere at a particular time and place is called:",
+[
+"Climate",
+"Season",
+"Weather",
+"Temperature"
+],
+2,
+"Weather."
+],
+[
+8,
+"The average weather of a place over many years is called:",
+[
+"Weather",
+"Rain",
+"Climate",
+"Wind"
+],
+2,
+"Climate."
+],
+[
+8,
+"An instrument used to measure temperature is:",
+[
+"Thermometer",
+"Barometer",
+"Rain gauge",
+"Wind vane"
+],
+0,
+"Thermometer."
+],
+[
+8,
+"Rain gauge is used to measure:",
+[
+"Temperature",
+"Wind speed",
+"Humidity",
+"Rainfall"
+],
+3,
+"Rain gauge."
+],
+[
+8,
+"The amount of water vapour in air is called:",
+[
+"Pressure",
+"Temperature",
+"Wind",
+"Humidity"
+],
+3,
+"Humidity."
+],
+[
+8,
+"Moving air is called:",
+[
+"Cloud",
+"Wind",
+"Rain",
+"Fog"
+],
+1,
+"Wind."
+],
+[
+8,
+"Clouds are formed by the ___ of water vapour.",
+[
+"Evaporation",
+"Condensation",
+"Melting",
+"Freezing"
+],
+1,
+"Condensation."
+],
+[
+8,
+"An instrument used to measure air pressure is:",
+[
+"Thermometer",
+"Barometer",
+"Anemometer",
+"Rain gauge"
+],
+1,
+"Barometer."
+],
+[
+8,
+"Wind direction is shown by a:",
+[
+"Wind vane",
+"Thermometer",
+"Barometer",
+"Rain gauge"
+],
+0,
+"Wind vane."
+],
+[
+8,
+"The continuous movement of water between Earth and atmosphere is called the:",
+[
+"Food chain",
+"Water cycle",
+"Life cycle",
+"Rock cycle"
+],
+1,
+"Water cycle."
+],
+[
+9,
+"The Sun is a:",
+[
+"Planet",
+"Star",
+"Moon",
+"Comet"
+],
+1,
+"The Sun is a star."
+],
+[
+9,
+"The planet we live on is:",
+[
+"Earth",
+"Mars",
+"Venus",
+"Jupiter"
+],
+0,
+"Earth."
+],
+[
+9,
+"The largest planet of the solar system is:",
+[
+"Jupiter",
+"Saturn",
+"Earth",
+"Mars"
+],
+0,
+"Jupiter."
+],
+[
+9,
+"The planet closest to the Sun is:",
+[
+"Venus",
+"Earth",
+"Mars",
+"Mercury"
+],
+3,
+"Mercury."
+],
+[
+9,
+"The Earth takes about ___ to revolve around the Sun.",
+[
+"24 hours",
+"30 days",
+"7 days",
+"365 days"
+],
+3,
+"One year."
+],
+[
+9,
+"The Earth rotates on its axis once in about:",
+[
+"24 hours",
+"365 days",
+"30 days",
+"12 hours"
+],
+0,
+"One day."
+],
+[
+9,
+"Day and night are caused by the Earth's:",
+[
+"Revolution",
+"Size",
+"Rotation",
+"Distance from Moon"
+],
+2,
+"Spinning on axis."
+],
+[
+9,
+"The natural satellite of the Earth is the:",
+[
+"Sun",
+"Mars",
+"Moon",
+"Venus"
+],
+2,
+"Moon."
+],
+[
+9,
+"Which planet is known as the Red Planet?",
+[
+"Venus",
+"Jupiter",
+"Mercury",
+"Mars"
+],
+3,
+"Mars."
+],
+[
+9,
+"Seasons are caused by the Earth's revolution and the ___ of its axis.",
+[
+"Colour",
+"Size",
+"Tilt",
+"Speed"
+],
+2,
+"Axial tilt."
+],
+[
+10,
+"A device that makes work easier is called a:",
+[
+"Machine",
+"Force",
+"Magnet",
+"Lens"
+],
+0,
+"Machine."
+],
+[
+10,
+"A computer is an example of:",
+[
+"Magnet",
+"Natural resource",
+"Plant",
+"Technology"
+],
+3,
+"Technology."
+],
+[
+10,
+"A mobile phone is used for:",
+[
+"Cooking",
+"Communication",
+"Washing",
+"Digging"
+],
+1,
+"Communication."
+],
+[
+10,
+"A refrigerator keeps food:",
+[
+"Hot",
+"Cool and fresh",
+"Dry",
+"Sweet"
+],
+1,
+"Refrigerator."
+],
+[
+10,
+"Which of these is a simple machine?",
+[
+"Television",
+"Computer",
+"Refrigerator",
+"Lever"
+],
+3,
+"Simple machine."
+],
+[
+10,
+"Solar panels change sunlight into:",
+[
+"Water",
+"Electricity",
+"Sound",
+"Wind"
+],
+1,
+"Solar energy."
+],
+[
+10,
+"Overuse of mobile phones may harm our:",
+[
+"Hair colour",
+"Eyes and health",
+"Height",
+"Bones only"
+],
+1,
+"Use technology wisely."
+],
+[
+10,
+"A washing machine saves:",
+[
+"Time and effort",
+"Water always",
+"Money always",
+"Nothing"
+],
+0,
+"Technology helps."
+]
+]

@@ -1,0 +1,962 @@
+[
+[
+9,
+"A reaction that can proceed in both directions is a:",
+[
+"Reversible reaction",
+"Irreversible reaction",
+"Combustion",
+"Precipitation"
+],
+0,
+"Reversible."
+],
+[
+9,
+"At chemical equilibrium, the rates of forward and reverse reactions are:",
+[
+"Zero",
+"Unequal",
+"Equal",
+"Infinite"
+],
+2,
+"Dynamic equilibrium."
+],
+[
+9,
+"Chemical equilibrium is:",
+[
+"Static",
+"Irreversible",
+"Complete reaction",
+"Dynamic"
+],
+3,
+"Both reactions continue."
+],
+[
+9,
+"The law of mass action was given by:",
+[
+"Newton",
+"Dalton",
+"Avogadro",
+"Guldberg and Waage"
+],
+3,
+"1864."
+],
+[
+9,
+"Kc is the equilibrium constant in terms of:",
+[
+"Pressure only",
+"Temperature",
+"Volume only",
+"Concentration"
+],
+3,
+"Kc."
+],
+[
+9,
+"A large value of Kc indicates that the equilibrium mixture has:",
+[
+"More products",
+"More reactants",
+"No products",
+"Equal amounts always"
+],
+0,
+"Kc large."
+],
+[
+9,
+"The Haber process is used to make:",
+[
+"Sulphuric acid",
+"Nitric acid",
+"Urea only",
+"Ammonia"
+],
+3,
+"N₂ + 3H₂ ⇌ 2NH₃."
+],
+[
+9,
+"A catalyst ___ the position of equilibrium.",
+[
+"Shifts forward",
+"Shifts backward",
+"Does not change",
+"Destroys"
+],
+2,
+"Catalyst speeds both."
+],
+[
+9,
+"The symbol ⇌ indicates a:",
+[
+"Reversible reaction",
+"Irreversible reaction",
+"Precipitate",
+"Gas"
+],
+0,
+"Double arrow."
+],
+[
+9,
+"In an irreversible reaction, products:",
+[
+"Change back easily",
+"Are at equilibrium",
+"Are never formed",
+"Do not change back to reactants"
+],
+3,
+"Irreversible."
+],
+[
+10,
+"According to Arrhenius, an acid produces ___ ions in water.",
+[
+"OH⁻",
+"H⁺",
+"Na⁺",
+"Cl⁻ only"
+],
+1,
+"Arrhenius acid."
+],
+[
+10,
+"According to Arrhenius, a base produces ___ ions in water.",
+[
+"H⁺",
+"OH⁻",
+"Cl⁻",
+"SO₄²⁻"
+],
+1,
+"Arrhenius base."
+],
+[
+10,
+"According to Brønsted–Lowry, an acid is a proton:",
+[
+"Acceptor",
+"Donor",
+"Neutraliser",
+"Remover"
+],
+1,
+"Brønsted acid."
+],
+[
+10,
+"According to Lewis, a base is an electron pair:",
+[
+"Acceptor",
+"Donor",
+"Remover",
+"Neutraliser"
+],
+1,
+"Lewis base."
+],
+[
+10,
+"The pH of a strong acid is about:",
+[
+"7",
+"14",
+"1",
+"10"
+],
+2,
+"Strongly acidic."
+],
+[
+10,
+"pH =",
+[
+"log[H⁺]",
+"−log[H⁺]",
+"−log[OH⁻]",
+"[H⁺] × 10"
+],
+1,
+"Definition."
+],
+[
+10,
+"The salt formed from HCl and NaOH is:",
+[
+"Na₂SO₄",
+"NaNO₃",
+"NaCl",
+"KCl"
+],
+2,
+"Neutralisation."
+],
+[
+10,
+"Sulphuric acid formula is:",
+[
+"H₂SO₄",
+"HCl",
+"HNO₃",
+"H₂CO₃"
+],
+0,
+"Sulphuric acid."
+],
+[
+10,
+"Phenolphthalein in basic solution turns:",
+[
+"Colourless",
+"Blue",
+"Pink",
+"Yellow"
+],
+2,
+"Indicator."
+],
+[
+10,
+"Baking soda is chemically:",
+[
+"Sodium chloride",
+"Calcium carbonate",
+"Sodium bicarbonate (NaHCO₃)",
+"Sodium hydroxide"
+],
+2,
+"Baking soda."
+],
+[
+11,
+"Organic compounds always contain:",
+[
+"Oxygen",
+"Carbon",
+"Nitrogen",
+"Sulphur"
+],
+1,
+"Organic chemistry."
+],
+[
+11,
+"The property of carbon to form long chains is called:",
+[
+"Isomerism",
+"Allotropy",
+"Catenation",
+"Hybridisation"
+],
+2,
+"Catenation."
+],
+[
+11,
+"Compounds with the same molecular formula but different structures are:",
+[
+"Isomers",
+"Isotopes",
+"Allotropes",
+"Homologues"
+],
+0,
+"Isomerism."
+],
+[
+11,
+"A series of organic compounds differing by –CH₂– is a:",
+[
+"Isomeric series",
+"Periodic series",
+"Homologous series",
+"Reactive series"
+],
+2,
+"Homologous series."
+],
+[
+11,
+"The functional group of alcohols is:",
+[
+"–COOH",
+"–CHO",
+"–OH",
+"–NH₂"
+],
+2,
+"Hydroxyl."
+],
+[
+11,
+"The functional group of carboxylic acids is:",
+[
+"–OH",
+"–COOH",
+"–CHO",
+"–CO–"
+],
+1,
+"Carboxyl."
+],
+[
+11,
+"The functional group of aldehydes is:",
+[
+"–CHO",
+"–COOH",
+"–OH",
+"–NH₂"
+],
+0,
+"Aldehyde."
+],
+[
+11,
+"Ethanol has the formula:",
+[
+"C₂H₅OH",
+"CH₃OH",
+"C₂H₆",
+"CH₃COOH"
+],
+0,
+"Ethanol."
+],
+[
+11,
+"Coal, petroleum and natural gas are sources of:",
+[
+"Only metals",
+"Organic compounds",
+"Only salts",
+"Noble gases"
+],
+1,
+"Sources."
+],
+[
+11,
+"The first member of the alkane series is:",
+[
+"Ethane",
+"Propane",
+"Methane",
+"Butane"
+],
+2,
+"CH₄."
+],
+[
+12,
+"Hydrocarbons contain only:",
+[
+"Carbon and oxygen",
+"Carbon and hydrogen",
+"Hydrogen and oxygen",
+"Carbon, hydrogen and nitrogen"
+],
+1,
+"Hydrocarbons."
+],
+[
+12,
+"Alkanes are:",
+[
+"Unsaturated hydrocarbons",
+"Aromatic only",
+"Saturated hydrocarbons",
+"Alcohols"
+],
+2,
+"C–C single bonds."
+],
+[
+12,
+"Alkenes contain at least one:",
+[
+"C≡C triple bond",
+"C=C double bond",
+"C–O bond",
+"Benzene ring"
+],
+1,
+"Alkenes."
+],
+[
+12,
+"Alkynes contain at least one:",
+[
+"C≡C triple bond",
+"C=C double bond",
+"C–C single bond only",
+"O–H bond"
+],
+0,
+"Alkynes."
+],
+[
+12,
+"General formula of alkanes is:",
+[
+"CₙH₂ₙ",
+"CₙH₂ₙ₊₂",
+"CₙH₂ₙ₋₂",
+"CₙHₙ"
+],
+1,
+"Alkanes."
+],
+[
+12,
+"General formula of alkenes is:",
+[
+"CₙH₂ₙ₊₂",
+"CₙH₂ₙ₋₂",
+"CₙHₙ",
+"CₙH₂ₙ"
+],
+3,
+"Alkenes."
+],
+[
+12,
+"Ethene has the formula:",
+[
+"C₂H₆",
+"C₂H₂",
+"C₂H₄",
+"CH₄"
+],
+2,
+"Ethene."
+],
+[
+12,
+"Ethyne (acetylene) is used in:",
+[
+"Cooking only",
+"Drinks",
+"Fertilisers",
+"Welding (oxy-acetylene flame)"
+],
+3,
+"Welding."
+],
+[
+12,
+"Bromine water is decolourised by:",
+[
+"Alkenes",
+"Alkanes",
+"Water",
+"Salt"
+],
+0,
+"Test for unsaturation."
+],
+[
+12,
+"Methane is the main component of:",
+[
+"Natural gas",
+"Petrol",
+"Kerosene",
+"LPG only"
+],
+0,
+"Natural gas."
+],
+[
+13,
+"Carbohydrates are compounds of carbon, hydrogen and:",
+[
+"Oxygen",
+"Nitrogen",
+"Sulphur",
+"Phosphorus"
+],
+0,
+"CHO."
+],
+[
+13,
+"Glucose is a:",
+[
+"Disaccharide",
+"Polysaccharide",
+"Monosaccharide",
+"Protein"
+],
+2,
+"Simple sugar."
+],
+[
+13,
+"Sucrose is a:",
+[
+"Monosaccharide",
+"Disaccharide",
+"Polysaccharide",
+"Lipid"
+],
+1,
+"Table sugar."
+],
+[
+13,
+"Starch is a:",
+[
+"Polysaccharide",
+"Monosaccharide",
+"Disaccharide",
+"Vitamin"
+],
+0,
+"Polymer of glucose."
+],
+[
+13,
+"Proteins are polymers of:",
+[
+"Amino acids",
+"Glucose",
+"Fatty acids",
+"Nucleotides"
+],
+0,
+"Proteins."
+],
+[
+13,
+"Fats and oils are esters of glycerol and:",
+[
+"Amino acids",
+"Glucose",
+"Vitamins",
+"Fatty acids"
+],
+3,
+"Lipids."
+],
+[
+13,
+"Nucleic acids are polymers of:",
+[
+"Amino acids",
+"Glucose",
+"Nucleotides",
+"Glycerol"
+],
+2,
+"DNA/RNA."
+],
+[
+13,
+"Vitamin C is soluble in:",
+[
+"Fat",
+"Oil only",
+"Alcohol only",
+"Water"
+],
+3,
+"Water-soluble."
+],
+[
+13,
+"Vitamins A, D, E and K are:",
+[
+"Water-soluble",
+"Fat-soluble",
+"Proteins",
+"Minerals"
+],
+1,
+"Fat-soluble."
+],
+[
+13,
+"Enzymes are:",
+[
+"Carbohydrates",
+"Lipids",
+"Minerals",
+"Proteins that act as catalysts"
+],
+3,
+"Enzymes."
+],
+[
+14,
+"The layer of the atmosphere closest to the Earth is the:",
+[
+"Stratosphere",
+"Mesosphere",
+"Troposphere",
+"Thermosphere"
+],
+2,
+"Troposphere."
+],
+[
+14,
+"The ozone layer lies in the:",
+[
+"Troposphere",
+"Stratosphere",
+"Mesosphere",
+"Exosphere"
+],
+1,
+"Ozone layer."
+],
+[
+14,
+"Ozone is:",
+[
+"O₂",
+"O₃",
+"O",
+"CO₂"
+],
+1,
+"Triatomic oxygen."
+],
+[
+14,
+"CFCs destroy:",
+[
+"Ozone",
+"Nitrogen",
+"Oxygen",
+"Water"
+],
+0,
+"Ozone depletion."
+],
+[
+14,
+"The most abundant gas in the atmosphere is:",
+[
+"Nitrogen",
+"Oxygen",
+"Argon",
+"Carbon dioxide"
+],
+0,
+"78%."
+],
+[
+14,
+"Acid rain is caused by:",
+[
+"CO only",
+"SO₂ and NOx",
+"Ozone",
+"Water vapour"
+],
+1,
+"Acid rain."
+],
+[
+14,
+"Carbon monoxide is poisonous because it combines with:",
+[
+"Oxygen in air",
+"Water",
+"Sugar",
+"Haemoglobin"
+],
+3,
+"Prevents oxygen transport."
+],
+[
+14,
+"The greenhouse effect is mainly caused by:",
+[
+"CO₂ and methane",
+"Nitrogen",
+"Oxygen",
+"Argon"
+],
+0,
+"Greenhouse gases."
+],
+[
+14,
+"Temperature in the troposphere ___ with height.",
+[
+"Increases",
+"Remains same",
+"Doubles",
+"Decreases"
+],
+3,
+"Lapse rate."
+],
+[
+14,
+"Smog is formed by smoke and:",
+[
+"Ozone only",
+"Fog",
+"Rain",
+"Dust only"
+],
+1,
+"Smog."
+],
+[
+15,
+"Water is a ___ molecule.",
+[
+"Non-polar",
+"Ionic",
+"Metallic",
+"Polar"
+],
+3,
+"Bent shape."
+],
+[
+15,
+"Hardness of water is caused by salts of:",
+[
+"Sodium and potassium",
+"Iron only",
+"Calcium and magnesium",
+"Chlorine"
+],
+2,
+"Hard water."
+],
+[
+15,
+"Temporary hardness is due to:",
+[
+"Bicarbonates of Ca and Mg",
+"Sulphates",
+"Chlorides only",
+"Nitrates"
+],
+0,
+"Temporary."
+],
+[
+15,
+"Permanent hardness is due to:",
+[
+"Bicarbonates",
+"Sodium salts",
+"Sulphates and chlorides of Ca and Mg",
+"Oxygen"
+],
+2,
+"Permanent."
+],
+[
+15,
+"Temporary hardness is removed by:",
+[
+"Filtration",
+"Freezing",
+"Boiling",
+"Shaking"
+],
+2,
+"Boiling."
+],
+[
+15,
+"Washing soda (Na₂CO₃) removes:",
+[
+"Permanent hardness",
+"Only colour",
+"Bacteria",
+"Nothing"
+],
+0,
+"Washing soda."
+],
+[
+15,
+"Water-borne disease among these is:",
+[
+"Diabetes",
+"Anaemia",
+"Rickets",
+"Cholera"
+],
+3,
+"Cholera."
+],
+[
+15,
+"Industrial waste in water causes:",
+[
+"Noise pollution",
+"Water pollution",
+"Light pollution",
+"Air pollution only"
+],
+1,
+"Pollution."
+],
+[
+15,
+"The universal solvent is:",
+[
+"Water",
+"Alcohol",
+"Benzene",
+"Acetone"
+],
+0,
+"Water."
+],
+[
+15,
+"Water has high boiling point due to:",
+[
+"Hydrogen bonding",
+"Ionic bonds",
+"Metallic bonds",
+"Low mass"
+],
+0,
+"H-bonds."
+],
+[
+16,
+"Urea is used as a:",
+[
+"Fuel",
+"Explosive",
+"Fertiliser",
+"Medicine only"
+],
+2,
+"Nitrogen fertiliser."
+],
+[
+16,
+"Urea is made from ammonia and:",
+[
+"Carbon dioxide",
+"Oxygen",
+"Water only",
+"Nitrogen"
+],
+0,
+"Urea manufacture."
+],
+[
+16,
+"The Solvay process is used to make:",
+[
+"Ammonia",
+"Urea",
+"Sulphuric acid",
+"Sodium carbonate (soda ash)"
+],
+3,
+"Solvay."
+],
+[
+16,
+"Petroleum is separated into fractions by:",
+[
+"Filtration",
+"Fractional distillation",
+"Evaporation",
+"Crystallisation"
+],
+1,
+"Refining."
+],
+[
+16,
+"Kerosene, petrol and diesel are obtained from:",
+[
+"Coal only",
+"Natural gas only",
+"Wood",
+"Petroleum"
+],
+3,
+"Petroleum fractions."
+],
+[
+16,
+"LPG mainly contains:",
+[
+"Methane only",
+"Ethane only",
+"Hydrogen",
+"Propane and butane"
+],
+3,
+"LPG."
+],
+[
+16,
+"Raw materials of the Solvay process include:",
+[
+"Iron ore",
+"Sodium chloride, limestone and ammonia",
+"Sulphur",
+"Bauxite"
+],
+1,
+"Solvay."
+],
+[
+16,
+"Fractional distillation separates components by their:",
+[
+"Colours",
+"Boiling points",
+"Densities only",
+"Shapes"
+],
+1,
+"Different boiling points."
+],
+[
+16,
+"Pakistan's large urea plants are mainly based on:",
+[
+"Natural gas",
+"Coal",
+"Petrol",
+"Wood"
+],
+0,
+"Feedstock."
+],
+[
+16,
+"Bitumen (asphalt) is used for:",
+[
+"Road making",
+"Cooking",
+"Medicine",
+"Fuel for cars"
+],
+0,
+"Residue."
+]
+]

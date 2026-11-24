@@ -1,0 +1,1082 @@
+[
+[
+1,
+"The study of living things is called:",
+[
+"Geology",
+"Astronomy",
+"Biology",
+"Chemistry"
+],
+2,
+"Bio = life."
+],
+[
+1,
+"The study of plants is:",
+[
+"Zoology",
+"Botany",
+"Ecology",
+"Anatomy"
+],
+1,
+"Botany."
+],
+[
+1,
+"The study of animals is:",
+[
+"Botany",
+"Mycology",
+"Zoology",
+"Geology"
+],
+2,
+"Zoology."
+],
+[
+1,
+"The study of fungi is:",
+[
+"Virology",
+"Botany",
+"Zoology",
+"Mycology"
+],
+3,
+"Mycology."
+],
+[
+1,
+"The study of the internal structure of organisms is:",
+[
+"Anatomy",
+"Physiology",
+"Ecology",
+"Genetics"
+],
+0,
+"Anatomy."
+],
+[
+1,
+"The study of functions of body parts is:",
+[
+"Physiology",
+"Anatomy",
+"Morphology",
+"Taxonomy"
+],
+0,
+"Physiology."
+],
+[
+1,
+"The study of inheritance is:",
+[
+"Genetics",
+"Ecology",
+"Histology",
+"Paleontology"
+],
+0,
+"Genetics."
+],
+[
+1,
+"The study of fossils is:",
+[
+"Histology",
+"Embryology",
+"Palaeontology",
+"Ecology"
+],
+2,
+"Fossils."
+],
+[
+1,
+"The basic unit of life is the:",
+[
+"Atom",
+"Cell",
+"Organ",
+"Tissue"
+],
+1,
+"Cell."
+],
+[
+1,
+"Bioelements present in largest amount in living things are carbon, hydrogen, oxygen and:",
+[
+"Iron",
+"Calcium",
+"Sodium",
+"Nitrogen"
+],
+3,
+"C, H, O, N."
+],
+[
+2,
+"The first step in solving a biological problem is:",
+[
+"Conclusion",
+"Recognising the problem / observation",
+"Theory",
+"Law"
+],
+1,
+"Scientific method."
+],
+[
+2,
+"A testable statement or tentative answer is a:",
+[
+"Theory",
+"Law",
+"Fact",
+"Hypothesis"
+],
+3,
+"Hypothesis."
+],
+[
+2,
+"A hypothesis supported by many experiments becomes a:",
+[
+"Theory",
+"Fact only",
+"Law immediately",
+"Guess"
+],
+0,
+"Theory."
+],
+[
+2,
+"The group that does not receive the treatment in an experiment is the:",
+[
+"Experimental group",
+"Variable",
+"Control group",
+"Sample"
+],
+2,
+"Control."
+],
+[
+2,
+"Malaria is caused by:",
+[
+"A virus",
+"A bacterium",
+"A fungus",
+"Plasmodium"
+],
+3,
+"Plasmodium."
+],
+[
+2,
+"Malaria is transmitted by the female:",
+[
+"Culex mosquito",
+"Anopheles mosquito",
+"Aedes mosquito",
+"Housefly"
+],
+1,
+"Vector."
+],
+[
+2,
+"Deductive reasoning goes from:",
+[
+"Specific to general",
+"Fact to fiction",
+"Nothing",
+"General to specific"
+],
+3,
+"Deduction."
+],
+[
+2,
+"Inductive reasoning goes from:",
+[
+"General to specific",
+"Specific to general",
+"Theory to fact",
+"Law to hypothesis"
+],
+1,
+"Induction."
+],
+[
+2,
+"Data in the form of numbers is called:",
+[
+"Qualitative data",
+"Quantitative data",
+"Hypothesis",
+"Observation only"
+],
+1,
+"Quantitative."
+],
+[
+2,
+"Ronald Ross discovered that malaria is transmitted by:",
+[
+"Mosquitoes",
+"Houseflies",
+"Water",
+"Air"
+],
+0,
+"1897."
+],
+[
+3,
+"The variety of life on Earth is called:",
+[
+"Taxonomy",
+"Ecology",
+"Evolution",
+"Biodiversity"
+],
+3,
+"Biodiversity."
+],
+[
+3,
+"The science of classification is called:",
+[
+"Ecology",
+"Physiology",
+"Anatomy",
+"Taxonomy"
+],
+3,
+"Taxonomy."
+],
+[
+3,
+"Binomial nomenclature was introduced by:",
+[
+"Darwin",
+"Carolus Linnaeus",
+"Mendel",
+"Aristotle"
+],
+1,
+"Two-name system."
+],
+[
+3,
+"In binomial nomenclature, the first name is the:",
+[
+"Genus",
+"Species",
+"Family",
+"Order"
+],
+0,
+"Genus."
+],
+[
+3,
+"The scientific name of humans is:",
+[
+"Felis catus",
+"Rosa indica",
+"Homo sapiens",
+"Pisum sativum"
+],
+2,
+"Humans."
+],
+[
+3,
+"The five-kingdom system was proposed by:",
+[
+"Linnaeus",
+"Haeckel",
+"Robert Whittaker",
+"Copeland"
+],
+2,
+"1969."
+],
+[
+3,
+"Bacteria belong to kingdom:",
+[
+"Protista",
+"Fungi",
+"Plantae",
+"Monera (Prokaryotae)"
+],
+3,
+"Prokaryotes."
+],
+[
+3,
+"Mushrooms belong to kingdom:",
+[
+"Plantae",
+"Protista",
+"Monera",
+"Fungi"
+],
+3,
+"Fungi."
+],
+[
+3,
+"The basic unit of classification is:",
+[
+"Genus",
+"Family",
+"Kingdom",
+"Species"
+],
+3,
+"Species."
+],
+[
+3,
+"Viruses are not included in the five kingdoms because they are:",
+[
+"Non-cellular",
+"Too large",
+"Plants",
+"Animals"
+],
+0,
+"Acellular."
+],
+[
+4,
+"The cell theory was proposed by:",
+[
+"Darwin and Wallace",
+"Watson and Crick",
+"Mendel",
+"Schleiden and Schwann"
+],
+3,
+"Cell theory."
+],
+[
+4,
+"Cells without a true nucleus are called:",
+[
+"Prokaryotic",
+"Eukaryotic",
+"Plant cells",
+"Animal cells"
+],
+0,
+"Prokaryotes."
+],
+[
+4,
+"Ribosomes are the site of:",
+[
+"Photosynthesis",
+"Respiration",
+"Protein synthesis",
+"Digestion"
+],
+2,
+"Ribosomes."
+],
+[
+4,
+"The cell membrane is:",
+[
+"Fully permeable",
+"Selectively permeable",
+"Impermeable",
+"Rigid"
+],
+1,
+"Controls entry."
+],
+[
+4,
+"Lysosomes are known as:",
+[
+"Powerhouses",
+"Suicide bags",
+"Kitchens",
+"Control centres"
+],
+1,
+"Digestive enzymes."
+],
+[
+4,
+"The Golgi apparatus functions in:",
+[
+"Respiration",
+"Photosynthesis",
+"Storage of water",
+"Packaging and secretion"
+],
+3,
+"Golgi."
+],
+[
+4,
+"Movement of water through a semi-permeable membrane is:",
+[
+"Diffusion only",
+"Active transport",
+"Endocytosis",
+"Osmosis"
+],
+3,
+"Osmosis."
+],
+[
+4,
+"Movement of molecules from high to low concentration is:",
+[
+"Osmosis only",
+"Active transport",
+"Diffusion",
+"Phagocytosis"
+],
+2,
+"Diffusion."
+],
+[
+4,
+"Active transport requires:",
+[
+"No energy",
+"Only water",
+"Energy (ATP)",
+"Light"
+],
+2,
+"Against gradient."
+],
+[
+4,
+"The electron microscope has higher ___ than the light microscope.",
+[
+"Size",
+"Resolution",
+"Colour",
+"Cost only"
+],
+1,
+"Resolution."
+],
+[
+5,
+"Cell division that produces identical daughter cells is:",
+[
+"Meiosis",
+"Fertilisation",
+"Budding",
+"Mitosis"
+],
+3,
+"Mitosis."
+],
+[
+5,
+"Meiosis produces:",
+[
+"Identical body cells",
+"Four diploid cells",
+"Two diploid cells",
+"Gametes with half chromosomes"
+],
+3,
+"Meiosis."
+],
+[
+5,
+"The stage in which chromosomes line up at the equator is:",
+[
+"Metaphase",
+"Prophase",
+"Anaphase",
+"Telophase"
+],
+0,
+"Metaphase."
+],
+[
+5,
+"In anaphase, chromatids move to:",
+[
+"The equator",
+"Opposite poles",
+"The nucleus",
+"Outside the cell"
+],
+1,
+"Anaphase."
+],
+[
+5,
+"The phase between two cell divisions is:",
+[
+"Prophase",
+"Metaphase",
+"Interphase",
+"Telophase"
+],
+2,
+"Interphase."
+],
+[
+5,
+"Division of cytoplasm is called:",
+[
+"Karyokinesis",
+"Cytokinesis",
+"Mitosis",
+"Meiosis"
+],
+1,
+"Cytokinesis."
+],
+[
+5,
+"Crossing over occurs during:",
+[
+"Mitosis",
+"Meiosis II",
+"Interphase",
+"Meiosis I"
+],
+3,
+"Prophase I."
+],
+[
+5,
+"Programmed cell death is called:",
+[
+"Apoptosis",
+"Necrosis",
+"Mitosis",
+"Meiosis"
+],
+0,
+"Apoptosis."
+],
+[
+5,
+"DNA replication occurs in the ___ phase of interphase.",
+[
+"G1",
+"G2",
+"S",
+"M"
+],
+2,
+"Synthesis."
+],
+[
+5,
+"Uncontrolled mitosis may lead to:",
+[
+"Growth only",
+"Healing",
+"Cancer (tumour)",
+"Reproduction"
+],
+2,
+"Cancer."
+],
+[
+6,
+"Enzymes are made of:",
+[
+"Carbohydrates",
+"Lipids",
+"Minerals",
+"Proteins"
+],
+3,
+"Enzymes."
+],
+[
+6,
+"Enzymes ___ the activation energy of a reaction.",
+[
+"Raise",
+"Do not change",
+"Lower",
+"Double"
+],
+2,
+"Catalysts."
+],
+[
+6,
+"The lock and key model of enzyme action was proposed by:",
+[
+"Koshland",
+"Mendel",
+"Emil Fischer",
+"Pasteur"
+],
+2,
+"1894."
+],
+[
+6,
+"The induced fit model was proposed by:",
+[
+"Fischer",
+"Koshland",
+"Darwin",
+"Watson"
+],
+1,
+"1958."
+],
+[
+6,
+"The part of an enzyme where substrate binds is the:",
+[
+"Active site",
+"Cofactor",
+"Product",
+"Inhibitor"
+],
+0,
+"Active site."
+],
+[
+6,
+"High temperature can ___ enzymes.",
+[
+"Activate permanently",
+"Create",
+"Multiply",
+"Denature"
+],
+3,
+"Denaturation."
+],
+[
+6,
+"Pepsin works best in:",
+[
+"Acidic medium",
+"Basic medium",
+"Neutral medium",
+"Any medium"
+],
+0,
+"Stomach pH ~2."
+],
+[
+6,
+"Non-protein part needed for enzyme activity is a:",
+[
+"Cofactor",
+"Substrate",
+"Product",
+"Active site"
+],
+0,
+"Cofactor."
+],
+[
+6,
+"Amylase breaks down:",
+[
+"Protein",
+"Fat",
+"DNA",
+"Starch"
+],
+3,
+"Amylase."
+],
+[
+6,
+"Lipase breaks down:",
+[
+"Starch",
+"Fats",
+"Proteins",
+"Nucleic acids"
+],
+1,
+"Lipase."
+],
+[
+7,
+"The energy currency of the cell is:",
+[
+"ADP",
+"DNA",
+"RNA",
+"ATP"
+],
+3,
+"ATP."
+],
+[
+7,
+"Photosynthesis takes place in the:",
+[
+"Mitochondrion",
+"Nucleus",
+"Chloroplast",
+"Ribosome"
+],
+2,
+"Chloroplast."
+],
+[
+7,
+"The light reactions of photosynthesis occur in the:",
+[
+"Thylakoids (grana)",
+"Stroma",
+"Cytoplasm",
+"Mitochondria"
+],
+0,
+"Grana."
+],
+[
+7,
+"The dark reactions (Calvin cycle) occur in the:",
+[
+"Thylakoids",
+"Nucleus",
+"Stroma",
+"Cell wall"
+],
+2,
+"Stroma."
+],
+[
+7,
+"Aerobic respiration takes place mainly in the:",
+[
+"Chloroplasts",
+"Ribosomes",
+"Mitochondria",
+"Golgi"
+],
+2,
+"Mitochondria."
+],
+[
+7,
+"Anaerobic respiration in muscles produces:",
+[
+"Alcohol",
+"Lactic acid",
+"Oxygen",
+"Glucose"
+],
+1,
+"Lactic acid."
+],
+[
+7,
+"Anaerobic respiration in yeast produces alcohol and:",
+[
+"Oxygen",
+"Lactic acid",
+"Carbon dioxide",
+"Water only"
+],
+2,
+"Fermentation."
+],
+[
+7,
+"Glycolysis occurs in the:",
+[
+"Mitochondria",
+"Nucleus",
+"Cytoplasm",
+"Chloroplast"
+],
+2,
+"Glycolysis."
+],
+[
+7,
+"Aerobic respiration of one glucose molecule yields about ___ ATP.",
+[
+"2",
+"36–38",
+"10",
+"100"
+],
+1,
+"High yield."
+],
+[
+7,
+"Water is split during photosynthesis in a process called:",
+[
+"Photolysis",
+"Glycolysis",
+"Hydrolysis only",
+"Respiration"
+],
+0,
+"Photolysis."
+],
+[
+8,
+"Mineral needed for chlorophyll formation is:",
+[
+"Iron",
+"Magnesium",
+"Calcium",
+"Iodine"
+],
+1,
+"Mg in chlorophyll."
+],
+[
+8,
+"Nitrogen deficiency in plants causes:",
+[
+"Yellowing of leaves (chlorosis)",
+"Red leaves",
+"Taller plants",
+"More flowers"
+],
+0,
+"Chlorosis."
+],
+[
+8,
+"Digestion of proteins begins in the:",
+[
+"Mouth",
+"Small intestine",
+"Large intestine",
+"Stomach"
+],
+3,
+"Pepsin."
+],
+[
+8,
+"Bile is produced by the:",
+[
+"Pancreas",
+"Stomach",
+"Liver",
+"Gall bladder"
+],
+2,
+"Liver (stored in gall bladder)."
+],
+[
+8,
+"Bile helps in the emulsification of:",
+[
+"Proteins",
+"Fats",
+"Starch",
+"Vitamins"
+],
+1,
+"Emulsification."
+],
+[
+8,
+"Villi in the small intestine increase the surface area for:",
+[
+"Chewing",
+"Swallowing",
+"Absorption",
+"Excretion"
+],
+2,
+"Villi."
+],
+[
+8,
+"Water is mainly absorbed in the:",
+[
+"Stomach",
+"Mouth",
+"Large intestine",
+"Oesophagus"
+],
+2,
+"Colon."
+],
+[
+8,
+"Kwashiorkor is caused by deficiency of:",
+[
+"Vitamin C",
+"Protein",
+"Iron",
+"Iodine"
+],
+1,
+"Protein-energy malnutrition."
+],
+[
+8,
+"Marasmus is caused by deficiency of:",
+[
+"Vitamin A",
+"Protein and energy (calories)",
+"Iodine",
+"Calcium only"
+],
+1,
+"Malnutrition."
+],
+[
+8,
+"Wave-like movement of food in the gut is:",
+[
+"Osmosis",
+"Diffusion",
+"Excretion",
+"Peristalsis"
+],
+3,
+"Peristalsis."
+],
+[
+9,
+"In plants, water moves up through the:",
+[
+"Phloem",
+"Xylem",
+"Cortex",
+"Epidermis"
+],
+1,
+"Xylem."
+],
+[
+9,
+"Transport of food in plants is called:",
+[
+"Transpiration",
+"Translocation",
+"Respiration",
+"Absorption"
+],
+1,
+"Translocation."
+],
+[
+9,
+"Loss of water from aerial parts of plants is:",
+[
+"Guttation only",
+"Translocation",
+"Respiration",
+"Transpiration"
+],
+3,
+"Transpiration."
+],
+[
+9,
+"The liquid part of blood is:",
+[
+"Serum",
+"Platelets",
+"Plasma",
+"Lymph"
+],
+2,
+"Plasma."
+],
+[
+9,
+"Red blood cells contain the pigment:",
+[
+"Chlorophyll",
+"Haemoglobin",
+"Melanin",
+"Myoglobin"
+],
+1,
+"Haemoglobin."
+],
+[
+9,
+"The universal blood donor group is:",
+[
+"AB positive",
+"A positive",
+"O negative",
+"B negative"
+],
+2,
+"O⁻."
+],
+[
+9,
+"The universal blood recipient group is:",
+[
+"O negative",
+"AB positive",
+"A negative",
+"B positive"
+],
+1,
+"AB⁺."
+],
+[
+9,
+"The largest artery in the body is the:",
+[
+"Aorta",
+"Pulmonary artery",
+"Carotid artery",
+"Vena cava"
+],
+0,
+"Aorta."
+],
+[
+9,
+"The pulmonary artery carries:",
+[
+"Deoxygenated blood to the lungs",
+"Oxygenated blood to the body",
+"Blood to the brain",
+"Lymph"
+],
+0,
+"Exception."
+],
+[
+9,
+"A heart attack (myocardial infarction) is due to blockage of:",
+[
+"Veins of legs",
+"Lymph vessels",
+"Capillaries of skin",
+"Coronary arteries"
+],
+3,
+"Coronary."
+]
+]

@@ -1,0 +1,950 @@
+[
+[
+1,
+"The place value of 5 in 6,53,421 is:",
+[
+"5,000",
+"500,000",
+"50,000",
+"5"
+],
+2,
+"5 is in the ten-thousands place."
+],
+[
+1,
+"The successor of 99,999 is:",
+[
+"99,998",
+"1,00,001",
+"1,00,000",
+"9,99,999"
+],
+2,
+"99,999 + 1."
+],
+[
+1,
+"In BODMAS, which operation is done first?",
+[
+"Brackets",
+"Addition",
+"Subtraction",
+"Multiplication"
+],
+0,
+"B comes first."
+],
+[
+1,
+"8 + 2 × 5 =",
+[
+"50",
+"20",
+"15",
+"18"
+],
+3,
+"Multiply first: 8 + 10."
+],
+[
+1,
+"(8 + 2) × 5 =",
+[
+"18",
+"20",
+"15",
+"50"
+],
+3,
+"Brackets first."
+],
+[
+1,
+"A number that is divisible by 2 is:",
+[
+"Even",
+"Odd",
+"Prime",
+"Zero"
+],
+0,
+"Even numbers."
+],
+[
+1,
+"The predecessor of 10,000 is:",
+[
+"10,001",
+"9,999",
+"9,000",
+"1,000"
+],
+1,
+"10,000 − 1."
+],
+[
+1,
+"Round 7,486 to the nearest hundred:",
+[
+"7,400",
+"7,500",
+"7,490",
+"8,000"
+],
+1,
+"86 ≥ 50 → round up."
+],
+[
+1,
+"25 × 12 =",
+[
+"250",
+"300",
+"275",
+"312"
+],
+1,
+"25 × 12 = 300."
+],
+[
+1,
+"1,000 ÷ 25 =",
+[
+"40",
+"25",
+"400",
+"4"
+],
+0,
+"25 × 40 = 1,000."
+],
+[
+2,
+"H.C.F. of 12 and 18 is:",
+[
+"6",
+"3",
+"36",
+"2"
+],
+0,
+"Highest common factor."
+],
+[
+2,
+"L.C.M. of 4 and 6 is:",
+[
+"24",
+"2",
+"10",
+"12"
+],
+3,
+"Least common multiple."
+],
+[
+2,
+"H.C.F. of two prime numbers is always:",
+[
+"0",
+"The larger number",
+"1",
+"Their product"
+],
+2,
+"No common factor except 1."
+],
+[
+2,
+"L.C.M. of 3 and 5 is:",
+[
+"8",
+"15",
+"1",
+"5"
+],
+1,
+"Co-prime: product."
+],
+[
+2,
+"For any two numbers, H.C.F. × L.C.M. equals:",
+[
+"Their sum",
+"The product of the numbers",
+"Their difference",
+"1"
+],
+1,
+"Property."
+],
+[
+2,
+"H.C.F. of 20 and 30 is:",
+[
+"5",
+"60",
+"10",
+"20"
+],
+2,
+"Highest common factor."
+],
+[
+2,
+"L.C.M. of 6 and 8 is:",
+[
+"48",
+"14",
+"24",
+"2"
+],
+2,
+"Least common multiple."
+],
+[
+2,
+"Prime factorisation of 12 is:",
+[
+"2 × 2 × 3",
+"2 × 6",
+"3 × 4",
+"1 × 12"
+],
+0,
+"Product of primes."
+],
+[
+2,
+"The number of bells ringing together again after 6 and 8 minutes is found using:",
+[
+"H.C.F.",
+"Addition",
+"L.C.M.",
+"Subtraction"
+],
+2,
+"LCM problem."
+],
+[
+2,
+"The largest number that divides 16 and 24 exactly is:",
+[
+"4",
+"2",
+"8",
+"48"
+],
+2,
+"HCF."
+],
+[
+3,
+"1/2 + 1/3 =",
+[
+"2/5",
+"5/6",
+"1/6",
+"2/6"
+],
+1,
+"LCM 6: 3/6 + 2/6."
+],
+[
+3,
+"3/4 × 2 =",
+[
+"6/8",
+"3/8",
+"3/2",
+"5/4"
+],
+2,
+"3 × 2 / 4."
+],
+[
+3,
+"1/2 × 1/3 =",
+[
+"2/5",
+"1/6",
+"1/5",
+"2/6"
+],
+1,
+"Multiply numerators and denominators."
+],
+[
+3,
+"The reciprocal of 3/5 is:",
+[
+"3/5",
+"1/5",
+"5/3",
+"−3/5"
+],
+2,
+"Flip the fraction."
+],
+[
+3,
+"2/3 ÷ 1/3 =",
+[
+"2",
+"2/9",
+"1/3",
+"6"
+],
+0,
+"2/3 × 3."
+],
+[
+3,
+"3/5 of 25 is:",
+[
+"15",
+"5",
+"10",
+"20"
+],
+0,
+"25 ÷ 5 × 3."
+],
+[
+3,
+"1 − 2/5 =",
+[
+"1/5",
+"2/5",
+"3/5",
+"4/5"
+],
+2,
+"5/5 − 2/5."
+],
+[
+3,
+"Which fraction is the largest: 1/2, 2/3, 3/4?",
+[
+"1/2",
+"2/3",
+"All equal",
+"3/4"
+],
+3,
+"0.75 is largest."
+],
+[
+3,
+"5/6 − 1/3 =",
+[
+"4/3",
+"1/2",
+"2/3",
+"1/6"
+],
+1,
+"5/6 − 2/6 = 3/6."
+],
+[
+3,
+"Mixed number 3⅓ as improper fraction is:",
+[
+"9/3",
+"4/3",
+"10/3",
+"3/10"
+],
+2,
+"3×3 + 1 = 10."
+],
+[
+4,
+"50% as a fraction is:",
+[
+"1/5",
+"5/2",
+"1/2",
+"1/50"
+],
+2,
+"50/100 = 1/2."
+],
+[
+4,
+"25% of 200 is:",
+[
+"25",
+"100",
+"50",
+"75"
+],
+2,
+"200 × 25/100."
+],
+[
+4,
+"0.75 as a percentage is:",
+[
+"75%",
+"7.5%",
+"0.75%",
+"750%"
+],
+0,
+"Multiply by 100."
+],
+[
+4,
+"3/4 as a percentage is:",
+[
+"34%",
+"25%",
+"75%",
+"43%"
+],
+2,
+"3/4 × 100."
+],
+[
+4,
+"Percent means:",
+[
+"Per hundred",
+"Per ten",
+"Per thousand",
+"Per one"
+],
+0,
+"Cent = hundred."
+],
+[
+4,
+"10% of 500 is:",
+[
+"10",
+"5",
+"500",
+"50"
+],
+3,
+"500 × 10/100."
+],
+[
+4,
+"0.4 as a fraction in simplest form is:",
+[
+"4/100",
+"1/4",
+"2/5",
+"4/5"
+],
+2,
+"4/10 = 2/5."
+],
+[
+4,
+"2.5 × 10 =",
+[
+"2.50",
+"250",
+"0.25",
+"25"
+],
+3,
+"Move decimal one place right."
+],
+[
+4,
+"7.2 ÷ 10 =",
+[
+"72",
+"0.72",
+"7.02",
+"0.072"
+],
+1,
+"Move decimal one place left."
+],
+[
+4,
+"100% of a number is:",
+[
+"Zero",
+"The number itself",
+"Half the number",
+"Double the number"
+],
+1,
+"Whole."
+],
+[
+5,
+"Speed =",
+[
+"Distance × Time",
+"Time ÷ Distance",
+"Distance + Time",
+"Distance ÷ Time"
+],
+3,
+"Formula."
+],
+[
+5,
+"A car travels 120 km in 2 hours. Its speed is:",
+[
+"240 km/h",
+"120 km/h",
+"60 km/h",
+"30 km/h"
+],
+2,
+"120 ÷ 2."
+],
+[
+5,
+"Distance =",
+[
+"Speed ÷ Time",
+"Time ÷ Speed",
+"Speed × Time",
+"Speed + Time"
+],
+2,
+"Formula."
+],
+[
+5,
+"A cyclist rides at 15 km/h for 3 hours. Distance covered is:",
+[
+"45 km",
+"5 km",
+"18 km",
+"12 km"
+],
+0,
+"15 × 3."
+],
+[
+5,
+"Time =",
+[
+"Speed × Distance",
+"Speed ÷ Distance",
+"Distance − Speed",
+"Distance ÷ Speed"
+],
+3,
+"Formula."
+],
+[
+5,
+"How long will it take to cover 100 km at 50 km/h?",
+[
+"5 hours",
+"50 hours",
+"1 hour",
+"2 hours"
+],
+3,
+"100 ÷ 50."
+],
+[
+5,
+"1 hour 30 minutes equals:",
+[
+"130 minutes",
+"90 minutes",
+"60 minutes",
+"80 minutes"
+],
+1,
+"60 + 30."
+],
+[
+5,
+"The 24-hour time for 3:00 p.m. is:",
+[
+"15:00",
+"03:00",
+"13:00",
+"21:00"
+],
+0,
+"12 + 3."
+],
+[
+5,
+"The unit of speed is:",
+[
+"km/h",
+"km",
+"hour",
+"kg"
+],
+0,
+"Distance per time."
+],
+[
+6,
+"If 5 pens cost Rs. 50, then 1 pen costs:",
+[
+"Rs. 5",
+"Rs. 250",
+"Rs. 10",
+"Rs. 45"
+],
+2,
+"50 ÷ 5."
+],
+[
+6,
+"If 1 book costs Rs. 40, then 6 books cost:",
+[
+"Rs. 46",
+"Rs. 240",
+"Rs. 200",
+"Rs. 260"
+],
+1,
+"40 × 6."
+],
+[
+6,
+"Finding the value of one unit first is called the:",
+[
+"Ratio method",
+"Percentage",
+"Unitary method",
+"Average"
+],
+2,
+"Unitary method."
+],
+[
+6,
+"If 4 kg of rice costs Rs. 400, 7 kg will cost:",
+[
+"Rs. 700",
+"Rs. 400",
+"Rs. 1,100",
+"Rs. 600"
+],
+0,
+"100 per kg."
+],
+[
+6,
+"If 3 workers finish a job in 6 days, 1 worker will finish it in:",
+[
+"18 days",
+"2 days",
+"6 days",
+"9 days"
+],
+0,
+"More workers, fewer days (inverse)."
+],
+[
+6,
+"If 10 eggs cost Rs. 150, then 2 eggs cost:",
+[
+"Rs. 15",
+"Rs. 30",
+"Rs. 75",
+"Rs. 20"
+],
+1,
+"15 each."
+],
+[
+6,
+"A car uses 5 L of petrol for 60 km. For 1 L it goes:",
+[
+"300 km",
+"65 km",
+"12 km",
+"55 km"
+],
+2,
+"60 ÷ 5."
+],
+[
+7,
+"The sum of the angles of a triangle is:",
+[
+"180°",
+"90°",
+"360°",
+"270°"
+],
+0,
+"Angle sum."
+],
+[
+7,
+"The sum of the angles of a quadrilateral is:",
+[
+"180°",
+"90°",
+"360°",
+"270°"
+],
+2,
+"Two triangles."
+],
+[
+7,
+"A triangle with one angle of 90° is called:",
+[
+"Acute triangle",
+"Obtuse triangle",
+"Right-angled triangle",
+"Equilateral triangle"
+],
+2,
+"Right angle."
+],
+[
+7,
+"A triangle with all angles less than 90° is called:",
+[
+"Acute-angled",
+"Right-angled",
+"Obtuse-angled",
+"Straight"
+],
+0,
+"Acute."
+],
+[
+7,
+"A quadrilateral with only one pair of parallel sides is a:",
+[
+"Parallelogram",
+"Rectangle",
+"Trapezium",
+"Square"
+],
+2,
+"Trapezium."
+],
+[
+7,
+"If two angles of a triangle are 50° and 60°, the third angle is:",
+[
+"110°",
+"70°",
+"90°",
+"60°"
+],
+1,
+"180 − 110."
+],
+[
+7,
+"A circle's longest chord is the:",
+[
+"Radius",
+"Diameter",
+"Arc",
+"Tangent"
+],
+1,
+"Diameter."
+],
+[
+7,
+"An angle of 270° is called:",
+[
+"Reflex angle",
+"Obtuse angle",
+"Straight angle",
+"Right angle"
+],
+0,
+"Between 180° and 360°."
+],
+[
+8,
+"Area of a rectangle =",
+[
+"2(L + B)",
+"L + B",
+"Length × Breadth",
+"L ÷ B"
+],
+2,
+"Area formula."
+],
+[
+8,
+"Area of a square with side 6 cm is:",
+[
+"36 cm²",
+"24 cm²",
+"12 cm²",
+"30 cm²"
+],
+0,
+"6 × 6."
+],
+[
+8,
+"Perimeter of a square with side 6 cm is:",
+[
+"24 cm",
+"36 cm",
+"12 cm",
+"18 cm"
+],
+0,
+"4 × 6."
+],
+[
+8,
+"The unit of area is:",
+[
+"cm",
+"kg",
+"Square units (cm², m²)",
+"L"
+],
+2,
+"Area unit."
+],
+[
+8,
+"A rectangle is 10 m long and 4 m wide. Its area is:",
+[
+"28 m²",
+"14 m²",
+"40 m²",
+"20 m²"
+],
+2,
+"10 × 4."
+],
+[
+8,
+"A rectangle is 10 m long and 4 m wide. Its perimeter is:",
+[
+"40 m",
+"14 m",
+"28 m",
+"24 m"
+],
+2,
+"2(10 + 4)."
+],
+[
+8,
+"The boundary length of a closed shape is called its:",
+[
+"Area",
+"Volume",
+"Perimeter",
+"Height"
+],
+2,
+"Perimeter."
+],
+[
+8,
+"If the area of a square is 49 cm², its side is:",
+[
+"49 cm",
+"12.25 cm",
+"14 cm",
+"7 cm"
+],
+3,
+"√49."
+],
+[
+9,
+"The average of 4, 6 and 8 is:",
+[
+"18",
+"6",
+"8",
+"4"
+],
+1,
+"18 ÷ 3."
+],
+[
+9,
+"Average =",
+[
+"Sum of values ÷ Number of values",
+"Sum × Number",
+"Largest − Smallest",
+"Middle value"
+],
+0,
+"Mean."
+],
+[
+9,
+"A pie chart shows data as parts of a:",
+[
+"Bar",
+"Line",
+"Circle",
+"Square"
+],
+2,
+"Pie chart."
+],
+[
+9,
+"The average of 10, 20, 30, 40 is:",
+[
+"100",
+"25",
+"30",
+"20"
+],
+1,
+"100 ÷ 4."
+],
+[
+9,
+"A line graph is best to show:",
+[
+"Temperature over a week",
+"Favourite fruit",
+"Shapes",
+"Colours"
+],
+0,
+"Change over time."
+],
+[
+9,
+"In a pie chart, the whole circle represents:",
+[
+"100% (total)",
+"50%",
+"One item",
+"Zero"
+],
+0,
+"Whole."
+],
+[
+9,
+"The marks of three students are 50, 60, 70. Their average is:",
+[
+"60",
+"180",
+"50",
+"70"
+],
+0,
+"180 ÷ 3."
+]
+]

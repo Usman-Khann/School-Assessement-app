@@ -1,0 +1,1970 @@
+[
+[
+1,
+"The standard form of a quadratic equation is:",
+[
+"ax² + bx + c = 0, a ≠ 0",
+"ax + b = 0",
+"ax³ + bx + c = 0",
+"a/x + b = 0"
+],
+0,
+"Degree 2."
+],
+[
+1,
+"The solutions of x² − 9 = 0 are:",
+[
+"3 only",
+"±3",
+"9",
+"±9"
+],
+1,
+"x² = 9."
+],
+[
+1,
+"The roots of x² − 5x + 6 = 0 are:",
+[
+"−2 and −3",
+"2 and 3",
+"1 and 6",
+"5 and 6"
+],
+1,
+"(x − 2)(x − 3) = 0."
+],
+[
+1,
+"The quadratic formula is x =",
+[
+"[b ± √(b² − 4ac)] / 2a",
+"[−b ± √(b² + 4ac)] / 2a",
+"−b / 2a",
+"[−b ± √(b² − 4ac)] / 2a"
+],
+3,
+"Standard formula."
+],
+[
+1,
+"The roots of x² = 4x are:",
+[
+"4 only",
+"0 and 4",
+"±2",
+"0 only"
+],
+1,
+"x(x − 4) = 0."
+],
+[
+1,
+"An equation in which the variable is in the exponent is called:",
+[
+"Quadratic equation",
+"Exponential equation",
+"Linear equation",
+"Radical equation"
+],
+1,
+"e.g. 2ˣ = 8."
+],
+[
+1,
+"The solution of 2ˣ = 8 is:",
+[
+"x = 4",
+"x = 2",
+"x = 3",
+"x = 8"
+],
+2,
+"2³ = 8."
+],
+[
+1,
+"An equation that contains the variable under a radical sign is called:",
+[
+"Exponential equation",
+"Reciprocal equation",
+"Linear equation",
+"Radical equation"
+],
+3,
+"e.g. √x = 3."
+],
+[
+1,
+"Completing the square: x² + 6x + ___ is a perfect square.",
+[
+"9",
+"6",
+"3",
+"36"
+],
+0,
+"(6/2)² = 9."
+],
+[
+1,
+"An equation which remains unchanged when x is replaced by 1/x is called:",
+[
+"Radical equation",
+"Exponential equation",
+"Linear equation",
+"Reciprocal equation"
+],
+3,
+"Definition."
+],
+[
+1,
+"The solution of √x = 5 is:",
+[
+"x = 25",
+"x = 5",
+"x = √5",
+"x = 10"
+],
+0,
+"Square both sides."
+],
+[
+1,
+"A quadratic equation has at most ___ roots.",
+[
+"One",
+"Three",
+"Four",
+"Two"
+],
+3,
+"Degree 2."
+],
+[
+2,
+"The discriminant of ax² + bx + c = 0 is:",
+[
+"b² + 4ac",
+"−b/2a",
+"4ac − b²",
+"b² − 4ac"
+],
+3,
+"Discriminant."
+],
+[
+2,
+"If b² − 4ac > 0 (not a perfect square), the roots are:",
+[
+"Equal",
+"Imaginary",
+"Rational and equal",
+"Real, unequal and irrational"
+],
+3,
+"Nature of roots."
+],
+[
+2,
+"If b² − 4ac = 0, the roots are:",
+[
+"Imaginary",
+"Unequal",
+"Real and equal",
+"Irrational"
+],
+2,
+"Nature of roots."
+],
+[
+2,
+"If b² − 4ac < 0, the roots are:",
+[
+"Real and equal",
+"Real and unequal",
+"Complex (imaginary)",
+"Rational"
+],
+2,
+"Nature of roots."
+],
+[
+2,
+"The sum of the roots of ax² + bx + c = 0 is:",
+[
+"c/a",
+"b/a",
+"−b/a",
+"−c/a"
+],
+2,
+"Relation of roots."
+],
+[
+2,
+"The product of the roots of ax² + bx + c = 0 is:",
+[
+"−b/a",
+"b/a",
+"a/c",
+"c/a"
+],
+3,
+"Relation of roots."
+],
+[
+2,
+"The sum of the roots of x² − 7x + 10 = 0 is:",
+[
+"7",
+"−7",
+"10",
+"−10"
+],
+0,
+"−b/a = 7."
+],
+[
+2,
+"The product of the roots of x² − 7x + 10 = 0 is:",
+[
+"10",
+"7",
+"−10",
+"−7"
+],
+0,
+"c/a = 10."
+],
+[
+2,
+"The cube roots of unity are 1, ω and:",
+[
+"−ω",
+"2ω",
+"ω²",
+"1/2"
+],
+2,
+"1, ω, ω²."
+],
+[
+2,
+"The sum of the cube roots of unity is:",
+[
+"1",
+"3",
+"−1",
+"0"
+],
+3,
+"1 + ω + ω² = 0."
+],
+[
+2,
+"The product of the cube roots of unity is:",
+[
+"0",
+"−1",
+"3",
+"1"
+],
+3,
+"1 × ω × ω² = ω³ = 1."
+],
+[
+2,
+"ω³ equals:",
+[
+"ω",
+"0",
+"1",
+"−1"
+],
+2,
+"Cube root of unity."
+],
+[
+2,
+"A quadratic equation with roots 2 and 3 is:",
+[
+"x² + 5x + 6 = 0",
+"x² − 6x + 5 = 0",
+"x² − 5x + 6 = 0",
+"x² + 6 = 0"
+],
+2,
+"x² − (sum)x + product."
+],
+[
+3,
+"If y varies directly as x, then:",
+[
+"y = k/x",
+"y = kx",
+"xy = k only",
+"y = x + k"
+],
+1,
+"Direct variation."
+],
+[
+3,
+"If y varies inversely as x, then:",
+[
+"y = kx",
+"y = x + k",
+"y = k/x",
+"y = kx²"
+],
+2,
+"Inverse variation."
+],
+[
+3,
+"In a : b = c : d, a and d are called:",
+[
+"Means",
+"Ratios",
+"Antecedents only",
+"Extremes"
+],
+3,
+"Outer terms."
+],
+[
+3,
+"In a : b = c : d, b and c are called:",
+[
+"Extremes",
+"Consequents only",
+"Ratios",
+"Means"
+],
+3,
+"Inner terms."
+],
+[
+3,
+"The ratio 1 : 2 means the first quantity is ___ of the second.",
+[
+"Double",
+"Half",
+"Equal",
+"One-third"
+],
+1,
+"1/2."
+],
+[
+3,
+"If x varies directly as y and x = 6 when y = 2, then k equals:",
+[
+"12",
+"3",
+"4",
+"1/3"
+],
+1,
+"x = ky → 6 = 2k."
+],
+[
+3,
+"If y ∝ x², and y = 8 when x = 2, then y when x = 3 is:",
+[
+"18",
+"12",
+"9",
+"24"
+],
+0,
+"k = 2, y = 2 × 9."
+],
+[
+3,
+"The mean proportional between 2 and 8 is:",
+[
+"16",
+"4",
+"5",
+"10"
+],
+1,
+"√16 = 4."
+],
+[
+3,
+"Joint variation means a quantity varies:",
+[
+"As the product of two or more quantities",
+"Inversely only",
+"With one quantity only",
+"Not at all"
+],
+0,
+"z = kxy."
+],
+[
+3,
+"k-method is used to prove theorems of:",
+[
+"Fractions",
+"Proportion",
+"Sets",
+"Statistics"
+],
+1,
+"k-method."
+],
+[
+3,
+"If 3 : x = 6 : 8, then x equals:",
+[
+"4",
+"16",
+"2",
+"6"
+],
+0,
+"3 × 8 = 6x."
+],
+[
+3,
+"The continued proportion a : b = b : c means b² equals:",
+[
+"a + c",
+"a/c",
+"2ac",
+"ac"
+],
+3,
+"Mean proportional."
+],
+[
+3,
+"Ratio has ___ unit.",
+[
+"One",
+"Two",
+"No",
+"A fixed"
+],
+2,
+"Ratio is unitless."
+],
+[
+4,
+"A fraction P(x)/Q(x) is proper if:",
+[
+"Degree of P > degree of Q",
+"Degree of P = degree of Q",
+"Degree of P < degree of Q",
+"Q(x) = 0"
+],
+2,
+"Proper rational fraction."
+],
+[
+4,
+"(x² + 1)/(x + 1) is a/an:",
+[
+"Proper fraction",
+"Partial fraction",
+"Identity",
+"Improper fraction"
+],
+3,
+"Numerator degree ≥ denominator degree."
+],
+[
+4,
+"The decomposition of a rational fraction into simpler fractions is called:",
+[
+"Factorisation",
+"Simplification",
+"Expansion",
+"Partial fractions"
+],
+3,
+"Definition."
+],
+[
+4,
+"An equation true for all values of the variable is called an:",
+[
+"Equation",
+"Inequality",
+"Function",
+"Identity"
+],
+3,
+"e.g. (x + 1)² = x² + 2x + 1."
+],
+[
+4,
+"The partial fractions of 1/[(x − 1)(x + 1)] have the form:",
+[
+"A/(x² − 1)",
+"Ax + B",
+"A/x + B/x²",
+"A/(x − 1) + B/(x + 1)"
+],
+3,
+"Linear factors."
+],
+[
+4,
+"For a repeated linear factor (x − a)², the partial fractions include:",
+[
+"A/(x − a) only",
+"A/(x − a) + B/(x − a)²",
+"(Ax + B)/(x − a)²",
+"A(x − a)"
+],
+1,
+"Repeated factor."
+],
+[
+4,
+"For a quadratic factor x² + 1, the partial fraction is of the form:",
+[
+"(Ax + B)/(x² + 1)",
+"A/(x² + 1)",
+"A/x + B",
+"Ax²"
+],
+0,
+"Irreducible quadratic."
+],
+[
+4,
+"The degree of (3x + 2)/(x² + 5) numerator is:",
+[
+"2",
+"0",
+"3",
+"1"
+],
+3,
+"3x + 2 is linear."
+],
+[
+4,
+"In 1/[(x − 1)(x + 1)] = A/(x − 1) + B/(x + 1), A equals:",
+[
+"−1/2",
+"1",
+"1/2",
+"2"
+],
+2,
+"Put x = 1: 1 = 2A."
+],
+[
+4,
+"In 1/[(x − 1)(x + 1)] = A/(x − 1) + B/(x + 1), B equals:",
+[
+"1/2",
+"1",
+"−1/2",
+"−1"
+],
+2,
+"Put x = −1: 1 = −2B."
+],
+[
+4,
+"An improper fraction must first be converted by:",
+[
+"Long division",
+"Adding 1",
+"Squaring",
+"Factorising numerator only"
+],
+0,
+"Divide first."
+],
+[
+4,
+"A conditional equation is true for:",
+[
+"All values",
+"No values",
+"Particular values only",
+"Only zero"
+],
+2,
+"Opposite of identity."
+],
+[
+5,
+"The set of natural numbers is denoted by:",
+[
+"W",
+"Z",
+"N",
+"Q"
+],
+2,
+"N = {1, 2, 3, …}."
+],
+[
+5,
+"A ∪ B means:",
+[
+"Intersection",
+"Difference",
+"Complement",
+"Union of A and B"
+],
+3,
+"All elements in A or B."
+],
+[
+5,
+"A ∩ B means:",
+[
+"Union",
+"Intersection of A and B",
+"Difference",
+"Complement"
+],
+1,
+"Common elements."
+],
+[
+5,
+"If A = {1, 2, 3} and B = {2, 3, 4}, then A ∩ B is:",
+[
+"{2, 3}",
+"{1, 2, 3, 4}",
+"{1}",
+"{4}"
+],
+0,
+"Common elements."
+],
+[
+5,
+"If A = {1, 2, 3} and B = {2, 3, 4}, then A ∪ B is:",
+[
+"{2, 3}",
+"{1, 4}",
+"{1, 2, 3, 4}",
+"{1, 2}"
+],
+2,
+"All elements."
+],
+[
+5,
+"If A = {1, 2, 3} and B = {2, 3, 4}, then A − B is:",
+[
+"{4}",
+"{2, 3}",
+"{1, 4}",
+"{1}"
+],
+3,
+"In A but not B."
+],
+[
+5,
+"De Morgan's law: (A ∪ B)′ equals:",
+[
+"A′ ∪ B′",
+"A ∩ B",
+"A ∪ B",
+"A′ ∩ B′"
+],
+3,
+"De Morgan."
+],
+[
+5,
+"A set having no element is called:",
+[
+"Singleton",
+"Empty set",
+"Universal set",
+"Finite set"
+],
+1,
+"∅."
+],
+[
+5,
+"A function in which every element of the range is the image of some element of the domain is:",
+[
+"Onto (surjective)",
+"Into",
+"Constant",
+"Inverse"
+],
+0,
+"Onto function."
+],
+[
+5,
+"A function in which distinct elements have distinct images is called:",
+[
+"Onto",
+"Constant",
+"One-one (injective)",
+"Many-one"
+],
+2,
+"Injective."
+],
+[
+5,
+"A function that is both one-one and onto is called:",
+[
+"Into",
+"Bijective",
+"Constant",
+"Identity only"
+],
+1,
+"Bijection."
+],
+[
+5,
+"The number of subsets of a set with 3 elements is:",
+[
+"3",
+"8",
+"6",
+"9"
+],
+1,
+"2³ = 8."
+],
+[
+5,
+"An ordered pair (a, b) equals (c, d) if:",
+[
+"a = c and b = d",
+"a = d and b = c",
+"a + b = c + d",
+"a = b"
+],
+0,
+"Equality of ordered pairs."
+],
+[
+5,
+"If A has 2 elements and B has 3 elements, A × B has:",
+[
+"5 elements",
+"9 elements",
+"8 elements",
+"6 elements"
+],
+3,
+"2 × 3."
+],
+[
+6,
+"The sum of observations divided by their number is called:",
+[
+"Median",
+"Arithmetic mean",
+"Mode",
+"Range"
+],
+1,
+"Mean."
+],
+[
+6,
+"The mean of 2, 4, 6, 8, 10 is:",
+[
+"5",
+"30",
+"8",
+"6"
+],
+3,
+"30 ÷ 5."
+],
+[
+6,
+"The middle value of arranged data is called:",
+[
+"Mean",
+"Mode",
+"Range",
+"Median"
+],
+3,
+"Median."
+],
+[
+6,
+"The median of 3, 5, 7, 9, 11 is:",
+[
+"5",
+"9",
+"35",
+"7"
+],
+3,
+"Middle value."
+],
+[
+6,
+"The most frequently occurring value is called:",
+[
+"Mean",
+"Median",
+"Mode",
+"Range"
+],
+2,
+"Mode."
+],
+[
+6,
+"The mode of 2, 3, 3, 4, 5, 3, 6 is:",
+[
+"4",
+"5",
+"3",
+"2"
+],
+2,
+"3 occurs most."
+],
+[
+6,
+"The difference between the largest and smallest values is the:",
+[
+"Mean",
+"Range",
+"Mode",
+"Variance"
+],
+1,
+"Range."
+],
+[
+6,
+"The range of 5, 12, 3, 20, 8 is:",
+[
+"20",
+"3",
+"15",
+"17"
+],
+3,
+"20 − 3."
+],
+[
+6,
+"A graph of a frequency distribution using adjacent bars is called a:",
+[
+"Pie chart",
+"Histogram",
+"Line graph",
+"Scatter plot"
+],
+1,
+"Histogram."
+],
+[
+6,
+"Standard deviation is the square root of:",
+[
+"Mean",
+"Variance",
+"Range",
+"Mode"
+],
+1,
+"SD = √variance."
+],
+[
+6,
+"The mean of first five natural numbers is:",
+[
+"5",
+"15",
+"3",
+"2.5"
+],
+2,
+"15 ÷ 5."
+],
+[
+6,
+"Data arranged in groups (classes) is called:",
+[
+"Raw data",
+"Grouped data",
+"Ungrouped data",
+"Primary data only"
+],
+1,
+"Grouped data."
+],
+[
+6,
+"The difference between upper and lower class limits is the:",
+[
+"Frequency",
+"Mid-point",
+"Class interval (width)",
+"Mode"
+],
+2,
+"Class width."
+],
+[
+6,
+"The mid-point of class 10–20 is:",
+[
+"10",
+"15",
+"20",
+"30"
+],
+1,
+"(10 + 20)/2."
+],
+[
+7,
+"One radian is approximately equal to:",
+[
+"57.3°",
+"90°",
+"180°",
+"1°"
+],
+0,
+"180/π ≈ 57.3."
+],
+[
+7,
+"π radians equal:",
+[
+"90°",
+"360°",
+"60°",
+"180°"
+],
+3,
+"π = 180°."
+],
+[
+7,
+"90° in radians is:",
+[
+"π/2",
+"π",
+"2π",
+"π/4"
+],
+0,
+"90 × π/180."
+],
+[
+7,
+"sin² θ + cos² θ equals:",
+[
+"1",
+"0",
+"2",
+"tan θ"
+],
+0,
+"Fundamental identity."
+],
+[
+7,
+"tan θ equals:",
+[
+"cos θ / sin θ",
+"1/sin θ",
+"sin θ / cos θ",
+"sin θ × cos θ"
+],
+2,
+"Definition."
+],
+[
+7,
+"sec θ is the reciprocal of:",
+[
+"sin θ",
+"cos θ",
+"tan θ",
+"cot θ"
+],
+1,
+"sec = 1/cos."
+],
+[
+7,
+"cosec θ is the reciprocal of:",
+[
+"cos θ",
+"sin θ",
+"tan θ",
+"sec θ"
+],
+1,
+"cosec = 1/sin."
+],
+[
+7,
+"sin 30° equals:",
+[
+"√3/2",
+"1",
+"1/2",
+"0"
+],
+2,
+"Standard value."
+],
+[
+7,
+"cos 60° equals:",
+[
+"√3/2",
+"0",
+"1",
+"1/2"
+],
+3,
+"Standard value."
+],
+[
+7,
+"tan 45° equals:",
+[
+"0",
+"1",
+"√3",
+"1/√3"
+],
+1,
+"Standard value."
+],
+[
+7,
+"sin 90° equals:",
+[
+"1",
+"0",
+"−1",
+"1/2"
+],
+0,
+"Standard value."
+],
+[
+7,
+"1 + tan² θ equals:",
+[
+"cosec² θ",
+"cos² θ",
+"sec² θ",
+"sin² θ"
+],
+2,
+"Identity."
+],
+[
+7,
+"An angle in standard position whose terminal side lies on an axis is called:",
+[
+"Acute angle",
+"Quadrantal angle",
+"Obtuse angle",
+"Reflex angle"
+],
+1,
+"e.g. 0°, 90°, 180°."
+],
+[
+7,
+"In which quadrant are all trigonometric ratios positive?",
+[
+"Second",
+"Third",
+"Fourth",
+"First"
+],
+3,
+"ASTC rule."
+],
+[
+8,
+"In an obtuse-angled triangle, the square of the side opposite the obtuse angle is ___ the sum of squares of the other two sides.",
+[
+"Less than",
+"Equal to",
+"Half of",
+"Greater than"
+],
+3,
+"Extension of Pythagoras."
+],
+[
+8,
+"In an acute-angled triangle, the square of the side opposite an acute angle is ___ the sum of squares of the other two sides.",
+[
+"Greater than",
+"Less than",
+"Equal to",
+"Double"
+],
+1,
+"Theorem."
+],
+[
+8,
+"Apollonius' theorem relates the sides of a triangle to its:",
+[
+"Altitude",
+"Median",
+"Angle bisector",
+"Circumradius"
+],
+1,
+"AB² + AC² = 2AD² + 2BD²."
+],
+[
+8,
+"In ΔABC, if AB² + AC² = BC², then ∠A is:",
+[
+"60°",
+"Obtuse",
+"Acute",
+"90°"
+],
+3,
+"Pythagoras converse."
+],
+[
+8,
+"If a² > b² + c² in a triangle, the angle opposite a is:",
+[
+"Acute",
+"Obtuse",
+"Right",
+"Zero"
+],
+1,
+"Obtuse-angle theorem."
+],
+[
+8,
+"If a² < b² + c², the angle opposite a is:",
+[
+"Obtuse",
+"Right",
+"Acute",
+"Straight"
+],
+2,
+"Acute-angle theorem."
+],
+[
+8,
+"The projection of a side on another line is the length of the:",
+[
+"Perpendicular shadow (foot to foot) on that line",
+"Side itself",
+"Altitude",
+"Median"
+],
+0,
+"Definition of projection."
+],
+[
+8,
+"In ΔABC with sides 3, 4 and 6, the triangle is:",
+[
+"Right-angled",
+"Obtuse-angled",
+"Acute-angled",
+"Equilateral"
+],
+1,
+"36 > 9 + 16."
+],
+[
+8,
+"In ΔABC with sides 4, 5 and 6, the triangle is:",
+[
+"Obtuse-angled",
+"Right-angled",
+"Acute-angled",
+"Isosceles"
+],
+2,
+"36 < 16 + 25."
+],
+[
+8,
+"In ΔABC with sides 5, 12, 13, the triangle is:",
+[
+"Obtuse-angled",
+"Acute-angled",
+"Right-angled",
+"Equilateral"
+],
+2,
+"169 = 25 + 144."
+],
+[
+8,
+"A median of a triangle joins a vertex to the ___ of the opposite side.",
+[
+"End-point",
+"Foot of altitude",
+"Centroid",
+"Mid-point"
+],
+3,
+"Definition."
+],
+[
+8,
+"In Apollonius' theorem, the median AD bisects:",
+[
+"BC",
+"AB",
+"AC",
+"∠A"
+],
+0,
+"D is the mid-point of BC."
+],
+[
+9,
+"A chord that passes through the centre of a circle is called the:",
+[
+"Radius",
+"Tangent",
+"Diameter",
+"Secant"
+],
+2,
+"Longest chord."
+],
+[
+9,
+"The perpendicular from the centre of a circle to a chord:",
+[
+"Is equal to the chord",
+"Is parallel to the chord",
+"Doubles the chord",
+"Bisects the chord"
+],
+3,
+"Theorem."
+],
+[
+9,
+"Equal chords of a circle are ___ from the centre.",
+[
+"At different distances",
+"On the circle",
+"Outside",
+"Equidistant"
+],
+3,
+"Theorem."
+],
+[
+9,
+"Chords equidistant from the centre of a circle are:",
+[
+"Unequal",
+"Parallel",
+"Perpendicular",
+"Equal"
+],
+3,
+"Converse theorem."
+],
+[
+9,
+"The longest chord of a circle is the:",
+[
+"Radius",
+"Arc",
+"Diameter",
+"Tangent"
+],
+2,
+"Diameter."
+],
+[
+9,
+"Through three non-collinear points, the number of circles that can be drawn is:",
+[
+"One",
+"Two",
+"Three",
+"Infinite"
+],
+0,
+"Exactly one circle."
+],
+[
+9,
+"A line segment joining any two points on a circle is called a:",
+[
+"Chord",
+"Radius",
+"Tangent",
+"Arc"
+],
+0,
+"Definition."
+],
+[
+9,
+"If the radius of a circle is 5 cm and the distance of a chord from the centre is 3 cm, the chord length is:",
+[
+"8 cm",
+"4 cm",
+"6 cm",
+"10 cm"
+],
+0,
+"2√(25 − 9) = 8."
+],
+[
+9,
+"The radius of a circle is ___ the diameter.",
+[
+"Double",
+"Half",
+"Equal to",
+"One-third"
+],
+1,
+"r = d/2."
+],
+[
+9,
+"A line which cuts a circle at two points is called a:",
+[
+"Tangent",
+"Secant",
+"Radius",
+"Arc"
+],
+1,
+"Secant."
+],
+[
+9,
+"The centre of a circle lies on the ___ of every chord.",
+[
+"Tangent",
+"Arc",
+"Extension",
+"Right bisector"
+],
+3,
+"Theorem."
+],
+[
+9,
+"The diameter of a circle with radius 7 cm is:",
+[
+"7 cm",
+"3.5 cm",
+"21 cm",
+"14 cm"
+],
+3,
+"2r."
+],
+[
+10,
+"A line that touches a circle at exactly one point is called a:",
+[
+"Secant",
+"Tangent",
+"Chord",
+"Diameter"
+],
+1,
+"Definition."
+],
+[
+10,
+"The tangent at any point of a circle is ___ to the radius through that point.",
+[
+"Parallel",
+"Equal",
+"Inclined at 45°",
+"Perpendicular"
+],
+3,
+"Theorem."
+],
+[
+10,
+"From an external point, how many tangents can be drawn to a circle?",
+[
+"One",
+"Three",
+"Infinite",
+"Two"
+],
+3,
+"Two tangents."
+],
+[
+10,
+"The two tangents drawn from an external point to a circle are:",
+[
+"Unequal",
+"Perpendicular",
+"Parallel",
+"Equal in length"
+],
+3,
+"Theorem."
+],
+[
+10,
+"The point where a tangent touches the circle is called the:",
+[
+"Centre",
+"Vertex",
+"Point of contact",
+"Origin"
+],
+2,
+"Point of tangency."
+],
+[
+10,
+"How many tangents can be drawn to a circle from a point on the circle?",
+[
+"Two",
+"One",
+"None",
+"Infinite"
+],
+1,
+"Exactly one."
+],
+[
+10,
+"How many tangents can be drawn from a point inside a circle?",
+[
+"One",
+"None",
+"Two",
+"Infinite"
+],
+1,
+"Impossible."
+],
+[
+10,
+"Two circles touching each other externally have how many common tangents?",
+[
+"Two",
+"Four",
+"Three",
+"One"
+],
+2,
+"Two direct, one transverse."
+],
+[
+10,
+"Two separate circles (not touching) have how many common tangents?",
+[
+"Three",
+"Two",
+"One",
+"Four"
+],
+3,
+"Two direct, two transverse."
+],
+[
+10,
+"If the radius is 3 cm and the distance of an external point from the centre is 5 cm, the tangent length is:",
+[
+"8 cm",
+"2 cm",
+"5 cm",
+"4 cm"
+],
+3,
+"√(25 − 9) = 4."
+],
+[
+10,
+"The angle between a tangent and the radius at the point of contact is:",
+[
+"45°",
+"180°",
+"90°",
+"60°"
+],
+2,
+"Perpendicular."
+],
+[
+10,
+"Two circles touching each other internally have how many common tangents?",
+[
+"Two",
+"One",
+"Three",
+"Four"
+],
+1,
+"One common tangent."
+],
+[
+11,
+"Equal chords of a circle subtend ___ angles at the centre.",
+[
+"Unequal",
+"Equal",
+"Right",
+"Supplementary"
+],
+1,
+"Theorem."
+],
+[
+11,
+"If two arcs of a circle are equal, their corresponding chords are:",
+[
+"Unequal",
+"Parallel",
+"Perpendicular",
+"Equal"
+],
+3,
+"Theorem."
+],
+[
+11,
+"An arc whose measure is less than 180° is called a:",
+[
+"Major arc",
+"Semicircle",
+"Sector",
+"Minor arc"
+],
+3,
+"Minor arc."
+],
+[
+11,
+"An arc whose measure is more than 180° is called a:",
+[
+"Minor arc",
+"Chord",
+"Major arc",
+"Radius"
+],
+2,
+"Major arc."
+],
+[
+11,
+"Half of a circle is called a:",
+[
+"Sector",
+"Segment",
+"Semicircle",
+"Arc only"
+],
+2,
+"Semicircle."
+],
+[
+11,
+"The region between an arc and two radii is called a:",
+[
+"Segment",
+"Sector",
+"Chord",
+"Tangent"
+],
+1,
+"Sector."
+],
+[
+11,
+"The region between a chord and its arc is called a:",
+[
+"Segment",
+"Sector",
+"Radius",
+"Diameter"
+],
+0,
+"Segment."
+],
+[
+11,
+"The measure of a semicircular arc is:",
+[
+"90°",
+"360°",
+"270°",
+"180°"
+],
+3,
+"Half of 360."
+],
+[
+11,
+"The total angle at the centre of a circle is:",
+[
+"180°",
+"360°",
+"90°",
+"270°"
+],
+1,
+"Full angle."
+],
+[
+11,
+"If two chords subtend equal angles at the centre, then the chords are:",
+[
+"Unequal",
+"Parallel",
+"Equal",
+"Diameters"
+],
+2,
+"Converse theorem."
+],
+[
+11,
+"The circumference of a circle is:",
+[
+"πr²",
+"2πr",
+"πr",
+"2r"
+],
+1,
+"Perimeter of circle."
+],
+[
+11,
+"The area of a circle of radius r is:",
+[
+"πr²",
+"2πr",
+"πd",
+"2r²"
+],
+0,
+"Area formula."
+],
+[
+12,
+"The angle subtended by an arc at the centre is ___ the angle subtended at any point on the remaining circle.",
+[
+"Half",
+"Equal to",
+"Triple",
+"Double"
+],
+3,
+"Central angle theorem."
+],
+[
+12,
+"The angle in a semicircle is:",
+[
+"180°",
+"45°",
+"90°",
+"60°"
+],
+2,
+"Right angle."
+],
+[
+12,
+"Angles in the same segment of a circle are:",
+[
+"Supplementary",
+"Complementary",
+"Right angles",
+"Equal"
+],
+3,
+"Theorem."
+],
+[
+12,
+"Opposite angles of a cyclic quadrilateral are:",
+[
+"Equal",
+"Complementary",
+"Right angles",
+"Supplementary"
+],
+3,
+"Sum to 180°."
+],
+[
+12,
+"A quadrilateral whose vertices lie on a circle is called:",
+[
+"Parallelogram",
+"Cyclic quadrilateral",
+"Trapezium",
+"Kite"
+],
+1,
+"Cyclic."
+],
+[
+12,
+"If one angle of a cyclic quadrilateral is 70°, the opposite angle is:",
+[
+"70°",
+"90°",
+"110°",
+"20°"
+],
+2,
+"180 − 70."
+],
+[
+12,
+"If the central angle of an arc is 100°, the inscribed angle on the same arc is:",
+[
+"100°",
+"200°",
+"50°",
+"80°"
+],
+2,
+"Half."
+],
+[
+12,
+"The angle in a major segment is:",
+[
+"Acute",
+"Obtuse",
+"Right",
+"Straight"
+],
+0,
+"Theorem."
+],
+[
+12,
+"The angle in a minor segment is:",
+[
+"Acute",
+"Right",
+"Obtuse",
+"Zero"
+],
+2,
+"Theorem."
+],
+[
+12,
+"An angle whose vertex is on the circle and whose arms are chords is called:",
+[
+"Central angle",
+"Inscribed angle",
+"Exterior angle",
+"Reflex angle"
+],
+1,
+"Inscribed angle."
+],
+[
+12,
+"An angle whose vertex is at the centre of a circle is called:",
+[
+"Inscribed angle",
+"Central angle",
+"Exterior angle",
+"Straight angle"
+],
+1,
+"Central angle."
+],
+[
+12,
+"The exterior angle of a cyclic quadrilateral equals the:",
+[
+"Interior opposite angle",
+"Adjacent angle",
+"Right angle",
+"Central angle"
+],
+0,
+"Property."
+],
+[
+13,
+"To find the centre of a given circle we draw:",
+[
+"Right bisectors of two chords",
+"Two tangents",
+"Two radii only",
+"One diameter only"
+],
+0,
+"They meet at the centre."
+],
+[
+13,
+"A circle passing through all three vertices of a triangle is called the:",
+[
+"Incircle",
+"Escribed circle",
+"Circumcircle",
+"Concentric circle"
+],
+2,
+"Circumcircle."
+],
+[
+13,
+"A circle touching all three sides of a triangle internally is called the:",
+[
+"Circumcircle",
+"Incircle",
+"Escribed circle",
+"Semicircle"
+],
+1,
+"Incircle."
+],
+[
+13,
+"A circle touching one side of a triangle and the other two sides produced is called:",
+[
+"Incircle",
+"Circumcircle",
+"Concentric circle",
+"Escribed circle"
+],
+3,
+"Excircle."
+],
+[
+13,
+"Circles having the same centre are called:",
+[
+"Congruent circles",
+"Intersecting circles",
+"Concentric circles",
+"Tangent circles"
+],
+2,
+"Same centre."
+],
+[
+13,
+"To inscribe a circle in a triangle, we draw:",
+[
+"Right bisectors of sides",
+"Medians",
+"Bisectors of the angles",
+"Altitudes"
+],
+2,
+"Incentre from angle bisectors."
+],
+[
+13,
+"To circumscribe a circle about a triangle we draw:",
+[
+"Angle bisectors",
+"Medians",
+"Right bisectors of the sides",
+"Altitudes"
+],
+2,
+"Circumcentre."
+],
+[
+13,
+"Circles with equal radii are called:",
+[
+"Congruent circles",
+"Concentric circles",
+"Similar circles only",
+"Tangent circles"
+],
+0,
+"Equal radii."
+],
+[
+13,
+"A regular hexagon inscribed in a circle has its side equal to the circle's:",
+[
+"Diameter",
+"Circumference",
+"Area",
+"Radius"
+],
+3,
+"Property."
+],
+[
+13,
+"How many escribed circles does a triangle have?",
+[
+"One",
+"Two",
+"Four",
+"Three"
+],
+3,
+"One opposite each vertex."
+],
+[
+13,
+"The centre of the incircle is equidistant from the triangle's:",
+[
+"Vertices",
+"Sides",
+"Mid-points",
+"Medians"
+],
+1,
+"Incentre property."
+],
+[
+13,
+"The centre of the circumcircle is equidistant from the triangle's:",
+[
+"Sides",
+"Medians",
+"Altitudes",
+"Vertices"
+],
+3,
+"Circumcentre property."
+]
+]

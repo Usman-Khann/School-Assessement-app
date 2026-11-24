@@ -1,0 +1,1562 @@
+[
+[
+1,
+"A collection of well-defined objects is called a:",
+[
+"Set",
+"Group only",
+"Number",
+"Line"
+],
+0,
+"Definition of set."
+],
+[
+1,
+"The set of even numbers between 1 and 9 is:",
+[
+"{1, 3, 5, 7}",
+"{2, 4, 6, 8, 10}",
+"{2, 4, 6, 8}",
+"{0, 2, 4}"
+],
+2,
+"Even numbers."
+],
+[
+1,
+"The symbol ∈ means:",
+[
+"Is not an element of",
+"Subset",
+"Union",
+"Is an element of"
+],
+3,
+"Membership."
+],
+[
+1,
+"A set with no elements is called:",
+[
+"Singleton set",
+"Empty set",
+"Finite set",
+"Infinite set"
+],
+1,
+"∅ or { }."
+],
+[
+1,
+"A set with only one element is called:",
+[
+"Empty set",
+"Infinite set",
+"Singleton set",
+"Equal set"
+],
+2,
+"Singleton."
+],
+[
+1,
+"{a, b} and {b, a} are:",
+[
+"Equal sets",
+"Different sets",
+"Empty sets",
+"Infinite sets"
+],
+0,
+"Order does not matter."
+],
+[
+1,
+"The number of elements in {1, 3, 5, 7} is:",
+[
+"3",
+"7",
+"4",
+"16"
+],
+2,
+"Count elements."
+],
+[
+1,
+"The set of natural numbers is:",
+[
+"Finite",
+"Empty",
+"Infinite",
+"Singleton"
+],
+2,
+"Never ends."
+],
+[
+1,
+"Two sets with the same number of elements are called:",
+[
+"Equal sets always",
+"Equivalent sets",
+"Empty sets",
+"Disjoint sets"
+],
+1,
+"Equivalent."
+],
+[
+1,
+"Sets with no common element are called:",
+[
+"Equal sets",
+"Disjoint sets",
+"Overlapping sets",
+"Subsets"
+],
+1,
+"Disjoint."
+],
+[
+2,
+"Which of the following is a rational number?",
+[
+"√2",
+"π",
+"√3",
+"3/4"
+],
+3,
+"p/q form."
+],
+[
+2,
+"The additive inverse of 5/7 is:",
+[
+"7/5",
+"5/7",
+"−5/7",
+"−7/5"
+],
+2,
+"Sum is zero."
+],
+[
+2,
+"The multiplicative inverse of 2/3 is:",
+[
+"3/2",
+"−2/3",
+"2/3",
+"−3/2"
+],
+0,
+"Reciprocal."
+],
+[
+2,
+"−3/4 + 3/4 =",
+[
+"0",
+"1",
+"−3/2",
+"3/2"
+],
+0,
+"Additive inverses."
+],
+[
+2,
+"2/3 × 3/2 =",
+[
+"0",
+"1",
+"4/9",
+"9/4"
+],
+1,
+"Multiplicative inverses."
+],
+[
+2,
+"Which is greater: −1/2 or −1/3?",
+[
+"−1/2",
+"Equal",
+"Cannot say",
+"−1/3"
+],
+3,
+"−0.33 > −0.5."
+],
+[
+2,
+"0 is a:",
+[
+"Irrational number",
+"Negative number",
+"Rational number",
+"Prime number"
+],
+2,
+"0 = 0/1."
+],
+[
+2,
+"1/2 + 1/4 =",
+[
+"2/6",
+"1/6",
+"1/8",
+"3/4"
+],
+3,
+"2/4 + 1/4."
+],
+[
+2,
+"5/6 − 1/3 =",
+[
+"4/3",
+"1/2",
+"1/3",
+"2/3"
+],
+1,
+"5/6 − 2/6 = 3/6."
+],
+[
+2,
+"3/5 ÷ 3/10 =",
+[
+"9/50",
+"1/2",
+"2",
+"5/3"
+],
+2,
+"3/5 × 10/3."
+],
+[
+3,
+"0.7 + 0.25 =",
+[
+"0.32",
+"0.725",
+"0.95",
+"9.5"
+],
+2,
+"Line up decimal points."
+],
+[
+3,
+"3.6 × 10 =",
+[
+"36",
+"0.36",
+"360",
+"3.60"
+],
+0,
+"Shift decimal one place right."
+],
+[
+3,
+"4.8 ÷ 100 =",
+[
+"48",
+"0.048",
+"0.48",
+"480"
+],
+1,
+"Shift two places left."
+],
+[
+3,
+"0.2 × 0.3 =",
+[
+"0.06",
+"0.6",
+"6",
+"0.006"
+],
+0,
+"2 × 3 = 6, two decimal places."
+],
+[
+3,
+"1/8 as a decimal is:",
+[
+"0.18",
+"0.125",
+"0.8",
+"1.8"
+],
+1,
+"1 ÷ 8."
+],
+[
+3,
+"0.75 as a fraction in lowest terms is:",
+[
+"75/10",
+"7/5",
+"1/4",
+"3/4"
+],
+3,
+"75/100."
+],
+[
+3,
+"Round 3.476 to two decimal places:",
+[
+"3.47",
+"3.5",
+"3.4",
+"3.48"
+],
+3,
+"6 ≥ 5."
+],
+[
+3,
+"Which is the largest: 0.5, 0.45, 0.505?",
+[
+"0.5",
+"0.45",
+"0.505",
+"All equal"
+],
+2,
+"Compare place values."
+],
+[
+3,
+"2.5 − 0.75 =",
+[
+"1.75",
+"1.25",
+"2.25",
+"1.85"
+],
+0,
+"Subtraction."
+],
+[
+3,
+"1.2 ÷ 0.4 =",
+[
+"0.3",
+"30",
+"4.8",
+"3"
+],
+3,
+"12 ÷ 4."
+],
+[
+4,
+"2³ equals:",
+[
+"6",
+"9",
+"5",
+"8"
+],
+3,
+"2 × 2 × 2."
+],
+[
+4,
+"In 5⁴, the base is:",
+[
+"4",
+"5",
+"20",
+"625"
+],
+1,
+"Base and exponent."
+],
+[
+4,
+"In 5⁴, the exponent is:",
+[
+"5",
+"4",
+"20",
+"625"
+],
+1,
+"Power."
+],
+[
+4,
+"10³ equals:",
+[
+"1,000",
+"30",
+"100",
+"10,000"
+],
+0,
+"10 × 10 × 10."
+],
+[
+4,
+"a² × a³ =",
+[
+"a⁶",
+"a⁵",
+"a",
+"2a⁵"
+],
+1,
+"Add exponents."
+],
+[
+4,
+"(−2)² =",
+[
+"−4",
+"2",
+"4",
+"−2"
+],
+2,
+"Even power of negative is positive."
+],
+[
+4,
+"(−2)³ =",
+[
+"8",
+"−6",
+"6",
+"−8"
+],
+3,
+"Odd power keeps sign."
+],
+[
+4,
+"7⁰ =",
+[
+"1",
+"0",
+"7",
+"Undefined"
+],
+0,
+"Any non-zero number to power 0 is 1."
+],
+[
+4,
+"3² + 4² =",
+[
+"49",
+"14",
+"7",
+"25"
+],
+3,
+"9 + 16."
+],
+[
+4,
+"(2/3)² =",
+[
+"4/6",
+"4/9",
+"2/9",
+"4/3"
+],
+1,
+"Square numerator and denominator."
+],
+[
+5,
+"√49 =",
+[
+"49",
+"7",
+"14",
+"24.5"
+],
+1,
+"7 × 7 = 49."
+],
+[
+5,
+"√144 =",
+[
+"14",
+"72",
+"12",
+"11"
+],
+2,
+"12 × 12."
+],
+[
+5,
+"The square of 15 is:",
+[
+"30",
+"150",
+"215",
+"225"
+],
+3,
+"15 × 15."
+],
+[
+5,
+"Which is a perfect square?",
+[
+"50",
+"81",
+"72",
+"90"
+],
+1,
+"9²."
+],
+[
+5,
+"√(9/16) =",
+[
+"9/4",
+"3/16",
+"3/4",
+"81/256"
+],
+2,
+"Root of numerator and denominator."
+],
+[
+5,
+"√0.25 =",
+[
+"0.5",
+"0.05",
+"0.25",
+"5"
+],
+0,
+"0.5 × 0.5."
+],
+[
+5,
+"The square root of 1 is:",
+[
+"0",
+"1",
+"2",
+"1/2"
+],
+1,
+"1 × 1."
+],
+[
+5,
+"A number ending in 7 cannot be a perfect square because:",
+[
+"No square ends in 7",
+"It is odd",
+"It is prime",
+"It is large"
+],
+0,
+"Squares end in 0,1,4,5,6,9."
+],
+[
+5,
+"√400 =",
+[
+"40",
+"200",
+"20",
+"16"
+],
+2,
+"20²."
+],
+[
+5,
+"The square of 1.1 is:",
+[
+"1.1",
+"12.1",
+"1.21",
+"2.2"
+],
+2,
+"1.1 × 1.1."
+],
+[
+6,
+"If y = kx, then y varies ___ as x.",
+[
+"Inversely",
+"Not at all",
+"Randomly",
+"Directly"
+],
+3,
+"Direct variation."
+],
+[
+6,
+"If 2 pens cost Rs. 30, then 6 pens cost:",
+[
+"Rs. 60",
+"Rs. 180",
+"Rs. 90",
+"Rs. 36"
+],
+2,
+"Direct variation."
+],
+[
+6,
+"If 4 men build a wall in 6 days, 8 men will build it in:",
+[
+"12 days",
+"6 days",
+"2 days",
+"3 days"
+],
+3,
+"Inverse variation."
+],
+[
+6,
+"Speed and time for a fixed distance vary:",
+[
+"Directly",
+"Equally",
+"Not at all",
+"Inversely"
+],
+3,
+"More speed, less time."
+],
+[
+6,
+"The ratio 12 : 18 in simplest form is:",
+[
+"2 : 3",
+"3 : 2",
+"6 : 9",
+"4 : 6"
+],
+0,
+"Divide by 6."
+],
+[
+6,
+"If x : 5 = 6 : 10, then x =",
+[
+"3",
+"12",
+"30",
+"2"
+],
+0,
+"Cross multiply."
+],
+[
+6,
+"Number of workers and days to finish a job vary:",
+[
+"Directly",
+"Equally",
+"Not at all",
+"Inversely"
+],
+3,
+"Inverse."
+],
+[
+6,
+"Cost of oranges and their number vary:",
+[
+"Inversely",
+"Not at all",
+"Directly",
+"Randomly"
+],
+2,
+"Direct."
+],
+[
+6,
+"A car covers 60 km in 1 hour. In 3 hours it covers:",
+[
+"180 km",
+"60 km",
+"20 km",
+"120 km"
+],
+0,
+"Direct variation."
+],
+[
+6,
+"If 5 kg of sugar costs Rs. 500, 2 kg will cost:",
+[
+"Rs. 200",
+"Rs. 250",
+"Rs. 100",
+"Rs. 1,000"
+],
+0,
+"Rs. 100 per kg."
+],
+[
+7,
+"Profit = Selling price − ___",
+[
+"Discount",
+"Loss",
+"Tax",
+"Cost price"
+],
+3,
+"Profit formula."
+],
+[
+7,
+"If CP = Rs. 80 and SP = Rs. 100, profit % is:",
+[
+"20%",
+"80%",
+"25%",
+"10%"
+],
+2,
+"20/80 × 100."
+],
+[
+7,
+"If CP = Rs. 200 and SP = Rs. 180, loss is:",
+[
+"Rs. 180",
+"Rs. 380",
+"Rs. 20",
+"Rs. 10"
+],
+2,
+"200 − 180."
+],
+[
+7,
+"Discount is calculated on the:",
+[
+"Cost price",
+"Profit",
+"Loss",
+"Marked price"
+],
+3,
+"Marked price."
+],
+[
+7,
+"10% discount on Rs. 500 is:",
+[
+"Rs. 450",
+"Rs. 50",
+"Rs. 10",
+"Rs. 5"
+],
+1,
+"500 × 10%."
+],
+[
+7,
+"Simple interest on Rs. 500 at 10% for 1 year is:",
+[
+"Rs. 50",
+"Rs. 10",
+"Rs. 550",
+"Rs. 5"
+],
+0,
+"500 × 10 × 1/100."
+],
+[
+7,
+"Selling price when CP = Rs. 300 and profit = 10% is:",
+[
+"Rs. 330",
+"Rs. 310",
+"Rs. 270",
+"Rs. 30"
+],
+0,
+"300 + 30."
+],
+[
+7,
+"Money kept in a bank earns:",
+[
+"Discount",
+"Loss",
+"Interest",
+"Tax"
+],
+2,
+"Interest."
+],
+[
+7,
+"If marked price is Rs. 800 and discount is Rs. 80, discount % is:",
+[
+"8%",
+"80%",
+"10%",
+"1%"
+],
+2,
+"80/800 × 100."
+],
+[
+7,
+"The rate of Zakat is:",
+[
+"5%",
+"10%",
+"1%",
+"2.5%"
+],
+3,
+"One-fortieth."
+],
+[
+8,
+"In 5x + 3, the coefficient of x is:",
+[
+"5",
+"3",
+"x",
+"8"
+],
+0,
+"Number with variable."
+],
+[
+8,
+"In 5x + 3, the constant term is:",
+[
+"5",
+"x",
+"3",
+"5x"
+],
+2,
+"Term without variable."
+],
+[
+8,
+"Like terms among 3x, 4y, 7x, 2 are:",
+[
+"3x and 4y",
+"4y and 2",
+"7x and 2",
+"3x and 7x"
+],
+3,
+"Same variable."
+],
+[
+8,
+"3x + 5x =",
+[
+"8x",
+"15x",
+"8x²",
+"2x"
+],
+0,
+"Add like terms."
+],
+[
+8,
+"7a − 2a =",
+[
+"9a",
+"5",
+"5a",
+"14a"
+],
+2,
+"Subtract like terms."
+],
+[
+8,
+"The value of 2x + 1 when x = 3 is:",
+[
+"7",
+"6",
+"5",
+"9"
+],
+0,
+"2(3) + 1."
+],
+[
+8,
+"An expression with two terms is called a:",
+[
+"Binomial",
+"Monomial",
+"Trinomial",
+"Polynomial of degree 2"
+],
+0,
+"Bi = two."
+],
+[
+8,
+"An expression with one term is called a:",
+[
+"Binomial",
+"Trinomial",
+"Monomial",
+"Constant only"
+],
+2,
+"Mono = one."
+],
+[
+8,
+"x × x =",
+[
+"x²",
+"2x",
+"x",
+"2x²"
+],
+0,
+"Multiply."
+],
+[
+8,
+"(a + b) + (a − b) =",
+[
+"2b",
+"0",
+"a² − b²",
+"2a"
+],
+3,
+"b cancels."
+],
+[
+9,
+"Solve: x + 5 = 12",
+[
+"x = 7",
+"x = 17",
+"x = 5",
+"x = 12"
+],
+0,
+"Subtract 5."
+],
+[
+9,
+"Solve: 3x = 21",
+[
+"x = 18",
+"x = 7",
+"x = 63",
+"x = 3"
+],
+1,
+"Divide by 3."
+],
+[
+9,
+"Solve: x/2 = 9",
+[
+"x = 4.5",
+"x = 11",
+"x = 18",
+"x = 7"
+],
+2,
+"Multiply by 2."
+],
+[
+9,
+"Solve: 2x − 4 = 10",
+[
+"x = 3",
+"x = 7",
+"x = 14",
+"x = 5"
+],
+1,
+"2x = 14."
+],
+[
+9,
+"The highest power of the variable in a linear equation is:",
+[
+"1",
+"2",
+"0",
+"3"
+],
+0,
+"Linear."
+],
+[
+9,
+"Solve: 5x + 2 = 3x + 8",
+[
+"x = 3",
+"x = 5",
+"x = 2",
+"x = 4"
+],
+0,
+"2x = 6."
+],
+[
+9,
+"If twice a number is 30, the number is:",
+[
+"60",
+"28",
+"15",
+"32"
+],
+2,
+"2x = 30."
+],
+[
+9,
+"The sum of a number and 7 is 20. The number is:",
+[
+"27",
+"13",
+"7",
+"20"
+],
+1,
+"x + 7 = 20."
+],
+[
+9,
+"Solve: 4(x − 1) = 12",
+[
+"x = 3",
+"x = 2",
+"x = 4",
+"x = 13/4"
+],
+2,
+"x − 1 = 3."
+],
+[
+9,
+"An equation is a statement that two expressions are:",
+[
+"Unequal",
+"Opposite",
+"Equal",
+"Parallel"
+],
+2,
+"Equation."
+],
+[
+10,
+"An angle of exactly 90° is called:",
+[
+"Acute angle",
+"Obtuse angle",
+"Right angle",
+"Reflex angle"
+],
+2,
+"Right angle."
+],
+[
+10,
+"An angle less than 90° is:",
+[
+"Acute",
+"Obtuse",
+"Right",
+"Straight"
+],
+0,
+"Acute."
+],
+[
+10,
+"Two angles that add up to 90° are:",
+[
+"Complementary",
+"Supplementary",
+"Vertical",
+"Adjacent"
+],
+0,
+"Complementary."
+],
+[
+10,
+"Two angles that add up to 180° are:",
+[
+"Complementary",
+"Acute",
+"Supplementary",
+"Right"
+],
+2,
+"Supplementary."
+],
+[
+10,
+"The complement of 40° is:",
+[
+"140°",
+"40°",
+"60°",
+"50°"
+],
+3,
+"90 − 40."
+],
+[
+10,
+"The supplement of 40° is:",
+[
+"50°",
+"140°",
+"40°",
+"320°"
+],
+1,
+"180 − 40."
+],
+[
+10,
+"Vertically opposite angles are:",
+[
+"Supplementary",
+"Equal",
+"Complementary",
+"Right"
+],
+1,
+"Equal."
+],
+[
+10,
+"A line segment has ___ end points.",
+[
+"One",
+"Two",
+"No",
+"Three"
+],
+1,
+"Segment."
+],
+[
+10,
+"Lines in the same plane that never meet are:",
+[
+"Perpendicular",
+"Intersecting",
+"Concurrent",
+"Parallel"
+],
+3,
+"Parallel."
+],
+[
+10,
+"The sum of angles on a straight line is:",
+[
+"90°",
+"180°",
+"360°",
+"270°"
+],
+1,
+"Straight angle."
+],
+[
+11,
+"To construct an angle of 60° we use:",
+[
+"Protractor only",
+"Thermometer",
+"Set square only",
+"Compass and ruler"
+],
+3,
+"Construction."
+],
+[
+11,
+"Bisecting a line segment means dividing it into:",
+[
+"Three parts",
+"Unequal parts",
+"Two equal parts",
+"Four parts"
+],
+2,
+"Bisect."
+],
+[
+11,
+"A perpendicular makes an angle of ___ with the line.",
+[
+"60°",
+"45°",
+"90°",
+"180°"
+],
+2,
+"Perpendicular."
+],
+[
+11,
+"To draw a circle we need a:",
+[
+"Protractor",
+"Ruler only",
+"Compass",
+"Set square"
+],
+2,
+"Compass."
+],
+[
+11,
+"The bisector of a 120° angle gives two angles of:",
+[
+"30°",
+"90°",
+"60°",
+"120°"
+],
+2,
+"120 ÷ 2."
+],
+[
+11,
+"A triangle with sides 3 cm, 4 cm, 5 cm is:",
+[
+"Equilateral",
+"Isosceles",
+"Right-angled",
+"Obtuse"
+],
+2,
+"3² + 4² = 5²."
+],
+[
+11,
+"To construct a triangle we need at least ___ measurements.",
+[
+"Three",
+"Two",
+"One",
+"Four"
+],
+0,
+"Three."
+],
+[
+11,
+"A protractor is used to:",
+[
+"Draw circles",
+"Measure mass",
+"Measure and draw angles",
+"Measure time"
+],
+2,
+"Protractor."
+],
+[
+11,
+"An equilateral triangle has each angle of:",
+[
+"90°",
+"60°",
+"45°",
+"120°"
+],
+1,
+"180 ÷ 3."
+],
+[
+11,
+"Bisecting a 90° angle gives:",
+[
+"30°",
+"60°",
+"90°",
+"45°"
+],
+3,
+"90 ÷ 2."
+],
+[
+12,
+"Circumference of a circle =",
+[
+"πr²",
+"2πr",
+"πr",
+"4πr"
+],
+1,
+"Formula."
+],
+[
+12,
+"Area of a circle =",
+[
+"2πr",
+"πr²",
+"πd",
+"2r"
+],
+1,
+"Formula."
+],
+[
+12,
+"Diameter = ___ × radius.",
+[
+"3",
+"π",
+"1/2",
+"2"
+],
+3,
+"d = 2r."
+],
+[
+12,
+"Circumference of a circle of radius 7 cm (π = 22/7) is:",
+[
+"154 cm",
+"44 cm",
+"22 cm",
+"14 cm"
+],
+1,
+"2 × 22/7 × 7."
+],
+[
+12,
+"Area of a circle of radius 7 cm (π = 22/7) is:",
+[
+"44 cm²",
+"154 cm²",
+"49 cm²",
+"22 cm²"
+],
+1,
+"22/7 × 49."
+],
+[
+12,
+"Volume of a cube of side 4 cm is:",
+[
+"16 cm³",
+"48 cm³",
+"12 cm³",
+"64 cm³"
+],
+3,
+"4³."
+],
+[
+12,
+"Volume of a cuboid 5 × 3 × 2 cm is:",
+[
+"10 cm³",
+"31 cm³",
+"30 cm³",
+"15 cm³"
+],
+2,
+"5 × 3 × 2."
+],
+[
+12,
+"The value of π is approximately:",
+[
+"3.41",
+"3.14",
+"2.14",
+"1.34"
+],
+1,
+"π ≈ 22/7."
+],
+[
+12,
+"The unit of volume is:",
+[
+"cm³",
+"cm²",
+"cm",
+"kg"
+],
+0,
+"Cubic units."
+],
+[
+12,
+"Area of a rectangle 8 cm × 6 cm is:",
+[
+"28 cm²",
+"14 cm²",
+"96 cm²",
+"48 cm²"
+],
+3,
+"8 × 6."
+],
+[
+13,
+"A graph that shows data using bars is a:",
+[
+"Pie chart",
+"Bar graph",
+"Line graph",
+"Pictograph"
+],
+1,
+"Bar graph."
+],
+[
+13,
+"A circular graph divided into sectors is a:",
+[
+"Bar graph",
+"Pie chart",
+"Histogram",
+"Line graph"
+],
+1,
+"Pie chart."
+],
+[
+13,
+"The average of 3, 5, 7, 9 is:",
+[
+"5",
+"24",
+"6",
+"7"
+],
+2,
+"24 ÷ 4."
+],
+[
+13,
+"The mode of 4, 5, 5, 6, 7 is:",
+[
+"4",
+"6",
+"7",
+"5"
+],
+3,
+"Most frequent."
+],
+[
+13,
+"The median of 1, 3, 5, 7, 9 is:",
+[
+"3",
+"7",
+"25",
+"5"
+],
+3,
+"Middle value."
+],
+[
+13,
+"Total angle of a pie chart is:",
+[
+"180°",
+"100°",
+"90°",
+"360°"
+],
+3,
+"Full circle."
+],
+[
+13,
+"Information collected for a purpose is called:",
+[
+"Data",
+"Graph",
+"Table",
+"Formula"
+],
+0,
+"Data."
+],
+[
+13,
+"In a pie chart, if 1/4 of students like cricket, its sector angle is:",
+[
+"45°",
+"90°",
+"180°",
+"60°"
+],
+1,
+"360 × 1/4."
+],
+[
+13,
+"The difference between highest and lowest values is the:",
+[
+"Mean",
+"Mode",
+"Median",
+"Range"
+],
+3,
+"Range."
+],
+[
+13,
+"The arithmetic mean of 10 and 20 is:",
+[
+"30",
+"10",
+"20",
+"15"
+],
+3,
+"(10 + 20)/2."
+]
+]

@@ -1,0 +1,209 @@
+#g3_snc_mathematics
+1|The place value of 7 in 4,726 is:|700|7|70|7,000|7 is in the hundreds place.
+1|The number 3,045 in words is:|Three thousand forty-five|Three thousand four hundred five|Thirty forty-five|Three hundred forty-five|3 thousands, 0 hundreds, 4 tens, 5 ones.
+1|The greatest 4-digit number is:|9,999|9,000|1,000|99,999|Largest 4-digit number.
+1|The smallest 4-digit number is:|1,000|999|1,111|9,999|Smallest 4-digit number.
+1|Which number is greater: 5,432 or 5,423?|5,432|5,423|Both are equal|Cannot say|Compare tens: 3 > 2.
+1|2,000 + 300 + 50 + 6 =|2,356|2,365|23,56|2,536|Expanded form.
+1|The number just after 999 is:|1,000|998|9,999|1,001|999 + 1.
+1|Round 46 to the nearest 10:|50|40|45|60|6 ≥ 5, so round up.
+1|The Roman numeral X stands for:|10|5|1|50|X = 10.
+1|Ordinal number for 3 is:|Third|Three|Thirteen|Thirty|Ordinal numbers show position.
+2|245 + 132 =|377|367|387|113|Add hundreds, tens, ones.
+2|500 − 275 =|225|235|275|325|Subtraction with borrowing.
+2|8 × 7 =|56|54|48|64|Multiplication table of 8.
+2|63 ÷ 9 =|7|6|8|9|9 × 7 = 63.
+2|Any number multiplied by 0 gives:|0|The same number|1|10|Zero property.
+2|Any number multiplied by 1 gives:|The same number|0|1|10|Identity property.
+2|25 × 4 =|100|90|125|29|4 quarters of 100.
+2|The sign used for division is:|÷|×|+|−|Division sign.
+2|48 ÷ 6 =|8|6|7|9|6 × 8 = 48.
+2|The sum of 199 and 1 is:|200|198|201|100|199 + 1.
+2|12 × 10 =|120|112|102|1,200|Multiply by 10: add a zero.
+3|In the fraction 3/5, the numerator is:|3|5|8|2|Top number.
+3|In the fraction 3/5, the denominator is:|5|3|8|15|Bottom number.
+3|Which fraction is equal to 1/2?|2/4|1/3|2/3|3/4|Equivalent fraction.
+3|Which is greater: 3/4 or 1/4?|3/4|1/4|Both equal|Cannot say|Same denominator, bigger numerator.
+3|1/4 + 2/4 =|3/4|3/8|1/2|2/4|Like fractions.
+3|Half of 20 is:|10|5|20|40|20 ÷ 2.
+3|A fraction whose numerator is smaller than denominator is a:|Proper fraction|Improper fraction|Mixed number|Whole number|Proper fraction.
+3|5/5 equals:|1|5|0|10|Same numerator and denominator.
+3|One quarter is written as:|1/4|1/2|4/1|1/3|Quarter = one of four equal parts.
+3|3/7 − 1/7 =|2/7|4/7|2/0|3/7|Like fractions.
+4|1 metre equals:|100 centimetres|10 centimetres|1,000 centimetres|50 centimetres|1 m = 100 cm.
+4|1 kilogram equals:|1,000 grams|100 grams|10 grams|500 grams|1 kg = 1,000 g.
+4|1 litre equals:|1,000 millilitres|100 millilitres|10 millilitres|500 millilitres|1 L = 1,000 mL.
+4|1 kilometre equals:|1,000 metres|100 metres|10 metres|10,000 metres|1 km = 1,000 m.
+4|Which unit is used to measure the weight of a bag of rice?|Kilogram|Litre|Metre|Hour|Mass unit.
+4|Which unit is used to measure milk?|Litre|Kilogram|Metre|Gram|Capacity unit.
+4|2 m 50 cm equals:|250 cm|25 cm|205 cm|2,050 cm|200 + 50.
+4|Which is longer: 1 m or 90 cm?|1 m|90 cm|Both equal|Cannot say|1 m = 100 cm.
+4|Half a kilogram equals:|500 g|50 g|5,000 g|250 g|1,000 ÷ 2.
+4|Length of a pencil is best measured in:|Centimetres|Kilometres|Litres|Kilograms|Small length.
+5|How many minutes are there in one hour?|60|30|100|24|1 hour = 60 minutes.
+5|How many hours are there in one day?|24|12|60|7|1 day = 24 hours.
+5|How many days are there in one week?|7|5|10|30|1 week = 7 days.
+5|How many months are there in one year?|12|10|24|52|1 year = 12 months.
+5|How many seconds are there in one minute?|60|100|30|24|1 minute = 60 seconds.
+5|When the minute hand is at 12 and the hour hand at 3, the time is:|3 o'clock|12 o'clock|12:15|3:30|Clock reading.
+5|Half past 4 means:|4:30|4:15|4:45|5:30|Half past = 30 minutes.
+5|Quarter past 2 means:|2:15|2:45|2:30|1:45|Quarter = 15 minutes.
+5|The short hand of a clock shows the:|Hours|Minutes|Seconds|Days|Hour hand.
+5|Which month has 28 or 29 days?|February|January|March|December|February.
+5|How many days are there in a normal year?|365|366|360|300|Leap year has 366.
+5|A.M. is used for time:|From midnight to noon|From noon to midnight|Only at night|Only evening|Before noon.
+6|A triangle has how many sides?|3|4|5|6|Tri = three.
+6|A square has how many corners (vertices)?|4|3|5|6|Square.
+6|A shape with 4 equal sides and 4 right angles is a:|Square|Rectangle|Triangle|Circle|Square.
+6|A circle has how many corners?|0|1|2|4|A circle has no corners.
+6|A shape with 6 sides is called a:|Hexagon|Pentagon|Octagon|Square|Hexa = six.
+6|A ball is shaped like a:|Sphere|Cube|Cylinder|Cone|Sphere.
+6|An ice-cream cone is shaped like a:|Cone|Cube|Sphere|Cylinder|Cone.
+6|A dice is shaped like a:|Cube|Sphere|Cone|Cylinder|Cube.
+6|A straight line has how many end points?|None (it goes on forever)|One|Two|Three|Line has no end points.
+6|A line segment has how many end points?|Two|One|None|Three|Segment.
+6|A ray has how many end points?|One|Two|None|Three|Ray.
+6|A right angle measures:|90°|180°|45°|360°|Right angle.
+7|Information collected in the form of numbers is called:|Data|Graph|Table|Picture|Data.
+7|A graph that uses pictures to show data is called a:|Pictograph|Bar graph|Line graph|Pie chart|Pictograph.
+7|A graph that uses bars to show data is called a:|Bar graph|Pictograph|Pie chart|Map|Bar graph.
+7|Tally marks (four lines with one line across) represent:|5|4|6|10|Group of five.
+7|In a pictograph, if one picture = 2 children, then 4 pictures =|8 children|4 children|6 children|2 children|4 × 2.
+7|In a bar graph, the tallest bar shows the:|Greatest value|Smallest value|Average|Total only|Tallest = most.
+7|Data arranged in rows and columns is called a:|Table|Graph|Picture|Map|Table.
+7|To record data quickly we use:|Tally marks|Fractions|Clocks|Rulers|Tally.
+7|If 5 children like mango and 3 like apple, how many more like mango?|2|8|3|5|5 − 3.
+7|If 5 children like mango and 3 like apple, how many in all?|8|2|15|5|5 + 3.
+#g4_snc_mathematics
+2|Factors of 12 are:|1, 2, 3, 4, 6, 12|1, 2, 3, 12|2, 4, 6, 8|12, 24, 36|Numbers that divide 12.
+2|The first three multiples of 5 are:|5, 10, 15|1, 5, 10|5, 6, 7|10, 15, 20|5×1, 5×2, 5×3.
+2|A number with only two factors (1 and itself) is called:|Prime number|Composite number|Even number|Square number|Prime.
+2|A number with more than two factors is called:|Composite number|Prime number|Odd number|Zero|Composite.
+2|Which is a prime number?|7|9|15|21|7 has only 1 and 7.
+2|1 is:|Neither prime nor composite|Prime|Composite|Even|Special case.
+2|The smallest prime number is:|2|1|3|0|2 is the only even prime.
+2|Which number is divisible by 3?|27|28|31|43|2 + 7 = 9 is divisible by 3.
+2|A number ending in 0 or 5 is divisible by:|5|3|4|9|Divisibility rule.
+2|An even number is always divisible by:|2|3|5|7|Even numbers.
+2|The common factors of 8 and 12 are:|1, 2, 4|1, 2, 3|2, 4, 8|1, 3, 6|Factors of both.
+2|The first common multiple of 2 and 3 is:|6|5|12|3|LCM of 2 and 3.
+3|Which fraction is an improper fraction?|7/4|3/4|1/2|2/5|Numerator > denominator.
+3|7/4 as a mixed number is:|1¾|1¼|7¼|2¾|7 ÷ 4 = 1 remainder 3.
+3|2½ as an improper fraction is:|5/2|3/2|4/2|2/5|2×2 + 1 = 5.
+3|Simplest form of 6/8 is:|3/4|2/3|6/8|1/2|Divide by 2.
+3|1/3 + 1/3 =|2/3|2/6|1/3|1/9|Like fractions.
+3|Which is smaller: 1/3 or 1/5?|1/5|1/3|Both equal|Cannot say|Same numerator, bigger denominator is smaller.
+3|1/2 of 30 is:|15|10|60|30|30 ÷ 2.
+3|Fractions with the same denominator are called:|Like fractions|Unlike fractions|Improper fractions|Mixed fractions|Like fractions.
+3|3/4 − 1/4 =|1/2|2/8|1/4|3/4|2/4 = 1/2.
+3|Which is equivalent to 2/3?|4/6|3/2|2/6|4/3|Multiply by 2/2.
+4|0.5 as a fraction is:|1/2|1/5|5/1|1/50|5 tenths = 1/2.
+4|3/10 as a decimal is:|0.3|3.0|0.03|30|Tenths place.
+4|In 4.27, the digit 2 is in the:|Tenths place|Ones place|Hundredths place|Tens place|First place after decimal.
+4|7/100 as a decimal is:|0.07|0.7|7.0|0.007|Hundredths.
+4|2.5 + 1.3 =|3.8|3.5|4.8|2.8|Add decimals.
+4|5.6 − 2.4 =|3.2|3.0|8.0|3.4|Subtract decimals.
+4|Which is greater: 0.6 or 0.06?|0.6|0.06|Both equal|Cannot say|Tenths > hundredths.
+4|The decimal point separates the whole number from the:|Fractional part|Tens|Hundreds|Thousands|Decimal point.
+4|1.25 in words is:|One point two five|Twelve point five|One hundred twenty-five|One and twenty-five tenths|Reading decimals.
+4|0.25 equals:|1/4|1/2|2/5|25|25 hundredths = 1/4.
+5|1 km = ___ m|1,000|100|10|10,000|Kilometre to metre.
+5|3 kg 200 g = ___ g|3,200|320|3,020|32,000|3,000 + 200.
+5|1,500 mL = ___ L|1.5|15|150|0.15|1,000 mL = 1 L.
+5|Perimeter of a square of side 5 cm is:|20 cm|25 cm|10 cm|15 cm|4 × 5.
+5|Perimeter of a rectangle 6 cm by 4 cm is:|20 cm|24 cm|10 cm|12 cm|2(6 + 4).
+5|Which unit is best for the distance between two cities?|Kilometre|Centimetre|Millimetre|Gram|Long distance.
+6|An angle less than 90° is called:|Acute angle|Obtuse angle|Right angle|Straight angle|Acute.
+6|An angle greater than 90° but less than 180° is called:|Obtuse angle|Acute angle|Right angle|Reflex angle|Obtuse.
+6|An angle of exactly 180° is called a:|Straight angle|Right angle|Acute angle|Reflex angle|Straight angle.
+6|Lines that never meet are called:|Parallel lines|Perpendicular lines|Intersecting lines|Curved lines|Parallel.
+6|Lines that meet at a right angle are called:|Perpendicular lines|Parallel lines|Curved lines|Rays|Perpendicular.
+6|An instrument used to measure angles is:|Protractor|Compass|Ruler|Thermometer|Protractor.
+6|A triangle with all sides equal is called:|Equilateral|Isosceles|Scalene|Right-angled|Equal sides.
+6|The radius of a circle is ___ the diameter.|Half|Double|Equal|One-third|r = d/2.
+7|A bar graph uses ___ to show data.|Bars|Pictures|Circles|Lines only|Bar graph.
+7|In a pictograph, a key tells us:|What one picture stands for|The title|The total|Nothing|Key.
+7|If 1 symbol = 10 books, then 3½ symbols =|35 books|30 books|40 books|3 books|3.5 × 10.
+7|The data value that appears most often is called the:|Mode|Mean|Total|Range|Mode.
+7|A line graph is useful to show:|Change over time|Parts of a whole|Only names|Shapes|Line graph.
+7|Tally marks are used to:|Count and record data|Draw shapes|Measure length|Tell time|Tally.
+#g5_snc_mathematics
+1|The place value of 5 in 6,53,421 is:|50,000|5,000|500,000|5|5 is in the ten-thousands place.
+1|The successor of 99,999 is:|1,00,000|99,998|1,00,001|9,99,999|99,999 + 1.
+1|In BODMAS, which operation is done first?|Brackets|Addition|Subtraction|Multiplication|B comes first.
+1|8 + 2 × 5 =|18|50|20|15|Multiply first: 8 + 10.
+1|(8 + 2) × 5 =|50|18|20|15|Brackets first.
+1|A number that is divisible by 2 is:|Even|Odd|Prime|Zero|Even numbers.
+1|The predecessor of 10,000 is:|9,999|10,001|9,000|1,000|10,000 − 1.
+1|Round 7,486 to the nearest hundred:|7,500|7,400|7,490|8,000|86 ≥ 50 → round up.
+1|25 × 12 =|300|250|275|312|25 × 12 = 300.
+1|1,000 ÷ 25 =|40|25|400|4|25 × 40 = 1,000.
+2|H.C.F. of 12 and 18 is:|6|3|36|2|Highest common factor.
+2|L.C.M. of 4 and 6 is:|12|24|2|10|Least common multiple.
+2|H.C.F. of two prime numbers is always:|1|0|The larger number|Their product|No common factor except 1.
+2|L.C.M. of 3 and 5 is:|15|8|1|5|Co-prime: product.
+2|For any two numbers, H.C.F. × L.C.M. equals:|The product of the numbers|Their sum|Their difference|1|Property.
+2|H.C.F. of 20 and 30 is:|10|5|60|20|Highest common factor.
+2|L.C.M. of 6 and 8 is:|24|48|14|2|Least common multiple.
+2|Prime factorisation of 12 is:|2 × 2 × 3|2 × 6|3 × 4|1 × 12|Product of primes.
+2|The number of bells ringing together again after 6 and 8 minutes is found using:|L.C.M.|H.C.F.|Addition|Subtraction|LCM problem.
+2|The largest number that divides 16 and 24 exactly is:|8|4|2|48|HCF.
+3|1/2 + 1/3 =|5/6|2/5|1/6|2/6|LCM 6: 3/6 + 2/6.
+3|3/4 × 2 =|3/2|6/8|3/8|5/4|3 × 2 / 4.
+3|1/2 × 1/3 =|1/6|2/5|1/5|2/6|Multiply numerators and denominators.
+3|The reciprocal of 3/5 is:|5/3|3/5|1/5|−3/5|Flip the fraction.
+3|2/3 ÷ 1/3 =|2|2/9|1/3|6|2/3 × 3.
+3|3/5 of 25 is:|15|5|10|20|25 ÷ 5 × 3.
+3|1 − 2/5 =|3/5|1/5|2/5|4/5|5/5 − 2/5.
+3|Which fraction is the largest: 1/2, 2/3, 3/4?|3/4|1/2|2/3|All equal|0.75 is largest.
+3|5/6 − 1/3 =|1/2|4/3|2/3|1/6|5/6 − 2/6 = 3/6.
+3|Mixed number 3⅓ as improper fraction is:|10/3|9/3|4/3|3/10|3×3 + 1 = 10.
+4|50% as a fraction is:|1/2|1/5|5/2|1/50|50/100 = 1/2.
+4|25% of 200 is:|50|25|100|75|200 × 25/100.
+4|0.75 as a percentage is:|75%|7.5%|0.75%|750%|Multiply by 100.
+4|3/4 as a percentage is:|75%|34%|25%|43%|3/4 × 100.
+4|Percent means:|Per hundred|Per ten|Per thousand|Per one|Cent = hundred.
+4|10% of 500 is:|50|10|5|500|500 × 10/100.
+4|0.4 as a fraction in simplest form is:|2/5|4/100|1/4|4/5|4/10 = 2/5.
+4|2.5 × 10 =|25|2.50|250|0.25|Move decimal one place right.
+4|7.2 ÷ 10 =|0.72|72|7.02|0.072|Move decimal one place left.
+4|100% of a number is:|The number itself|Zero|Half the number|Double the number|Whole.
+5|Speed = |Distance ÷ Time|Distance × Time|Time ÷ Distance|Distance + Time|Formula.
+5|A car travels 120 km in 2 hours. Its speed is:|60 km/h|240 km/h|120 km/h|30 km/h|120 ÷ 2.
+5|Distance = |Speed × Time|Speed ÷ Time|Time ÷ Speed|Speed + Time|Formula.
+5|A cyclist rides at 15 km/h for 3 hours. Distance covered is:|45 km|5 km|18 km|12 km|15 × 3.
+5|Time = |Distance ÷ Speed|Speed × Distance|Speed ÷ Distance|Distance − Speed|Formula.
+5|How long will it take to cover 100 km at 50 km/h?|2 hours|5 hours|50 hours|1 hour|100 ÷ 50.
+5|1 hour 30 minutes equals:|90 minutes|130 minutes|60 minutes|80 minutes|60 + 30.
+5|The 24-hour time for 3:00 p.m. is:|15:00|03:00|13:00|21:00|12 + 3.
+5|The unit of speed is:|km/h|km|hour|kg|Distance per time.
+6|If 5 pens cost Rs. 50, then 1 pen costs:|Rs. 10|Rs. 5|Rs. 250|Rs. 45|50 ÷ 5.
+6|If 1 book costs Rs. 40, then 6 books cost:|Rs. 240|Rs. 46|Rs. 200|Rs. 260|40 × 6.
+6|Finding the value of one unit first is called the:|Unitary method|Ratio method|Percentage|Average|Unitary method.
+6|If 4 kg of rice costs Rs. 400, 7 kg will cost:|Rs. 700|Rs. 400|Rs. 1,100|Rs. 600|100 per kg.
+6|If 3 workers finish a job in 6 days, 1 worker will finish it in:|18 days|2 days|6 days|9 days|More workers, fewer days (inverse).
+6|If 10 eggs cost Rs. 150, then 2 eggs cost:|Rs. 30|Rs. 15|Rs. 75|Rs. 20|15 each.
+6|A car uses 5 L of petrol for 60 km. For 1 L it goes:|12 km|300 km|65 km|55 km|60 ÷ 5.
+7|The sum of the angles of a triangle is:|180°|90°|360°|270°|Angle sum.
+7|The sum of the angles of a quadrilateral is:|360°|180°|90°|270°|Two triangles.
+7|A triangle with one angle of 90° is called:|Right-angled triangle|Acute triangle|Obtuse triangle|Equilateral triangle|Right angle.
+7|A triangle with all angles less than 90° is called:|Acute-angled|Right-angled|Obtuse-angled|Straight|Acute.
+7|A quadrilateral with only one pair of parallel sides is a:|Trapezium|Parallelogram|Rectangle|Square|Trapezium.
+7|If two angles of a triangle are 50° and 60°, the third angle is:|70°|110°|90°|60°|180 − 110.
+7|A circle's longest chord is the:|Diameter|Radius|Arc|Tangent|Diameter.
+7|An angle of 270° is called:|Reflex angle|Obtuse angle|Straight angle|Right angle|Between 180° and 360°.
+8|Area of a rectangle =|Length × Breadth|2(L + B)|L + B|L ÷ B|Area formula.
+8|Area of a square with side 6 cm is:|36 cm²|24 cm²|12 cm²|30 cm²|6 × 6.
+8|Perimeter of a square with side 6 cm is:|24 cm|36 cm|12 cm|18 cm|4 × 6.
+8|The unit of area is:|Square units (cm², m²)|cm|kg|L|Area unit.
+8|A rectangle is 10 m long and 4 m wide. Its area is:|40 m²|28 m²|14 m²|20 m²|10 × 4.
+8|A rectangle is 10 m long and 4 m wide. Its perimeter is:|28 m|40 m|14 m|24 m|2(10 + 4).
+8|The boundary length of a closed shape is called its:|Perimeter|Area|Volume|Height|Perimeter.
+8|If the area of a square is 49 cm², its side is:|7 cm|49 cm|12.25 cm|14 cm|√49.
+9|The average of 4, 6 and 8 is:|6|18|8|4|18 ÷ 3.
+9|Average = |Sum of values ÷ Number of values|Sum × Number|Largest − Smallest|Middle value|Mean.
+9|A pie chart shows data as parts of a:|Circle|Bar|Line|Square|Pie chart.
+9|The average of 10, 20, 30, 40 is:|25|100|30|20|100 ÷ 4.
+9|A line graph is best to show:|Temperature over a week|Favourite fruit|Shapes|Colours|Change over time.
+9|In a pie chart, the whole circle represents:|100% (total)|50%|One item|Zero|Whole.
+9|The marks of three students are 50, 60, 70. Their average is:|60|180|50|70|180 ÷ 3.

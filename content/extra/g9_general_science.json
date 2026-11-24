@@ -1,0 +1,626 @@
+[
+[
+1,
+"The word 'science' comes from the Latin word 'scientia' meaning:",
+[
+"Experiment",
+"Nature",
+"Knowledge",
+"Machine"
+],
+2,
+"Scientia = knowledge."
+],
+[
+1,
+"The scientific method begins with:",
+[
+"Observation",
+"Conclusion",
+"Theory",
+"Law"
+],
+0,
+"First step."
+],
+[
+1,
+"A tentative explanation that can be tested is called a:",
+[
+"Law",
+"Theory",
+"Hypothesis",
+"Fact"
+],
+2,
+"Hypothesis."
+],
+[
+1,
+"Al-Khwarizmi is famous for his work in:",
+[
+"Medicine",
+"Astronomy only",
+"Chemistry",
+"Algebra"
+],
+3,
+"Father of algebra."
+],
+[
+1,
+"Ibn al-Haytham is known for his work in:",
+[
+"Algebra",
+"Botany",
+"Geology",
+"Optics"
+],
+3,
+"Father of optics."
+],
+[
+1,
+"Jabir bin Hayyan is known as the father of:",
+[
+"Physics",
+"Biology",
+"Chemistry",
+"Mathematics"
+],
+2,
+"Alchemy/chemistry."
+],
+[
+1,
+"Ibn Sina wrote the famous medical book:",
+[
+"Al-Jabr",
+"Al-Qanun fi al-Tibb",
+"Kitab al-Manazir",
+"Principia"
+],
+1,
+"The Canon of Medicine."
+],
+[
+1,
+"Dr. Abdus Salam won the Nobel Prize in:",
+[
+"Chemistry",
+"Peace",
+"Physics",
+"Medicine"
+],
+2,
+"1979, Physics."
+],
+[
+1,
+"The branch of science that deals with living things is:",
+[
+"Biology",
+"Physics",
+"Chemistry",
+"Geology"
+],
+0,
+"Bio = life."
+],
+[
+1,
+"The branch of science that deals with matter and energy is:",
+[
+"Physics",
+"Biology",
+"Botany",
+"Zoology"
+],
+0,
+"Physics."
+],
+[
+2,
+"The smallest particle of an element is an:",
+[
+"Atom",
+"Molecule",
+"Compound",
+"Mixture"
+],
+0,
+"Atom."
+],
+[
+2,
+"Water is a:",
+[
+"Compound",
+"Element",
+"Mixture",
+"Metal"
+],
+0,
+"H₂O."
+],
+[
+2,
+"The chemical formula of common salt is:",
+[
+"NaCl",
+"H₂O",
+"CO₂",
+"HCl"
+],
+0,
+"Sodium chloride."
+],
+[
+2,
+"Soap is made by the reaction of oil/fat with:",
+[
+"Hydrochloric acid",
+"Sodium hydroxide",
+"Water only",
+"Sugar"
+],
+1,
+"Saponification."
+],
+[
+2,
+"The pH of pure water is:",
+[
+"1",
+"14",
+"7",
+"0"
+],
+2,
+"Neutral."
+],
+[
+2,
+"Acids turn blue litmus:",
+[
+"Blue",
+"Red",
+"Green",
+"Yellow"
+],
+1,
+"Acid test."
+],
+[
+2,
+"Bases turn red litmus:",
+[
+"Blue",
+"Red",
+"Yellow",
+"Colourless"
+],
+0,
+"Base test."
+],
+[
+2,
+"Which gas is produced when fuels burn completely?",
+[
+"Carbon dioxide",
+"Oxygen",
+"Hydrogen",
+"Nitrogen"
+],
+0,
+"Combustion."
+],
+[
+2,
+"Detergents are better than soap in:",
+[
+"Soft water only",
+"Oil",
+"Hard water",
+"Air"
+],
+2,
+"Do not form scum."
+],
+[
+2,
+"Fertilizers provide plants with:",
+[
+"Nutrients",
+"Water only",
+"Sunlight",
+"Air only"
+],
+0,
+"NPK."
+],
+[
+2,
+"The gas used in fire extinguishers is:",
+[
+"Oxygen",
+"Carbon dioxide",
+"Hydrogen",
+"Methane"
+],
+1,
+"CO₂."
+],
+[
+3,
+"Proteins are made up of:",
+[
+"Fatty acids",
+"Glucose",
+"Nucleotides",
+"Amino acids"
+],
+3,
+"Building blocks."
+],
+[
+3,
+"Carbohydrates are made of carbon, hydrogen and:",
+[
+"Oxygen",
+"Nitrogen",
+"Sulphur",
+"Iron"
+],
+0,
+"CHO."
+],
+[
+3,
+"Enzymes are biological:",
+[
+"Catalysts",
+"Hormones",
+"Vitamins",
+"Minerals"
+],
+0,
+"Speed up reactions."
+],
+[
+3,
+"DNA stands for:",
+[
+"Dinitrogen acid",
+"Dioxy nucleic acid",
+"Double nucleic acid",
+"Deoxyribonucleic acid"
+],
+3,
+"Genetic material."
+],
+[
+3,
+"The use of living organisms to make useful products is called:",
+[
+"Geology",
+"Astronomy",
+"Biotechnology",
+"Ecology"
+],
+2,
+"Biotechnology."
+],
+[
+3,
+"Insulin for diabetics is now produced using:",
+[
+"Genetically modified bacteria",
+"Plants only",
+"Coal",
+"Petroleum"
+],
+0,
+"Genetic engineering."
+],
+[
+3,
+"Yoghurt is made using:",
+[
+"Viruses",
+"Algae",
+"Ferns",
+"Bacteria"
+],
+3,
+"Fermentation."
+],
+[
+3,
+"Fermentation of sugar by yeast produces alcohol and:",
+[
+"Oxygen",
+"Nitrogen",
+"Water only",
+"Carbon dioxide"
+],
+3,
+"Fermentation."
+],
+[
+3,
+"Vitamins required in small amounts are called:",
+[
+"Micronutrients",
+"Macronutrients",
+"Carbohydrates",
+"Fats"
+],
+0,
+"Small quantities."
+],
+[
+3,
+"Glucose is a type of:",
+[
+"Protein",
+"Fat",
+"Vitamin",
+"Carbohydrate"
+],
+3,
+"Simple sugar."
+],
+[
+3,
+"Fats provide:",
+[
+"No energy",
+"Only vitamins",
+"Most energy per gram",
+"Only minerals"
+],
+2,
+"Energy-rich."
+],
+[
+4,
+"A balanced diet contains all nutrients in:",
+[
+"Proper amounts",
+"Large amounts",
+"Small amounts only",
+"Fried form"
+],
+0,
+"Balanced diet."
+],
+[
+4,
+"Lack of Vitamin D causes:",
+[
+"Scurvy",
+"Rickets",
+"Anaemia",
+"Goitre"
+],
+1,
+"Weak bones."
+],
+[
+4,
+"Lack of iodine causes:",
+[
+"Goitre",
+"Rickets",
+"Scurvy",
+"Night blindness"
+],
+0,
+"Thyroid enlargement."
+],
+[
+4,
+"Lack of Vitamin A causes:",
+[
+"Scurvy",
+"Rickets",
+"Beri-beri",
+"Night blindness"
+],
+3,
+"Vision."
+],
+[
+4,
+"Normal body temperature of a human is about:",
+[
+"37 °C",
+"30 °C",
+"42 °C",
+"100 °C"
+],
+0,
+"98.6 °F."
+],
+[
+4,
+"Regular exercise keeps the body:",
+[
+"Weak",
+"Tired",
+"Healthy",
+"Sick"
+],
+2,
+"Benefits of exercise."
+],
+[
+4,
+"Smoking mainly damages the:",
+[
+"Bones",
+"Lungs",
+"Hair",
+"Nails"
+],
+1,
+"Lung disease."
+],
+[
+4,
+"Drug addiction affects the:",
+[
+"Brain and whole body",
+"Hair only",
+"Nails only",
+"Teeth only"
+],
+0,
+"Harmful."
+],
+[
+4,
+"First aid is the:",
+[
+"Immediate help given to an injured person",
+"Final treatment",
+"Surgery",
+"Medicine only"
+],
+0,
+"First aid."
+],
+[
+4,
+"Clean drinking water prevents diseases like:",
+[
+"Diabetes",
+"Cancer",
+"Asthma",
+"Cholera and typhoid"
+],
+3,
+"Water-borne diseases."
+],
+[
+5,
+"Diseases caused by germs are called:",
+[
+"Infectious diseases",
+"Deficiency diseases",
+"Genetic diseases",
+"Lifestyle diseases"
+],
+0,
+"Pathogens."
+],
+[
+5,
+"Tuberculosis is caused by a:",
+[
+"Virus",
+"Bacterium",
+"Fungus",
+"Worm"
+],
+1,
+"Mycobacterium."
+],
+[
+5,
+"Polio is caused by a:",
+[
+"Bacterium",
+"Fungus",
+"Virus",
+"Protozoan"
+],
+2,
+"Poliovirus."
+],
+[
+5,
+"Malaria is caused by a:",
+[
+"Virus",
+"Bacterium",
+"Protozoan (Plasmodium)",
+"Fungus"
+],
+2,
+"Plasmodium."
+],
+[
+5,
+"Dengue fever is spread by:",
+[
+"Housefly",
+"Rats",
+"Dogs",
+"Aedes mosquito"
+],
+3,
+"Aedes aegypti."
+],
+[
+5,
+"Hepatitis mainly affects the:",
+[
+"Heart",
+"Liver",
+"Lungs",
+"Kidneys"
+],
+1,
+"Hepat = liver."
+],
+[
+5,
+"Vaccination provides:",
+[
+"Disease",
+"Pain",
+"Allergy",
+"Immunity"
+],
+3,
+"Prevention."
+],
+[
+5,
+"Diabetes is related to the hormone:",
+[
+"Insulin",
+"Adrenaline",
+"Thyroxine",
+"Estrogen"
+],
+0,
+"Insulin."
+],
+[
+5,
+"AIDS is caused by:",
+[
+"HIV",
+"Bacteria",
+"Fungi",
+"Worms"
+],
+0,
+"Human Immunodeficiency Virus."
+],
+[
+5,
+"Washing hands with soap helps prevent:",
+[
+"Growth",
+"Digestion",
+"Spread of germs",
+"Sleep"
+],
+2,
+"Hygiene."
+]
+]

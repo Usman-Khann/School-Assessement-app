@@ -1,0 +1,962 @@
+[
+[
+1,
+"The branch of chemistry dealing with carbon compounds is:",
+[
+"Inorganic chemistry",
+"Physical chemistry",
+"Biochemistry",
+"Organic chemistry"
+],
+3,
+"Organic."
+],
+[
+1,
+"The smallest unit of matter that can exist independently is a:",
+[
+"Atom always",
+"Molecule",
+"Ion",
+"Electron"
+],
+1,
+"Molecule."
+],
+[
+1,
+"An element is made of:",
+[
+"Different atoms",
+"Molecules only",
+"Ions only",
+"Same kind of atoms"
+],
+3,
+"Element."
+],
+[
+1,
+"The atomic mass unit (amu) is 1/12 of the mass of one atom of:",
+[
+"Hydrogen",
+"Oxygen-16",
+"Carbon-12",
+"Nitrogen"
+],
+2,
+"amu."
+],
+[
+1,
+"Avogadro's number is:",
+[
+"3 × 10⁸",
+"6.02 × 10²³",
+"1.6 × 10⁻¹⁹",
+"9.8"
+],
+1,
+"Number in a mole."
+],
+[
+1,
+"One mole of any substance contains:",
+[
+"1 particle",
+"6.02 × 10²³ particles",
+"12 particles",
+"1,000 particles"
+],
+1,
+"Mole."
+],
+[
+1,
+"The molar mass of water (H₂O) is:",
+[
+"16 g/mol",
+"18 g/mol",
+"20 g/mol",
+"10 g/mol"
+],
+1,
+"2 + 16."
+],
+[
+1,
+"The empirical formula shows:",
+[
+"Simplest whole-number ratio of atoms",
+"Actual number of atoms",
+"Structure",
+"Mass only"
+],
+0,
+"Empirical."
+],
+[
+1,
+"The molecular formula of glucose is:",
+[
+"CH₂O",
+"C₂H₆O",
+"C₁₂H₂₂O₁₁",
+"C₆H₁₂O₆"
+],
+3,
+"Glucose."
+],
+[
+1,
+"The molar mass of CO₂ is:",
+[
+"44 g/mol",
+"28 g/mol",
+"32 g/mol",
+"12 g/mol"
+],
+0,
+"12 + 32."
+],
+[
+2,
+"The atomic number is the number of:",
+[
+"Protons",
+"Neutrons",
+"Nucleons",
+"Electrons + neutrons"
+],
+0,
+"Z."
+],
+[
+2,
+"The electron was discovered by:",
+[
+"Rutherford",
+"J.J. Thomson",
+"Chadwick",
+"Bohr"
+],
+1,
+"Cathode rays."
+],
+[
+2,
+"The neutron was discovered by:",
+[
+"James Chadwick",
+"Rutherford",
+"Thomson",
+"Bohr"
+],
+0,
+"1932."
+],
+[
+2,
+"The nucleus was discovered by:",
+[
+"Thomson",
+"Rutherford",
+"Dalton",
+"Bohr"
+],
+1,
+"Gold foil experiment."
+],
+[
+2,
+"The maximum number of electrons in the second shell is:",
+[
+"2",
+"18",
+"8",
+"32"
+],
+2,
+"2n²."
+],
+[
+2,
+"Electronic configuration of sodium (Z = 11) is:",
+[
+"2, 8, 2",
+"2, 9",
+"8, 2, 1",
+"2, 8, 1"
+],
+3,
+"Shells."
+],
+[
+2,
+"Isotopes of hydrogen are protium, deuterium and:",
+[
+"Tritium",
+"Helium",
+"Lithium",
+"Ozone"
+],
+0,
+"Three isotopes."
+],
+[
+2,
+"Atoms of the same element with different mass numbers are:",
+[
+"Isobars",
+"Isomers",
+"Isotopes",
+"Ions"
+],
+2,
+"Isotopes."
+],
+[
+2,
+"The maximum number of electrons in the K shell is:",
+[
+"2",
+"8",
+"18",
+"1"
+],
+0,
+"First shell."
+],
+[
+2,
+"Bohr's model says electrons move in:",
+[
+"Random paths",
+"Fixed circular orbits (energy levels)",
+"The nucleus",
+"Straight lines"
+],
+1,
+"Bohr."
+],
+[
+3,
+"The modern periodic table is arranged by increasing:",
+[
+"Atomic number",
+"Atomic mass",
+"Number of neutrons",
+"Density"
+],
+0,
+"Modern periodic law."
+],
+[
+3,
+"Horizontal rows of the periodic table are called:",
+[
+"Groups",
+"Periods",
+"Families",
+"Blocks only"
+],
+1,
+"Periods."
+],
+[
+3,
+"Vertical columns of the periodic table are called:",
+[
+"Groups",
+"Periods",
+"Series",
+"Rows"
+],
+0,
+"Groups."
+],
+[
+3,
+"Elements of group 1 are called:",
+[
+"Halogens",
+"Noble gases",
+"Alkaline earth metals",
+"Alkali metals"
+],
+3,
+"Group 1."
+],
+[
+3,
+"Elements of group 17 are called:",
+[
+"Halogens",
+"Noble gases",
+"Alkali metals",
+"Transition metals"
+],
+0,
+"Group 17."
+],
+[
+3,
+"Elements of group 18 are called:",
+[
+"Halogens",
+"Alkali metals",
+"Metalloids",
+"Noble gases"
+],
+3,
+"Inert gases."
+],
+[
+3,
+"Atomic size ___ down a group.",
+[
+"Decreases",
+"Remains same",
+"Becomes zero",
+"Increases"
+],
+3,
+"More shells."
+],
+[
+3,
+"Atomic size ___ across a period from left to right.",
+[
+"Increases",
+"Remains same",
+"Decreases",
+"Doubles"
+],
+2,
+"Nuclear charge increases."
+],
+[
+3,
+"Electronegativity ___ across a period.",
+[
+"Decreases",
+"Remains same",
+"Increases",
+"Becomes zero"
+],
+2,
+"Trend."
+],
+[
+3,
+"The periodic table was first arranged by atomic mass by:",
+[
+"Mendeleev",
+"Moseley",
+"Dalton",
+"Bohr"
+],
+0,
+"Mendeleev."
+],
+[
+4,
+"A bond formed by transfer of electrons is a/an:",
+[
+"Ionic bond",
+"Covalent bond",
+"Metallic bond",
+"Hydrogen bond"
+],
+0,
+"Ionic."
+],
+[
+4,
+"A bond formed by sharing of electrons is a/an:",
+[
+"Covalent bond",
+"Ionic bond",
+"Metallic bond",
+"Dative only"
+],
+0,
+"Covalent."
+],
+[
+4,
+"NaCl has a/an ___ bond.",
+[
+"Ionic",
+"Covalent",
+"Metallic",
+"Hydrogen"
+],
+0,
+"Na⁺Cl⁻."
+],
+[
+4,
+"The bond in the H₂ molecule is:",
+[
+"Double covalent",
+"Ionic",
+"Metallic",
+"Single covalent"
+],
+3,
+"H–H."
+],
+[
+4,
+"The bond in O₂ is:",
+[
+"Single covalent",
+"Double covalent",
+"Triple covalent",
+"Ionic"
+],
+1,
+"O=O."
+],
+[
+4,
+"The bond in N₂ is:",
+[
+"Double covalent",
+"Single",
+"Ionic",
+"Triple covalent"
+],
+3,
+"N≡N."
+],
+[
+4,
+"A coordinate (dative) covalent bond is formed when:",
+[
+"Electrons are transferred",
+"Metals bond",
+"Both shared electrons come from one atom",
+"Ions repel"
+],
+2,
+"Dative bond."
+],
+[
+4,
+"Atoms bond to attain the electronic configuration of:",
+[
+"Alkali metals",
+"Noble gases",
+"Halogens",
+"Hydrogen"
+],
+1,
+"Octet rule."
+],
+[
+4,
+"Hydrogen bonding is strongest in:",
+[
+"Methane",
+"Hydrogen gas",
+"Water (H₂O)",
+"Carbon dioxide"
+],
+2,
+"H-bonds."
+],
+[
+4,
+"Metallic bonds are due to:",
+[
+"Shared pairs only",
+"Transfer of electrons",
+"Hydrogen atoms",
+"Sea of free electrons"
+],
+3,
+"Metallic."
+],
+[
+5,
+"Boyle's law: at constant temperature, pressure is inversely proportional to:",
+[
+"Volume",
+"Temperature",
+"Mass",
+"Moles"
+],
+0,
+"PV = constant."
+],
+[
+5,
+"Charles's law: at constant pressure, volume is directly proportional to:",
+[
+"Pressure",
+"Absolute temperature",
+"Mass",
+"Density"
+],
+1,
+"V/T = constant."
+],
+[
+5,
+"Diffusion is fastest in:",
+[
+"Gases",
+"Liquids",
+"Solids",
+"Vacuum"
+],
+0,
+"Gas particles move freely."
+],
+[
+5,
+"Evaporation is a ___ process.",
+[
+"Cooling",
+"Heating",
+"Freezing",
+"Neutral"
+],
+0,
+"Takes heat."
+],
+[
+5,
+"The temperature at which vapour pressure equals external pressure is the:",
+[
+"Melting point",
+"Freezing point",
+"Boiling point",
+"Dew point"
+],
+2,
+"Boiling."
+],
+[
+5,
+"Crystalline solids have:",
+[
+"Definite geometric shapes",
+"No shape",
+"Variable melting points",
+"No arrangement"
+],
+0,
+"Crystals."
+],
+[
+5,
+"Amorphous solids include:",
+[
+"Diamond",
+"Glass",
+"Sodium chloride",
+"Ice"
+],
+1,
+"No regular structure."
+],
+[
+5,
+"Allotropes of carbon include:",
+[
+"Oxygen and ozone",
+"Sulphur only",
+"Diamond and graphite",
+"Iron and steel"
+],
+2,
+"Allotropy."
+],
+[
+5,
+"Graphite conducts electricity because it has:",
+[
+"Free electrons",
+"No electrons",
+"Ionic bonds",
+"Water"
+],
+0,
+"Delocalised electrons."
+],
+[
+5,
+"Standard pressure is:",
+[
+"0 atm",
+"10 atm",
+"100 mmHg",
+"1 atm (760 mmHg)"
+],
+3,
+"STP."
+],
+[
+6,
+"A homogeneous mixture of two or more substances is a:",
+[
+"Suspension",
+"Colloid only",
+"Solution",
+"Compound"
+],
+2,
+"Solution."
+],
+[
+6,
+"The substance present in larger amount in a solution is the:",
+[
+"Solute",
+"Precipitate",
+"Solvent",
+"Colloid"
+],
+2,
+"Solvent."
+],
+[
+6,
+"Molarity is moles of solute per:",
+[
+"Kilogram of solvent",
+"Gram",
+"Litre of solution",
+"Millilitre"
+],
+2,
+"M = n/V."
+],
+[
+6,
+"A solution containing maximum solute at a given temperature is:",
+[
+"Unsaturated",
+"Dilute",
+"Saturated",
+"Colloidal"
+],
+2,
+"Saturated."
+],
+[
+6,
+"Particles in a colloid are ___ than in a true solution.",
+[
+"Larger",
+"Smaller",
+"Equal",
+"Invisible always"
+],
+0,
+"Colloid."
+],
+[
+6,
+"Milk is an example of a:",
+[
+"True solution",
+"Suspension",
+"Element",
+"Colloid"
+],
+3,
+"Colloid."
+],
+[
+6,
+"The Tyndall effect is shown by:",
+[
+"Colloids",
+"True solutions",
+"Pure water",
+"Salt solution"
+],
+0,
+"Light scattering."
+],
+[
+6,
+"1 M solution of NaCl contains ___ g NaCl per litre.",
+[
+"58.5",
+"40",
+"36.5",
+"18"
+],
+0,
+"Molar mass of NaCl."
+],
+[
+6,
+"Like dissolves like means polar solvents dissolve:",
+[
+"Non-polar solutes",
+"Metals",
+"Gases only",
+"Polar solutes"
+],
+3,
+"Solubility rule."
+],
+[
+6,
+"Percentage (m/m) = (mass of solute / mass of solution) ×",
+[
+"1,000",
+"100",
+"10",
+"1"
+],
+1,
+"Percent."
+],
+[
+7,
+"Oxidation is:",
+[
+"Gain of electrons",
+"Loss of electrons",
+"Gain of hydrogen",
+"Loss of oxygen"
+],
+1,
+"OIL RIG."
+],
+[
+7,
+"Reduction is:",
+[
+"Loss of electrons",
+"Gain of oxygen",
+"Loss of hydrogen",
+"Gain of electrons"
+],
+3,
+"OIL RIG."
+],
+[
+7,
+"In electrolysis, the positive electrode is the:",
+[
+"Cathode",
+"Electrolyte",
+"Anode",
+"Salt bridge"
+],
+2,
+"Anode."
+],
+[
+7,
+"In electrolysis, the negative electrode is the:",
+[
+"Anode",
+"Cathode",
+"Electrolyte",
+"Battery"
+],
+1,
+"Cathode."
+],
+[
+7,
+"Electroplating of objects is done by:",
+[
+"Electrolysis",
+"Distillation",
+"Filtration",
+"Evaporation"
+],
+0,
+"Electroplating."
+],
+[
+7,
+"A galvanic (voltaic) cell converts chemical energy into:",
+[
+"Electrical energy",
+"Heat only",
+"Light",
+"Sound"
+],
+0,
+"Voltaic cell."
+],
+[
+7,
+"Rusting of iron is an example of:",
+[
+"Reduction",
+"Neutralisation",
+"Sublimation",
+"Oxidation (corrosion)"
+],
+3,
+"Corrosion."
+],
+[
+7,
+"The oxidation number of oxygen in most compounds is:",
+[
+"−2",
+"+2",
+"0",
+"−1"
+],
+0,
+"Rule."
+],
+[
+7,
+"An oxidising agent:",
+[
+"Loses electrons",
+"Gives hydrogen",
+"Gains electrons",
+"Is always a metal"
+],
+2,
+"It is reduced."
+],
+[
+7,
+"Galvanising protects iron by coating it with:",
+[
+"Copper",
+"Zinc",
+"Tin only",
+"Silver"
+],
+1,
+"Sacrificial protection."
+],
+[
+8,
+"Metals generally:",
+[
+"Lose electrons to form positive ions",
+"Gain electrons",
+"Share electrons only",
+"Do not react"
+],
+0,
+"Electropositive."
+],
+[
+8,
+"Non-metals generally:",
+[
+"Lose electrons",
+"Are shiny",
+"Conduct electricity well",
+"Gain electrons to form negative ions"
+],
+3,
+"Electronegative."
+],
+[
+8,
+"The most reactive metal among these is:",
+[
+"Iron",
+"Copper",
+"Potassium",
+"Gold"
+],
+2,
+"Reactivity series."
+],
+[
+8,
+"Sodium is stored under kerosene because it:",
+[
+"Is heavy",
+"Reacts vigorously with air and water",
+"Is a gas",
+"Is poisonous only"
+],
+1,
+"Very reactive."
+],
+[
+8,
+"Gold and platinum are called noble metals because they:",
+[
+"Are very reactive",
+"Are gases",
+"Are non-metals",
+"Are very unreactive"
+],
+3,
+"Noble metals."
+],
+[
+8,
+"Metals are good conductors of:",
+[
+"Sound only",
+"Light only",
+"Nothing",
+"Heat and electricity"
+],
+3,
+"Free electrons."
+],
+[
+8,
+"The only liquid metal at room temperature is:",
+[
+"Gallium",
+"Sodium",
+"Mercury",
+"Bromine"
+],
+2,
+"Mercury."
+],
+[
+8,
+"Silicon is a:",
+[
+"Metal",
+"Non-metal gas",
+"Noble gas",
+"Metalloid"
+],
+3,
+"Semi-metal."
+],
+[
+8,
+"Halogens are very reactive:",
+[
+"Metals",
+"Noble gases",
+"Metalloids",
+"Non-metals"
+],
+3,
+"Group 17."
+],
+[
+8,
+"Alkali metals react with water to form hydroxides and:",
+[
+"Hydrogen gas",
+"Oxygen gas",
+"Nitrogen",
+"Chlorine"
+],
+0,
+"e.g. 2Na + 2H₂O → 2NaOH + H₂."
+]
+]
