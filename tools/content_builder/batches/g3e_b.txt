@@ -1,0 +1,120 @@
+5|Which noun is countable?|apple|water|milk|sugar|We can count apples: one apple, two apples.
+5|Which noun is uncountable?|rice|chair|book|pencil|We cannot count rice grain by grain in normal use; it has no plural form.
+5|Which noun is uncountable?|milk|cup|egg|bottle|Milk is a liquid and cannot be counted.
+5|Which noun is countable?|car|air|traffic|petrol|We can count cars.
+5|Choose the correct phrase:|some water|a water|two waters|an water|Uncountable nouns take 'some', not 'a'.
+5|Choose the correct phrase:|three cars|three car|a cars|some car|Countable nouns have plural forms: three cars.
+5|Choose the correct word: 'There is ___ milk in the glass.'|some|a|an|many|Uncountable nouns take 'some'.
+5|Choose the correct word: 'There are ___ buses on the road.'|many|much|a|an|'Many' is used with countable plural nouns.
+5|'Can' shows:|ability|past time|a place|a colour|We use 'can' to say someone is able to do something.
+5|'Cannot' shows:|inability|ability|a question|a number|'Cannot' means not able to do something.
+5|Choose the correct sentence:|A fish can swim.|A fish cans swim.|A fish can swims.|A fish can swimming.|After 'can' we use the base form of the verb.
+5|Choose the correct sentence:|A baby cannot drive a car.|A baby cannot drives a car.|A baby cannots drive a car.|A baby not can drive a car.|'Cannot' + base verb.
+5|The short form of 'cannot' is:|can't|cann't|cant'|ca'nt|Cannot → can't.
+5|Choose the correct word: 'Birds ___ fly.'|can|cannot|can't|cans|Birds are able to fly.
+5|Choose the correct word: 'A cow ___ fly.'|cannot|can|cans|could flies|A cow is not able to fly.
+5|'Does' is used with:|he, she, it|I, we, they|you|we|We say: he does, she does; I/we/you/they do.
+5|Choose the correct word: '___ she cross the road carefully?'|Does|Do|Is|Are|With 'she' we use 'does'.
+5|Choose the correct word: '___ you wait for the green light?'|Do|Does|Is|Has|With 'you' we use 'do'.
+5|The contraction of 'does not' is:|doesn't|does'nt|doesnt'|do'esnt|Does not → doesn't.
+5|Choose the correct sentence:|He doesn't run on the road.|He don't run on the road.|He doesn't runs on the road.|He not does run on the road.|He + doesn't + base verb.
+5|The traffic light that tells us to stop is:|red|green|yellow|blue|Red means stop.
+5|The traffic light that tells us to go is:|green|red|yellow|black|Green means go.
+5|We should cross the road at the:|zebra crossing|middle of the road|corner of a bus|bridge railing|The zebra crossing is the safe place to cross.
+5|How many syllables are in 'traffic'?|two|one|three|four|traf-fic has two syllables.
+5|How many syllables are in 'crossing'?|two|one|three|four|cross-ing has two syllables.
+5|Join the syllables: 'sig' + 'nal' =|signal|sigal|signl|singal|sig + nal = signal.
+5|Which is the correct spelling?|careful|carefull|carful|kareful|The correct spelling is c-a-r-e-f-u-l.
+5|Which is the correct spelling?|helmet|helmit|helmat|hellmet|The correct spelling is h-e-l-m-e-t.
+5|Choose the correct contraction for 'I cannot':|I can't|I cant|I'cant|Ican't|I cannot → I can't.
+5|Which word is countable?|bicycle|bread|juice|sand|We can count bicycles.
+6|A noun that names one person, place or thing is:|singular|plural|proper|collective|Singular means one.
+6|A noun that names more than one is:|plural|singular|common|neuter|Plural means more than one.
+6|The plural of 'book' is:|books|bookes|bookies|book|Most nouns add 's'.
+6|The plural of 'box' is:|boxes|boxs|boxies|boxen|Nouns ending in x add 'es'.
+6|The plural of 'bus' is:|buses|buss|busies|bus|Nouns ending in s add 'es'.
+6|The plural of 'brush' is:|brushes|brushs|brushies|brush|Nouns ending in sh add 'es'.
+6|The plural of 'watch' is:|watches|watchs|watchies|watch|Nouns ending in ch add 'es'.
+6|The plural of 'baby' is:|babies|babys|babyes|babis|Consonant + y → change y to i and add 'es'.
+6|The plural of 'lady' is:|ladies|ladys|ladyes|ladis|Lady → ladies.
+6|The plural of 'toy' is:|toys|toies|toyes|toyies|Vowel + y → just add 's'.
+6|The plural of 'man' is:|men|mans|mens|manes|Some plurals are irregular: man → men.
+6|The plural of 'child' is:|children|childs|childes|childrens|Child → children.
+6|The plural of 'tooth' is:|teeth|tooths|toothes|teeths|Tooth → teeth.
+6|The plural of 'foot' is:|feet|foots|footes|feets|Foot → feet.
+6|The plural of 'mouse' is:|mice|mouses|mices|mousies|Mouse → mice.
+6|The plural of 'leaf' is:|leaves|leafs|leafes|leavs|Leaf → leaves.
+6|The singular of 'potatoes' is:|potato|potatoe|potatos|potat|Potatoes → potato.
+6|'A', 'an' and 'the' are called:|articles|pronouns|verbs|adjectives of colour|These three words are articles.
+6|Choose the correct article: '___ apple'|an|a|the both a and an|no article|'Apple' starts with a vowel sound: an apple.
+6|Choose the correct article: '___ cat'|a|an|am|and|'Cat' starts with a consonant sound: a cat.
+6|Choose the correct article: '___ umbrella'|an|a|am|as|'Umbrella' starts with a vowel sound.
+6|Choose the correct article: '___ egg'|an|a|on|in|'Egg' starts with a vowel sound.
+6|Choose the correct article: '___ ball'|a|an|am|at|'Ball' starts with a consonant.
+6|Choose the correct article: '___ sun rises in the east.'|The|A|An|No article|There is only one sun, so we use 'the'.
+6|We use 'a' or 'an' with:|singular nouns|plural nouns|uncountable nouns only|verbs|'A' and 'an' mean one.
+6|Choose the correct sentence:|I saw an owl.|I saw a owl.|I saw an dog.|I saw a eagles.|'Owl' begins with a vowel sound: an owl.
+6|Choose the correct sentence:|She has two dresses.|She has two dress.|She has two dresss.|She has two dressies.|Dress → dresses.
+6|Choose the correct sentence:|There are three benches.|There are three benchs.|There are three bench.|There is three benches.|Bench → benches.
+6|The plural of 'city' is:|cities|citys|cityes|citis|City → cities.
+6|The plural of 'day' is:|days|daies|dayes|dais|Vowel + y → days.
+7|Words that show action are called:|verbs (action words)|nouns|adjectives|articles|Action words tell what someone does.
+7|Which word is an action verb?|kick|ball|green|happy|'Kick' is something you do.
+7|Find the action verb: 'The boys play cricket.'|play|boys|cricket|The|'Play' is the action.
+7|Find the action verb: 'Ali jumps high.'|jumps|Ali|high|none of these|'Jumps' is the action.
+7|Which word is NOT an action verb?|bat|run|throw|catch|'Bat' here is a thing (noun).
+7|Choose the action verb: 'She ___ the ball to me.'|throws|ball|tall|blue|'Throws' is the action.
+7|Words that sound the same but have different meanings and spellings are:|homophones|antonyms|plurals|articles|Homophones sound alike, e.g. sea and see.
+7|Which pair are homophones?|sea – see|big – small|run – ran|cat – cats|Sea and see sound the same.
+7|Which pair are homophones?|write – right|hot – cold|go – went|pen – pens|Write and right sound the same.
+7|Choose the correct homophone: 'I can ___ the stars.'|see|sea|seed|sees|'See' means to look.
+7|Choose the correct homophone: 'The boat is on the ___.'|sea|see|seas|seen|'Sea' is a large body of water.
+7|Choose the correct homophone: 'I have ___ eyes.'|two|to|too|toe|'Two' is the number 2.
+7|Choose the correct homophone: 'I go ___ school.'|to|two|too|toe|'To' shows direction.
+7|Choose the correct homophone: 'The ___ of the story was happy.'|tail|tale|tall|tile|'Tale' means a story.
+7|Choose the correct homophone: 'The dog wagged its ___.'|tail|tale|tell|toll|'Tail' is the end part of an animal's body.
+7|Which word begins with the cluster 'sp'?|sparrow|sap|sip|soap|'Sparrow' begins with s and p together.
+7|Which word begins with 'sp'?|speech|seat|seed|soup|Speech begins with sp.
+7|Which is the correct spelling?|playground|playgrund|plaground|playgraund|The correct spelling is p-l-a-y-g-r-o-u-n-d.
+7|Which is the correct spelling?|football|futball|footbal|foottball|The correct spelling is f-o-o-t-b-a-l-l.
+7|Break into syllables: 'cricket'|crick-et|cr-icket|cri-ck-et|c-ricket|crick-et has two syllables.
+7|How many syllables are in 'basketball'?|three|two|four|one|bas-ket-ball has three syllables.
+7|A paragraph begins with a:|topic sentence|full stop|title only|question mark|The first sentence tells the main idea.
+7|When we write notes, we write:|short main points|every word|only the title|nothing|Notes are short main points.
+7|Choose the sentence that gives an opinion:|I think football is fun.|Football has two teams.|The ball is round.|The match starts at 4.|'I think...' shows an opinion.
+7|Choose the past form of 'play':|played|plays|playing|plaied|Regular verbs add -ed for the past.
+7|Choose the correct verb: 'They ___ in the park every day.'|play|plays|playing|played every day|'They' takes 'play' in the present.
+7|Choose the correct verb: 'He ___ every morning.'|runs|run|running|runned|He/she/it takes -s in the present.
+7|Which pair are homophones?|flower – flour|flower – floor|flour – four|floor – four|Flower and flour sound the same.
+7|Choose the correct homophone: 'Mother bakes bread with ___.'|flour|flower|floor|four|'Flour' is used to make bread.
+7|Which word is an action verb?|swim|pool|blue|wet|'Swim' is an action.
+8|The present forms of the verb 'be' are:|am, is, are|was, were|do, does|has, have|Am, is and are are present forms of 'be'.
+8|Choose the correct verb: 'I ___ a student.'|am|is|are|be|'I' takes 'am'.
+8|Choose the correct verb: 'She ___ my sister.'|is|am|are|be|'She' takes 'is'.
+8|Choose the correct verb: 'We ___ in class 3.'|are|is|am|was been|'We' takes 'are'.
+8|Choose the correct verb: 'They ___ at home yesterday.'|were|was|is|am|Past of 'are' is 'were'.
+8|Choose the correct verb: 'He ___ ill last week.'|was|were|are|am|Past of 'is' is 'was'.
+8|Choose the correct form of 'do': 'We ___ our homework daily.'|do|does|did done|doing|'We' takes 'do'.
+8|Choose the correct form of 'do': 'Ahmad ___ his work carefully.'|does|do|doing|don't|'He' (Ahmad) takes 'does'.
+8|The past form of 'do' is:|did|done|does|doed|Do → did.
+8|The past form of 'have' is:|had|has|haved|having|Have → had.
+8|A pronoun that shows who owns something, like 'mine', is a:|possessive pronoun|action verb|article|conjunction|Possessive pronouns show ownership.
+8|Choose the possessive pronoun: 'This book is ___.' (belongs to me)|mine|my|me|I|'Mine' stands alone without a noun.
+8|Choose the possessive pronoun: 'That bag is ___.' (belongs to her)|hers|her|she|she's|'Hers' stands alone.
+8|Choose the possessive pronoun: 'The house is ___.' (belongs to us)|ours|our|us|we|'Ours' stands alone.
+8|Choose the possessive pronoun: 'Is this pen ___?' (belongs to you)|yours|your|you|you're|'Yours' stands alone.
+8|Choose the possessive pronoun: 'The toys are ___.' (belong to them)|theirs|their|them|they|'Theirs' stands alone.
+8|Which word is a possessive pronoun?|his|he|him|himself is|'His' can stand alone: The pen is his.
+8|Find the pronoun: 'Arif saves water because he cares.'|he|Arif|water|cares|'He' replaces Arif.
+8|Find the pronoun: 'Turn off the tap when you brush.'|you|tap|turn|brush|'You' is a pronoun.
+8|Which is the correct spelling?|electricity|electrisity|electrcity|elektricity|The correct spelling is e-l-e-c-t-r-i-c-i-t-y.
+8|Which is the correct spelling?|resources|resorces|resourses|risources|The correct spelling is r-e-s-o-u-r-c-e-s.
+8|Which is the correct spelling?|water|watter|woter|watar|The correct spelling is w-a-t-e-r.
+8|How many syllables are in 'electricity'?|five|three|four|six|e-lec-tri-ci-ty has five syllables.
+8|Choose the correct sentence:|We should save water.|We should saves water.|We should saving water.|We should saved water.|After 'should' we use the base form.
+8|Choose the correct sentence:|They are careful with paper.|They is careful with paper.|They am careful with paper.|They be careful with paper.|'They' takes 'are'.
+8|Choose the correct sentence:|I am switching off the fan.|I is switching off the fan.|I are switching off the fan.|I be switching off the fan.|'I' takes 'am'.
+8|'Did' is used for:|past time|future time|present time|no time|Did is the past form of do.
+8|Choose the correct question: '___ you turn off the lights?'|Did|Does|Is|Has|'Did' asks about the past.
+8|Which sentence describes a picture well?|A boy is turning off the tap.|Tap boy turning off.|Off tap the boy.|Boy the tap turn.|A good sentence has a subject and a verb in order.
+8|Choose the correct word: 'She ___ two pencils.'|has|have|haves|is have|'She' takes 'has'.

@@ -1,0 +1,150 @@
+1|Which word begins with a vowel sound?|octopus|cloud|sister|trophy|'Octopus' begins with the vowel o.
+1|Which word begins with a vowel sound?|umpire|cloud|pencil|road|'Umpire' begins with the vowel u.
+1|Which word does NOT begin with a vowel sound?|trophy|envelope|ink|apple|'Trophy' begins with the consonant t.
+1|A group of two letters that makes one sound is a:|digraph|trigraph|syllable|clause|e.g. ch, sh, th, wh.
+1|A group of three letters that makes one sound is a:|trigraph|digraph|vowel|phrase|e.g. 'igh' in high, 'tch' in catch.
+1|Which word has the digraph 'wh'?|wheel|well|weal|veal|'Wheel' begins with wh.
+1|Which word has the trigraph 'igh'?|light|lit|lift|lid|'igh' in 'light' makes one sound.
+1|Which word has the trigraph 'tch'?|watch|wash|wax|want|'tch' in 'watch' makes one sound.
+1|In 'lamb', the silent letter is:|b|l|a|m|We do not pronounce the b in lamb.
+1|In 'knife', the silent letter is:|k|n|f|i|We do not pronounce the k in knife.
+1|In 'write', the silent letter is:|w|r|t|i|We do not pronounce the w in write.
+1|In 'hour', the silent letter is:|h|o|u|r|'Hour' begins with an o sound; h is silent.
+1|Which noun is uncountable?|furniture|chair|table|bed|We cannot count 'furniture' with numbers.
+1|Which noun is countable?|butterfly|weather|air|fun|Butterflies can be counted.
+1|Which noun is uncountable?|weather|flower|swing|friend|Weather has no plural form.
+1|Choose the correct article: 'Hazrat Abu Bakr was ___ honest man.'|an|a|the both|no article|'Honest' starts with a vowel sound (h is silent).
+1|Choose the correct article: 'There is ___ bag on the table.'|a|an|am|and|'Bag' starts with a consonant.
+1|Choose the correct article: '___ man who wrote this book is famous.'|The|A|An|No article|We mean a particular man: the.
+1|In 'The kind caliph helped the poor', the describing word is:|kind|caliph|helped|poor people|'Kind' describes the caliph.
+1|In 'Hazrat Umar ruled justly', the action word is:|ruled|Hazrat Umar|justly|the|'Ruled' is the action.
+1|In 'The brave soldier won', the naming word is:|soldier|brave|won|the|'Soldier' is a naming word (noun).
+1|Words in a dictionary are arranged in:|alphabetical order|order of length|random order|order of meaning|Dictionaries list words a to z.
+1|Which word would come first in a dictionary?|amazing|ambassador|ambiguity|ambulance|ama- comes before amb-.
+1|The word 'generous' means:|open-handed, giving freely|angry|lazy|proud|Generous people give freely.
+1|The word 'distinguish' means:|to recognise the difference|to forget|to hide|to break|Hazrat Umar was called Farooq, one who distinguishes right from wrong.
+1|The word 'martyrdom' means:|death of a martyr for religion or country|a celebration|a journey|a building|Martyrdom is dying for a great cause.
+1|Which is the correct spelling?|caliph|calif|kaliph|caleph|The correct spelling is c-a-l-i-p-h.
+1|Which is the correct spelling?|courageous|couragious|curageous|courageus|The correct spelling is c-o-u-r-a-g-e-o-u-s.
+1|Choose the correctly capitalised sentence:|Hazrat Usman was a rich trader.|hazrat usman was a rich trader.|Hazrat usman was a Rich trader.|hazrat Usman was a rich Trader.|Names begin with capital letters; so does the first word of a sentence.
+1|How many syllables are in 'leadership'?|three|two|four|one|lead-er-ship has three syllables.
+2|In 'honest', the first letter 'h' is:|silent|loud|a vowel|doubled|We say 'onest'; h is silent.
+2|In 'autumn', the silent letter is:|n|a|u|t|We do not pronounce the final n in autumn.
+2|In 'wrap', the silent letter is:|w|r|a|p|'Wrap' sounds like 'rap'.
+2|Words with the same ending sound are called:|rhyming words|antonyms|plurals|prefixes|e.g. sow – grow.
+2|Which word rhymes with 'sow'?|grow|saw|sew|cow|Sow and grow rhyme.
+2|Which word rhymes with 'hurry'?|furry|hairy|happy|hungry|Hurry and furry rhyme (as in the poem).
+2|Which word rhymes with 'leaf'?|thief|lift|life|loaf|Leaf and thief rhyme.
+2|A word that names a group of people or things is a:|collective noun|proper noun|pronoun|verb|e.g. a team, a herd, a flock.
+2|Choose the collective noun: 'a ___ of bees'|swarm|herd|pack|bunch|A swarm of bees.
+2|Choose the collective noun: 'a ___ of cattle'|herd|flock|swarm|bouquet|A herd of cattle.
+2|Choose the collective noun: 'a ___ of sheep'|flock|pack|team|crowd|A flock of sheep.
+2|Choose the collective noun: 'a ___ of players'|team|herd|bunch|swarm|A team of players.
+2|Choose the collective noun: 'a ___ of grapes'|bunch|flock|crowd|herd|A bunch of grapes.
+2|Choose the collective noun: 'a ___ of people'|crowd|herd|flock|bunch|A crowd of people.
+2|Choose the correct article: '___ hour'|an|a|the both|no|'Hour' begins with a vowel sound; h is silent.
+2|Choose the correct article: '___ honest girl'|an|a|am|and|Silent h: an honest girl.
+2|Choose the correct article: '___ unicorn'|a|an|am|and|'Unicorn' begins with a 'yoo' (consonant) sound.
+2|An adjective that tells where something comes from is an adjective of:|origin|size|colour|number|e.g. Chinese, Turkish, Multani.
+2|In 'Shazia eats Australian apples', the adjective of origin is:|Australian|apples|eats|Shazia|'Australian' tells where the apples come from.
+2|Which is an adjective of origin?|Italian|beautiful|small|round|'Italian' tells origin.
+2|Which sentence is correctly capitalised?|Mohsin lives in Faisalabad.|mohsin lives in faisalabad.|Mohsin lives in faisalabad.|mohsin Lives in Faisalabad.|Names of people and cities need capitals.
+2|Which word needs a capital letter?|monday|sunday is a day|day|week|Names of days are proper nouns: Monday.
+2|A paragraph has one main idea given in the:|topic sentence|last word|title only|full stop|The topic sentence gives the main idea.
+2|Other sentences in a paragraph:|support the topic sentence|change the topic|are titles|are not needed|Supporting sentences explain the main idea.
+2|Join with a conjunction: 'I like poems ___ I do not like stories.'|but|and|or|so|'But' shows contrast.
+2|Join with a conjunction: 'Would you like tea ___ coffee?'|or|and|but|because|'Or' gives a choice.
+2|Choose the expression of liking:|I really enjoy reading.|I hate reading.|I don't like it at all.|I can't stand it.|'I really enjoy' shows liking.
+2|Choose the polite request:|Could I borrow your bag?|Give me your bag.|Your bag, now!|Bag please me.|'Could I...?' is polite.
+2|The word 'hover' means:|stay in the air in one place|swim fast|run away|sleep|Hover = stay in the air in one place.
+2|Which is the correct spelling?|caterpillar|catterpiller|caterpiller|catapillar|The correct spelling is c-a-t-e-r-p-i-l-l-a-r.
+3|A combination of two vowel sounds in one syllable is a:|diphthong|digraph|consonant blend|trigraph|e.g. coil, pain, now.
+3|Which word has a diphthong?|coin|cat|sit|bed|In 'coin' the sound moves from o to i.
+3|Which word has a diphthong?|now|not|net|nut|In 'now' the sound glides.
+3|A word that takes the place of a noun is a:|pronoun|preposition|conjunction|article|e.g. he, she, it, they.
+3|Choose the pronoun: 'The beans are dried. Then ___ are roasted.'|they|it|he|she|'Beans' is plural: they.
+3|Choose the pronoun: 'Minsa likes chocolate but ___ does not eat much.'|she|he|it|they|Minsa is a girl.
+3|Joining words like 'first', 'then', 'next', 'finally' show:|the order of steps|colour|size|number|They link steps in a process.
+3|Choose the joining word: '___ the beans are dried, then roasted.'|First|Finally|But|Or|'First' starts a sequence.
+3|Choose the joining word: '___, the liquid is left to harden.'|Finally|First|Because|Or|'Finally' gives the last step.
+3|A pie chart is used to:|compare parts of a whole|show a story|show a map|write a letter|Each slice is a part of the whole circle.
+3|A bar graph is used to:|compare different groups|show a poem|tell time|spell words|Bars of different lengths compare groups.
+3|The plural of 'bean' is:|beans|beanes|beanies|bean|Regular plural: add s.
+3|The plural of 'tree' is:|trees|treees|treeses|treen|Add s.
+3|The plural of 'knife' is:|knives|knifes|knifs|knive|Knife → knives.
+3|The plural of 'woman' is:|women|womans|womens|womanes|Woman → women (irregular).
+3|The plural of 'goose' is:|geese|gooses|geeses|goosies|Goose → geese.
+3|An anagram is made by:|rearranging the letters of a word|adding letters|removing all vowels|writing backwards always|e.g. 'listen' → 'silent'.
+3|Which is an anagram of 'tea'?|eat|ten|tie|toe|The same letters t, e, a make 'eat'.
+3|Which is an anagram of 'pot'?|top|pit|put|pat|p-o-t rearranged gives 'top'.
+3|Which is an anagram of 'arm'?|ram|rim|rum|aim|a-r-m rearranged gives 'ram'.
+3|Fill in the missing letter: 'ch_colate'|o|a|e|i|Chocolate.
+3|Which is the correct spelling?|factory|factery|facktory|factorie|The correct spelling is f-a-c-t-o-r-y.
+3|Which is the correct spelling?|delicious|delicous|delishous|delicius|The correct spelling is d-e-l-i-c-i-o-u-s.
+3|Choose the correct tense: 'Yesterday the workers ___ the beans.'|roasted|roast|roasts|will roast|'Yesterday' needs past tense.
+3|Choose the correct verb: 'The beans ___ heated in the sun.'|are|is|am|was been|'Beans' is plural: are.
+3|Choose the expression of dislike:|I don't like eating too many sweets.|I love sweets.|Sweets are great!|I enjoy sweets a lot.|'I don't like' shows dislike.
+3|Which word has the same diphthong as 'pain'?|rain|ran|pan|pen|Pain and rain share the 'ai' sound.
+3|Choose the correct word to show inability: 'I ___ eat so much chocolate.'|cannot|can|could easily|will|'Cannot' shows inability.
+3|Which sentence uses a capital letter correctly?|Chocolate came to Spain from America.|chocolate came to spain from america.|Chocolate came to spain from America.|chocolate Came to Spain from America.|Names of countries need capitals.
+3|Choose the correct sequence word: 'Clean the beans. ___, roast them.'|Next|Finally then|Before all|But|'Next' shows the following step.
+4|Which noun has the same singular and plural form?|sheep|goat|cow|horse|One sheep, two sheep.
+4|Which noun has the same singular and plural form?|deer|lion|tiger|wolf|One deer, many deer.
+4|Which noun has the same singular and plural form?|fish|frog|bird|cat|One fish, many fish (usually).
+4|Choose the correct sentence:|The sheep are grazing in the field.|The sheeps are grazing in the field.|The sheepes are grazing.|The sheep is grazing in fields many.|Sheep stays the same in the plural.
+4|Helping verbs help the:|main verb|noun|adjective|article|e.g. 'is' in 'He is playing'.
+4|Find the helping verb: 'Soldiers are fighting bravely.'|are|Soldiers|fighting|bravely|'Are' helps 'fighting'.
+4|Find the helping verb: 'They have won the award.'|have|They|won|award|'Have' helps 'won'.
+4|Find the helping verb: 'Tashif was taking pictures.'|was|Tashif|taking|pictures|'Was' helps 'taking'.
+4|The comparative degree of 'brave' is:|braver|bravest|more bravest|bravely|Brave → braver → bravest.
+4|The superlative degree of 'tall' is:|tallest|taller|more tall|tallly|Tall → taller → tallest.
+4|The comparative degree of 'big' is:|bigger|biger|biggest|more big|Double the g: big → bigger.
+4|The superlative degree of 'happy' is:|happiest|happyest|happier|most happy-est|Happy → happier → happiest.
+4|Choose the correct degree: 'Ali is ___ than Hamza.'|taller|tallest|tall|most tall|Comparing two: comparative.
+4|Choose the correct degree: 'K2 is one of the ___ peaks.'|highest|higher|high|more high|Comparing many: superlative.
+4|Words with similar meanings are called:|synonyms|antonyms|homophones|plurals|e.g. brave – courageous.
+4|Words with opposite meanings are called:|antonyms|synonyms|homophones|anagrams|e.g. brave – cowardly.
+4|A synonym of 'brave' is:|courageous|afraid|weak|lazy|Brave = courageous.
+4|An antonym of 'brave' is:|cowardly|bold|fearless|daring|Brave ↔ cowardly.
+4|A synonym of 'huge' is:|enormous|tiny|short|thin|Huge = enormous.
+4|An antonym of 'proud' is:|ashamed|happy|glad|pleased|Proud ↔ ashamed.
+4|Names of holidays like Independence Day need:|capital letters|small letters only|no letters|commas|Holiday names are proper nouns.
+4|Which is correctly capitalised?|Defence Day is on 6th September.|defence day is on 6th september.|Defence day is on 6th september.|defence Day is on 6th September.|Holiday and month names need capitals.
+4|Which word has a diphthong?|found|fund|fond|fed|'Found' has the 'ou' glide.
+4|A mind map helps us to:|organise ideas around a main topic|count numbers|draw maps of cities only|spell words|Mind maps show ideas linked to a centre.
+4|A summary should:|give the main points briefly|copy the whole text|add new stories|use only pictures|A summary is short and keeps main points.
+4|Which is the correct spelling?|museum|musium|museam|musem|The correct spelling is m-u-s-e-u-m.
+4|Which is the correct spelling?|soldier|soldeir|soljer|souldier|The correct spelling is s-o-l-d-i-e-r.
+4|Choose the correct verb: 'Pakistanis ___ brave people.'|are|is|am|was|'Pakistanis' is plural.
+4|The word 'sacred' means:|holy|dirty|new|small|Sacred = holy.
+4|The superlative degree of 'good' is:|best|better|goodest|most good|Good → better → best (irregular).
+5|A group of two or three consonants whose sounds are all heard is a:|consonant cluster|digraph|diphthong|vowel|e.g. 'str' in street.
+5|Which word begins with a three-consonant cluster?|spring|sing|ring|king|s-p-r.
+5|Which word ends with a consonant cluster?|lamp|lame|lane|lake|m-p at the end.
+5|Which word begins with the cluster 'thr'?|three|tree|tea|then|t-h-r.
+5|Words that sound the same but differ in spelling and meaning are:|homophones|synonyms|antonyms|collective nouns|e.g. pray – prey.
+5|Choose the correct homophone: 'We ___ five times a day.'|pray|prey|pay|play|Pray = worship.
+5|Choose the correct homophone: 'The eagle caught its ___.'|prey|pray|pry|ray|Prey = an animal hunted.
+5|Choose the correct homophone: 'I ___ a letter yesterday.'|wrote|rote|root|route|Wrote is past of write.
+5|Choose the correct homophone: 'The ___ is shining.'|sun|son|soon|sum|Sun = the star in the sky.
+5|Choose the correct homophone: 'He is my ___.'|son|sun|soon|sin|Son = a male child.
+5|The feminine of 'lion' is:|lioness|lionis|she-lion|lionella|Lion → lioness.
+5|The masculine of 'actress' is:|actor|acter|actman|act|Actress → actor.
+5|The feminine of 'nephew' is:|niece|aunt|sister|daughter|Nephew → niece.
+5|The masculine of 'duck' is:|drake|duckling|cock|gander|Duck → drake.
+5|Which noun is neuter gender?|book|boy|girl|uncle|Things are neuter.
+5|'Is', 'am', 'are' are forms of the verb:|be|do|have|go|They are forms of 'be'.
+5|In 'She does not cry', 'does' is a:|helping verb|main verb|noun|adjective|'Does' helps the main verb 'cry'.
+5|In 'I do my homework', 'do' is a:|main verb|helping verb|noun|article|Here 'do' is the main action.
+5|In 'He has a car', 'has' is a:|main verb|helping verb|pronoun|preposition|Used alone, 'has' is a main verb.
+5|In 'He has gone home', 'has' is a:|helping verb|main verb|noun|adverb|'Has' helps 'gone'.
+5|The negative of 'She is happy' is:|She is not happy.|She not is happy.|She does not happy.|She no is happy.|Add 'not' after 'is'.
+5|The negative of 'They have a bike' is:|They do not have a bike.|They have not a bike happily.|They not have a bike.|They does not have a bike.|Use 'do not have' in simple present.
+5|The negative of 'He plays cricket' is:|He does not play cricket.|He do not play cricket.|He does not plays cricket.|He not plays cricket.|Does not + base verb.
+5|The contraction of 'are not' is:|aren't|are'nt|arent'|ar'ent|Are not → aren't.
+5|The contraction of 'has not' is:|hasn't|has'nt|hasnt'|ha'snt|Has not → hasn't.
+5|Which word has the long 'ay' sound?|pray|prey and pray both|pat|pet|Both pray and prey have the 'ay' sound; 'pray' is the listed option.
+5|Which is the correct spelling?|morning|mornig|morening|mourning-day|The correct spelling is m-o-r-n-i-n-g.
+5|Which is the correct spelling?|thankful|thankfull|thankfil|tankful|The correct spelling is t-h-a-n-k-f-u-l.
+5|Which sentence uses punctuation correctly?|Lord, I thank You for my family.|Lord I thank You, for my family|Lord I thank, You for my family.|lord, i thank you for my family|Comma after the name addressed; full stop at the end.
+5|A quarter to five means:|4:45|5:15|5:45|4:15|A quarter to five = 15 minutes before 5.

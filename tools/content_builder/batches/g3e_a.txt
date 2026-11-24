@@ -1,0 +1,120 @@
+1|Which word is a proper noun?|Lahore|city|river|school|A proper noun is the name of a particular person, place or thing and starts with a capital letter.
+1|Which word is a common noun?|boy|Ali|Karachi|Monday|A common noun names any person, place or thing, not a particular one.
+1|Choose the proper noun in: 'Sara goes to school.'|Sara|goes|to|school|Sara is the name of a particular person, so it is a proper noun.
+1|Choose the common noun in: 'Ahmed has a red ball.'|ball|Ahmed|has|red|'Ball' names any ball, so it is a common noun.
+1|A proper noun always begins with a:|capital letter|small letter|comma|full stop|Names of particular people and places always start with a capital letter.
+1|Which of these is written correctly?|Pakistan|pakistan|PAkistan|pakIstan|The name of a country is a proper noun and starts with a capital letter.
+1|Which word comes first in alphabetical order?|apple|banana|cat|dog|Alphabetical order follows a, b, c, d...
+1|Which word comes first in alphabetical order: bus, bed, bat, bag?|bag|bat|bed|bus|When the first letters are the same, look at the second and third letters: bag comes before bat.
+1|Which word comes last in alphabetical order?|zebra|lion|monkey|goat|Z is the last letter of the alphabet.
+1|Arrange in alphabetical order: sun, moon, star. Which comes second?|star|sun|moon|none of these|Alphabetical order: moon, star, sun.
+1|Which word begins with a consonant cluster?|green|egg|ink|apple|In 'green' the consonants g and r come together: a consonant cluster.
+1|Which word begins with the cluster 'st'?|star|sat|test|rest|'Star' begins with s and t together.
+1|Which word begins with the cluster 'bl'?|blue|ball|bell|bulb|'Blue' begins with b and l together.
+1|Which of these letters is a vowel?|e|b|t|m|The vowels are a, e, i, o and u.
+1|Which of these letters is a consonant?|k|a|o|u|All letters other than a, e, i, o, u are consonants.
+1|How many syllables are in 'teacher'?|two|one|three|four|tea-cher has two syllables.
+1|How many syllables are in 'cat'?|one|two|three|four|'Cat' is said in one beat: one syllable.
+1|How many syllables are in 'banana'?|three|one|two|four|ba-na-na has three syllables.
+1|Which is the correct spelling?|friend|freind|frend|friand|The correct spelling is f-r-i-e-n-d.
+1|Which is the correct spelling?|school|scool|skool|schol|The correct spelling is s-c-h-o-o-l.
+1|Which mark separates the items in a list: 'I have a pen ___ a book and a bag'?|comma (,)|full stop (.)|question mark (?)|exclamation mark (!)|We use a comma to separate items in a list.
+1|Which sentence uses commas correctly?|I like red, blue and green.|I like, red blue and green.|I, like red blue, and green.|I like red blue, and, green.|Commas separate the items in a list.
+1|Which mark ends a telling sentence?|full stop (.)|question mark (?)|comma (,)|apostrophe (')|A telling sentence ends with a full stop.
+1|Which mark ends an asking sentence?|question mark (?)|full stop (.)|comma (,)|hyphen (-)|A question ends with a question mark.
+1|Choose the correct question word: '___ is your name?'|What|Who|Where|When|We ask 'What is your name?'
+1|Choose the polite greeting to a teacher in the morning:|Good morning, Sir.|Go away.|Give me that.|Sit down.|We greet elders politely, e.g. 'Good morning, Sir.'
+1|Choose the correct reply to 'How are you?'|I am fine, thank you.|My name is Ali.|I am going home.|It is a book.|'How are you?' asks about health; we reply 'I am fine, thank you.'
+1|Which word is NOT a noun?|run|pen|girl|Quetta|'Run' is an action word (verb), not a noun.
+1|Which word is a proper noun for a day?|Friday|day|week|morning|Names of days start with a capital letter and are proper nouns.
+1|Which sentence is correct?|Hina lives in Multan.|hina lives in multan.|Hina lives in multan.|hina lives in Multan.|Names of people and cities need capital letters.
+2|Which word has a long vowel sound?|cake|cat|cup|cot|In 'cake' the a says its own name: a long vowel.
+2|Which word has a short vowel sound?|hat|kite|bone|cute|In 'hat' the a is short.
+2|Which word has a long 'i' sound?|kite|kit|sit|pin|The silent e makes the i long in 'kite'.
+2|Which word has a short 'o' sound?|dog|rope|home|nose|In 'dog' the o is short.
+2|Adding 'e' to 'tap' makes:|tape|tapp|tapo|tepa|Silent e changes the short a to a long a: tap → tape.
+2|Adding 'e' to 'kit' makes:|kite|kitt|kiet|kites|Silent e makes the i long: kit → kite.
+2|Which word has a long 'u' sound?|cube|cub|cup|bus|The silent e makes u long in 'cube'.
+2|A word that takes the place of a noun is called a:|pronoun|verb|adjective|conjunction|A pronoun replaces a noun, e.g. he, she, it.
+2|Choose the pronoun for 'Ali': '___ is my brother.'|He|She|It|They|We use 'he' for a boy or man.
+2|Choose the pronoun for 'Ayesha': '___ is reading.'|She|He|It|We|We use 'she' for a girl or woman.
+2|Choose the pronoun for 'the tree': '___ is tall.'|It|He|She|They|We use 'it' for things and animals.
+2|Choose the pronoun for 'Ali and Sara': '___ are friends.'|They|He|She|It|We use 'they' for more than one person.
+2|Which word is a pronoun?|we|tree|jump|happy|'We' is a pronoun.
+2|Words like 'and', 'but', 'or' that join words or sentences are called:|conjunctions|nouns|verbs|articles|Conjunctions join words or sentences.
+2|Join with a conjunction: 'I like tea ___ milk.'|and|but|or|because|'And' adds two things together.
+2|Choose the conjunction: 'He is poor ___ honest.'|but|and|so|or|'But' shows a contrast.
+2|Choose the conjunction: 'Do you want tea ___ juice?'|or|and|but|so|'Or' shows a choice.
+2|Which word is a conjunction?|and|run|blue|they|'And' is a joining word.
+2|How many syllables are in 'flower'?|two|one|three|four|flow-er has two syllables.
+2|How many syllables are in 'river'?|two|one|three|four|riv-er has two syllables.
+2|Which word names a thing in nature?|river|chair|pen|car|Rivers are part of nature; chairs and cars are made by people.
+2|Which is the correct spelling?|flower|flowr|flawer|floure|The correct spelling is f-l-o-w-e-r.
+2|Which is the correct spelling?|mountain|mountin|montain|mountian|The correct spelling is m-o-u-n-t-a-i-n.
+2|Choose the correctly written sentence:|The sun is bright.|the sun is bright.|The sun is bright|the Sun is bright|A sentence starts with a capital letter and ends with a full stop.
+2|Which word has the same vowel sound as 'rain'?|cake|cat|ran|man|Both 'rain' and 'cake' have the long a sound.
+2|Which word has the same vowel sound as 'see'?|tree|bed|ten|sit|Both have the long e sound.
+2|In 'She and I went home', the conjunction is:|and|She|went|home|'And' joins 'She' and 'I'.
+2|Choose the pronoun for 'my mother and I': '___ cook together.'|We|They|He|It|'My mother and I' = we.
+2|Which one is a vowel letter?|u|y|w|r|The five vowel letters are a, e, i, o, u.
+2|Which word has a short 'e' sound?|pen|tree|bee|key|In 'pen' the e is short.
+3|'Has' is used with:|he, she, it|I, we, you|they|we|We say: he has, she has, it has; I/we/you/they have.
+3|'Have' is used with:|I, we, you, they|he|she|it|We say: I have, we have, you have, they have.
+3|Choose the correct word: 'She ___ a doll.'|has|have|having|haves|'She' takes 'has'.
+3|Choose the correct word: 'They ___ a big house.'|have|has|haves|is|'They' takes 'have'.
+3|The contraction of 'I have' is:|I've|Iv'e|I'hav|Ihave'|An apostrophe replaces the missing letters: I have → I've.
+3|The contraction of 'he has' is:|he's|hes'|he'has|h'es|He has → he's.
+3|The contraction of 'they have' is:|they've|theyv'e|they'hv|the've|They have → they've.
+3|The contraction of 'is not' is:|isn't|is'nt|isnt'|i'snt|Is not → isn't.
+3|The contraction of 'do not' is:|don't|dont'|do'nt|d'ont|Do not → don't.
+3|In a contraction, the apostrophe takes the place of:|missing letters|a full stop|a capital letter|a comma|The apostrophe shows where letters are left out.
+3|Which noun is masculine?|father|mother|aunt|queen|Father is a male: masculine gender.
+3|Which noun is feminine?|sister|brother|uncle|king|Sister is a female: feminine gender.
+3|Which noun is neuter gender?|table|boy|girl|uncle|Things that are neither male nor female are neuter.
+3|The feminine of 'uncle' is:|aunt|niece|mother|sister|Uncle → aunt.
+3|The masculine of 'daughter' is:|son|father|brother|nephew|Daughter → son.
+3|The feminine of 'grandfather' is:|grandmother|mother|aunt|sister|Grandfather → grandmother.
+3|The masculine of 'hen' is:|cock|duck|lion|horse|Hen → cock.
+3|The feminine of 'king' is:|queen|princess|lady|aunt|King → queen.
+3|Which noun can be either male or female (common gender)?|teacher|father|queen|brother|'Teacher' can be a man or a woman.
+3|Choose the correct pronoun for 'my grandmother': '___ tells us stories.'|She|He|It|They|Grandmother is female: she.
+3|Which instruction is correctly written?|Open your books.|Opens your books.|Opening your books.|Opened your books.|Instructions begin with the base form of the verb.
+3|Choose the right direction word: 'Turn ___ at the mosque.'|left|leaf|lift|lot|We give directions with words like left, right, straight.
+3|How many syllables are in 'family'?|three|two|four|one|fam-i-ly has three syllables.
+3|How many syllables are in 'mother'?|two|one|three|four|moth-er has two syllables.
+3|Which is the correct spelling?|grandmother|granmother|grandmuther|grandmothr|The correct spelling is g-r-a-n-d-m-o-t-h-e-r.
+3|A paragraph is:|a group of sentences about one idea|one word|a list of names|a single letter|A paragraph has sentences about one main idea.
+3|Which sentence is the best topic sentence for a paragraph about your family?|I love my family very much.|The sky is blue.|I like cricket.|Cats drink milk.|The topic sentence tells what the paragraph is about.
+3|Choose the correct sentence:|We have two cousins.|We has two cousins.|We having two cousins.|We haves two cousins.|'We' takes 'have'.
+3|Choose the correct sentence:|It has a long tail.|It have a long tail.|It haves a long tail.|It having a long tail.|'It' takes 'has'.
+3|The contraction 'we've' stands for:|we have|we are|we will|we had|We've = we have.
+4|A word that describes a noun is called a:|adjective|verb|pronoun|conjunction|An adjective describes a noun or pronoun.
+4|Find the adjective: 'The tall boy runs.'|tall|boy|runs|The|'Tall' describes the boy.
+4|Find the adjective: 'She has a red bag.'|red|She|has|bag|'Red' describes the bag.
+4|Find the adjective: 'It is a happy day.'|happy|It|is|day|'Happy' describes the day.
+4|Which word is an adjective?|kind|kindness|kindly|kindnesses|'Kind' describes a person, so it is an adjective.
+4|Choose the adjective to complete: 'The elephant is very ___.'|big|run|they|and|'Big' describes the elephant.
+4|Words like 'my', 'your', 'his', 'her' before a noun are called:|possessive adjectives|conjunctions|verbs|articles|They show who something belongs to.
+4|Choose the possessive adjective: 'This is ___ pen.' (it belongs to me)|my|I|me|myself|We say 'my pen'.
+4|Choose the possessive adjective: 'Sara lost ___ book.'|her|his|their|its|Sara is a girl, so 'her book'.
+4|Choose the possessive adjective: 'The boys took ___ bats.'|their|his|her|its|For more than one person: their.
+4|Choose the possessive adjective: 'The cat licked ___ paw.'|its|it's|her|their|For animals and things we use 'its' (no apostrophe).
+4|Two letters that make one sound, like 'ch' in 'chair', are called a:|digraph|vowel|syllable|full stop|A digraph is two letters making one sound.
+4|Which word has the 'ch' sound?|cheese|cat|ship|thin|'Cheese' begins with the ch sound.
+4|Which word has the 'sh' digraph?|ship|chip|cap|sip|'Ship' starts with sh.
+4|Which word has the 'th' digraph?|thumb|tub|chum|hum|'Thumb' starts with th.
+4|Which word ends with 'ch'?|lunch|lung|luck|lump|'Lunch' ends with ch.
+4|Join with the correct conjunction: 'I was hungry ___ I ate an apple.'|so|but|or|because|'So' shows result.
+4|Join with the correct conjunction: 'She was late ___ the bus broke down.'|because|so|or|and|'Because' gives a reason.
+4|Choose the conjunction: 'He ran fast ___ he missed the bus.'|but|and|so|or|'But' shows the unexpected result.
+4|Which sentence uses 'and' correctly?|I have a cat and a dog.|I and have a cat dog.|And I have a cat dog.|I have and a cat a dog.|'And' joins two nouns.
+4|Choose the adjective of colour:|green|tall|soft|happy|'Green' is a colour adjective.
+4|Choose the adjective of size:|small|sweet|blue|loud|'Small' tells the size.
+4|Which word is NOT an adjective?|jump|cold|clean|beautiful|'Jump' is an action word.
+4|How many syllables are in 'children'?|two|one|three|four|chil-dren has two syllables.
+4|Which is the correct spelling?|beautiful|beautifull|butiful|beatiful|The correct spelling is b-e-a-u-t-i-f-u-l.
+4|Which is the correct spelling?|kindness|kindnes|kinedness|kindnis|The correct spelling is k-i-n-d-n-e-s-s.
+4|A story must have:|a beginning, a middle and an end|only a title|only names|only pictures|Every story has a beginning, middle and end.
+4|In a story, the people or animals are called:|characters|titles|chapters|commas|Characters are the people or animals in a story.
+4|Choose the opposite of 'kind':|cruel|nice|good|gentle|Kind ↔ cruel.
+4|Choose the correct sentence:|They love their pets.|They love there pets.|They love they're pets.|They love them pets.|'Their' shows belonging.
