@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": "202611231535",
- "generatedAt": "2026-11-23T15:35:29+00:00",
+ "version": "202611240224",
+ "generatedAt": "2026-11-24T02:24:06+00:00",
  "note": "Maths and Science: chapters, topics, page numbers and MCQs from eLearn Punjab (elearn.gov.pk, PITB/PCTB), reviewed and corrected. Urdu and English: official PECTAA textbooks (pectaa.edu.pk); MCQs written from each lesson. Page numbers are page positions in the book file. Not yet checked by a teacher.",
  "books": [
   {
@@ -18,7 +18,7 @@
    "pdfBytes": 28373951,
    "pages": 232,
    "pack": "packs/g10_biology.json",
-   "questionCount": 128,
+   "questionCount": 218,
    "chapters": [
     {
      "id": "el-b1-c10",
@@ -577,7 +577,7 @@
    "pdfBytes": 18941358,
    "pages": 178,
    "pack": "packs/g6_science.json",
-   "questionCount": 157,
+   "questionCount": 278,
    "chapters": [
     {
      "id": "el-b2-c1",
@@ -1198,7 +1198,7 @@
    "pdfBytes": 31499480,
    "pages": 278,
    "pack": "packs/g9_biology.json",
-   "questionCount": 116,
+   "questionCount": 206,
    "chapters": [
     {
      "id": "el-b3-c1",
@@ -1732,7 +1732,7 @@
    "pdfBytes": 25394794,
    "pages": 276,
    "pack": "packs/g10_math.json",
-   "questionCount": 112,
+   "questionCount": 276,
    "chapters": [
     {
      "id": "el-b5-c1",
@@ -2597,7 +2597,7 @@
    "pdfBytes": 21274844,
    "pages": 181,
    "pack": "packs/g10_chemistry.json",
-   "questionCount": 96,
+   "questionCount": 176,
    "chapters": [
     {
      "id": "el-b6-c9",
@@ -3257,7 +3257,7 @@
    "pdfBytes": 27714942,
    "pages": 317,
    "pack": "packs/g9_math.json",
-   "questionCount": 91,
+   "questionCount": 309,
    "chapters": [
     {
      "id": "el-b7-c1",
@@ -4278,7 +4278,7 @@
    "pdfBytes": 13485216,
    "pages": 196,
    "pack": "packs/g9_chemistry.json",
-   "questionCount": 112,
+   "questionCount": 192,
    "chapters": [
     {
      "id": "el-b8-c1",
@@ -5358,7 +5358,7 @@
    "pdfBytes": 19898906,
    "pages": 227,
    "pack": "packs/g7_math.json",
-   "questionCount": 158,
+   "questionCount": 288,
    "chapters": [
     {
      "id": "el-b9-c1",
@@ -6033,7 +6033,7 @@
    "pdfBytes": 20118831,
    "pages": 257,
    "pack": "packs/g10_physics.json",
-   "questionCount": 105,
+   "questionCount": 195,
    "chapters": [
     {
      "id": "el-b13-c10",
@@ -6922,7 +6922,7 @@
    "pdfBytes": 19084549,
    "pages": 272,
    "pack": "packs/g9_physics.json",
-   "questionCount": 109,
+   "questionCount": 199,
    "chapters": [
     {
      "id": "el-b15-c1",
@@ -8111,7 +8111,7 @@
    "pdfBytes": 21062074,
    "pages": 211,
    "pack": "packs/g8_science.json",
-   "questionCount": 158,
+   "questionCount": 279,
    "chapters": [
     {
      "id": "el-b17-c1",
@@ -8827,7 +8827,7 @@
    "pdfBytes": 19208787,
    "pages": 229,
    "pack": "packs/g8_math.json",
-   "questionCount": 150,
+   "questionCount": 270,
    "chapters": [
     {
      "id": "el-b18-c1",
@@ -9633,7 +9633,7 @@
    "pdfBytes": 21136060,
    "pages": 243,
    "pack": "packs/g6_math.json",
-   "questionCount": 197,
+   "questionCount": 327,
    "chapters": [
     {
      "id": "el-b21-c1",
@@ -10303,7 +10303,7 @@
    "pdfBytes": 21181741,
    "pages": 187,
    "pack": "packs/g7_science.json",
-   "questionCount": 225,
+   "questionCount": 345,
    "chapters": [
     {
      "id": "el-b24-c1",
@@ -10989,7 +10989,7 @@
    "pdfBytes": 6556678,
    "pages": 104,
    "pack": "packs/g10_general_science.json",
-   "questionCount": 27,
+   "questionCount": 96,
    "chapters": [
     {
      "id": "el-b30-c6",
@@ -11486,7 +11486,7 @@
    "pdfBytes": 6889752,
    "pages": 71,
    "pack": "packs/g9_general_science.json",
-   "questionCount": 29,
+   "questionCount": 81,
    "chapters": [
     {
      "id": "el-b34-c1",
@@ -11734,7 +11734,7 @@
    "pdfBytes": 23559045,
    "pages": 285,
    "pack": "packs/g9_general_math.json",
-   "questionCount": 77,
+   "questionCount": 177,
    "chapters": [
     {
      "id": "el-b35-c1",
@@ -12422,7 +12422,7 @@
    "pdfBytes": 19774413,
    "pages": 285,
    "pack": "packs/g10_general_math.json",
-   "questionCount": 96,
+   "questionCount": 195,
    "chapters": [
     {
      "id": "el-b36-c1",
@@ -13100,7 +13100,7 @@
    "pdfBytes": 17401568,
    "pages": 174,
    "pack": "packs/g3_snc_mathematics.json",
-   "questionCount": 26,
+   "questionCount": 101,
    "chapters": [
     {
      "id": "el-b47-c1",
@@ -13506,7 +13506,7 @@
    "pdfBytes": 21254734,
    "pages": 186,
    "pack": "packs/g4_snc_mathematics.json",
-   "questionCount": 50,
+   "questionCount": 102,
    "chapters": [
     {
      "id": "el-b48-c1",
@@ -14097,7 +14097,7 @@
    "pdfBytes": 18355993,
    "pages": 174,
    "pack": "packs/g5_snc_mathematics.json",
-   "questionCount": 48,
+   "questionCount": 127,
    "chapters": [
     {
      "id": "el-b49-c1",
@@ -14616,7 +14616,7 @@
    "pdfBytes": 13374160,
    "pages": 132,
    "pack": "packs/g4_snc_general_science.json",
-   "questionCount": 51,
+   "questionCount": 149,
    "chapters": [
     {
      "id": "el-b52-c1",
@@ -15404,7 +15404,7 @@
    "pdfBytes": 14567893,
    "pages": 134,
    "pack": "packs/g5_snc_general_science.json",
-   "questionCount": 46,
+   "questionCount": 143,
    "chapters": [
     {
      "id": "el-b53-c1",
@@ -16220,7 +16220,7 @@
    "pdfBytes": 21319780,
    "pages": 164,
    "pack": "packs/g10_urdu.json",
-   "questionCount": 100,
+   "questionCount": 569,
    "chapters": [
     {
      "id": "pe-g10_urdu-c1",
@@ -16502,7 +16502,7 @@
    "pdfBytes": 20325204,
    "pages": 164,
    "pack": "packs/g3_urdu.json",
-   "questionCount": 109,
+   "questionCount": 754,
    "chapters": [
     {
      "id": "pe-g3_urdu-c1",
@@ -16816,7 +16816,7 @@
    "pdfBytes": 16131425,
    "pages": 158,
    "pack": "packs/g4_urdu.json",
-   "questionCount": 110,
+   "questionCount": 749,
    "chapters": [
     {
      "id": "pe-g4_urdu-c1",
@@ -17146,7 +17146,7 @@
    "pdfBytes": 18623062,
    "pages": 156,
    "pack": "packs/g5_urdu.json",
-   "questionCount": 115,
+   "questionCount": 698,
    "chapters": [
     {
      "id": "pe-g5_urdu-c1",
@@ -17460,7 +17460,7 @@
    "pdfBytes": 15117097,
    "pages": 141,
    "pack": "packs/g6_urdu.json",
-   "questionCount": 100,
+   "questionCount": 585,
    "chapters": [
     {
      "id": "pe-g6_urdu-c1",
@@ -17750,7 +17750,7 @@
    "pdfBytes": 15514176,
    "pages": 149,
    "pack": "packs/g7_urdu.json",
-   "questionCount": 100,
+   "questionCount": 553,
    "chapters": [
     {
      "id": "pe-g7_urdu-c1",
@@ -18032,7 +18032,7 @@
    "pdfBytes": 13068100,
    "pages": 129,
    "pack": "packs/g8_urdu.json",
-   "questionCount": 100,
+   "questionCount": 548,
    "chapters": [
     {
      "id": "pe-g8_urdu-c1",
@@ -18314,7 +18314,7 @@
    "pdfBytes": 16126890,
    "pages": 144,
    "pack": "packs/g9_urdu.json",
-   "questionCount": 95,
+   "questionCount": 541,
    "chapters": [
     {
      "id": "pe-g9_urdu-c1",
