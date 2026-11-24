@@ -52,7 +52,30 @@ and **every remaining question was read and checked**:
   missing figure, or unreadable.
 * Maths written in LaTeX/MathML was converted to plain text (x², √2, ½ …).
 
-Result: **2,364 MCQs across 23 eLearn books**, plus **1,898 MCQs across the
-16 PECTAA Urdu/English books** (about 4,260 MCQs in 39 books). Every change is listed in
-`review/review_fixes.json` with its reason, so a teacher can check it. The
-questions are still marked "not verified by a teacher" in the app.
+Result: **2,364 reviewed eLearn MCQs across 23 books**. Every change is listed in
+`review/review_fixes.json` with its reason, so a teacher can check it.
+
+## Question bank expansion (v2.2.0)
+
+* **Maths and Science (23 eLearn books):** 2,365 extra MCQs were written by
+  Claude, about 10–15 per chapter. These cover chapters that had no official
+  quiz at all, such as Maths 9 chapters 10–17 and Maths 10 chapters 8–12.
+  Source files are `extra/<book>.json` (`[chapter, text, [4 options],
+  correctIndex, explanation]`), created from `extra/b_*.txt` with `extra/eq.py`.
+  They are marked `"source": "extra"` in the packs.
+* **Urdu and English (16 PECTAA books):** at least 85% of each book's MCQs are
+  now **grammar and composition** questions taken from that lesson's own
+  exercises (مشق / قواعد / grammar boxes). Each chapter keeps 4–5 lesson
+  (comprehension) questions. In the source files a 6th element `"g"` marks
+  a grammar question. In the packs this becomes `"kind": "g"` (grammar) or
+  `"kind": "lesson"`.
+
+| Subject | MCQs |
+|---|---|
+| English 3–10 | 3,233 (85.6% grammar) |
+| Urdu 3–10 | 4,997 (every book 85–87% grammar) |
+| Mathematics + General Mathematics | 2,172 |
+| Science (General Science, Physics, Chemistry, Biology) | 2,557 |
+| **Total (39 books)** | **12,959** |
+
+All questions are still marked "not verified by a teacher" in the app.

@@ -75,6 +75,19 @@ Page numbers are positions in the PDF file, not printed page numbers.
 - 1,898 MCQs: English 125/144/99/80/81/71/84/69, Urdu 184/145/190/137/127/127/127/125 (classes 3..10).
 - APK v2.1.0 bundles all 39 books' question packs.
 
+### Round 4 (v2.2.0): question bank expansion, 12,959 MCQs
+- PECTAA English and Urdu: grammar and composition MCQs were written from each lesson's exercise pages.
+  - Urdu exercise pages were viewed as images with `tools/content_builder/ex.py <key> <ch> 3`.
+  - Batches are `tools/content_builder/batches/*.txt` (`ch|q|correct|w1|w2|w3|explanation`), imported with `gq.py`.
+  - Lesson questions were trimmed with `trim.py <key> N`: N = 5 for English and Urdu 3–4, N = 4 for Urdu 5–10.
+  - Result: English 3,233 (85.6% grammar); Urdu 4,997 (every book ≥ 85% grammar).
+  - A question's 6th element `"g"` becomes `"kind": "g"` in the packs; lesson questions get `"kind": "lesson"`.
+- eLearn Maths and Science: 2,365 supplementary MCQs were added (about 10–15 per chapter; every chapter now has questions).
+  - Files: `content/extra/<key>.json`, built with `content/extra/eq.py` / `imp.py` from `b_*.txt`.
+  - `build_catalog.py` merges them after the official questions: id `<bookId>-xelq-<hash>`, `"source": "extra"`, with an explanation.
+- Progress notes and workflow: `tools/content_builder/PROGRESS_GRAMMAR.md`.
+- APK v2.2.0+4.
+
 ## 2. App changes in round 2
 | Area | What |
 |---|---|
